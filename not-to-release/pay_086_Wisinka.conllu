@@ -1,0 +1,1613 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 086_01-02
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 2460, 10420
+# morphemic_text = ĩ =nã =s ʃa -Ø -ru -ri tiwi -ra pe Ø- pah -Ø -wa =kan tiwi -ra tVk Ø- -er -i =yã tiwi ĩ =ken
+# text = ĩ =nã =s ʃaØruri tiwira pe ØpahØwa =kan tiwira tVkØeri =yã tiwi ĩ =ken
+# text_en = There was something. The fodder field, where there was a high slope, where it is called "fodder field", "fodder". There.
+# text_phrase-gls-de = 086.01_VG 086.02_VG
+# text_phrase-gls-es = Había una cosa El zacatal, donde subia mucho, donde le dicen zacate por aqui
+# text_phrase-gls-it = ˈɲã́hã́s ˈʃùɾùɾíʔ tìˈwíɾà ˈpɛ́pɔ̀kɘ̃̀  tìˈwíɾà  ˈtíkéléɾɲáʔ tìˈwíʔ ĩ̀ˈkẽ́ʔ
+# text_phrase-gls-pro = || ˈɲã́ʔã́ ˈʃùɾùˈɾíʔ, (0.5s) || || ɛ̃ːːːː, (0.1s) || tìˈwíɾà ˈpɛ́pɔ̀kʷɘ̃̀, (1.1s) || tìˈwíɾà ˈtíkéléɾˈɲáʔ, (0.1s) || tìˈwíʔ. (1.5s) || ĩ̀ˈkẽ́ʔ. (1.3s) ||
+# text_phrase-gls-wg = PROX.DEM INDF INDF.ART be.there:HAB:PST:3 fodder:NMLZ.field a.lot move:PFV:3>3 =LOC fodder:NMLZ.field say:PST:3PL>3 LOC fodder DEM.PROX =LOC
+1	ĩ	ĩ	PRON	PRO	_	5	nsubj	_	AlignBegin=2460|AlignEnd=2705|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ɲĩ
+2	=nã	_	PART	PRT	_	1	compound	_	AlignBegin=2705|AlignEnd=2950|GE=[INDF]|Gloss==INDF|nWord=2|RX=[PRT]|TokenType=Clit|Word=nã
+3	=s	_	DET	DET	_	1	det	_	AlignBegin=2950|AlignEnd=3195|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=3|RX=[DET]|TokenType=Clit|Word=s
+4	ʃaØruri	ʃa	AUX	V:ANY	_	5	cop	_	AlignBegin=3195|AlignEnd=3440|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃururi
+5	tiwira	tiwi	AUX	NMLZ	_	0	root	_	AlignBegin=3950|AlignEnd=4597|GE=[NMLZ].[field]|Gloss=NMLZ.field|nWord=5|RX=[NMLZ]|TokenType=InflAff|Word=tiwira
+6	pe	pe	NOUN	<NOT_SURE>	_	7	obl:mod	_	AlignBegin=4597|AlignEnd=5244|GE=a.lot|Gloss=a.lot|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=pe
+7	ØpahØwa	pah	AUX	V:ANY	_	5	acl:relcl	_	AlignBegin=5244|AlignEnd=5891|GE=[PFV]|Gloss=-PFV|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=pahwa
+8	=kan	_	SCONJ	POST	_	7	mark	_	AlignBegin=5891|AlignEnd=6538|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=kã
+9	tiwira	tiwi	AUX	NMLZ	_	12	reparandum	_	AlignBegin=6538|AlignEnd=7185|GE=[NMLZ].[field]|Gloss=NMLZ.field|nWord=9|RX=[NMLZ]|TokenType=InflAff|Word=tiwira
+10	tVkØeri	_	AUX	V:ANY	_	7	parataxis	_	AlignBegin=7185|AlignEnd=7832|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]|TokenType=InflAff|Word=tikeler|wordform=tVk-eri
+11	=yã	_	SCONJ	POST	_	10	mark	_	AlignBegin=7832|AlignEnd=8479|GE=[LOC]|Gloss==LOC|nWord=11|RX=[POST]|TokenType=Clit|Word=ɲã
+12	tiwi	tiwi	NOUN	N	_	10	obj	_	AlignBegin=8479|AlignEnd=9126|GE=fodder|Gloss=fodder|nWord=12|RX=[N]|TokenType=Root|Word=tiwi
+13	ĩ	ĩ	PRON	PRO	_	5	parataxis	_	AlignBegin=9126|AlignEnd=9773|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=13|RX=[PRO]|TokenType=Root|Word=ĩ
+14	=ken	_	ADP	POST	_	13	case	_	AlignBegin=9773|AlignEnd=10420|GE=[LOC]|Gloss==LOC|nWord=14|RX=[POST]|TokenType=Clit|Word=kẽ
+
+# sent_id = 086_03-03
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 11710, 17950
+# morphemic_text = ĩ nã -i -i paku akaya peʃ ʃok -a ĩ =ken
+# text = ĩ nãii paku akaya peʃ ʃoka ĩ =ken
+# text_en = It goes, the domestic dog, to the hill of the Pesh.
+# text_phrase-gls-de = 086.03_VG
+# text_phrase-gls-es = El perro domestico va por aquí en el camino en el cerro de los pesh,
+# text_phrase-gls-it = ĩ̀ːnɘ̃́ĩ̀ː ˈpákʷɔ̄kɘ́jàʔ péʃ ˈʃʷòkàʔ ĩ̀ˈkẽ́ʔ néː tàˈhás nèˈwã́ʔ ã̀ɲã́
+# text_phrase-gls-pro = || ĩ̀ːːːːː (0.3s) || nɘ̃́ĩ̀ːːː, (2.0s) || ˈpákʷɔ̄kɘ́jàʔ, || =péʃ ˈʃʷòkàʔ,  (0.1s) || ĩ̀ˈkẽ́ʔ (1.4s) ||
+# text_phrase-gls-wg = DEM.PROX go:PST:3 coyote tame people hill:NMLZ DEM.PROX =LOC
+1	ĩ	ĩ	PRON	PRO	_	2	nsubj:outer	_	AlignBegin=11710|AlignEnd=12490|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	nãii	nã	AUX	V:ANY	_	0	root	_	AlignBegin=12490|AlignEnd=13270|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽĩ
+3	paku	paku	NOUN	N	_	2	nsubj:dislocated	_	AlignBegin=13270|AlignEnd=14050|GE=coyote|Gloss=coyote|nWord=3|RX=[N]|TokenType=Root|Word=pakw
+4	akaya	akaya	NOUN	N	_	3	nmod	_	AlignBegin=14050|AlignEnd=14830|GE=tame|Gloss=tame|nWord=4|RX=[N]|TokenType=Root|Word=akaya
+5	peʃ	peʃ	NOUN	N	_	6	obl:mod	_	AlignBegin=14830|AlignEnd=15610|GE=people|Gloss=people|nWord=5|RX=[N]|TokenType=Root|Word=peʃ
+6	ʃoka	ʃok	AUX	V>N	_	2	ccomp	_	AlignBegin=15610|AlignEnd=16390|GE=[NMLZ]|Gloss=-NMLZ|nWord=6|RX=[V>N]|TokenType=InflAff|Word=ʃokaʔ
+7	ĩ	ĩ	PRON	PRO	_	2	dislocated:lmod	_	AlignBegin=16390|AlignEnd=17170|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ĩ
+8	=ken	_	ADP	POST	_	7	case	_	AlignBegin=17170|AlignEnd=17950|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=kẽ
+
+# sent_id = 086_04-04
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 19305, 21170
+# morphemic_text = nee ta -ha as na -i -wã ã =yã
+# text = nee taha as naiwã ã =yã
+# text_en = The path went, there.
+# text_phrase-gls-de = 086.04_VG
+# text_phrase-gls-es = era una laguna,
+# text_phrase-gls-pro = || ˈnéː tàˈhás nèˈwã́ʔ, (0.2s) || ã̀ˈɲã́, (0.4s) ||
+# text_phrase-gls-wg = HES path:NMLZ INDF.ART go:PFV:3 DEM.DIST LOC
+1	nee	nee	X	_	_	0	root	_	AlignBegin=19305|AlignEnd=19616|nWord=1|TokenType=Root|Word=nee
+2	taha	ta	AUX	V>N	_	4	nsubj	_	AlignBegin=19616|AlignEnd=19927|GE=[NMLZ]|Gloss=-NMLZ|nWord=2|RX=[V>N]|TokenType=InflAff|Word=tah
+3	as	as	DET	DET	_	2	det	_	AlignBegin=19927|AlignEnd=20238|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=3|RX=[DET]|TokenType=Root|Word=as
+4	naiwã	na	AUX	V:ANY	_	1	reparandum	_	AlignBegin=20238|AlignEnd=20549|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=newã
+5	ã	ã	PRON	PRO	_	4	obl:arg	_	AlignBegin=20549|AlignEnd=20860|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ã
+6	=yã	_	ADP	POST	_	5	case	_	AlignBegin=20860|AlignEnd=21170|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit|Word=ɲã
+
+# sent_id = 086_05-05
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 21570, 22210
+# morphemic_text = pak =r -Ø -u -ri
+# text = pak =rØuri
+# text_en = There was a lake.
+# text_phrase-gls-de = 086.05_VG
+# text_phrase-gls-es = era una laguna
+# text_phrase-gls-it = ˈpàkrùɾíʔ
+# text_phrase-gls-pro = || ˈpàkrùˈɾíʔ. (1.4s) ||
+# text_phrase-gls-wg = lake =COP:HAB:PST:3
+# tags = TOCHECK
+1	pak	pak	NOUN	N	_	2	nsubj	_	AlignBegin=21570|AlignEnd=21890|GE=lake|Gloss=lake|nWord=1|RX=[N]|TokenType=Root|Word=pak
+2	=rØuri	_	AUX	V:ANY	_	0	root	_	AlignBegin=21890|AlignEnd=22210|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=ruri
+
+# sent_id = 086_06-06
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 23610, 26230
+# morphemic_text = pak =r -Ø -u -ri ãma wiʃĩnka =ra ʃa -Ø -ru -ri
+# text = pak =rØuri ãma wiʃĩnka =ra ʃaØruri
+# text_en = There was a lake (and) Wisinka lived there.
+# text_phrase-gls-de = 086.06_VG
+# text_phrase-gls-es = era una laguna, esa, la wisinka estaba  lejos.
+# text_phrase-gls-it = ˈpàkɾùɾíʔ àˈmà wùˈʃìŋ keʃûɾùɾīʔ kɘɾɘʃuɾuɾiʔ
+# text_phrase-gls-pro = || ˈpàkɾùɾíʔ, (0.5s) || ˈàmà wùˈʃìŋ kɘˈɾɘ ʃuɾuˈɾiʔ. (0.9s) ||
+# text_phrase-gls-wg = lake =COP:HAB:PST:3 HES wisinka ABS be.there:HAB:PST:3
+1	pak	pak	NOUN	N	_	2	nsubj	_	AlignBegin=23610|AlignEnd=24047|GE=lake|Gloss=lake|nWord=1|RX=[N]|TokenType=Root|Word=pak
+2	=rØuri	_	AUX	V:ANY	_	0	root	_	AlignBegin=24047|AlignEnd=24484|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=ruri
+3	ãma	ãma	PART	PRT	_	6	discourse	_	AlignBegin=24484|AlignEnd=24921|GE=[HES]|Gloss=HES|nWord=3|RX=[PRT]|TokenType=Root|Word=ãma
+4	wiʃĩnka	wiʃĩnka	NOUN	N	_	6	nsubj	_	AlignBegin=24921|AlignEnd=25358|GE=wisinka|Gloss=wisinka|nWord=4|RX=[N]|TokenType=Root|Word=wiʃĩnka
+5	=ra	_	ADP	PRT	_	4	case	_	AlignBegin=25358|AlignEnd=25795|GE=[ABS]|Gloss==ABS|nWord=5|RX=[PRT]|TokenType=Clit|Word=ra
+6	ʃaØruri	ʃa	AUX	V:ANY	_	2	parataxis	_	AlignBegin=25795|AlignEnd=26230|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=ʃururi
+
+# sent_id = 086_07-07
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 27120, 31030
+# morphemic_text = wisĩnka =ro tʃa -i -i toʔ =ken peʃ na teʃk -er -wa =ma ke
+# text = wisĩnka =ro tʃaii toʔ =ken peʃ na teʃkerwa =ma ke
+# text_en = Wisinka was there! At that moment when people already went through.
+# text_phrase-gls-de = 086.07_VG
+# text_phrase-gls-es = La wisinka estaba, asi cuando ya pasaban las personas
+# text_phrase-gls-it = ˈwùsɘ̀ŋ ˈkàɾé ʃíì tòˈkẽ́ pèʃ ˈnɛ́tèʔʃkèɾméʲ kéʰ
+# text_phrase-gls-pro = || ˈwùsɘ̀ŋ ˈkàɾé ʃíì!, (1.0s) || tòˈkẽ́ pèʃ ˈnɛ́tèʔʃkèɾméʲ kég, (1.6s) ||
+# text_phrase-gls-wg = wisinka =ABS be.there:PST:3 DEM.MED =LOC people go+get.away:PFV:3PL =when already
+1	wisĩnka	wisĩnka	NOUN	N	_	3	nsubj	_	AlignBegin=27120|AlignEnd=27554|GE=wisinka|Gloss=wisinka|nWord=1|RX=[N]|TokenType=Root|Word=wisĩnka
+2	=ro	_	ADP	PRT	_	1	case	_	AlignBegin=27554|AlignEnd=27988|GE=[ABS]|Gloss==ABS|nWord=2|RX=[PRT]|TokenType=Clit|Word=re
+3	tʃaii	tʃa	AUX	V:ANY	_	0	root	_	AlignBegin=27988|AlignEnd=28422|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃii
+4	toʔ	toʔ	PRON	PRO	_	3	obl:mod	_	AlignBegin=28422|AlignEnd=28856|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=4|RX=[PRO]|TokenType=Root|Word=toʔ
+5	=ken	_	ADP	POST	_	4	case	_	AlignBegin=28856|AlignEnd=29290|GE=[LOC]|Gloss==LOC|nWord=5|RX=[POST]|TokenType=Clit|Word=kẽ
+6	peʃ	peʃ	NOUN	N	_	8	nsubj	_	AlignBegin=29290|AlignEnd=29724|GE=people|Gloss=people|nWord=6|RX=[N]|TokenType=Root|Word=peʃ
+7	na	na	VERB	VI	_	8	compound	_	AlignBegin=29724|AlignEnd=29832|GE=go|Gloss=go|nWord=7|RX=[VI]|TokenType=Root|Word=nateʃker
+8	teʃkerwa	teʃk	AUX	V:ANY	_	4	acl	_	AlignBegin=29832|AlignEnd=30158|GE=[PFV]|Gloss=-PFV|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=nateʃker
+9	=ma	_	SCONJ	PRT	_	8	mark	_	AlignBegin=30158|AlignEnd=30592|GE=when|Gloss==when|nWord=8|RX=[PRT]|TokenType=Clit|Word=ma
+10	ke	ke	ADV	ADV	_	4	advmod:tmod	_	AlignBegin=30592|AlignEnd=31030|GE=already|Gloss=already|nWord=9|RX=[ADV]|TokenType=Root|Word=ke
+
+# sent_id = 086_08-08
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 32600, 38810
+# morphemic_text = ã ʃa teʔk -er -u -i =yã ɲĩhã pa- ta- ĩ ta- wa ʃere ka- ʃa -n -er -i na -er -wa =ma
+# text = ã ʃa teʔkerui =yã ɲĩhã pataĩ tawa ʃere kaʃaneri naerwa =ma
+# text_en = Our family, mine, they went down and saw them, when they went to the place where they come from, here.
+# text_phrase-gls-de = 086.08_VG
+# text_phrase-gls-es = de donde venían , aquí de dentro, nuestra familia, la nuestra, cuando bajaron a verlos y se fueron
+# text_phrase-gls-it = àˈʃátèʔkùɾʲòʰ níhʲàʔà paˈtẽ́ʲtàwā ʃèˈɾé kàˈʃèŋ nɛ́lèɾmà
+# text_phrase-gls-pro = || àːˈʃátèʔkùɾʲòʰ ˈníhʲàʔà (2.0s) || paˈtẽ́ʲtàwā ʃèˈɾé kàˈʃèleɾeŋ, || ˈnɛ́lèɾmà. (0.8s) ||
+# text_phrase-gls-wg = DEM.DIST be.there+come:HAB:PST:3PL LOC here family:INCL POSS.PRO1 go.down+see:DUR:PST:3PL>3PL go:PFV:3PL =when
+1	ã	ã	PRON	PRO	_	9	dep:comp	_	AlignBegin=32600|AlignEnd=33290|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
+2	ʃa	ʃa	VERB	VI	_	3	advcl	_	AlignBegin=33290|AlignEnd=33428|GE=be.there|Gloss=be.there|nWord=2|RX=[VI]|TokenType=Root|Word=ʃateʔkur
+3	teʔkerui	teʔk	AUX	V:ANY	_	1	acl:relcl	_	AlignBegin=33428|AlignEnd=33980|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=ʃateʔkur
+4	=yã	_	SCONJ	POST	_	3	mark	_	AlignBegin=33980|AlignEnd=34670|GE=[LOC]|Gloss==LOC|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
+5	ɲĩhã	ɲĩhã	ADV	ADV	_	3	discourse	_	AlignBegin=34670|AlignEnd=35360|GE=here|Gloss=here|nWord=4|RX=[ADV]|TokenType=Root|Word=ɲĩhã
+6	pataĩ	ĩ	NOUN	N	_	9	nsubj	_	AlignBegin=35360|AlignEnd=36050|GE=family|Gloss=family|nWord=5|RX=[N]|TokenType=Root|Word=patai
+7	tawa	wa	PRON	PRO	_	6	nmod	_	AlignBegin=36050|AlignEnd=36740|GE=[POSS].[PRO1]|Gloss=POSS.PRO1|nWord=6|RX=[PRO]|TokenType=Root|Word=tawa
+8	ʃere	ʃere	VERB	VI	_	9	compound	_	AlignBegin=36740|AlignEnd=36855|GE=go.down|Gloss=go.down|nWord=7|RX=[VI]|TokenType=Root|Word=ʃerekaʃeleren
+9	kaʃaneri	ʃa	AUX	V:ANY	_	0	root	_	AlignBegin=36855|AlignEnd=37430|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=ʃerekaʃeleren
+10	naerwa	na	AUX	V:ANY	_	9	advcl:tmod	_	AlignBegin=37430|AlignEnd=38120|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=neler
+11	=ma	_	SCONJ	PRT	_	10	mark	_	AlignBegin=38120|AlignEnd=38810|GE=when|Gloss==when|nWord=9|RX=[PRT]|TokenType=Clit|Word=ma
+
+# sent_id = 086_09-09
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 39580, 42000
+# morphemic_text = ta- õʃ ta- õʃ nẽ -er -u -ri
+# text = taõʃ taõʃ nẽeruri
+# text_en = They went getting lost, getting lost ###.
+# text_phrase-gls-de = 086.09_VG
+# text_phrase-gls-es = se perdían, se perdían,
+# text_phrase-gls-it = tṍʃ tȭʃ ˈnɛ̀lèɾùɾī
+# text_phrase-gls-pro = || tṍʃːːː, (0.7s) || tȭʃ, (0.2s) || ˈnɛ̀lèɾùɾī ###. (1.0s) ||
+# text_phrase-gls-wg = lose:MID(BARE) lose:MID(BARE) go:HAB:PST:3PL
+1	taõʃ	õʃ	VERB	VT	_	3	advcl	_	AlignBegin=39580|AlignEnd=40387|GE=lose|Gloss=lose|nWord=1|RX=[VT]|TokenType=Root|Word=tõʃ
+2	taõʃ	õʃ	VERB	VT	_	1	conj	_	AlignBegin=40387|AlignEnd=41194|GE=lose|Gloss=lose|nWord=2|RX=[VT]|TokenType=Root|Word=tõʃ
+3	nẽeruri	nẽ	AUX	V:ANY	_	0	root	_	AlignBegin=41194|AlignEnd=42000|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽleruri
+
+# sent_id = 086_10-10
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 43040, 44650
+# morphemic_text = ates =yã nẽ -er -wa
+# text = ates =yã nẽerwa
+# text_en = They went further. | ‎‎086.07b
+# text_phrase-gls-de = 086.10_VG
+# text_phrase-gls-es = se iban más delante,
+# text_phrase-gls-it = àˈtēsē ˈnéɾàáʔ
+# text_phrase-gls-pro = || àˈtēsē ˈnéɾàáʔ, (0.4s) || ((AM; ʔm)) (1.2s) ||
+# text_phrase-gls-wg = further LOC go:PFV:3PL
+1	ates	ates	ADV	ADV	_	3	obl:arg	_	AlignBegin=43040|AlignEnd=43577|GE=further|Gloss=further|nWord=1|RX=[ADV]|TokenType=Root|Word=ates
+2	=yã	_	ADP	POST	_	1	case	_	AlignBegin=43577|AlignEnd=44114|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
+3	nẽerwa	nẽ	AUX	V:ANY	_	0	root	_	AlignBegin=44114|AlignEnd=44650|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽra
+
+# sent_id = 086_11-11
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 45840, 47370
+# morphemic_text = nẽ -er -i ta- õʃ
+# text = nẽeri taõʃ
+# text_en = They went missing.
+# text_phrase-gls-de = 086.11_VG
+# text_phrase-gls-es = se fueron se perdían
+# text_phrase-gls-it = ˈnéːléɾ néːléɾe  tȭʃ
+# text_phrase-gls-pro = || ˈnéːléɾe tȭʃːː,  (0.9s) ||
+# text_phrase-gls-wg = go:PST:3PL lose:MID(BARE)
+1	nẽeri	nẽ	AUX	V:ANY	_	0	root	_	AlignBegin=45840|AlignEnd=46605|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽleri
+2	taõʃ	õʃ	VERB	VT	_	1	advcl	_	AlignBegin=46605|AlignEnd=47370|GE=lose|Gloss=lose|nWord=2|RX=[VT]|TokenType=Root|Word=tõʃ
+
+# sent_id = 086_12-12
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 48290, 50540
+# morphemic_text = ĩ =kan ĩ =kan nẽ kaperʃ teʔk -er -tV -w(a) =sa
+# text = ĩ =kan ĩ =kan nẽ kaperʃ teʔkertVw(a) =sa
+# text_en = Why do they go and drop like that and do not come back?
+# text_phrase-gls-de = 086.12_VG
+# text_phrase-gls-es = ¿por qué se iban del otro lado (a Culmi) y no regresan?
+# text_phrase-gls-it = ˈĩ́kɘ̃́ né kàˈpéɾʃtéʔˈkéʔɾtùsà
+# text_phrase-gls-pro = || ĩ́kɘ̃́ nĩ́kɘ̃́ né kà ˈpéɾʃtéʔ. (0.1s) || =ˈkéʔɾtùsà (0.4s) ||
+# text_phrase-gls-tl = syn_N/A
+# text_phrase-gls-wg = PROX.DEM=SIM_why DEM.PROX =SIM go+drop(BARE) come:NEG:PFV:3PL C.Q
+# tags = Problem
+1	ĩ	ĩ	PRON	PRO	_	7	obl:mod	_	AlignBegin=48290|AlignEnd=48478|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩkãn
+2	=kan	_	PART	PRT	_	1	case	_	AlignBegin=48478|AlignEnd=48665|GE=[SIM]|Gloss==SIM|nWord=1|RX=[PRT]|TokenType=Clit|Word=ĩkãn
+3	ĩ	ĩ	PRON	PRO	_	1	reparandum	_	AlignBegin=48665|AlignEnd=49040|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
+4	=kan	_	PART	PRT	_	3	case	_	AlignBegin=49040|AlignEnd=49415|GE=[SIM]|Gloss==SIM|nWord=3|RX=[PRT]|TokenType=Clit|Word=kã
+5	nẽ	nẽ	VERB	VI	_	6	compound:svc	_	AlignBegin=49415|AlignEnd=49603|GE=go|Gloss=go|nWord=4|RX=[VI]|TokenType=Root|Word=nekaperʃ
+6	kaperʃ	kaperʃ	VERB	VT	_	7	compound:svc	_	AlignBegin=49603|AlignEnd=49790|GE=drop|Gloss=drop|nWord=4|RX=[VT]|TokenType=Root|Word=nekaperʃ
+7	teʔkertVw(a)	teʔk	AUX	V:ANY	_	0	root	_	AlignBegin=49790|AlignEnd=50165|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=teʔkertu
+8	=sa	_	PART	PRT	_	3	advmod	_	AlignBegin=50165|AlignEnd=50540|GE=[C].[Q]|Gloss==C.Q|nWord=6|RX=[PRT]|TokenType=Clit|Word=sa
+
+# sent_id = 086_13-13
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 50980, 52400
+# morphemic_text = ĩ =kan teʃk -er -tV -wa =sa
+# text = ĩ =kan teʃkertVwa =sa
+# text_en = Why don't they come back?
+# text_phrase-gls-de = 086.13_VG
+# text_phrase-gls-es = ¿por qué no regresan?
+# text_phrase-gls-it = ˈĩ́kẽ́ ˈtéʃkéʔɾtùsà
+# text_phrase-gls-pro = || ˈĩ́kẽ́ ˈtéʃkértùˈsà, (1.2s) ||
+# text_phrase-gls-wg = DEM.PROX =SIM get.away:NEG:PFV:3PL C.Q
+1	ĩ	ĩ	PRON	PRO	_	3	obl:mod	_	AlignBegin=50980|AlignEnd=51335|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	=kan	_	PART	PRT	_	1	case	_	AlignBegin=51335|AlignEnd=51690|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kã
+3	teʃkertVwa	teʃk	AUX	V:ANY	_	0	root	_	AlignBegin=51690|AlignEnd=52045|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=teʃkertu
+4	=sa	_	PART	PRT	_	3	advmod	_	AlignBegin=52045|AlignEnd=52400|GE=[C].[Q]|Gloss==C.Q|nWord=4|RX=[PRT]|TokenType=Clit|Word=sa
+
+# sent_id = 086_14-15
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 53580, 62430
+# morphemic_text = arõ ãm Ø- tʃa -er pek -er -Øwa =ma a to ta -ha nẽ teʃk -ir -u -ri =waʔ ala ã pak tʃa -Ø -wa =yã
+# text = arõ ãm Øtʃaer pekerØwa =ma a to taha nẽ teʃkiruri =waʔ ala ã pak tʃaØwa =yã
+# text_en = Um, when they realized what was going on, while they were going on that path, where the lake is.
+# text_phrase-gls-de = 086.14_VG 086.15_VG
+# text_phrase-gls-es = cuando lo hicieron, miraron eso (se dieron cuenta) mientras pasaban por ese camino donde estaba la laguna
+# text_phrase-gls-it = àˈrṍː àː ˈʧélèɾˈpéɣèɾmà àː tò tàː ˈnétèʃkùˈɾʲáɾōàlà à pák ʧùˈɲáʔ
+# text_phrase-gls-pro = || àːˈrṍː (2.1s) || àːːm̚ (0.2s) || ˈʧélèɾˈpéɣèɾmà, (0.7s) || || àː tò tàː ˈnétèʃkùˈɾʲáɾō ʔàlà, (0.2s) || à pák ʧùˈɲáʔ. (2.3s) ||
+# text_phrase-gls-wg = HES HES see+bring(realize):PFV:3PL>3 =when HES DEM.MED path:NMLZ go+get.away(go.through):HAB:PST:3PL=SIMT HES DEM.DIST lake be.there:PFV:3 LOC
+1	arõ	arõ	INTJ	PRT	_	4	discourse	_	AlignBegin=53580|AlignEnd=54734|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=arõ
+2	ãm	ãm	INTJ	PRT	_	1	conj	_	AlignBegin=54734|AlignEnd=55888|GE=[HES]|Gloss=HES|nWord=2|RX=[PRT]|TokenType=Root|Word=ãm
+3	Øtʃaer	tʃa	VERB	VT	_	4	compound:svc	_	AlignBegin=55888|AlignEnd=56464|GE=see|Gloss=see|nWord=3|RX=[VT]|TokenType=Root|Word=tʃelerpeker
+4	pekerØwa	pek	AUX	V:ANY	_	0	root	_	AlignBegin=56464|AlignEnd=57042|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃelerpeker
+5	=ma	_	SCONJ	PRT	_	4	mark	_	AlignBegin=57042|AlignEnd=58195|GE=when|Gloss==when|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+6	a	a	INTJ	_	_	10	discourse	_	AlignBegin=58870|AlignEnd=59266|nWord=5|TokenType=Root|Word=a
+7	to	to	PRON	PRO	_	8	det	_	AlignBegin=59266|AlignEnd=59662|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=6|RX=[PRO]|TokenType=Root|Word=to
+8	taha	ta	AUX	V>N	_	10	dep:comp	_	AlignBegin=59662|AlignEnd=60058|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=InflAff|Word=tah
+9	nẽ	nẽ	VERB	VI	_	10	compound	_	AlignBegin=60058|AlignEnd=60124|GE=go|Gloss=go|nWord=8|RX=[VI]|TokenType=Root|Word=nẽteʃkuriaro
+10	teʃkiruri	teʃk	AUX	V:ANY	_	4	advcl:tmod	_	AlignBegin=60124|AlignEnd=60388|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=nẽteʃkuriaro
+11	=waʔ	_	SCONJ	PRT	_	10	mark	_	AlignBegin=60388|AlignEnd=60454|GE=[SIMT]|Gloss==SIMT|nWord=8|RX=[PRT]|TokenType=Clit|Word=nẽteʃkuriaro
+12	ala	ala	X	_	_	10	det	_	AlignBegin=60454|AlignEnd=60850|nWord=9|Scrap=Yes|TokenType=Root|Word=ala
+13	ã	ã	PRON	PRO	_	14	det	_	AlignBegin=60850|AlignEnd=61246|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=10|RX=[PRO]|TokenType=Root|Word=ã
+14	pak	pak	NOUN	N	_	15	nsubj	_	AlignBegin=61246|AlignEnd=61642|GE=lake|Gloss=lake|nWord=11|RX=[N]|TokenType=Root|Word=pak
+15	tʃaØwa	tʃa	AUX	V:ANY	_	8	acl:relcl	_	AlignBegin=61642|AlignEnd=62038|GE=[PFV]|Gloss=-PFV|nWord=12|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
+16	=yã	_	SCONJ	POST	_	15	mark	_	AlignBegin=62038|AlignEnd=62430|GE=[LOC]|Gloss==LOC|nWord=13|RX=[POST]|TokenType=Clit|Word=ɲã
+
+# sent_id = 086_16-16
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 64780, 70880
+# morphemic_text = pak pak tʃa -Ø -wa =yã ã =yã ã =yã ka- aũ toq -Ø -i ka- ka- pas toq -Ø -i
+# text = pak pak tʃaØwa =yã ã =yã ã =yã kaaũ toqØi kakapas toqØi
+# text_en = Where the lake was, there, there, it inhaled them, it drank them out ###.
+# text_phrase-gls-de = 086.16_VG
+# text_phrase-gls-es = donde estaba la laguna, hasta allá,  los tragaba, los metia y salia
+# text_phrase-gls-it = pak  pák ʧùˈɲáʔ ã̀ˈʃã́ ã̀ˈɲã́ kàṹˈtóʔ ˈkákāpàstōk
+# text_phrase-gls-pro = || pa[k], || ((AM; [ɔ]w.))  (0.8s) || pák ʧùˈɲáʔ, (0.2s) || ã̀ˈɲã́. (0.5s) || ã̀ˈɲã́ʔ, (0.3s) || kàʔṹˈtóʔqip. (0.1s) || ˈkákāpàstōk ###. ((ruido de moto)) (0.5s) ||
+# text_phrase-gls-wg = lake lake be.there:PFV:3 LOC DEM.DIST LOC DEM.DIST LOC smell+drink(inhale):PST:3>3PL take.out+drink:APPL:PST:3>3PL
+1	pak	pak	NOUN	N	_	3	nsubj	_	AlignBegin=64780|AlignEnd=65390|GE=lake|Gloss=lake|nWord=1|RX=[N]|TokenType=Root|Word=pak
+2	pak	pak	NOUN	N	_	1	reparandum	_	AlignBegin=65390|AlignEnd=66000|GE=lake|Gloss=lake|nWord=2|RX=[N]|TokenType=Root|Word=pak
+3	tʃaØwa	tʃa	AUX	V:ANY	_	10	advcl:lmod	_	AlignBegin=66000|AlignEnd=66610|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
+4	=yã	_	SCONJ	POST	_	3	mark	_	AlignBegin=66610|AlignEnd=67220|GE=[LOC]|Gloss==LOC|nWord=4|RX=[POST]|TokenType=Clit|Word=ɲã
+5	ã	ã	PRON	PRO	_	3	parataxis	_	AlignBegin=67220|AlignEnd=67830|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ã
+6	=yã	_	ADP	POST	_	5	case	_	AlignBegin=67830|AlignEnd=68440|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit|Word=ɲã
+7	ã	ã	PRON	PRO	_	5	parataxis	_	AlignBegin=68440|AlignEnd=69050|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ã
+8	=yã	_	ADP	POST	_	7	case	_	AlignBegin=69050|AlignEnd=69660|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=ɲã
+9	kaaũ	aũ	VERB	VT	_	10	compound	_	AlignBegin=69660|AlignEnd=69904|GE=smell|Gloss=smell|nWord=9|RX=[VT]|TokenType=Root|Word=kaũtoqi
+10	toqØi	toq	AUX	V:ANY	_	0	root	_	AlignBegin=69904|AlignEnd=70270|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=kaũtoqi
+11	kakapas	pas	AUX	V>VT	Voice=Appl	12	compound	_	AlignBegin=70270|AlignEnd=70576|GE=[APPL].[R]|Gloss=APPL.R-|nWord=10|RX=[V>VT]|TokenType=InflAff|Word=kakapastoq
+12	toqØi	toq	AUX	V:ANY	_	10	parataxis	_	AlignBegin=70576|AlignEnd=70880|GE=[PST]|Gloss=-PST|nWord=10|RX=[V:ANY]|TokenType=InflAff|Word=kakapastoq
+
+# sent_id = 086_17-18
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 71370, 74570
+# morphemic_text = ã nẽ -er -wa =ma ###, ãma aʃẽn nẽ teʃk -er -tV -ri
+# text = ã nẽerwa =ma ### , ãma aʃẽn nẽ teʃkertVri
+# text_en = When they went out ###, Um, they did not go through up to there.
+# text_phrase-gls-de = 086.17_VG 086.18_VG
+# text_phrase-gls-es = cuando iban, esos no pasaban hasta ahí
+# text_phrase-gls-it = à ˈnēléɾmà ˈāmà àˈʃéŋ ˈnétéʃɣéɾtù
+# text_phrase-gls-pro = || à ˈnēléɾmà ##. (1.0s) || || ˈāmà àˈʃéŋ ˈnétéʃɣéɾtùɾi. (0.3s) ||
+# text_phrase-gls-wg = HES go:PFV:3PL =when HES up.to go+get.away(go.through):NEG:PST:3PL
+1	ã	ã	X	_	_	2	discourse	_	AlignBegin=71370|AlignEnd=71602|nWord=1|TokenType=Root|Word=ã
+2	nẽerwa	nẽ	AUX	V:ANY	_	9	advcl:tmod	_	AlignBegin=71602|AlignEnd=71834|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽler
+3	=ma	_	SCONJ	PRT	_	2	mark	_	AlignBegin=71834|AlignEnd=72066|GE=when|Gloss==when|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
+4	###	###	X	_	_	2	dep	_	AlignBegin=72066|AlignEnd=72300|nWord=4|TokenType=Root|Word=###
+5	,	,	PUNCT	_	_	2	punct	_	AlignBegin=72066|AlignEnd=72300|nWord=5|Word=,
+6	ãma	ãma	INTJ	PRT	_	9	discourse	_	AlignBegin=73290|AlignEnd=73717|GE=[HES]|Gloss=HES|nWord=6|RX=[PRT]|TokenType=Root|Word=ãma
+7	aʃẽn	aʃẽn	ADV	ADV	_	9	obl:arg	_	AlignBegin=73717|AlignEnd=74144|GE=up.to|Gloss=up.to|nWord=7|RX=[ADV]|TokenType=Root|Word=aʃẽn
+8	nẽ	nẽ	VERB	VI	_	9	compound:svc	_	AlignBegin=74144|AlignEnd=74229|GE=go|Gloss=go|nWord=8|RX=[VI]|TokenType=Root|Word=nẽteʃkerturi
+9	teʃkertVri	teʃk	AUX	V:ANY	_	0	root	_	AlignBegin=74229|AlignEnd=74570|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=nẽteʃkerturi
+
+# sent_id = 086_19-19
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 74870, 76080
+# morphemic_text = ama aʃẽn nẽ teʃk -ir -wa ###.
+# text = ama aʃẽn nẽ teʃkirwa ### .
+# text_en = Um, they went up to there ###.
+# text_phrase-gls-de = 086.19_VG
+# text_phrase-gls-es = pasaban hasta ahí
+# text_phrase-gls-it = ˈāmà àˈʃéŋ néˈðéʃkírā
+# text_phrase-gls-pro = || ˈāmà àˈʃéŋ néˈðéʃkírā ##. (1.5s) ||
+# text_phrase-gls-wg = HES up.to go+get.away(go.thorugh):PFV:3PL
+1	ama	ama	INTJ	PRT	_	4	discourse	_	AlignBegin=74870|AlignEnd=75172|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ama
+2	aʃẽn	aʃẽn	ADV	ADV	_	4	obl:arg	_	AlignBegin=75172|AlignEnd=75474|GE=up.to|Gloss=up.to|nWord=2|RX=[ADV]|TokenType=Root|Word=aʃẽn
+3	nẽ	nẽ	VERB	VI	_	4	compound:svc	_	AlignBegin=75474|AlignEnd=75550|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root|Word=nẽteʃkira
+4	teʃkirwa	teʃk	AUX	V:ANY	_	0	root	_	AlignBegin=75550|AlignEnd=75776|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽteʃkira
+5	###	###	X	_	_	4	obl:mod	_	AlignBegin=75776|AlignEnd=76080|nWord=4|Scrap=Yes|TokenType=Root|Word=###
+6	.	.	PUNCT	_	_	4	punct	_	AlignBegin=75776|AlignEnd=76080|nWord=5|Word=.
+
+# sent_id = 086_20-20
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 77530, 80440
+# morphemic_text = ĩ =kan -ki ta- õʃk -er -wa =sa ĩ =kan -ka ta- õʃk -er -wa =sa
+# text = ĩ =kanki taõʃkerwa =sa ĩ =kanka taõʃkerwa =sa
+# text_en = Why did they get lost? Why did they get lost?
+# text_phrase-gls-de = 086.20_VG
+# text_phrase-gls-es = por qué se perdían, por qué se perdían  ?
+# text_phrase-gls-it = ˈĩ́kàʃkʲ ˈtṍʃkèɾsà ˈĩ́kàʃk ˈtṍʃkèɾsà
+# text_phrase-gls-pro = || ˈĩ́ːkàʃki ˈtṍʃkèɾsà, (0.1s) || ˈĩ́kàʃk ˈtṍʃkèɾsà. ||
+# text_phrase-gls-wg = DEM.PROX =SIM:make.S3 lose:MID:PFV:3PL C.Q DEM.PROX SIM+make lose:MID:PFV:3PL C.Q
+1	ĩ	ĩ	PRON	PRO	_	3	obl:mod	_	AlignBegin=77530|AlignEnd=77894|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	=kanki	_	ADP	PRT	PronType=Int	1	case	_	AlignBegin=77894|AlignEnd=78258|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kaʃki
+3	taõʃkerwa	õʃk	AUX	V:ANY	_	0	root	_	AlignBegin=78258|AlignEnd=78622|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tõʃker
+4	=sa	_	PART	PRT	_	3	advmod	_	AlignBegin=78622|AlignEnd=78986|GE=[C].[Q]|Gloss==C.Q|nWord=4|RX=[PRT]|TokenType=Clit|Word=sa
+5	ĩ	ĩ	PRON	PRO	_	7	obl:mod	_	AlignBegin=78986|AlignEnd=79350|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩ
+6	=kanka	_	PART	PRT	PronType=Int	5	case	_	AlignBegin=79350|AlignEnd=79714|GE=[SIM]|Gloss==SIM|nWord=6|RX=[PRT]|TokenType=Clit|Word=kak
+7	taõʃkerwa	õʃk	AUX	V:ANY	_	3	parataxis	_	AlignBegin=79714|AlignEnd=80078|GE=[PFV]|Gloss=-PFV|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=tõʃker
+8	=sa	_	PART	PRT	_	7	advmod	_	AlignBegin=80078|AlignEnd=80440|GE=[C].[Q]|Gloss==C.Q|nWord=8|RX=[PRT]|TokenType=Clit|Word=sa
+
+# sent_id = 086_21-21
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 82650, 96330
+# morphemic_text = Inaudible
+# text = inaudible
+# text_en = (Inaudible)
+# text_phrase-gls-de = 086.21_VG
+# text_phrase-gls-es = En esta parte hay cinco intervenciones no audibles por causa del viento de una duración de 13.7s
+# text_phrase-gls-pro = || ((there are five intonation units in the pause that follows, untranscribed because of the wind noise on the mic)) (18.0s) ||
+1	inaudible	_	X	_	_	0	root	_	TokenType=Root
+
+# sent_id = 086_22-22
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 98410, 104460
+# morphemic_text = naʔ qa ka- koyoʃ -bar -i Ø- ʃã ʃã -bar -Øwa to pak ĩ tV ka- -er -t -i
+# text = naʔ qa kakoyoʃbari Øʃã ʃãbarØwa to pak ĩ tVkaerti
+# text_en = We are going to monitor them, and examine that, the lake (that) they say.
+# text_phrase-gls-de = 086.22_VG
+# text_phrase-gls-es = vamos a vigilar y examinar esa laguna que dicen
+# text_phrase-gls-it = ˈnáːʔkà (kà)ˈkóʝóʃɘ̀ ˈʃáʃàmβɾā tò ˈpáʔkĩ́ tíkélēɾˈtíʔ
+# text_phrase-gls-pro = || ˈnáːʔ (0.4s) qɑ, (1.5s) || kàˈkóʝóʃɘ̀bɾi, (0.3s) || ˈʃáʃàmβɾā tò ˈpáʔkĩ́ °tíkélēɾˈtíʔ° (1.2s) ||
+# text_phrase-gls-wg = HES HES monitor:PST:EXCL>3PL see+see(examine):PFV:EXCL>3 DEM.MED lake DEM.PROX say:DUR:PST:3PL>3PL
+1	naʔ	naʔ	X	_	_	0	root	_	AlignBegin=98410|AlignEnd=99166|nWord=1|TokenType=Root|Word=naʔ
+2	qa	qa	X	_	_	1	reparandum	_	AlignBegin=99166|AlignEnd=99922|nWord=2|TokenType=Root|Word=qa
+3	kakoyoʃbari	koyoʃ	AUX	V:ANY	_	1	reparandum	_	AlignBegin=99922|AlignEnd=100678|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=kakoyoʃabri
+4	Øʃã	ʃã	VERB	VT	_	5	compound:svc	_	AlignBegin=100678|AlignEnd=100980|GE=see|Gloss=see|nWord=4|RX=[VT]|TokenType=Root|Word=ʃãʃãbra
+5	ʃãbarØwa	ʃã	AUX	V:ANY	_	3	conj	_	AlignBegin=100980|AlignEnd=101434|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃãʃãbra
+6	to	to	PRON	PRO	_	7	det	_	AlignBegin=101434|AlignEnd=102190|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=to
+7	pak	pak	NOUN	N	_	4	obj	_	AlignBegin=102190|AlignEnd=102946|GE=lake|Gloss=lake|nWord=6|RX=[N]|TokenType=Root|Word=pak
+8	ĩ	ĩ	PRON	PRO	_	7	det	_	AlignBegin=102946|AlignEnd=103702|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=7|RX=[PRO]|Scrap=Yes|TokenType=Root|Word=ĩ
+9	tVkaerti	_	AUX	V:ANY	_	5	parataxis:insert	_	AlignBegin=103702|AlignEnd=104460|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=tikelerti|wordform=tVa-erti
+
+# sent_id = 086_23-23
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 106310, 110630
+# morphemic_text = nã -par -(w)a ta- oʃ -par -Øwa =ma ates =i ompiʃ Ø- pa -Ø -tV -Øwa =ken
+# text = nãpar(w)a taoʃparØwa =ma ates =i ompiʃ ØpaØtVØwa =ken
+# text_en = If we get lost, it is further, where the wind does not reach.
+# text_phrase-gls-de = 086.23_VG
+# text_phrase-gls-es = si vamos, nos perdemos hasta ahí no llegó el viento
+# text_phrase-gls-it = ˈnàpàɾ ˈtóʃpāɾmà ˈpésíʔ òmˈpìːʃ ˈpátūkēːʔ
+# text_phrase-gls-pro = || ˈnàpàɾə ˈtóʃpāɾmà ˈtésíʔ (1.4s) || òmˈpìːʃ ˈpátūˈkēːʔ (2.0s) ||
+# text_phrase-gls-wg = go:PFV:INCL lose:MID:PFV:INCL =if further COP:PFV:3 wind take:NEG:PFV:3>3 =LOC
+1	nãpar(w)a	nã	AUX	V:ANY	_	2	conj	_	AlignBegin=106310|AlignEnd=106850|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nãpara
+2	taoʃparØwa	oʃ	AUX	V:ANY	_	4	advcl	_	AlignBegin=106850|AlignEnd=107390|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=toʃpar
+3	=ma	_	SCONJ	PRT	_	2	mark	_	AlignBegin=107390|AlignEnd=107930|GE=if|Gloss==if|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
+4	ates	ates	ADV	ADV	_	0	root	_	AlignBegin=107930|AlignEnd=108470|GE=further|Gloss=further|nWord=4|RX=[ADV]|TokenType=Root|Word=ates
+5	=i	_	AUX	COP	_	4	cop	_	AlignBegin=108470|AlignEnd=109010|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=5|RX=[COP]|TokenType=Clit|Word=i
+6	ompiʃ	ompiʃ	NOUN	N	_	7	nsubj	_	AlignBegin=109010|AlignEnd=109550|GE=wind|Gloss=wind|nWord=6|RX=[N]|TokenType=Root|Word=ompiʃ
+7	ØpaØtVØwa	pa	AUX	V:ANY	_	4	dislocated:pred	_	AlignBegin=109550|AlignEnd=110090|GE=[PFV]|Gloss=-PFV|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=patu
+8	=ken	_	SCONJ	POST	_	7	mark	_	AlignBegin=110090|AlignEnd=110630|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=ke
+
+# sent_id = 086_24-24
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 112680, 115030
+# morphemic_text = nã -er -i tV Ø- -er -wa ke tes San.Esteban Ø- mask -Ø -wa =ken
+# text = nãeri tVØerwa ke tes San.Esteban ØmaskØwa =ken
+# text_en = They went, they say already, where San Esteban runs.
+# text_phrase-gls-de = 086.24_VG
+# text_phrase-gls-es = dicen que se fueron por San Esteban, por el zacate
+# text_phrase-gls-it = nèˈɾí ˈtɘ̀ɾɘ́ kéˈtés ˈsanesteβa ˈmáskɔ̀kɛ̃́ʔ tìˈβí ˈmáskɔ̀kɛ̃́ʔ
+# text_phrase-gls-pro = || nèˈɾí, (0.1s) || ˈtɘ̀ɾɘ́ kéˈtés, || ˈsanesteβa ˈmáskɔ̀. (0.1s) || <%kɛ̃́ʔ%>. (0.1s) ||
+# text_phrase-gls-wg = go:PST:3PL say:PFV:3PL>3 already San.Esteban hit:PFV:3>3 =LOC
+1	nãeri	nã	AUX	V:ANY	_	0	root	_	AlignBegin=112680|AlignEnd=113016|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽri
+2	tVØerwa	_	AUX	V:ANY	_	1	parataxis:insert	_	AlignBegin=113016|AlignEnd=113352|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tera|wordform=tV-erwa
+3	ke	ke	ADV	ADV	_	2	advmod:tmod	_	AlignBegin=113352|AlignEnd=113688|GE=already|Gloss=already|nWord=3|RX=[ADV]|TokenType=Root|Word=ke
+4	tes	tes	X	_	_	6	nsubj	_	AlignBegin=113688|AlignEnd=114024|nWord=4|TokenType=Root|Word=tes
+5	San.Esteban	San.Esteban	PROPN	NPROP	_	4	reparandum	_	AlignBegin=114024|AlignEnd=114360|GE=[San].[Esteban]|Gloss=San.Esteban|nWord=5|RX=[NPROP]|TokenType=Root|Word=sanesteba
+6	ØmaskØwa	mask	AUX	V:ANY	_	1	ccomp	_	AlignBegin=114360|AlignEnd=114696|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=masko
+7	=ken	_	SCONJ	POST	_	6	mark	_	AlignBegin=114696|AlignEnd=115030|GE=[LOC]|Gloss==LOC|nWord=7|RX=[POST]|TokenType=Clit|Word=kẽ
+
+# sent_id = 086_25-25
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 115150, 117350
+# morphemic_text = tiwi Ø- mask -Ø -wa =ken tex taweh -er -ta -i ã ʃoʔ
+# text = tiwi ØmaskØwa =ken tex tawehertai ã ʃoʔ
+# text_en = (They went) where the fodder runs, they went up the hill.
+# text_phrase-gls-de = 086.25_VG
+# text_phrase-gls-es = no subieron por ese cerro,
+# text_phrase-gls-it = tè téˈwéléɾtí ã̀ˈʃōʔ
+# text_phrase-gls-pro = || tìˈβí ˈmáskɔ̀kɛ̃́n tèʔ. (0.2s) || taˈwéléɾtí ã̀ˈʃōʔ. (0.6s) ||
+# text_phrase-gls-wg = fodder hit:PFV:3>3 =SIM HES go.up:DUR:PST:3PL DEM.DIST hill
+1	tiwi	tiwi	NOUN	N	_	2	obj	_	AlignBegin=115150|AlignEnd=115464|GE=fodder|Gloss=fodder|nWord=1|RX=[N]|TokenType=Root|Word=tiwi
+2	ØmaskØwa	mask	AUX	V:ANY	_	7	parataxis	_	AlignBegin=115464|AlignEnd=115778|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=masko
+3	=ken	_	ADP	PRT	_	2	mark	_	AlignBegin=115778|AlignEnd=116092|GE=[SIM]|Gloss==LOC|nWord=3|RX=[PRT]|TokenType=Clit|Word=kẽ
+4	tex	tex	X	_	_	0	root	_	AlignBegin=116092|AlignEnd=116406|nWord=4|TokenType=Root|Word=tex
+5	tawehertai	taweh	AUX	V:ANY	_	4	reparandum	_	AlignBegin=116406|AlignEnd=116720|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=tawelerti
+6	ã	ã	PRON	PRO	_	7	det	_	AlignBegin=116720|AlignEnd=117034|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
+7	ʃoʔ	ʃoʔ	NOUN	N	_	5	obl:arg	_	AlignBegin=117034|AlignEnd=117350|GE=hill|Gloss=hill|nWord=7|RX=[N]|TokenType=Root|Word=ʃoʔ
+
+# sent_id = 086_26-26
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 117960, 121892
+# morphemic_text = ʃok -wa teʔ teweh -er -wa yara a- piʃ -t -er -a ###, mm
+# text = ʃokwa teʔ teweherwa yara apiʃtera ###, mm
+# text_en = They went up the hill. They laid down at the edge, mm (pointing the finger making a semi-circle).
+# text_phrase-gls-de = 086.26_VG
+# text_phrase-gls-es = subieron a la cima del cerro, estuvieron
+# text_phrase-gls-it = ˈʧóʔɸātéʔ tèwēɾà ˈʝáɾà ˈpíʃtēɾā
+# text_phrase-gls-pro = || ˈʃóʔkʷātéʔ tuˈwēɾà, (0.4s) || ˈʝáɾà ˈpíʃtēɾā °###°. || <HI mːːːːːː HI> ((pointing the finger in a semi-circle)) (1.1s) ||
+# text_phrase-gls-wg = hill:NMLZ come+go.up:PFV:3PL edge lay.down:REFL:DUR:PTCP:3PL mm
+1	ʃokwa	ʃok	AUX	V>N	_	3	ccomp	_	AlignBegin=117960|AlignEnd=118615|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=InflAff|Word=ʃoʔkwa
+2	teʔ	teʔ	VERB	VI	_	3	compound:svc	_	AlignBegin=118615|AlignEnd=118779|GE=come|Gloss=come|nWord=2|RX=[VI]|TokenType=Root|Word=teʔtuwera
+3	teweherwa	teweh	AUX	V:ANY	_	0	root	_	AlignBegin=118779|AlignEnd=119270|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=teʔtuwera
+4	yara	yara	NOUN	N	_	5	obl:arg	_	AlignBegin=119270|AlignEnd=119925|GE=edge|Gloss=edge|nWord=3|RX=[N]|TokenType=Root|Word=yara
+5	apiʃtera	piʃ	NOUN	V>N	_	3	obl:mod	_	AlignBegin=119925|AlignEnd=120580|GE=[PTCP]|Gloss=PTCP|nWord=4|RX=[V>N]|TokenType=DerAff|Word=apiʃtera
+6	###,	_	X	_	_	5	punct	_	AlignBegin=120580|AlignEnd=121235|nWord=5|Word=###,
+7	mm	mm	INTJ	INTERJ	_	3	discourse	_	AlignBegin=121235|AlignEnd=121892|GE=[INTERJ]|Gloss=INTERJ|nWord=6|RX=[INTERJ]|TokenType=Root|Word=mm
+
+# sent_id = 086_27-28
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 122950, 131710
+# morphemic_text = take =kan a- piʃk -Ø -i =ma
+# text = take =kan apiʃkØi =ma
+# text_en = When they extended on the sea (lake), (Inaudible).
+# text_phrase-gls-de = 086.27_VG 086.28_VG
+# text_phrase-gls-es = Cuando s e tendieron por el mar (laguna) En esta parte hay tres intervenciones no audibles por causa del viento de una duración de 6.4s
+# text_phrase-gls-it = tàˈkèkɛ̃̄ àˈpìʃjì me
+# text_phrase-gls-pro = || tàˈkèkɛ̃̄ àˈpìʃkì me, ((there are three intonation units in the pause that follows, untranscribed because of the wind noise on the mic)) (8.3s) ||
+# text_phrase-gls-wg = sea =LOC lay.down:REFL:PST:3 =when
+1	take	take	NOUN	N	_	3	obl:mod	_	AlignBegin=122950|AlignEnd=123322|GE=sea|Gloss=sea|nWord=1|RX=[N]|TokenType=Root|Word=take
+2	=kan	_	ADP	POST	_	1	case	_	AlignBegin=123322|AlignEnd=123694|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=kã
+3	apiʃkØi	piʃk	AUX	V:ANY	_	0	root	_	AlignBegin=123694|AlignEnd=124066|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=apiʃki
+4	=ma	_	SCONJ	PRT	_	3	mark	_	AlignBegin=124066|AlignEnd=124440|GE=when|Gloss==when|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+
+# sent_id = 086_29-29
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 132760, 137480
+# morphemic_text = ke sentir iʃ -t -ir -i Ø- tʃã -er -wa =ma aso =ra crecer iʃ -t -Ø -i
+# text = ke sentir iʃtiri Øtʃãerwa =ma aso =ra crecer iʃtØi
+# text_en = Already, they felt it. When they saw the water rose up.
+# text_phrase-gls-de = 086.29_VG
+# text_phrase-gls-es = ya sintieron, cuando vieron que el agua subió
+# text_phrase-gls-it = kēːsenˈtiʃtīɾìʔ ˈʧêlèɾmà àsòˈɾé kɾeˈseʃ
+# text_phrase-gls-pro = || kēːːːːːː, || senˈtiʃˈtīɾìʔ! (0.3s) || ˈʧêlèɾmà. (0.4s) || àsòˈɾé kɾeˈseʃ. (0.7s) ||
+# text_phrase-gls-wg = already SPA_feel+make:DUR:PST:3PL see:PFV:3PL>3 =when water ABS SPA_grow+make:DUR:PST:3
+# tags = PASTtoPTCP
+1	ke	ke	ADV	ADV	_	2	advmod:tmod	_	AlignBegin=132760|AlignEnd=133434|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
+2	sentir	sentir	X	<NOT_SURE>	_	0	root	_	AlignBegin=133434|AlignEnd=133569|GE=[SPA_feel]|Gloss=SPA_feel|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=sentiʃtiri
+3	iʃtiri	iʃ	AUX	V:ANY	_	2	cop	_	AlignBegin=133569|AlignEnd=134108|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=sentiʃtiri
+4	Øtʃãerwa	tʃã	AUX	V:ANY	_	2	dep:comp	_	AlignBegin=134108|AlignEnd=134782|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃãler
+5	=ma	_	SCONJ	PRT	_	4	mark	_	AlignBegin=134782|AlignEnd=135456|GE=when|Gloss==when|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+6	aso	aso	NOUN	N	_	8	nsubj	_	AlignBegin=135456|AlignEnd=136130|GE=water|Gloss=water|nWord=5|RX=[N]|TokenType=Root|Word=aso
+7	=ra	_	ADP	PRT	_	6	case	_	AlignBegin=136130|AlignEnd=136804|GE=[ABS]|Gloss==ABS|nWord=6|RX=[PRT]|TokenType=Clit|Word=ra
+8	crecer	crecer	X	<NOT_SURE>	_	4	ccomp	_	AlignBegin=136804|AlignEnd=136939|GE=[SPA_grow]|Gloss=SPA_grow|nWord=7|RX=[<NOT_SURE>]|TokenType=Root|Word=kreseʃti
+9	iʃtØi	iʃ	AUX	V:ANY	_	8	cop	_	AlignBegin=136939|AlignEnd=137480|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=kreseʃti
+
+# sent_id = 086_30-30
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 138140, 141050
+# morphemic_text = ta- r- oʔk -ir -i teʃk -er -i tV Ø- -er -wa =pra kere =kan ates =ken
+# text = taroʔkiri teʃkeri tVØerwa =pra kere =kan ates =ken
+# text_en = They say they fled, on this side and the other side.
+# text_phrase-gls-de = 086.30_VG
+# text_phrase-gls-es = dicen que huyeron, se fueron por éste y por el otro lado
+# text_phrase-gls-it = ˈtɾóːkì tèʃˈkɾíʔ téˈɾùmpɾà ˈkɾéɣàŋ àˈtèskɛ̄ʔ
+# text_phrase-gls-pro = || ˈtɾóːkì tèʃˈkɾíʔ téˈɾùmpɾà. || ˈkɾé[ʔɣàŋ] àˈtèskɛ̄ʔ. || ((AM; [mm])) (0.7s) ||
+# text_phrase-gls-wg = run:MID:APPL:PST:3PL get.away:PST:3PL say:PFV:3PL>3 EMPH at.front LOC further =LOC
+1	taroʔkiri	oʔk	AUX	V:ANY	_	3	ccomp	_	AlignBegin=138140|AlignEnd=138504|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=troʔkri
+2	teʃkeri	teʃk	AUX	V:ANY	_	1	conj	_	AlignBegin=138504|AlignEnd=138868|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=teʃkri
+3	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=138868|AlignEnd=139232|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=terũ|wordform=tV-erwa
+4	=pra	_	PART	PRT	_	3	advmod	_	AlignBegin=139232|AlignEnd=139596|GE=[EMPH]|Gloss==EMPH|nWord=4|RX=[PRT]|TokenType=Clit|Word=pra
+5	kere	kere	NOUN	N	_	1	obl:mod	_	AlignBegin=139596|AlignEnd=139960|GE=at.front|Gloss=at.front|nWord=5|RX=[N]|TokenType=Root|Word=kre
+6	=kan	_	ADP	POST	_	5	case	_	AlignBegin=139960|AlignEnd=140324|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit|Word=kan
+7	ates	ates	ADV	ADV	_	5	conj	_	AlignBegin=140324|AlignEnd=140688|GE=further|Gloss=further|nWord=7|RX=[ADV]|TokenType=Root|Word=ates
+8	=ken	_	ADP	POST	_	7	case	_	AlignBegin=140688|AlignEnd=141050|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=ke
+
+# sent_id = 086_31-31
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 141780, 145460
+# morphemic_text = ʃok -a a- r- kapriʃ -Ø -i ʃok -a a- r- kapriʃ -Ø -i
+# text = ʃoka arkapriʃØi ʃoka arkapriʃØi
+# text_en = It went around the hill! It went around the hill.
+# text_phrase-gls-de = 086.31_VG
+# text_phrase-gls-es = rodeó el cerro, rodeó el cerro
+# text_phrase-gls-it = ʧò āɾ ˈkápɾìʃ ʧō āɾ ˈkápɾìʃ
+# text_phrase-gls-pro = || ˈʃokeˈʔar káˈpɾìʃːː!. (1.2s) || ˈʃōɣāɾ káˈpɾìʃ. (1.0s) ||
+# text_phrase-gls-wg = hill:NMLZ go.across:APPL:PST:3>3 hill:NMLZ go.across:APPL:PST:3>3
+1	ʃoka	ʃok	AUX	V>N	_	2	ccomp:appl	_	AlignBegin=141780|AlignEnd=142700|GE=[NMLZ]|Gloss=-NMLZ|nWord=1|RX=[V>N]|TokenType=InflAff|Word=ʃoka
+2	arkapriʃØi	kapriʃ	AUX	V:ANY	_	0	root	_	AlignBegin=142700|AlignEnd=143620|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=arkapriʃ
+3	ʃoka	ʃok	AUX	V>N	_	4	ccomp:appl	_	AlignBegin=143620|AlignEnd=144540|GE=[NMLZ]|Gloss=-NMLZ|nWord=3|RX=[V>N]|TokenType=InflAff|Word=ʃoka
+4	arkapriʃØi	kapriʃ	AUX	V:ANY	_	2	parataxis	_	AlignBegin=144540|AlignEnd=145460|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=arkapriʃ
+
+# sent_id = 086_32-32
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 146510, 148480
+# morphemic_text = ã =kan =ri ãma ka- toq -t -i -tV -ri
+# text = ã =kan =ri ãma katoqtitVri
+# text_en = That is why um, it did not swallow them.
+# text_phrase-gls-de = 086.32_VG
+# text_phrase-gls-es = por eso, ese no los tragó
+# text_phrase-gls-it = àkɘ̄ˈɾí ˈamà kàtóktítāɾèʔ
+# text_phrase-gls-pro = || àkɘ̄ˈɾí ˈamà, (0.2s) || kàtóqtítāɾèʔ!. (0.6s) ||
+# text_phrase-gls-wg = DEM.DIST =SIM MDT HES drink:DUR:NEG:PST:3>3PL
+1	ã	ã	PRON	PRO	_	5	obl:mod	_	AlignBegin=146510|AlignEnd=146904|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
+2	=kan	_	PART	PRT	_	1	case	_	AlignBegin=146904|AlignEnd=147298|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kã
+3	=ri	_	ADP	POST	_	1	case	_	AlignBegin=147298|AlignEnd=147692|GE=[MDT]|Gloss==MDT|nWord=3|RX=[POST]|TokenType=Clit|Word=ri
+4	ãma	ãma	PART	PRT	_	5	discourse	_	AlignBegin=147692|AlignEnd=148086|GE=[HES]|Gloss=HES|nWord=4|RX=[PRT]|TokenType=Root|Word=ãma
+5	katoqtitVri	toq	AUX	V:ANY	_	0	root	_	AlignBegin=148086|AlignEnd=148480|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=katoqtitari
+
+# sent_id = 086_33-33
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 149070, 152520
+# morphemic_text = nẽ -er -wa =ma nẽ -er -wa =ma ke mẽymẽy ta- iʃk -a -ri tV Ø- -er -wa =pra
+# text = nẽerwa =ma nẽerwa =ma ke mẽymẽy taiʃkari tVØerwa =pra
+# text_en = When they left, when they left already, (their bodies) became weak, they say.
+# text_phrase-gls-de = 086.33_VG
+# text_phrase-gls-es = cuando se fueron, cuando se fueron ya, (sus cuerpos) se pusieron muy blandos dicen
+# text_phrase-gls-it = ˈnēlēɾmà ˈnēlēɾmà kē ˈméʲméʲ tìʃˈkɾíʔ téˈɾúmpɾà
+# text_phrase-gls-pro = || ˈnēːːlēɾmà ˈnēːlēɾmà kē, || =ˈméʲnméʲn tìʃˈkɾíʔ °téˈɾúmpɾà°. (0.1s) ||
+# text_phrase-gls-wg = go:PFV:3PL =when go:PFV:3PL =when already weak make:MID:PST:1 say:PFV:3PL>3 EMPH
+1	nẽerwa	nẽ	AUX	V:ANY	_	6	advcl:tmod	_	AlignBegin=149070|AlignEnd=149453|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽler
+2	=ma	_	SCONJ	PRT	_	1	mark	_	AlignBegin=149453|AlignEnd=149836|GE=when|Gloss==when|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	nẽerwa	nẽ	AUX	V:ANY	_	1	reparandum	_	AlignBegin=149836|AlignEnd=150219|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽler
+4	=ma	_	SCONJ	PRT	_	3	mark	_	AlignBegin=150219|AlignEnd=150602|GE=when|Gloss==when|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+5	ke	ke	ADV	ADV	_	3	advmod:tmod	_	AlignBegin=150602|AlignEnd=150985|GE=already|Gloss=already|nWord=5|RX=[ADV]|TokenType=Root|Word=ke
+6	mẽymẽy	mẽymẽy	NOUN	<NOT_SURE>	_	8	ccomp	_	AlignBegin=150985|AlignEnd=151368|GE=weak|Gloss=weak|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=mẽymẽy
+7	taiʃkari	iʃk	AUX	V:ANY	_	6	cop	_	AlignBegin=151368|AlignEnd=151751|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=tiʃkri
+8	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=151751|AlignEnd=152134|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=terũ|wordform=tV-erwa
+9	=pra	_	PART	PRT	_	8	advmod	_	AlignBegin=152134|AlignEnd=152520|GE=[EMPH]|Gloss==EMPH|nWord=9|RX=[PRT]|TokenType=Clit|Word=pra
+
+# sent_id = 086_34-34
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 152610, 156300
+# morphemic_text = akareke hm nẽ boh -n -er -i tV Ø- -er -wa =pra
+# text = akareke hm nẽ bohneri tVØerwa =pra
+# text_en = But, hm (pointing the finger making a semi-circle), they say they arrived.
+# text_phrase-gls-de = 086.34_VG
+# text_phrase-gls-es = pero dicen que llegaron
+# text_phrase-gls-it = àːˈkáɾɘ̄kè néˈβólēɾíʔ téˈɾúmpɾà
+# text_phrase-gls-pro = || ʔàːːːːˈkáɾɘ̄kè. (1.0s) || hm, ((pointing the finger in a semi-circle)) (1.0s) || néˈβólēɾíʔ °téˈɾúmpɾà° (0.3s) ||
+# text_phrase-gls-wg = but hm go+leave(arrive):DUR:PST:3PL say:PFV:3PL>3 EMPH
+1	akareke	akareke	ADV	<NOT_SURE>	_	4	advmod	_	AlignBegin=152610|AlignEnd=153348|GE=but|Gloss=but|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=akareke
+2	hm	hm	INTJ	INTERJ	_	4	discourse	_	AlignBegin=153348|AlignEnd=154086|GE=hm|Gloss=hm|nWord=2|RX=[INTERJ]|TokenType=Root|Word=hm
+3	nẽ	nẽ	VERB	VI	_	4	compound:svc	_	AlignBegin=154086|AlignEnd=154234|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root|Word=nẽboleri
+4	bohneri	boh	AUX	V:ANY	_	5	ccomp	_	AlignBegin=154234|AlignEnd=154824|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽboleri
+5	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=154824|AlignEnd=155562|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=terũ|wordform=tV-erwa
+6	=pra	_	PART	PRT	_	5	discourse	_	AlignBegin=155562|AlignEnd=156300|GE=[EMPH]|Gloss==EMPH|nWord=5|RX=[PRT]|TokenType=Clit|Word=pra
+
+# sent_id = 086_35-35
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 156620, 157400
+# morphemic_text = nẽ boh -n -er -wa
+# text = nẽ bohnerwa
+# text_en = They had arrived.
+# text_phrase-gls-de = 086.35_VG
+# text_phrase-gls-es = llegaron ya,
+# text_phrase-gls-it = néˈβólēɾàʔ
+# text_phrase-gls-pro = || *néˈβólēɾàʔ. (0.9s) ||
+# text_phrase-gls-wg = go+leave(arrive):DUR:PFV:3PL
+1	nẽ	nẽ	VERB	VI	_	2	compound:svc	_	AlignBegin=156620|AlignEnd=156776|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root|Word=nẽbolera
+2	bohnerwa	boh	AUX	V:ANY	_	0	root	_	AlignBegin=156776|AlignEnd=157400|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽbolera
+
+# sent_id = 086_36-36
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 158250, 161970
+# morphemic_text = ke ũ- ta- toq -tiʃk -Ø -wa ũ- ta- ã -tiʃk -Ø -wa wisĩnka
+# text = ke ũtatoqtiʃkØwa ũtaãtiʃkØwa wisĩnka
+# text_en = It already almost swallowed, it almost ate us, the Wisinka.
+# text_phrase-gls-de = 086.36_VG
+# text_phrase-gls-es = casi nos tragaba, casi nos devora la wisinka
+# text_phrase-gls-it = ké ˈũ̀tàtòktìʃˈkʷá ˈũ̀tààʔtíʃkʷá wìˈsìŋkáʔ
+# text_phrase-gls-pro = || ké ˈũ̀tàtòqtìʃˈkʷá, || ˈũ̀tààʔtíʃkʷá, (0.1s) || wìˈsìŋkáʔ, (0.6s) ||
+# text_phrase-gls-wg = already drink:almost:PFV:3>EXCL eat:almost:PFV:3>EXCL wisinka
+1	ke	ke	ADV	ADV	_	2	advmod	_	AlignBegin=158250|AlignEnd=159180|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
+2	ũtatoqtiʃkØwa	toq	AUX	V:ANY	_	0	root	_	AlignBegin=159180|AlignEnd=160110|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=ũtatoqtiʃkwa
+3	ũtaãtiʃkØwa	ã	AUX	V:ANY	_	2	parataxis	_	AlignBegin=160110|AlignEnd=161040|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=ũtaãtiʃkwa
+4	wisĩnka	wisĩnka	NOUN	N	_	3	nsubj	_	AlignBegin=161040|AlignEnd=161970|GE=wisinka|Gloss=wisinka|nWord=4|RX=[N]|TokenType=Root|Word=wisĩnka
+
+# sent_id = 086_37-37
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 162600, 164210
+# morphemic_text = puta yar =ʃona ã =r -Ø -iʔ
+# text = puta yar =ʃona ã =rØiʔ
+# text_en = Damn! See it is truly that!
+# text_phrase-gls-de = 086.37_VG
+# text_phrase-gls-es = ¡puta! no ves, de veras que sí,
+# text_phrase-gls-it = ˈpuʰta ˈʝárʃônoàɾíʔ
+# text_phrase-gls-pro = || ˈpuʰta (0.2s) || ʝárˈʃônoàˈɾíʔ (1.6s) ||
+# text_phrase-gls-wg = imprecation true =HEM DEM.DIST COP:PST:3
+1	puta	puta	INTJ	INTERJ	_	4	discourse	_	AlignBegin=162600|AlignEnd=162922|GE=imprecation|Gloss=imprecation|nWord=1|RX=[INTERJ]|TokenType=Root|Word=puta
+2	yar	yar	ADV	<NOT_SURE>	_	4	advmod	_	AlignBegin=162922|AlignEnd=163244|GE=true|Gloss=true|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
+3	=ʃona	_	PART	PRT	_	2	discourse	_	AlignBegin=163244|AlignEnd=163566|GE=[HEM]|Gloss==HEM|nWord=3|RX=[PRT]|TokenType=Clit|Word=ʃono
+4	ã	ã	PRON	PRO	_	0	root	_	AlignBegin=163566|AlignEnd=163888|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=4|RX=[PRO]|TokenType=Root|Word=ã
+5	=rØiʔ	_	AUX	V:ANY	_	4	cop	_	AlignBegin=163888|AlignEnd=164210|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=riʔ
+
+# sent_id = 086_38-38
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 165860, 169960
+# morphemic_text = ĩ ĩ =kan a- mask -a–pi -wa =sa tVk a- -er -i tV Ø- -er -wa
+# text = ĩ ĩ =kan amaskapiwa =sa tVkaeri tVØerwa
+# text_en = "How will we kill it?", they asked each other, they say.
+# text_phrase-gls-de = 086.38_VG
+# text_phrase-gls-es = ¿cómo la mataremos? dicen que se dijeron
+# text_phrase-gls-it = ˈĩ́ɣĩ́kã̄ àˈmàskàpíwàsà ˈtíʔàkīlèɾíʔ tɘ̄ɾōà
+# text_phrase-gls-pro = || ˈĩ́ɣĩ́kã̄ àˈmàskàpíwàsà, (0.5s) || ˈtíʔàkīlèɾíʔ, (0.1s) || t[ɘ̄ɾōà]. (0.2s) || ((AM; [hm].)) || @@ (0.2s) ||
+# text_phrase-gls-wg = DEM.PROX_O PROX.DEM=SIM_how kill:FUT:PFV:INCL>3 C.Q say:RECP:PST:3PL say:PFV:3PL>3
+1	ĩ	ĩ	PRON	PRO	_	4	dislocated:obj	_	AlignBegin=165860|AlignEnd=166543|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	ĩ	ĩ	PRON	PRO	_	4	obl:mod	_	AlignBegin=166543|AlignEnd=166885|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩkan
+3	=kan	_	PART	PRT	_	2	case	_	AlignBegin=166885|AlignEnd=167226|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=ĩkan
+4	amaskapiwa	mask	AUX	V:ANY	_	6	ccomp	_	AlignBegin=167226|AlignEnd=167909|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=amaskapiwa
+5	=sa	_	PART	PRT	_	2	advmod	_	AlignBegin=167909|AlignEnd=168592|GE=[C].[Q]|Gloss==C.Q|nWord=4|RX=[PRT]|TokenType=Clit|Word=sa
+6	tVkaeri	_	AUX	V:ANY	_	0	root	_	AlignBegin=168592|AlignEnd=169275|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=tiakileri
+7	tVØerwa	_	AUX	V:ANY	_	6	discourse	_	AlignBegin=169275|AlignEnd=169960|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=teroa|wordform=tV-erwa
+
+# sent_id = 086_39-39
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 170186, 171970
+# morphemic_text = ĩ ĩ =kan a- mask -a–pi -wa =sa
+# text = ĩ ĩ =kan amaskapiwa =sa
+# text_en = How will we kill it?
+# text_phrase-gls-de = 086.39_VG
+# text_phrase-gls-es = ¿cómo la mataremos?
+# text_phrase-gls-it = ˈĩ́ĩ́kã́ʔ àˈmàskàpíwàsà
+# text_phrase-gls-pro = || ˈĩ́ĩ́kã́ʔ àˈmàskàpíwàsà, (2.0s) ||
+# text_phrase-gls-wg = DEM.PROX_O PROX.DEM=SIM_how kill:FUT:PFV:INCL>3 C.Q
+1	ĩ	ĩ	PRON	PRO	_	4	dislocated:obj	_	AlignBegin=170186|AlignEnd=170632|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	ĩ	ĩ	PRON	PRO	_	4	obl:mod	_	AlignBegin=170632|AlignEnd=170855|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩkan
+3	=kan	_	PART	PRT	_	2	case	_	AlignBegin=170855|AlignEnd=171078|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=ĩkan
+4	amaskapiwa	mask	AUX	V:ANY	_	0	root	_	AlignBegin=171078|AlignEnd=171524|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=amaskapiwa
+5	=sa	_	PART	PRT	_	2	advmod	_	AlignBegin=171524|AlignEnd=171970|GE=[C].[Q]|Gloss==C.Q|nWord=4|RX=[PRT]|TokenType=Clit|Word=sa
+
+# sent_id = 086_40-40
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 173920, 178660
+# morphemic_text = pi- ras =r -i–si =wa pa- ta- sa -ʔa ĩ =kan a- iʃ -par -wa
+# text = piras =risi =wa patasaʔa ĩ =kan Øiʃparwa
+# text_en = If you agree, let's tell our chief.
+# text_phrase-gls-de = 086.40_VG
+# text_phrase-gls-es = si están de acuerdo, digámosle a nuestro jefe;
+# text_phrase-gls-it = pìˈɾáɾísìwáʔ ˈpàtà ˈsákàĩ́ʃpàɾwà
+# text_phrase-gls-pro = || pìˈɾáɾísìwáʔ, (1.4s) || ˈpàti ˈsáʔ ˈaʔĩkàˈʔĩ́ʃpàɾˈwà. (0.7s) ||
+# text_phrase-gls-tl = ‎‎syn_N/A
+# text_phrase-gls-wg = will:2 =COP:PX.PST:2 2PL head:NMLZ:INCL DEM.PROX=SIM tell:PFV:INCL>3
+1	piras	ras	NOUN	N	_	7	advcl	_	AlignBegin=173920|AlignEnd=174710|GE=will|Gloss=will|nWord=1|RX=[N]|TokenType=Root|Word=pira
+2	=risi	_	AUX	V:ANY	_	1	cop	_	AffLemma=-si|AlignBegin=174710|AlignEnd=175500|GE=[S2SG-PROX].[PST]|Gloss=-PROX.PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=risi
+3	=wa	_	NUM	PRO	_	1	obl:mod	_	AlignBegin=175500|AlignEnd=176290|GE=[2PL]|Gloss==2PL|nWord=3|RX=[PRO]|TokenType=Clit|Word=wa
+4	patasaʔa	sa	AUX	V>N	_	7	ccomp	_	AlignBegin=176290|AlignEnd=177080|GE=[NMLZ]|Gloss=-NMLZ|nWord=4|RX=[V>N]|TokenType=InflAff|Word=patasãʔa
+5	ĩ	ĩ	PRON	PRO	_	7	obl:mod	_	AlignBegin=177080|AlignEnd=177475|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩk
+6	=kan	_	PART	PRT	_	5	case	_	AlignBegin=177475|AlignEnd=177870|GE=[SIM]|Gloss==SIM|nWord=5|RX=[PRT]|TokenType=Clit|Word=ĩk
+7	Øiʃparwa	iʃ	AUX	V:ANY	_	0	root	_	AlignBegin=177870|AlignEnd=178660|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=aĩʃparwa
+
+# sent_id = 086_41-41
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 179380, 181120
+# morphemic_text = ĩ =kan awa pa- ta- toq -Ø -pi =ʃona
+# text = ĩ =kan awa patatoqØpi =ʃona
+# text_en = Thus it also will swallow us, you see.
+# text_phrase-gls-de = 086.41_VG
+# text_phrase-gls-es = y también nos tragará, no ves
+# text_phrase-gls-it = ˈĩ̀kã̀ ãˈwā pàtā tòˈpìíʃónà
+# text_phrase-gls-pro = || ˈĩ̀nkã̀ ãˈwā pàˈtā ˈtòqpìíˈʃónà. (0.3s) ||
+# text_phrase-gls-wg = DEM.PROX =SIM also drink:FUT:3>INCL HEM
+1	ĩ	ĩ	PRON	PRO	_	4	obl:mod	_	AlignBegin=179380|AlignEnd=179728|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	=kan	_	PART	PRT	_	1	case	_	AlignBegin=179728|AlignEnd=180076|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kã
+3	awa	awa	ADV	ADV	_	4	advmod	_	AlignBegin=180076|AlignEnd=180424|GE=also|Gloss=also|nWord=3|RX=[ADV]|TokenType=Root|Word=awa
+4	patatoqØpi	toq	AUX	V:ANY	_	0	root	_	AlignBegin=180424|AlignEnd=180772|GE=[FUT]|Gloss=-FUT|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=patatoqpi
+5	=ʃona	_	PART	PRT	_	4	discourse	_	AlignBegin=180772|AlignEnd=181120|GE=[HEM]|Gloss==HEM|nWord=5|RX=[PRT]|TokenType=Clit|Word=ʃona
+
+# sent_id = 086_42-42
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 181410, 183990
+# morphemic_text = a- sa awah patak ka- ã -Ø -pi =ʃona
+# text = asa awah patak kaãØpi =ʃona
+# text_en = Its head will also eat them, you see.
+# text_phrase-gls-de = 086.42_VG
+# text_phrase-gls-es = ¿no ves que (se) los comerá?
+# text_phrase-gls-it = (ˈàsà àˈwā pàtà) kã́ʔẽ̀píʃónà
+# text_phrase-gls-pro = || ˈàsà àˈwāʔ pàˈtàk, (0.6s) || <% kã́ˈʔẽ̀ %> píˈʃónà. (1.4s) ||
+# text_phrase-gls-wg = head:3 also HES eat:FUT:3>3PL HEM
+1	asa	sa	NOUN	N	_	4	nsubj	_	AlignBegin=181410|AlignEnd=181926|GE=head|Gloss=head|nWord=1|RX=[N]|TokenType=Root|Word=asa
+2	awah	awah	ADV	ADV	_	4	advmod	_	AlignBegin=181926|AlignEnd=182442|GE=also|Gloss=also|nWord=2|RX=[ADV]|TokenType=Root|Word=awah
+3	patak	patak	X	_	_	0	root	_	AlignBegin=182442|AlignEnd=182958|nWord=3|TokenType=Root|Word=patak
+4	kaãØpi	ã	AUX	V:ANY	_	3	reparandum	_	AlignBegin=182958|AlignEnd=183474|GE=[FUT]|Gloss=-FUT|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=kããpi
+5	=ʃona	_	PART	PRT	_	4	discourse	_	AlignBegin=183474|AlignEnd=183990|GE=[HEM]|Gloss==HEM|nWord=5|RX=[PRT]|TokenType=Clit|Word=ʃona
+
+# sent_id = 086_43-44
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 185340, 200140
+# morphemic_text = eka Ø- yẽh -t -er -iʔ ĩ =kan =na sa tis Ø- sukuh -u -h =wa na -u -h =wa sa aka =pe ã =ma =hã ĩ =kan a- ʃa -ir -wa =pe
+# text = eka Øyẽhteriʔ ĩ =kan =na sa tis Øsukuhuh =wa nauh =wa sa aka =pe ã =ma =hã ĩ =kan aʃairwa =pe
+# text_en = It is said they said like that: "Grab a handful of stones. Go! Only big rocks. That is it. Only like those (that) are there."
+# text_phrase-gls-de = 086.43_VG 086.44_VG
+# text_phrase-gls-es = ellos dijeron, dicen asi atraparan esa piedra un poco ¡váyanse! sólo piedras grandes, como las que están solamente
+# text_phrase-gls-it = ˈẽ́kà ˈɲéléɾtìʔ ˈĩ́ɣénáʔ ˈsàtís sūˈkúːʰwàʔ ˈnáːùːwàʔ sàː àˈkápéː màáʔ ˈĩ̀kɘ͂̄ áʃíʷˈɾópé
+# text_phrase-gls-pro = || ˈẽ́kà ˈɲéléɾtìʔ, (0.6s) || ˈĩ́ɣénáʔ!, (1.4s) || ˈsàtís sūˈkúhːwàʔ, (2.0s) || || ˈnáːːʔùːwàʔ <% sàːːː %> °kápé°. (1.7s) || màʔáʔ. (1.4s) || *ˈĩ̀kɘ͂̄ áʃɨʷ °ˈɾópé°. (0.6s) ||
+# text_phrase-gls-wg = PRO3 say:DUR:PST:3PL>3 DEM.PROX =SIM REP rock a.little grab:IMP:2>3 2PL go:IMP:2 2PL rock big only DIST.DEM=TOP=FOC_that.is.it DEM.PROX =SIM sit:REFL:PFV:3PL only
+1	eka	eka	PRON	PRO	_	2	nsubj	_	AlignBegin=185340|AlignEnd=186002|GE=[PRO3]|Gloss=PRO3|nWord=1|RX=[PRO]|TokenType=Root|Word=eka
+2	Øyẽhteriʔ	yẽh	AUX	V:ANY	_	0	root	_	AlignBegin=186002|AlignEnd=186664|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽlertiʔ
+3	ĩ	ĩ	PRON	PRO	_	2	obl:mod	_	AlignBegin=186664|AlignEnd=187326|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ĩ
+4	=kan	_	PART	PRT	_	3	case	_	AlignBegin=187326|AlignEnd=187988|GE=[SIM]|Gloss==SIM|nWord=4|RX=[PRT]|TokenType=Clit|Word=ka
+5	=na	_	PART	PRT	_	2	discourse	_	AlignBegin=187988|AlignEnd=188650|GE=[REP]|Gloss==REP|nWord=5|RX=[PRT]|TokenType=Clit|Word=na
+6	sa	sa	NOUN	N	_	8	obj	_	AlignBegin=188650|AlignEnd=189312|GE=rock|Gloss=rock|nWord=6|RX=[N]|TokenType=Root|Word=sa
+7	tis	tis	NOUN	<NOT_SURE>	_	6	nmod	_	AlignBegin=189312|AlignEnd=189974|GE=a.little|Gloss=a.little|nWord=7|RX=[<NOT_SURE>]|TokenType=Root|Word=tis
+8	Øsukuhuh	sukuh	AUX	V:ANY	_	2	ccomp	_	AlignBegin=189974|AlignEnd=190636|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=sukuhuh
+9	=wa	_	NUM	PRO	_	8	obl:mod	_	AlignBegin=190636|AlignEnd=191300|GE=[2PL]|Gloss==2PL|nWord=9|RX=[PRO]|TokenType=Clit|Word=wa
+10	nauh	na	AUX	V:ANY	_	8	conj	_	AlignBegin=193280|AlignEnd=193966|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=10|RX=[V:ANY]|TokenType=InflAff|Word=nauh
+11	=wa	_	NUM	PRO	_	10	obl:mod	_	AlignBegin=193966|AlignEnd=194652|GE=[2PL]|Gloss==2PL|nWord=11|RX=[PRO]|TokenType=Clit|Word=wa
+12	sa	sa	NOUN	N	_	10	orphan	_	AlignBegin=194652|AlignEnd=195338|GE=rock|Gloss=rock|nWord=12|RX=[N]|TokenType=Root|Word=sa
+13	aka	aka	NOUN	N	_	12	nmod	_	AlignBegin=195338|AlignEnd=196024|GE=big|Gloss=big|nWord=13|RX=[N]|TokenType=Root|Word=aka
+14	=pe	_	PART	PRT	_	13	advmod	_	AlignBegin=196024|AlignEnd=196710|GE=only|Gloss==only|nWord=14|RX=[PRT]|TokenType=Clit|Word=pe
+15	ã	ã	PRON	PRO	_	12	discourse	_	AlignBegin=196710|AlignEnd=196939|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=15|RX=[PRO]|TokenType=Root|Word=maʔã
+16	=ma	_	PART	PRT	_	15	case	_	AlignBegin=196939|AlignEnd=197168|GE=[TOP]|Gloss==TOP|nWord=15|RX=[PRT]|TokenType=Clit|Word=maʔã
+17	=hã	_	PART	PRT	_	15	discourse	_	AlignBegin=197168|AlignEnd=197396|GE=[FOC]|Gloss==FOC|nWord=15|RX=[PRT]|TokenType=Clit|Word=maʔã
+18	ĩ	ĩ	PRON	PRO	_	12	nmod	_	AlignBegin=197396|AlignEnd=198082|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=16|RX=[PRO]|TokenType=Root|Word=ĩ
+19	=kan	_	PART	PRT	_	18	case	_	AlignBegin=198082|AlignEnd=198768|GE=[SIM]|Gloss==SIM|nWord=17|RX=[PRT]|TokenType=Clit|Word=kã
+20	aʃairwa	ʃa	AUX	V:ANY	_	18	acl:relcl	_	AlignBegin=198768|AlignEnd=199454|GE=[PFV]|Gloss=-PFV|nWord=18|RX=[V:ANY]|TokenType=InflAff|Word=aʃiro
+21	=pe	_	PART	PRT	_	20	advmod	_	AlignBegin=199454|AlignEnd=200140|GE=only|Gloss==only|nWord=19|RX=[PRT]|TokenType=Clit|Word=pe
+
+# sent_id = 086_45-45
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 200710, 202890
+# morphemic_text = pa a- kas- teʃ teʔk -u -h =wa
+# text = pa akasteʃ teʔkuh =wa
+# text_en = Go leave it and come back.
+# text_phrase-gls-de = 086.45_VG
+# text_phrase-gls-es = vayan a llevar, dejar y regresan,
+# text_phrase-gls-it = ˈpáːàkásˈtéʃtéɣùwà
+# text_phrase-gls-pro = || ˈpáàː ʔakásˈtéʃtéʔqùwà. (1.9s) ||
+# text_phrase-gls-wg = PRO2 get.away+come(leave+come):APPL:PX.FUT:2>3 2PL
+1	pa	pa	PRON	PRO	_	3	nsubj	_	AlignBegin=200710|AlignEnd=201437|GE=[PRO2]|Gloss=PRO2|nWord=1|RX=[PRO]|TokenType=Root|Word=pa
+2	akasteʃ	teʃ	AUX	V>VT	Voice=Appl	3	compound:svc	_	AlignBegin=201437|AlignEnd=201800|GE=[APPL].[R]|Gloss=APPL.R-|nWord=2|RX=[V>VT]|TokenType=InflAff|Word=akasteʃteʔkuh
+3	teʔkuh	teʔk	AUX	V:ANY	_	0	root	_	AlignBegin=201800|AlignEnd=202164|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=akasteʃteʔkuh
+4	=wa	_	NUM	PRO	_	3	obl:mod	_	AlignBegin=202164|AlignEnd=202890|GE=[2PL]|Gloss==2PL|nWord=3|RX=[PRO]|TokenType=Clit|Word=wa
+
+# sent_id = 086_46-46
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 204810, 207170
+# morphemic_text = ã =yã tẽwã Ø- artiʃk -u -h =wa
+# text = ã =yã tẽwã Øartiʃkuh =wa
+# text_en = ###. There you stoke the fire.
+# text_phrase-gls-de = 086.46_VG
+# text_phrase-gls-es = ahí atizan el fuego
+# text_phrase-gls-it = ã̀ˈʝã́ tẽ̀wã̀ʔ àɾtíʃkùwà
+# text_phrase-gls-pro = || ### (0.1s) || ã̀ˈʝã́ ˈtẽ̀ŋwàrˈtíʃkùˈwà. (1.4s) ||
+# text_phrase-gls-wg = DIST.DEM=LOC_there fire atizar:PX.FUT:2>3 2PL
+1	ã	ã	PRON	PRO	_	4	obl:mod	_	AlignBegin=204810|AlignEnd=205105|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãyã
+2	=yã	_	ADP	POST	_	1	case	_	AlignBegin=205105|AlignEnd=205400|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãyã
+3	tẽwã	tẽwã	NOUN	N	_	4	obj	_	AlignBegin=205400|AlignEnd=205990|GE=fire|Gloss=fire|nWord=2|RX=[N]|TokenType=Root|Word=tẽwã
+4	Øartiʃkuh	artiʃk	AUX	V:ANY	_	0	root	_	AlignBegin=205990|AlignEnd=206580|GE=[PROX].[FUT]|Gloss=-PROX.FUT|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=artiʃku
+5	=wa	_	NUM	PRO	_	4	obl:mod	_	AlignBegin=206580|AlignEnd=207170|GE=[2PL]|Gloss==2PL|nWord=4|RX=[PRO]|TokenType=Clit|Word=wa
+
+# sent_id = 086_47-47
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 208610, 210460
+# morphemic_text = Ø- patoʔk -u -pi =wa
+# text = Øpatoʔkupi =wa
+# text_en = You heat it up.
+# text_phrase-gls-de = 086.47_VG
+# text_phrase-gls-es = lo encienden
+# text_phrase-gls-it = pàˈtòʔɣɔ̀píwā
+# text_phrase-gls-pro = || *pàˈtòʔkɔ̀píwā. || °###° (2.2s) ||
+# text_phrase-gls-wg = heat:IMP:2>3 2PL
+1	Øpatoʔkupi	patoʔk	AUX	V:ANY	_	0	root	_	AlignBegin=208610|AlignEnd=209535|GE=[FUT]|Gloss=-FUT|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=patoʔkupi
+2	=wa	_	NUM	PRO	_	1	obl:mod	_	AlignBegin=209535|AlignEnd=210460|GE=[2PL]|Gloss==2PL|nWord=2|RX=[PRO]|TokenType=Clit|Word=wa
+
+# sent_id = 086_48-48
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 212670, 215130
+# morphemic_text = sa =pe ĩ =kan
+# text = sa =pe ĩ =kan
+# text_en = Like the stone.
+# text_phrase-gls-de = 086.48_VG
+# text_phrase-gls-es = como la piedra
+# text_phrase-gls-it = sàˈpéʔ ĩ̀kè́
+# text_phrase-gls-pro = || sàˈpéʔ ĩ̀ˈkè́ ### (0.4s) ||
+# text_phrase-gls-tl = ‎‎syn_N/A
+# text_phrase-gls-wg = rock only DEM.PROX =SIM
+# tags = fragment, Problem
+1	sa	sa	NOUN	N	_	3	parataxis	_	AlignBegin=212670|AlignEnd=213285|GE=rock|Gloss=rock|nWord=1|RX=[N]|TokenType=Root|Word=sa
+2	=pe	_	PART	PRT	_	1	advmod	_	AlignBegin=213285|AlignEnd=213900|GE=only|Gloss==only|nWord=2|RX=[PRT]|TokenType=Clit|Word=pe
+3	ĩ	ĩ	PRON	PRO	_	0	root	_	AlignBegin=213900|AlignEnd=214515|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ĩ
+4	=kan	_	PART	PRT	_	3	case	_	AlignBegin=214515|AlignEnd=215130|GE=[SIM]|Gloss==SIM|nWord=4|RX=[PRT]|TokenType=Clit|Word=kã
+
+# sent_id = 086_49-49
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 215500, 219000
+# morphemic_text = Ø- ka -ya =ʃona
+# text = Økaya =ʃona
+# text_en = You do it, you see.
+# text_phrase-gls-de = 086.49_VG
+# text_phrase-gls-es = no ves que lo haces,
+# text_phrase-gls-it = ˈkàʔáʝáʔ ˈʃóʔnàɾē
+# text_phrase-gls-pro = || ĩ̀ˈkè́ ### #### ˈkàʔáʝá, (0.2s) || ˈkàʔáʝáʔ ˈʃóʔn °##° (0.4s) || ((AM; mhm,)) (0.4s) ||
+# text_phrase-gls-wg = make:PFV:2>3 =HEM
+1	Økaya	ka	AUX	V:ANY	Person=2	0	root	_	AlignBegin=215500|AlignEnd=217250|GE=[S2:PFV]|Gloss=-S2:PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=kaya
+2	=ʃona	_	PART	PRT	_	1	discourse	_	AlignBegin=217250|AlignEnd=219000|GE=[HEM]|Gloss==HEM|nWord=2|RX=[PRT]|TokenType=Clit|Word=ʃono
+
+# sent_id = 086_50-51
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 219426, 221900
+# morphemic_text = Ø- ka -ir -i tV Ø- -er -wa =pra ã ʃoʔ =yã =hã
+# text = Økairi tVØerwa =pra ã ʃoʔ =yã =hã
+# text_en = They say they did it. In the hill.
+# text_phrase-gls-de = 086.50_VG 086.51_VG
+# text_phrase-gls-es = dicen que lo hicieron En el cerro
+# text_phrase-gls-it = kìɾíʔ téˈɾùmpɾàʔ à ʃòʔɲáhã́ʔ
+# text_phrase-gls-pro = || kìˈɾíʔ °téˈɾùmpɾàʔ°. (0.4s) || || *°à ʃòʔɲáhã́ʔ°. (1.9s) ||
+# text_phrase-gls-wg = make:PST:3PL>3 say:PFV:3PL>3 EMPH DEM.DIST hill LOC FOC
+1	Økairi	ka	AUX	V:ANY	_	2	ccomp	_	AlignBegin=219426|AlignEnd=219814|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=kiri
+2	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=219814|AlignEnd=220202|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=terũ|wordform=tV-erwa
+3	=pra	_	PART	PRT	_	2	discourse	_	AlignBegin=220202|AlignEnd=220590|GE=[EMPH]|Gloss==EMPH|nWord=3|RX=[PRT]|TokenType=Clit|Word=pra
+4	ã	ã	PRON	PRO	_	5	det	_	AlignBegin=220980|AlignEnd=221210|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=4|RX=[PRO]|TokenType=Root|Word=ã
+5	ʃoʔ	ʃoʔ	NOUN	N	_	1	obl:mod	_	AlignBegin=221210|AlignEnd=221440|GE=hill|Gloss=hill|nWord=5|RX=[N]|TokenType=Root|Word=ʃoʔ
+6	=yã	_	ADP	POST	_	5	case	_	AlignBegin=221440|AlignEnd=221670|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit|Word=ɲã
+7	=hã	_	PART	PRT	_	5	discourse	_	AlignBegin=221670|AlignEnd=221900|GE=[FOC]|Gloss==FOC|nWord=7|RX=[PRT]|TokenType=Clit|Word=hã
+
+# sent_id = 086_52-52
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 223780, 229440
+# morphemic_text = Ø- ka -er -wa tẽwã Ø- tuk -er -wa ah sa =ma ĩ =ken Ø- ka -ir tuk -ir -i
+# text = Økaerwa tẽwã Øtukerwa ah sa =ma ĩ =ken Økair tukiri
+# text_en = They did it. They put the fire. They made and put the rocks like this (bringing both hands in front of him above his head level).
+# text_phrase-gls-de = 086.52_VG
+# text_phrase-gls-es = pusieron las piedras en el fuego así
+# text_phrase-gls-it = ˈkíɾà ˈtẽ́wã̄ ˈtúːkɾà ˈsāpe ĩ̀ˈkẽ́ kītūkɾɘ̀
+# text_phrase-gls-pro = || ʃˈkíɾà (0.6s) || ˈtẽ́wã̄ ˈtúʔ °keɾàʔa° (0.6s) || ʔaː ˈsāʔme ĩ̀ˈkẽ́ kīntūkɾi (2.3s) ||
+# text_phrase-gls-wg = make:PFV:3PL>3 fire put:PFV:3PL>3 INTERJ rock TOP DEM.PROX =SIM make+put:PST:3PL>3
+1	Økaerwa	ka	AUX	V:ANY	_	0	root	_	AlignBegin=223780|AlignEnd=224409|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=kira
+2	tẽwã	tẽwã	NOUN	N	_	3	obj	_	AlignBegin=224409|AlignEnd=225038|GE=fire|Gloss=fire|nWord=2|RX=[N]|TokenType=Root|Word=tẽwã
+3	Øtukerwa	tuk	AUX	V:ANY	_	1	parataxis	_	AlignBegin=225038|AlignEnd=225667|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tukera
+4	ah	ah	INTJ	INTERJ	_	10	discourse	_	AlignBegin=225667|AlignEnd=226296|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]|TokenType=Root|Word=aa
+5	sa	sa	NOUN	N	_	10	obj	_	AlignBegin=226296|AlignEnd=226925|GE=rock|Gloss=rock|nWord=5|RX=[N]|TokenType=Root|Word=sa
+6	=ma	_	PART	PRT	_	5	case	_	AlignBegin=226925|AlignEnd=227554|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+7	ĩ	ĩ	PRON	PRO	_	10	obl:mod	_	AlignBegin=227554|AlignEnd=228183|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ĩ
+8	=ken	_	PART	PRT	_	7	case	_	AlignBegin=228183|AlignEnd=228812|GE=[SIM]|Gloss==SIM|nWord=8|RX=[PRT]|TokenType=Clit|Word=kẽ
+9	Økair	ka	VERB	VT	_	10	compound:svc	_	AlignBegin=228812|AlignEnd=229127|GE=make|Gloss=make|nWord=9|RX=[VT]|TokenType=Root|Word=kirtukri
+10	tukiri	tuk	AUX	V:ANY	_	3	parataxis	_	AlignBegin=229127|AlignEnd=229440|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=kirtukri
+
+# sent_id = 086_53-53
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 231700, 233940
+# morphemic_text = teʔ nẽ -Ø -i pi ta- iʃk -Ø -wa
+# text = teʔ nẽØi pi taiʃkØwa
+# text_en = They go, they come, it becomes red hot.
+# text_phrase-gls-de = 086.53_VG
+# text_phrase-gls-es = vinieron y se fueron, la quemaron,
+# text_phrase-gls-it = ˈténé ˈpìítìʃkʷá
+# text_phrase-gls-pro = || ˈténé ˈpːːìʔí, (0.3s) || tìʃkʷá. (0.4s) ||
+# text_phrase-gls-wg = come+go:PST:3 be.red+make:MID:PFV:3
+1	teʔ	teʔ	VERB	VI	_	2	compound:svc	_	AlignBegin=231700|AlignEnd=231980|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root|Word=teʔnẽ
+2	nẽØi	nẽ	AUX	V:ANY	_	0	root	_	AlignBegin=231980|AlignEnd=232820|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=teʔnẽ
+3	pi	pi	VERB	VI	_	4	compound:lvc	_	AlignBegin=232820|AlignEnd=233044|GE=be.red|Gloss=be.red|nWord=2|RX=[VI]|TokenType=Root|Word=pitiʃkwa
+4	taiʃkØwa	iʃk	AUX	V:ANY	_	2	parataxis	_	AlignBegin=233044|AlignEnd=233940|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=pitiʃkwa
+
+# sent_id = 086_54-54
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 234390, 237840
+# morphemic_text = nẽ -er -wa Ø- rodar ka -ir -i krih roh
+# text = nẽerwa Ørodar kairi krih roh
+# text_en = They went. They rolled all the rocks.
+# text_phrase-gls-de = 086.54_VG
+# text_phrase-gls-es = todos fueron y rodaron (la piedra)
+# text_phrase-gls-it = ˈnéɾà roðahìɾí kɾìʰ
+# text_phrase-gls-pro = || ˈnéːɾà, (1.1s) || roðakìɾí  kiɾìʰ, || °roʰ°. ((rotates both hands around each other)) (0.5s) ||
+# text_phrase-gls-wg = go:PFV:3PL SPA_roll+make:PST:3PL>3 everything roll
+1	nẽerwa	nẽ	AUX	V:ANY	_	0	root	_	AlignBegin=234390|AlignEnd=235252|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽra
+2	Ørodar	rodar	X	<NOT_SURE>	_	3	compound:lvc	_	AlignBegin=235252|AlignEnd=235596|GE=[SPA_roll]|Gloss=SPA_roll|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=rodakiri
+3	kairi	ka	AUX	V:ANY	_	1	parataxis	_	AlignBegin=235596|AlignEnd=236114|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=rodakiri
+4	krih	krih	NOUN	N	_	2	obj	_	AlignBegin=236114|AlignEnd=236976|GE=everything|Gloss=everything|nWord=3|RX=[N]|TokenType=Root|Word=krih
+5	roh	roh	ADV	IDEO	AdvType=Ideoph	2	advmod	_	AlignBegin=236976|AlignEnd=237840|GE=[ID:roll]|Gloss=ID:roll|nWord=4|RX=[IDEO]|TokenType=Root|Word=roh
+
+# sent_id = 086_55-55
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 238370, 239950
+# morphemic_text = nẽ -er -wa rodar ka -er -wa
+# text = nẽerwa rodar kaerwa
+# text_en = ### They went. They rolled ###.
+# text_phrase-gls-de = 086.55_VG
+# text_phrase-gls-it = ˈnéɾà roða
+# text_phrase-gls-pro = || ### (0.1s) || ## ˈnéɾà roða ## (0.1s) ||
+# text_phrase-gls-tl = syn_N/A
+# text_phrase-gls-wg = go:PFV:3PL SPA_roll+make:PFV:3PL
+1	nẽerwa	nẽ	AUX	V:ANY	_	0	root	_	AlignBegin=238370|AlignEnd=239160|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽra
+2	rodar	rodar	X	<NOT_SURE>	_	3	compound:lvc	_	AlignBegin=239160|AlignEnd=239358|GE=[SPA_roll]|Gloss=SPA_roll|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=rodakera
+3	kaerwa	ka	AUX	V:ANY	_	1	parataxis	_	AlignBegin=239358|AlignEnd=239950|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=rodakera
+
+# sent_id = 086_56-56
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 240066, 246680
+# morphemic_text = ãma Ø- arask -er -wa =ma ãma aso laguna te nẽ -er -wa munwaʃt tõʃ tõʃ tõʃ tõʃ
+# text = ãma Øaraskerwa =ma ãma aso laguna te nẽerwa munwaʃt tõʃ tõʃ tõʃ tõʃ
+# text_en = Um, when they rolled the rock (into the water), um, the water, the lake came and went, boiling.
+# text_phrase-gls-de = 086.56_VG
+# text_phrase-gls-es = cuando la (piedra) empujaron al agua, en la laguna,  cuando viene y se va se perdió, se perdió, se perdió
+# text_phrase-gls-it = àrã́skèɾmà ˈàmá àˈsò ˈlaɣuna  tõ̀ʃ tõ̀ʃ tõ̀ʃ
+# text_phrase-gls-pro = || ama aɣàrã́skèɾmà ˈàmá. || àˈsòa pə ˈlaɣuna tɘ neɾa munwaʃt. (0.3s) || tõ̀ʃ tõ̀ʃ tõ̀ʃ tõ̀[ʃ] ||
+# text_phrase-gls-wg = HES push:PFV:3PL>3 =when HES water SPA_lake come+go:PFV:3PL HES ID:boil ID:boil ID:boil ID:boil
+1	ãma	ãma	PART	PRT	_	2	discourse	_	AlignBegin=240066|AlignEnd=240617|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ãma
+2	Øaraskerwa	arask	AUX	V:ANY	_	8	advcl:tmod	_	AlignBegin=240617|AlignEnd=241168|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=arãsker
+3	=ma	_	SCONJ	PRT	_	2	mark	_	AlignBegin=241168|AlignEnd=241719|GE=when|Gloss==when|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
+4	ãma	ãma	PART	PRT	_	8	discourse	_	AlignBegin=241719|AlignEnd=242270|GE=[HES]|Gloss=HES|nWord=4|RX=[PRT]|TokenType=Root|Word=ãma
+5	aso	aso	NOUN	N	_	8	nsubj	_	AlignBegin=242270|AlignEnd=242821|GE=water|Gloss=water|nWord=5|RX=[N]|TokenType=Root|Word=aso
+6	laguna	laguna	X	<NOT_SURE>	_	5	reparandum	_	AlignBegin=242821|AlignEnd=243372|GE=[SPA_lake]|Gloss=SPA_lake|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
+7	te	te	VERB	VI	_	8	compound:svc	_	AlignBegin=243372|AlignEnd=243510|GE=come|Gloss=come|nWord=7|RX=[VI]|TokenType=Root|Word=tenera
+8	nẽerwa	nẽ	AUX	V:ANY	_	0	root	_	AlignBegin=243510|AlignEnd=243923|GE=[PFV]|Gloss=-PFV|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=tenera
+9	munwaʃt	munwaʃt	X	_	_	8	obl:mod	_	AlignBegin=243923|AlignEnd=244474|nWord=8|TokenType=Root|Word=munwaʃt
+10	tõʃ	tõʃ	ADV	IDEO	AdvType=Ideoph	9	reparandum	_	AlignBegin=244474|AlignEnd=245025|GE=[ID:boil]|Gloss=ID:boil|nWord=9|RX=[IDEO]|TokenType=Root|Word=tõʃ
+11	tõʃ	tõʃ	ADV	IDEO	AdvType=Ideoph	10	conj	_	AlignBegin=245025|AlignEnd=245576|GE=[ID:boil]|Gloss=ID:boil|nWord=10|RX=[IDEO]|TokenType=Root|Word=tõʃ
+12	tõʃ	tõʃ	ADV	IDEO	AdvType=Ideoph	10	conj	_	AlignBegin=245576|AlignEnd=246127|GE=[ID:boil]|Gloss=ID:boil|nWord=11|RX=[IDEO]|TokenType=Root|Word=tõʃ
+13	tõʃ	tõʃ	ADV	IDEO	AdvType=Ideoph	10	conj	_	AlignBegin=246127|AlignEnd=246680|GE=[ID:boil]|Gloss=ID:boil|nWord=12|RX=[IDEO]|TokenType=Root|Word=tõʃ
+
+# sent_id = 086_57-57
+# speaker_id = @AM
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 246500, 247280
+# morphemic_text = toʔ ta- õʃ -Ø -i
+# text = toʔ taõʃØi
+# text_en = AM: It got lost.
+# text_phrase-gls-de = 086.57_AM
+# text_phrase-gls-es = se perdió
+# text_phrase-gls-it = ˈtóʃí
+# text_phrase-gls-pro = || ˈ[tó]h toʃí? (0.1s) ||
+# text_phrase-gls-wg = MED.DEM lose:MID:PST:3
+1	toʔ	toʔ	PRON	PRO	_	2	nsubj	_	AlignBegin=246500|AlignEnd=246890|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toh
+2	taõʃØi	õʃ	AUX	V:ANY	_	0	root	_	AlignBegin=246890|AlignEnd=247280|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tõʃi
+
+# sent_id = 086_58-58
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 247370, 249766
+# morphemic_text = a- tuh -weʃk -Ø -wa =ʃona
+# text = atuhweʃkØwa =ʃona
+# text_en = VG: It is boiling, you see.
+# text_phrase-gls-de = 086.58_VG
+# text_phrase-gls-es = ¿no ves que se está hirviendo?
+# text_phrase-gls-it = àtùˈwɛ̀ʔʲʃkɔ̀ʃúnà
+# text_phrase-gls-pro = || hæʔ həʔ, (0.6s) || àtùwaʔiʃkɔ̀ʃonà. || ((AM; ɔw.)) ||
+# text_phrase-gls-wg = cook:REFL:PROG:PFV:3 HEM
+1	atuhweʃkØwa	tuh	AUX	V:ANY	_	0	root	_	AlignBegin=247370|AlignEnd=248568|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=atuweʃko
+2	=ʃona	_	PART	PRT	_	1	discourse	_	AlignBegin=248568|AlignEnd=249766|GE=[HEM]|Gloss==HEM|nWord=2|RX=[PRT]|TokenType=Clit|Word=ʃona
+
+# sent_id = 086_59-59
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 249910, 254240
+# morphemic_text = ãma a- tuh -Ø -wa Ø- iʃ -Ø -wa ama tukuluk kluk kluk kluk ea
+# text = ãma atuhØwa ØiʃØwa ama tukuluk kluk kluk kluk ea
+# text_en = It kept boiling kluk, kluk.
+# text_phrase-gls-de = 086.59_VG
+# text_phrase-gls-es = se puso a hervir
+# text_phrase-gls-it = ˈàmà àtù ˈtúkù lùk lùk ˈɛ́ː
+# text_phrase-gls-pro = || ˈàmà àtù wajʃəa ma ˈtúkù lùk lùk °kluk kluk° (0.1s) || ɛ́ːːæːːː (1.0s) ||
+# text_phrase-gls-wg = HES cook:REFL:PFV:3 make:PFV:3>3 HES bubble bubble bubble bubble yep
+1	ãma	ãma	PART	PRT	_	2	discourse	_	AlignBegin=249910|AlignEnd=250391|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ãma
+2	atuhØwa	tuh	AUX	V:ANY	_	0	root	_	AlignBegin=250391|AlignEnd=250872|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=atuwa
+3	ØiʃØwa	iʃ	AUX	V:ANY	_	2	advcl	_	AlignBegin=250872|AlignEnd=251353|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=iʃa
+4	ama	ama	PART	PRT	_	3	discourse	_	AlignBegin=251353|AlignEnd=251834|GE=[HES]|Gloss=HES|nWord=4|RX=[PRT]|TokenType=Root|Word=ama
+5	tukuluk	tukuluk	ADV	IDEO	AdvType=Ideoph	3	advmod	_	AlignBegin=251834|AlignEnd=252315|GE=bubble|Gloss=bubble|nWord=5|RX=[IDEO]|TokenType=Root|Word=tukuluk
+6	kluk	kluk	ADV	IDEO	AdvType=Ideoph	5	conj	_	AlignBegin=252315|AlignEnd=252796|GE=bubble|Gloss=bubble|nWord=6|RX=[IDEO]|TokenType=Root|Word=kluk
+7	kluk	kluk	ADV	IDEO	AdvType=Ideoph	5	conj	_	AlignBegin=252796|AlignEnd=253277|GE=bubble|Gloss=bubble|nWord=7|RX=[IDEO]|TokenType=Root|Word=kluk
+8	kluk	kluk	ADV	IDEO	AdvType=Ideoph	5	conj	_	AlignBegin=253277|AlignEnd=253758|GE=bubble|Gloss=bubble|nWord=8|RX=[IDEO]|TokenType=Root|Word=kluk
+9	ea	ea	INTJ	INTERJ	_	8	discourse	_	AlignBegin=253758|AlignEnd=254240|GE=yep|Gloss=yep|nWord=9|RX=[INTERJ]|TokenType=Root|Word=ea
+
+# sent_id = 086_60-60
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 255230, 257370
+# morphemic_text = mas boh -n -Ø -i teʔk -Ø -wa =ma mm
+# text = mas bohnØi teʔkØwa =ma mm
+# text_en = It splashes when it comes, mm (then shakes his head). | ‎‎Cuando vino, salía borbollando
+# text_phrase-gls-de = 086.60_VG
+# text_phrase-gls-it = máβónɘ̄ ˈtɛ́ɣūmá
+# text_phrase-gls-pro = || ˈmáˈβónɘ̄ ˈtɛ́kūmá || =<HI mːːːːːːː HI>> ((he then shakes his head bringing his right index in front of the mouth)) (0.8s) ||
+# text_phrase-gls-wg = hit+leave:DUR:PST:3 come:PFV:3 =when mm
+1	mas	mas	VERB	VT	_	2	compound	_	AlignBegin=255230|AlignEnd=255337|GE=hit|Gloss=hit|nWord=1|RX=[VT]|TokenType=Root|Word=masboni
+2	bohnØi	boh	AUX	V:ANY	_	0	root	_	AlignBegin=255337|AlignEnd=255765|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=masboni
+3	teʔkØwa	teʔk	AUX	V:ANY	_	2	advcl:tmod	_	AlignBegin=255765|AlignEnd=256300|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=teʔku
+4	=ma	_	SCONJ	PRT	_	3	mark	_	AlignBegin=256300|AlignEnd=256835|GE=when|Gloss==when|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
+5	mm	mm	INTJ	INTERJ	_	3	discourse	_	AlignBegin=256835|AlignEnd=257370|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]|TokenType=Root|Word=mm
+
+# sent_id = 086_61-61
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 258150, 261110
+# morphemic_text = ã =yã =ma yar mas boh -Ø -i teʔk -Ø -wa =ma
+# text = ã =yã =ma yar mas bohØi teʔkØwa =ma
+# text_en = There yes it splashed when it comes.
+# text_phrase-gls-de = 086.61_VG
+# text_phrase-gls-es = allí sí cuando venía saliendo
+# text_phrase-gls-it = àˈʝámɘ̀ āɾˈmáʰɸón ˈtèʔkùmà
+# text_phrase-gls-pro = || àˈʝámɘ̀ ār, (1.2s) || máhˈβóɛ ˈtèʔkùmà (0.6s) ||
+# text_phrase-gls-wg = DIST.DEM=LOC_there TOP true hit+leave:PST:3 come:PFV:3 =when
+1	ã	ã	PRON	PRO	_	6	obl:mod	_	AlignBegin=258150|AlignEnd=258396|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãyã
+2	=yã	_	ADP	POST	_	1	case	_	AlignBegin=258396|AlignEnd=258643|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãyã
+3	=ma	_	PART	PRT	_	1	case	_	AlignBegin=258643|AlignEnd=259136|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+4	yar	yar	ADV	<NOT_SURE>	_	6	advmod	_	AlignBegin=259136|AlignEnd=259629|GE=true|Gloss=true|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
+5	mas	mas	VERB	VT	_	6	compound	_	AlignBegin=259629|AlignEnd=259752|GE=hit|Gloss=hit|nWord=4|RX=[VT]|TokenType=Root|Word=masboi
+6	bohØi	boh	AUX	V:ANY	_	0	root	_	AlignBegin=259752|AlignEnd=260122|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=masboi
+7	teʔkØwa	teʔk	AUX	V:ANY	_	6	advcl:tmod	_	AlignBegin=260122|AlignEnd=260615|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=teʔku
+8	=ma	_	SCONJ	PRT	_	7	mark	_	AlignBegin=260615|AlignEnd=261110|GE=when|Gloss==when|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+
+# sent_id = 086_62-62
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 261670, 262880
+# morphemic_text = ĩ Ø- iʃ -Ø -tV -iʔ tV Ø- -er -wa =pra
+# text = ĩ ØiʃØtViʔ tVØerwa =pra
+# text_en = They say it did not do anything.
+# text_phrase-gls-de = 086.62_VG
+# text_phrase-gls-es = dicen que no hizo nada
+# text_phrase-gls-it = ʔĩ́ĩ́ʃˈtíʔ téˈɾòmpà
+# text_phrase-gls-pro = || ˈʔĩ́ʔĩ́ʃˈtíʔ/ téɾòmˈpà. (0.2s) ||
+# text_phrase-gls-wg = DEM.PROX make:NEG:PST:3>3 say:PFV:3PL>3 EMPH
+1	ĩ	ĩ	PRON	PRO	_	2	obj	_	AlignBegin=261670|AlignEnd=261972|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	ØiʃØtViʔ	iʃ	AUX	V:ANY	_	3	ccomp	_	AlignBegin=261972|AlignEnd=262274|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=iʃtiʔ
+3	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=262274|AlignEnd=262576|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=terũ|wordform=tV-erwa
+4	=pra	_	PART	PRT	_	3	discourse	_	AlignBegin=262576|AlignEnd=262880|GE=[EMPH]|Gloss==EMPH|nWord=4|RX=[PRT]|TokenType=Clit|Word=pra
+
+# sent_id = 086_63-63
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 263130, 265580
+# morphemic_text = arʃa mas a- kas- tok -er -i
+# text = arʃa mas akastokeri
+# text_en = They threw in too many.
+# text_phrase-gls-de = 086.63_VG
+# text_phrase-gls-es = dicen que le metieron de más
+# text_phrase-gls-it = ˈàːɾʃàʰ ˈmásàkāstòkɾīʔ
+# text_phrase-gls-pro = || ˈʔàːːːɾʃà ˈmásàkāstòkɾīʔ °###°. (1.1s) ||
+# text_phrase-gls-wg = too.much hit+enter:APPL:PST:3PL>3
+1	arʃa	arʃa	NOUN	<NOT_SURE>	_	3	dep:comp	_	AlignBegin=263130|AlignEnd=264355|GE=too.much|Gloss=too.much|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=arʃa
+2	mas	mas	VERB	VT	_	3	compound	_	AlignBegin=264355|AlignEnd=264559|GE=hit|Gloss=hit|nWord=2|RX=[VT]|TokenType=Root|Word=masakastokri
+3	akastokeri	tok	AUX	V:ANY	_	0	root	_	AlignBegin=264559|AlignEnd=265580|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=masakastokri
+
+# sent_id = 086_64-64
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 266670, 269040
+# morphemic_text = awa kapani ĩ =ken teʔk -Ø -wa ʃaʔ mm
+# text = awa kapani ĩ =ken teʔkØwa ʃaʔ mm
+# text_en = They also come the next morning like that, mm (sketches a head shake).
+# text_phrase-gls-de = 086.64_VG
+# text_phrase-gls-es = eso, como viene mañana por la mañana
+# text_phrase-gls-it = àˈwà kàˈpánī ĩ́kẽ̄ tèˈkʷàʃā
+# text_phrase-gls-pro = || àˈwà kàˈpánī ĩ́ˈkẽ̄ntè kʷàˈʃādə || =mːːːːː ((only high pitched in the middle, head to dropped to his right and hand raised to the opposite side while stretching the chin pulling up the lower lip)) (0.3s) ||
+# text_phrase-gls-wg = also morning DEM.PROX =SIM come:PFV:3 tomorrow mm
+1	awa	awa	ADV	ADV	_	5	advmod	_	AlignBegin=266670|AlignEnd=267009|GE=also|Gloss=also|nWord=1|RX=[ADV]|TokenType=Root|Word=awa
+2	kapani	kapani	NOUN	N	_	5	obl:mod	_	AlignBegin=267009|AlignEnd=267348|GE=morning|Gloss=morning|nWord=2|RX=[N]|TokenType=Root|Word=kapani
+3	ĩ	ĩ	PRON	PRO	_	5	obl:mod	_	AlignBegin=267348|AlignEnd=267687|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ĩ
+4	=ken	_	PART	PRT	_	3	case	_	AlignBegin=267687|AlignEnd=268026|GE=[SIM]|Gloss==SIM|nWord=4|RX=[PRT]|TokenType=Clit|Word=kẽ
+5	teʔkØwa	teʔk	AUX	V:ANY	_	0	root	_	AlignBegin=268026|AlignEnd=268365|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=teʔkwa
+6	ʃaʔ	ʃaʔ	NOUN	<NOT_SURE>	_	5	obl:mod	_	AlignBegin=268365|AlignEnd=268704|GE=tomorrow|Gloss=tomorrow|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=ʃaʔ
+7	mm	mm	INTJ	INTERJ	_	5	discourse	_	AlignBegin=268704|AlignEnd=269040|GE=[INTERJ]|Gloss=INTERJ|nWord=7|RX=[INTERJ]|TokenType=Root|Word=mm
+
+# sent_id = 086_65-65
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 269340, 272040
+# morphemic_text = ã =yã =mã sa akina Ø- ũ- we -er -wa Ø- tuk -er -i
+# text = ã =yã =mã sa akina Øũweerwa Øtukeri
+# text_en = There, they collected a few rocks and heated them.
+# text_phrase-gls-de = 086.65_VG
+# text_phrase-gls-es = allá juntaron muchas piedras, hirvieron
+# text_phrase-gls-it = ā(já)mã́ sàʔ àˈkĩ̄ ũ̀ˈwēɾà ˈtúkɾìʔ
+# text_phrase-gls-pro = || ājámã́mə, (0.3s) || <% sàː %> ˈkĩ̄nũ̀ˈwēɾà ˈtúkɾìʔ °##°. (0.2s) ||
+# text_phrase-gls-wg = DIST.DEM=LOC_there TOP rock a.little collect:CAUS:PFV:3PL>3 cooked:PST:3PL
+1	ã	ã	PRON	PRO	_	6	obl:mod	_	AlignBegin=269340|AlignEnd=269565|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãyã
+2	=yã	_	ADP	POST	_	1	case	_	AlignBegin=269565|AlignEnd=269790|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãyã
+3	=mã	_	PART	PRT	_	1	case	_	AlignBegin=269790|AlignEnd=270240|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
+4	sa	sa	NOUN	N	_	6	obj	_	AlignBegin=270240|AlignEnd=270690|GE=rock|Gloss=rock|nWord=3|RX=[N]|TokenType=Root|Word=sa
+5	akina	akina	NOUN	N	_	4	nmod	_	AlignBegin=270690|AlignEnd=271140|GE=a.little|Gloss=a.little|nWord=4|RX=[N]|TokenType=Root|Word=akĩn
+6	Øũweerwa	we	AUX	V:ANY	_	0	root	_	AlignBegin=271140|AlignEnd=271590|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=ũwera
+7	Øtukeri	tuk	AUX	V:ANY	_	6	conj	_	AlignBegin=271590|AlignEnd=272040|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=tukri
+
+# sent_id = 086_66-66
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 272200, 276900
+# morphemic_text = mas a- kas- tok mas a- kas- tok =pe ʃere -er -i ata =ma teweh ta- peh -Ø -i
+# text = mas akastok mas akastok =pe ʃereeri ata =ma teweh tapehØi
+# text_en = Throwing it in, only throwing it in. They went down on the other side. It went up and stayed there.
+# text_phrase-gls-de = 086.66_VG
+# text_phrase-gls-es = le metieron mas, le metieron y bajaron ahí, se subio y se quedó
+# text_phrase-gls-it = ˈmāsàkàstòʔ ˈmāsàkàstòʔ ˈʃɛ̀lēɾē àˈtāmà ˈtʷētàpɘ̀ĩ́
+# text_phrase-gls-pro = || ˈmāsàkàstòʔ °ˈmāsàkàstòʔ meː° (0.5s) || ˈʃɛ̀lēɾē °ˈtāmà° ˈtuwēˈtàpeʔĩ́ (0.9s) ||
+# text_phrase-gls-wg = hit+enter:APPL:3O(BARE) hit+enter:APPL:3O(BARE) =only go.down:PST:3PL other.side TOP go.up+hang:MID:PST:3
+1	mas	mas	VERB	VT	_	2	dep:comp	_	AlignBegin=272200|AlignEnd=272368|GE=hit|Gloss=hit|nWord=1|RX=[VT]|TokenType=Root|Word=masakastok
+2	akastok	tok	AUX	V>VT	Voice=Appl	6	advcl	_	AlignBegin=272368|AlignEnd=272871|GE=[APPL].[R]|Gloss=APPL.R-|nWord=1|RX=[V>VT]|TokenType=InflAff|Word=masakastok
+3	mas	mas	VERB	VT	_	4	compound	_	AlignBegin=272871|AlignEnd=273039|GE=hit|Gloss=hit|nWord=2|RX=[VT]|TokenType=Root|Word=masakastok
+4	akastok	tok	AUX	V>VT	Voice=Appl	2	reparandum	_	AlignBegin=273039|AlignEnd=273542|GE=[APPL].[R]|Gloss=APPL.R-|nWord=2|RX=[V>VT]|TokenType=InflAff|Word=masakastok
+5	=pe	_	PART	PRT	_	4	advmod	_	AlignBegin=273542|AlignEnd=274213|GE=only|Gloss==only|nWord=3|RX=[PRT]|TokenType=Clit|Word=me
+6	ʃereeri	ʃere	AUX	V:ANY	_	0	root	_	AlignBegin=274213|AlignEnd=274884|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃeleri
+7	ata	ata	NOUN	N	_	6	obl:mod	_	AlignBegin=274884|AlignEnd=275555|GE=other.side|Gloss=other.side|nWord=5|RX=[N]|TokenType=Root|Word=ata
+8	=ma	_	PART	PRT	_	7	case	_	AlignBegin=275555|AlignEnd=276226|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+9	teweh	teweh	VERB	VI	_	10	compound:svc	_	AlignBegin=276226|AlignEnd=276361|GE=go.up|Gloss=go.up|nWord=7|RX=[VI]|TokenType=Root|Word=twẽtapehĩ
+10	tapehØi	peh	AUX	V:ANY	_	6	conj	_	AlignBegin=276361|AlignEnd=276900|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=twẽtapehĩ
+
+# sent_id = 086_67-67
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 277830, 280060
+# morphemic_text = ke ya Ø- tʃã -er -wa =ma ke õ -na iʃ -t -i -ri
+# text = ke ya Øtʃãerwa =ma ke õna iʃtiri
+# text_en = When they saw it, (the water) was already dying out (drying up). (AM; mm).
+# text_phrase-gls-de = 086.67_VG
+# text_phrase-gls-es = ya cuando vieron, ya estaba secando
+# text_phrase-gls-it = ˈké(ʝa) ˈʃɛ̀lēɾmà ké ˈõ̀nàìʃtīrìʔ
+# text_phrase-gls-pro = || ˈkéʝa ˈʃɛ̀lēɾmà (0.1s) || ké ˈʔõ̀nàʔìʃˈtīrìʔ (0.1s) ||
+# text_phrase-gls-wg = already SPA_already see:PFV:3PL>3 =when already sleep+make:DUR:PST:3
+1	ke	ke	ADV	ADV	_	3	advmod:tmod	_	AlignBegin=277830|AlignEnd=278202|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
+2	ya	ya	X	<NOT_SURE>	_	1	reparandum	_	AlignBegin=278202|AlignEnd=278574|GE=[SPA_already]|Gloss=SPA_already|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=ya
+3	Øtʃãerwa	tʃã	AUX	V:ANY	_	7	advcl	_	AlignBegin=278574|AlignEnd=278946|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃãler
+4	=ma	_	SCONJ	PRT	_	3	mark	_	AlignBegin=278946|AlignEnd=279318|GE=when|Gloss==when|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+5	ke	ke	ADV	ADV	_	7	advmod:tmod	_	AlignBegin=279318|AlignEnd=279690|GE=already|Gloss=already|nWord=5|RX=[ADV]|TokenType=Root|Word=ke
+6	õna	õ	AUX	N>???	_	7	obj:lvc	_	AlignBegin=279690|AlignEnd=279814|GE=[DUR]|Gloss=-DUR|nWord=6|RX=[N>???]|TokenType=InflAff|Word=õnaiʃtiri
+7	iʃtiri	iʃ	AUX	V:ANY	_	0	root	_	AlignBegin=279814|AlignEnd=280060|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=õnaiʃtiri
+
+# sent_id = 086_68-68
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 280450, 284953
+# morphemic_text = aso Ø- patok -ʃe -er -wa ã laguna ã laguna =ro
+# text = aso Øpatokʃeerwa ã laguna ã laguna =ro
+# text_en = They had heated the water, the lake, the lake. (AM; mhm).
+# text_phrase-gls-de = 086.68_VG
+# text_phrase-gls-es = el agua de la laguna que calentaron
+# text_phrase-gls-it = àsò pàˈtɔ̀kàʃɛ̀lēɾō laɣunaɾóʔ
+# text_phrase-gls-pro = || ((AM; mm[mm])) || °[aɾə]° ˈsòpàˈtɔ̀kàˈʃɛ̀lēˈɾō (0.1s) || ((AM; ɔ[w].)) || [ã la]ɣunaʔ (0.2s) || ʔã laɣunarõʔ || ((AM; mhm.)) (0.7s) ||
+# text_phrase-gls-wg = water heat:TOT:PFV:3PL>3 DEM.DIST SPA_lake DEM.DIST SPA_lake ABS
+1	aso	aso	NOUN	N	_	2	obj	_	AlignBegin=280450|AlignEnd=281093|GE=water|Gloss=water|nWord=1|RX=[N]|TokenType=Root|Word=aso
+2	Øpatokʃeerwa	patok	AUX	V:ANY	_	0	root	_	AlignBegin=281093|AlignEnd=281736|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=patokʃelero
+3	ã	ã	PRON	PRO	_	4	det	_	AlignBegin=281736|AlignEnd=282379|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=ã
+4	laguna	laguna	X	<NOT_SURE>	_	2	obj	_	AlignBegin=282379|AlignEnd=283022|GE=[SPA_lake]|Gloss=SPA_lake|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
+5	ã	ã	PRON	PRO	_	6	det	_	AlignBegin=283022|AlignEnd=283665|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ã
+6	laguna	laguna	X	<NOT_SURE>	_	4	reparandum	_	AlignBegin=283665|AlignEnd=284308|GE=[SPA_lake]|Gloss=SPA_lake|nWord=6|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
+7	=ro	_	ADP	PRT	_	6	case	_	AlignBegin=284308|AlignEnd=284953|GE=[ABS]|Gloss==ABS|nWord=7|RX=[PRT]|TokenType=Clit|Word=ro
+
+# sent_id = 086_69-69
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 285700, 292450
+# morphemic_text = ĩketa =ma yar =i joder ka -par -wa a- mas -par -wa tVk a- -ir -i tV Ø- -er -wa
+# text = ĩketa =ma yar =i joder kaparwa amasparwa tVkairi tVØerwa
+# text_en = Now it is true. We screwep it up. (AM; laughs). We killed it. They say they told each other (laughs).
+# text_phrase-gls-de = 086.69_VG
+# text_phrase-gls-es = ahora, es verdad, se dijeron, la fregamos, la matamos
+# text_phrase-gls-it = ˈĩ̀kèˈtāmɘ̀ ˈʝáɾíʔ xoˈðeʰ kàʔpàɾˈwáʔ ˈāmàspàɾwáʔ tíʔàɣìɾíʔ
+# text_phrase-gls-pro = || ˈĩ̀kèˈtāmɘ̀ ˈʝáɾíʔ, (0.1s) || xoˈðeh ˈkàʔpàɾˈwáʔ (0.5s) || ((AM; <@ <(H)> həʔ [həʔ həʔ həʔ həʔ həʔ həʔ hɑʔ hɑʔ hɑʔ hɑʔ @>])) || [@@ ˈāmàspàɾwáʔ]. (0.3s) || tíʔ[àɣìɾíʔ ter]we[s]. || ((AM; [@@@])) || ((AM; [@@@@])) || [@@@] (0.3s) ||
+# text_phrase-gls-wg = now TOP true COP:PFV:3 SPA_screw.up+make:PFV:INCL kill:PFV:INCL>3 say:RECP:PST:3PL say:PFV:3PL>3
+1	ĩketa	ĩketa	NOUN	N	_	3	obl:mod	_	AlignBegin=285700|AlignEnd=286544|GE=now|Gloss=now|nWord=1|RX=[N]|TokenType=Root|Word=ĩketa
+2	=ma	_	PART	PRT	_	1	case	_	AlignBegin=286544|AlignEnd=287388|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	yar	yar	NOUN	<NOT_SURE>	_	0	root	_	AlignBegin=287388|AlignEnd=288232|GE=true|Gloss=true|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
+4	=i	_	AUX	COP	_	3	cop	_	AlignBegin=288232|AlignEnd=289076|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=4|RX=[COP]|TokenType=Clit|Word=i
+5	joder	joder	X	<NOT_SURE>	_	6	obj:lvc	_	AlignBegin=289076|AlignEnd=289287|GE=[SPA_screw].[up]|Gloss=SPA_screw.up|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=hodehkaparwa
+6	kaparwa	ka	AUX	V:ANY	_	3	parataxis	_	AlignBegin=289287|AlignEnd=289920|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=hodehkaparwa
+7	amasparwa	mas	AUX	V:ANY	_	6	parataxis	_	AlignBegin=289920|AlignEnd=290764|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=amasparwa
+8	tVkairi	_	AUX	V:ANY	_	9	ccomp	_	AlignBegin=290764|AlignEnd=291608|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=tikakiri
+9	tVØerwa	_	AUX	V:ANY	_	7	parataxis	_	AlignBegin=291608|AlignEnd=292450|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=terwe|wordform=tV-erwa
+
+# sent_id = 086_70-70
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 293135, 296460
+# morphemic_text = a- mas -par -wa yar teʔne
+# text = amasparwa yar teʔne
+# text_en = We really killed it.
+# text_phrase-gls-de = 086.70_VG
+# text_phrase-gls-es = la matamos, verdad, vinieron y fueron, la mataron ya, la vieron, la matamos, la abandonaron dicen.
+# text_phrase-gls-it = ˈxāmàspàɾwáʔ ʝá ˈtèʔnɛː àˈmáskèɾwá kèˈʧéɾà [[[masper takri terwa]]]
+# text_phrase-gls-pro = || ((AM; ɛːæ)) || ˈxāmàspàɾwáʔ ʝá[r], ||((AM; <@ [heʔ] heʔ @>)) || ˈtèʔnɛːeːːːː. (1.1s) ||
+# text_phrase-gls-wg = kill:PFV:INCL>3 true ID:strike?
+1	amasparwa	mas	AUX	V:ANY	_	0	root	_	AlignBegin=293135|AlignEnd=294243|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=amasparwa
+2	yar	yar	NOUN	<NOT_SURE>	_	1	obl:mod	_	AlignBegin=294243|AlignEnd=295351|GE=true|Gloss=true|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
+3	teʔne	teʔne	ADV	IDEO	AdvType=Ideoph	1	advmod	_	AlignBegin=295351|AlignEnd=296460|GE=[ID:strike?]|Gloss=ID:strike?|nWord=3|RX=[IDEO]|TokenType=Root|Word=teʔne
+
+# sent_id = 086_71-71
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 297513, 300970
+# morphemic_text = a- mask -er -wa ke Ø- ʃa -ir -wa Ø- mas -per -wa tVk a- -er -i tV Ø- -er -wa
+# text = amaskerwa ke Øʃairwa Ømasperwa tVkaeri tVØerwa
+# text_en = They killed it and alredy saw it. "We killed it", they told each other, they say.
+# text_phrase-gls-de = 086.71_VG
+# text_phrase-gls-es = la matamos, verdad, vinieron y fueron, la mataron ya, la vieron, la matamos, la abandonaron dicen.
+# text_phrase-gls-it = ˈxāmàspàɾwáʔ ʝá ˈtèʔnɛː àˈmáskèɾwá kèˈʧéɾà [[[masper takri terwa]]]
+# text_phrase-gls-pro = || ((AM; @@@@@)) || àˈmáskèɾwá kèˈʃéɾà, || masper takri terwa (0.1s) ||
+# text_phrase-gls-wg = kill:PFV:3PL>3 already see:PFV:3PL>3 kill:PFV:INCL>3 say:RECP:PST:3PL say:PFV:3PL>3
+1	amaskerwa	mask	AUX	V:ANY	_	0	root	_	AlignBegin=297513|AlignEnd=298089|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=amaskerwa
+2	ke	ke	ADV	ADV	_	3	advmod:tmod	_	AlignBegin=298089|AlignEnd=298665|GE=already|Gloss=already|nWord=2|RX=[ADV]|TokenType=Root|Word=ke
+3	Øʃairwa	ʃa	AUX	V:ANY	_	1	conj	_	AlignBegin=298665|AlignEnd=299241|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=ʃera
+4	Ømasperwa	mas	AUX	V:ANY	_	5	ccomp	_	AlignBegin=299241|AlignEnd=299817|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=masper
+5	tVkaeri	_	AUX	V:ANY	_	6	ccomp	_	AlignBegin=299817|AlignEnd=300393|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=takri
+6	tVØerwa	_	AUX	V:ANY	_	3	parataxis	_	AlignBegin=300393|AlignEnd=300970|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=terwa|wordform=tV-erwa
+
+# sent_id = 086_72-72
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 301080, 308060
+# morphemic_text = ãma nã Ø- kisk -er -tV -i tV Ø- -er -i ʃaʔ ani teʔ Ø- ʃã nã -a–pi =hã as =na tʃa -i -wa =na
+# text = ãma nã ØkiskertVi tVØeri ʃaʔ ani teʔ Øʃã nãapi =hã as =na tʃaiwa =na
+# text_en = They did not go close, they say, "Later tomorrow, we come see it and go, in case there is one."
+# text_phrase-gls-de = 086.72_VG
+# text_phrase-gls-es = no se acercaron, el dia siguiente (mañana) en la tarde, vendremos a verlo y nos iremos por si había alguno,
+# text_phrase-gls-it = ˈàmà ˈnéːtīskátìtáʰ ˈʃāní té ʃàˈnàpɛ́ ˈʔāsnáʃùénā
+# text_phrase-gls-pro = || ˈàmà ˈnéːkiskerti °tarɨ°!, (0.7s) || ˈʃāˈní (0.7s) || ˈtén ˈʃànàˈpɛ́ (1.4s) || ˈʔāsnáʃùˈʔénā (0.8s) ||
+# text_phrase-gls-wg = HES go+get.close:NEG:PST:3PL say:PST:3PL>3 tomorrow late come+see+go:FUT:INCL>3=FOC one INDF be.there:PFV:3 =INSC
+1	ãma	ãma	PART	PRT	_	3	discourse	_	AlignBegin=301080|AlignEnd=301778|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ãma
+2	nã	nã	VERB	VI	_	3	compound:svc	_	AlignBegin=301778|AlignEnd=301894|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root|Word=nãkiskerti
+3	ØkiskertVi	kisk	AUX	V:ANY	_	0	root	_	AlignBegin=301894|AlignEnd=302476|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nãkiskerti
+4	tVØeri	_	AUX	V:ANY	_	3	parataxis	_	AlignBegin=302476|AlignEnd=303174|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tah|wordform=tV-eri
+5	ʃaʔ	ʃaʔ	NOUN	<NOT_SURE>	_	9	obl:mod	_	AlignBegin=303174|AlignEnd=303872|GE=tomorrow|Gloss=tomorrow|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=ʃa
+6	ani	ani	NOUN	<NOT_SURE>	_	5	nmod	_	AlignBegin=303872|AlignEnd=304570|GE=late|Gloss=late|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=ani
+7	teʔ	teʔ	VERB	VI	_	8	compound:svc	_	AlignBegin=304570|AlignEnd=304686|GE=come|Gloss=come|nWord=6|RX=[VI]|TokenType=Root|Word=teʔʃãnapẽ
+8	Øʃã	ʃã	VERB	VT	_	9	compound:svc	_	AlignBegin=304686|AlignEnd=304918|GE=see|Gloss=see|nWord=6|RX=[VT]|TokenType=Root|Word=teʔʃãnapẽ
+9	nãapi	nã	AUX	V:ANY	_	4	ccomp	_	AffLemma=-pi|AlignBegin=304918|AlignEnd=305150|GE=[S1PL].[INCL-FUT]|Gloss=-FUT|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=teʔʃãnapẽ
+10	=hã	_	PART	PRT	_	9	discourse	_	AlignBegin=305150|AlignEnd=305268|GE=[FOC]|Gloss==FOC|nWord=6|RX=[PRT]|TokenType=Clit|Word=teʔʃãnapẽ
+11	as	as	NUM	N	_	13	nsubj	_	AlignBegin=305268|AlignEnd=305966|GE=one|Gloss=one|nWord=7|RX=[N]|TokenType=Root|Word=as
+12	=na	_	PART	PRT	_	11	det	_	AlignBegin=305966|AlignEnd=306664|GE=[INDF]|Gloss==INDF|nWord=8|RX=[PRT]|TokenType=Clit|Word=na
+13	tʃaiwa	tʃa	AUX	V:ANY	_	9	advcl	_	AlignBegin=306664|AlignEnd=307362|GE=[PFV]|Gloss=-PFV|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=tʃwa
+14	=na	_	PART	PRT	_	13	discourse	_	AlignBegin=307362|AlignEnd=308060|GE=[INSC]|Gloss==INSC|nWord=10|RX=[PRT]|TokenType=Clit|Word=na
+
+# sent_id = 086_73-73
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 309530, 313460
+# morphemic_text = akreke teʔk -er -i semana =s ke =ma ã =ra tV Ø- -er -wa =ma
+# text = akreke teʔkeri semana =s ke =ma ã =ra tVØerwa =ma
+# text_en = But, they came, one week already, what they told those ones.
+# text_phrase-gls-de = 086.73_VG
+# text_phrase-gls-es = pero vinieron por una semana lo que dijeron a esos
+# text_phrase-gls-it = ˈàkèɾē téˈkɾéː seˈmanas àˈɾáʔtèɾmā
+# text_phrase-gls-pro = || ˈàkaɾēke (0.8s) || ʔeː téˈkɾéːːː || seˈmanas kemenàˈráʔtèɾmā (0.9s) ||
+# text_phrase-gls-tl = syn_N/A
+# text_phrase-gls-wg = but come:PST:3PL SPA_week INDF.ART already TOP DEM.DIST ABS say:PFV:3PL>3 NOM
+# tags = Problem, fragment
+1	akreke	akreke	ADV	<NOT_SURE>	_	2	discourse	_	AlignBegin=309530|AlignEnd=309923|GE=but|Gloss=but|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=akreke
+2	teʔkeri	teʔk	AUX	V:ANY	_	0	root	_	AlignBegin=309923|AlignEnd=310316|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=teʔkre
+3	semana	semana	X	<NOT_SURE>	_	2	obl:mod	_	AlignBegin=310316|AlignEnd=310709|GE=[SPA_week]|Gloss=SPA_week|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=semana
+4	=s	_	DET	DET	_	3	det	_	AlignBegin=310709|AlignEnd=311102|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=4|RX=[DET]|TokenType=Clit|Word=s
+5	ke	ke	ADV	ADV	_	3	nmod	_	AlignBegin=311102|AlignEnd=311495|GE=already|Gloss=already|nWord=5|RX=[ADV]|TokenType=Root|Word=ke
+6	=ma	_	PART	PRT	_	5	case	_	AlignBegin=311495|AlignEnd=311888|GE=[TOP]|Gloss==TOP|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+7	ã	ã	PRON	PRO	_	9	obj	_	AlignBegin=311888|AlignEnd=312281|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=ã
+8	=ra	_	ADP	PRT	_	7	case	_	AlignBegin=312281|AlignEnd=312674|GE=[ABS]|Gloss==ABS|nWord=8|RX=[PRT]|TokenType=Clit|Word=raʔ
+9	tVØerwa	_	AUX	V:ANY	_	2	dep	_	AlignBegin=312674|AlignEnd=313067|GE=[PFV]|Gloss=-PFV|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=ter|wordform=tV-erwa
+10	=ma	_	SCONJ	PRT	_	9	mark	_	AlignBegin=313067|AlignEnd=313460|GE=[NOM]|Gloss==NOM|nWord=10|RX=[PRT]|TokenType=Clit|Word=ma
+
+# sent_id = 086_74-74
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 314360, 316360
+# morphemic_text = ke Ø- tʃã -er -wa =ma ʃu =r -Ø -wa monoʔk -er -i
+# text = ke Øtʃãerwa =ma ʃu =rØwa monoʔkeri
+# text_en = When they saw it, the vultures had come down.
+# text_phrase-gls-de = 086.74_VG
+# text_phrase-gls-es = cuando vieron ya habían bajado los zopilotes [a comer al wisinka]
+# text_phrase-gls-it = kè ˈʧɛ̀léɾmà ˈʃúɾʲú mōnɔ̄ʔkɾì
+# text_phrase-gls-pro = || kè ˈʧɛ̀léɾmà ˈʃúɾjú mōˈnɔ̄ʔkɾì (0.3s) ||
+# text_phrase-gls-wg = already see:PFV:3PL>3 =when vulture COP:PFV:3 put.down:PST:3PL
+1	ke	ke	ADV	ADV	_	2	advmod:tmod	_	AlignBegin=314360|AlignEnd=314693|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
+2	Øtʃãerwa	tʃã	AUX	V:ANY	_	4	advcl:tmod	_	AlignBegin=314693|AlignEnd=315026|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tʃãler
+3	=ma	_	SCONJ	PRT	_	2	mark	_	AlignBegin=315026|AlignEnd=315359|GE=when|Gloss==when|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
+4	ʃu	ʃu	NOUN	N	_	0	root	_	AlignBegin=315359|AlignEnd=315692|GE=vulture|Gloss=vulture|nWord=4|RX=[N]|TokenType=Root|Word=ʃu
+5	=rØwa	_	AUX	V:ANY	_	4	cop	_	AlignBegin=315692|AlignEnd=316025|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=ru
+6	monoʔkeri	monoʔk	AUX	V:ANY	_	4	advcl:cleft	_	AlignBegin=316025|AlignEnd=316360|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=monoʔkri
+
+# sent_id = 086_75-75
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 316620, 319453
+# morphemic_text = ah joder ka -par -i
+# text = ah joder kapari
+# text_en = "We screwed it up".
+# text_phrase-gls-de = 086.75_VG
+# text_phrase-gls-es = ah, lo jodimos
+# text_phrase-gls-it = āː xoˈðeʰ ˈkàʔpɾì
+# text_phrase-gls-pro = || ʔāːːːː (0.1s) || xoˈðeʰ ˈkàʔ[pɾì]. || ((AM; [@@]@@@[@@@@])) || [@@@]@[@] ||
+# text_phrase-gls-wg = INTERJ SPA_screw.up+PST:INCL
+1	ah	ah	INTJ	INTERJ	_	3	discourse	_	AlignBegin=316620|AlignEnd=318036|GE=[INTERJ]|Gloss=INTERJ|nWord=1|RX=[INTERJ]|TokenType=Root|Word=aa
+2	joder	joder	X	<NOT_SURE>	_	3	obj:lvc	_	AlignBegin=318036|AlignEnd=318390|GE=[SPA_screw].[up]|Gloss=SPA_screw.up|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=hodehkapari
+3	kapari	ka	AUX	V:ANY	_	0	root	_	AlignBegin=318390|AlignEnd=319453|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=hodehkapari
+
+# sent_id = 086_76-76
+# speaker_id = @AM
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 319200, 320090
+# morphemic_text = a- mask -ir -i
+# text = amaskiri
+# text_en = AM: They killed it.
+# text_phrase-gls-de = 086.76_AM
+# text_phrase-gls-es = lo mataron
+# text_phrase-gls-it = àˈmàsɣɾì
+# text_phrase-gls-pro = || [@] àˈmàsɣɾì? (0.1s) ||
+# text_phrase-gls-wg = kill:PST:3PL>3
+1	amaskiri	mask	AUX	V:ANY	_	0	root	_	AlignBegin=319200|AlignEnd=320090|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=amaskri
+
+# sent_id = 086_77-77
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 320150, 321600
+# morphemic_text = a- mas -par -i =ʃona yar
+# text = amaspari =ʃona yar
+# text_en = VG: We really killed it, you see.
+# text_phrase-gls-de = 086.77_VG
+# text_phrase-gls-es = no ves que lo matamos
+# text_phrase-gls-it = àˈmàspèɾíʔ
+# text_phrase-gls-pro = || àˈmàspaɾíʔ ˈʃonoˈjar. (0.3s) ||
+# text_phrase-gls-wg = kill:PST:INCL>3 =HEM true
+1	amaspari	mas	AUX	V:ANY	_	0	root	_	AlignBegin=320150|AlignEnd=320633|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=amaspari
+2	=ʃona	_	PART	PRT	_	1	discourse	_	AlignBegin=320633|AlignEnd=321116|GE=[HEM]|Gloss==HEM|nWord=2|RX=[PRT]|TokenType=Clit|Word=ʃono
+3	yar	yar	NOUN	<NOT_SURE>	_	1	obl:mod	_	AlignBegin=321116|AlignEnd=321600|GE=true|Gloss=true|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=yar
+
+# sent_id = 086_78-78
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 321860, 324300
+# morphemic_text = akati -par -i tV Ø- -er -wa =pra
+# text = akatipari tVØerwa =pra
+# text_en = "We were afraid" they said.
+# text_phrase-gls-de = 086.78_VG
+# text_phrase-gls-es = decían ‘teniamos miedo de esa wisinka’
+# text_phrase-gls-it = ˈàkàtìʔpàríːʔ tēˈɾùmpɾà
+# text_phrase-gls-pro = || ((AM; jar?)) || ˈàkàtìʔpàríːʔ ˈtēɾùmˈpɾà. ||
+# text_phrase-gls-wg = be.afraid:PST:INCL say:PFV:3PL>3 EMPH
+1	akatipari	akati	AUX	V:ANY	_	2	ccomp	_	AlignBegin=321860|AlignEnd=322673|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=akatipari
+2	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=322673|AlignEnd=323486|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=terũ|wordform=tV-erwa
+3	=pra	_	PART	PRT	_	2	discourse	_	AlignBegin=323486|AlignEnd=324300|GE=[EMPH]|Gloss==EMPH|nWord=3|RX=[PRT]|TokenType=Clit|Word=pra
+
+# sent_id = 086_79-79
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 324300, 328990
+# morphemic_text = ã wisĩnka =ĩ mm peʃ ãʔ -tah peʃ toq -tah
+# text = ã wisĩnka =ĩ mm peʃ ãʔtah peʃ toqtah
+# text_en = It's the Wisinka, mm (raising upper lip with his mout closed). The people eater. The people swallower.
+# text_phrase-gls-de = 086.79_VG
+# text_phrase-gls-es = la que se comía a la gente (comedor), la que se tragaba a la gente (tragador)
+# text_phrase-gls-it = áʰwìˈsìŋɣàĩ́ péˈʃáʔtàk péˈʃtóʔtàʰ
+# text_phrase-gls-pro = || áʰwìˈsìŋkàʔĩ́. (0.2s) || <HI mːːːː HI> || ((AM; mhm.)) (0.7s) || péˈʃáʔtàɣ. (0.1s) || péjʃˈtóqtàʰ. (0.5s) ||
+# text_phrase-gls-wg = DEM.DIST wisinka COP:PFV:3 mm people eat:AG people drink:AG
+1	ã	ã	PRON	PRO	_	2	det	_	AlignBegin=324300|AlignEnd=324886|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ã
+2	wisĩnka	wisĩnka	NOUN	N	_	0	root	_	AlignBegin=324886|AlignEnd=325472|GE=wisinka|Gloss=wisinka|nWord=2|RX=[N]|TokenType=Root|Word=wisĩnka
+3	=ĩ	_	AUX	COP	_	2	cop	_	AlignBegin=325472|AlignEnd=326058|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=3|RX=[COP]|TokenType=Clit|Word=ĩ
+4	mm	mm	INTJ	INTERJ	_	2	discourse	_	AlignBegin=326058|AlignEnd=326644|GE=[INTERJ]|Gloss=INTERJ|nWord=4|RX=[INTERJ]|TokenType=Root|Word=mm
+5	peʃ	peʃ	NOUN	N	_	6	obj	_	AlignBegin=326644|AlignEnd=327230|GE=people|Gloss=people|nWord=5|RX=[N]|TokenType=Root|Word=peʃ
+6	ãʔtah	ãʔ	NOUN	V>N	_	8	reparandum	_	AlignBegin=327230|AlignEnd=327816|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=6|RX=[V>N]|TokenType=DerAff|Word=ãʔtah
+7	peʃ	peʃ	NOUN	N	_	8	obj	_	AlignBegin=327816|AlignEnd=328402|GE=people|Gloss=people|nWord=7|RX=[N]|TokenType=Root|Word=peʃ
+8	toqtah	toq	NOUN	V>N	_	2	nsubj	_	AlignBegin=328402|AlignEnd=328990|GE=[AG].[NMLZ]|Gloss=-AG.NMLZ|nWord=8|RX=[V>N]|TokenType=DerAff|Word=toqtah
+
+# sent_id = 086_80-81
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 329510, 333100
+# morphemic_text = ã =yã ĩ =ra Ø- ʃã -er -i =sa ã =yã =hã ãma peʃwakwa =s ʃa -i -ri =yã =hã
+# text = ã =yã ĩ =ra Øʃãeri =sa ã =yã =hã ãma peʃwakwa =s ʃairi =yã =hã
+# text_en = There, what did they see there, um, where an animal lives?
+# text_phrase-gls-de = 086.80_VG 086.81_VG
+# text_phrase-gls-es = ahí ¿qué vieron ahí? en donde había un animal
+# text_phrase-gls-it = ã̀ˈɲã́ ĩ́ˈɾì ʃòˈɾìsàʔ ã̀ˈɲã̄hã́ ˈàmà ˈpèʒòàkʷá ʃùˈðʲāwá
+# text_phrase-gls-pro = || ã̀ˈɲã́ ĩ́ˈɾì ʃòˈɾìsàʔ ã̀ˈɲã̄hã́, (0.3s) || || ˈàmà, (0.1s) || ˈpèʒòàˈkʷá ˈʃɥeˈðʲāwá, (0.7s) ||
+# text_phrase-gls-wg = DIST.DEM=LOC_there DEM.PROX =ABS see:PST:3PL>3 C.Q DIST.DEM=LOC_there FOC HES animal INDF.ART be.there:PST:3 LOC FOC
+1	ã	ã	PRON	PRO	_	5	obl:mod	_	AlignBegin=329510|AlignEnd=329624|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãɲã
+2	=yã	_	ADP	POST	_	1	case	_	AlignBegin=329624|AlignEnd=329739|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãɲã
+3	ĩ	ĩ	PRON	PRO	_	5	obj	_	AlignBegin=329739|AlignEnd=329968|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=ĩ
+4	=ra	_	ADP	PRT	_	3	case	_	AlignBegin=329968|AlignEnd=330197|GE=[ABS]|Gloss==ABS|nWord=3|RX=[PRT]|TokenType=Clit|Word=ri
+5	Øʃãeri	ʃã	AUX	V:ANY	_	0	root	_	AlignBegin=330197|AlignEnd=330426|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ʃãri
+6	=sa	_	PART	PRT	_	3	advmod	_	AlignBegin=330426|AlignEnd=330655|GE=[C].[Q]|Gloss==C.Q|nWord=5|RX=[PRT]|TokenType=Clit|Word=sa
+7	ã	ã	PRON	PRO	_	6	obl:mod	_	AlignBegin=330655|AlignEnd=330769|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=6|RX=[PRO]|TokenType=Root|Word=ãɲã
+8	=yã	_	ADP	POST	_	7	case	_	AlignBegin=330769|AlignEnd=330884|GE=[LOC]|Gloss==LOC|nWord=6|RX=[POST]|TokenType=Clit|Word=ãɲã
+9	=hã	_	PART	PRT	_	7	discourse	_	AlignBegin=330884|AlignEnd=331110|GE=[FOC]|Gloss==FOC|nWord=7|RX=[PRT]|TokenType=Clit|Word=hã
+10	ãma	ãma	PART	PRT	_	13	discourse	_	AlignBegin=331380|AlignEnd=331667|GE=[HES]|Gloss=HES|nWord=8|RX=[PRT]|TokenType=Root|Word=ãma
+11	peʃwakwa	peʃwakwa	NOUN	N	_	13	nsubj	_	AlignBegin=331667|AlignEnd=331954|GE=animal|Gloss=animal|nWord=9|RX=[N]|TokenType=Root|Word=peʃwakwa
+12	=s	_	DET	DET	_	11	det	_	AlignBegin=331954|AlignEnd=332241|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=10|RX=[DET]|TokenType=Clit|Word=s
+13	ʃairi	ʃa	AUX	V:ANY	_	6	advcl:lmod	_	AlignBegin=332241|AlignEnd=332528|GE=[PST]|Gloss=-PST|nWord=11|RX=[V:ANY]|TokenType=InflAff|Word=ʃuiri
+14	=yã	_	SCONJ	POST	_	13	mark	_	AlignBegin=332528|AlignEnd=332815|GE=[LOC]|Gloss==LOC|nWord=12|RX=[POST]|TokenType=Clit|Word=yã
+15	=hã	_	PART	PRT	_	13	discourse	_	AlignBegin=332815|AlignEnd=333100|GE=[FOC]|Gloss==FOC|nWord=13|RX=[PRT]|TokenType=Clit|Word=hã
+
+# sent_id = 086_82-82
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 333800, 337500
+# morphemic_text = ãm õ -n -ʃe -er -i tV Ø- -er -wa awah ĩ =ɲã warko =l -er -t -ri
+# text = ãm õnʃeeri tVØerwa awah ĩ =ɲã warko =lertri
+# text_en = All (the snakes) died, they say also. They are bad things.
+# text_phrase-gls-de = 086.82_VG
+# text_phrase-gls-es = dicen que se murieron todas las serpientes (cosas malas, wisinka)
+# text_phrase-gls-it = ã̀m õ̀ʃéɾíʔ ˈtéɾʷà wàʰ ĩ̄ˈɲʷákòlèɾtìɾìʔ
+# text_phrase-gls-pro = || ã̀m õ̀nʃéɾíʔ, (0.1s) || ˈtéɾwà wàʰ. (0.1s) || *ĩ̄joárkòlèstìɾìʔ, || ((AM; ɔw.)) || ʔmhm. (0.7s) ||
+# text_phrase-gls-wg = HES sleep(die):DUR:TOT:PST:3PL say:PFV:3PL>3 also PROX.DEM:INDF_thing bad =COP:DUR:PST:3PL
+1	ãm	ãm	PART	PRT	_	2	discourse	_	AlignBegin=333800|AlignEnd=334329|GE=[HES]|Gloss=HES|nWord=1|RX=[PRT]|TokenType=Root|Word=ãm
+2	õnʃeeri	õ	AUX	V:ANY	_	3	ccomp	_	AlignBegin=334329|AlignEnd=334858|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=õnʃeri
+3	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=334858|AlignEnd=335387|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=terwa|wordform=tV-erwa
+4	awah	awah	ADV	ADV	_	3	advmod	_	AlignBegin=335387|AlignEnd=335916|GE=also|Gloss=also|nWord=4|RX=[ADV]|TokenType=Root|Word=awah
+5	ĩ	ĩ	PRON	PRO	_	3	parataxis	_	AlignBegin=335916|AlignEnd=336180|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩɲã
+6	=ɲã	_	PART	PRT	_	5	compound	_	AlignBegin=336180|AlignEnd=336445|GE=[INDF]|Gloss==INDF|nWord=5|RX=[PRT]|TokenType=Clit|Word=ĩɲã
+7	warko	warko	NOUN	N	_	6	obl:mod	_	AlignBegin=336445|AlignEnd=336974|GE=bad|Gloss=bad|nWord=6|RX=[N]|TokenType=Root|Word=warko
+8	=lertri	_	AUX	V:ANY	_	5	cop	_	AlignBegin=336974|AlignEnd=337500|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=lertiri
+
+# sent_id = 086_83-83
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 338230, 344290
+# morphemic_text = a- bri =ma tʃa -Ø -i ʔey laguna a- ʃã -Ø -wa peʃ- nuʃt -a =pe
+# text = abri =ma tʃaØi ʔey laguna aʃãØwa peʃnuʃta =pe
+# text_en = It is close. ###. The lake is visible, only its playground.
+# text_phrase-gls-de = 086.83_VG
+# text_phrase-gls-es = se ve el lugar en la laguna, su juego solamente
+# text_phrase-gls-it = áˈβɾímà ẽ́ːʲ ˈlaɣuna àɾˈʃẽ́wàʔ ˈpéʃūnūʃtàʔpé
+# text_phrase-gls-pro = || áˈβɾímà °ˈʃɨ°. (0.8s) || ʔẽ́ːèj!. (0.5s) || laˈɣuna àɾˈʃẽ́nwàʔ. (0.8s) || ˈpéʃūˈnūʃtàʔˈpé. (0.7s) ||
+# text_phrase-gls-wg = close:3 TOP be.there:PST:3 SPA_lake see:REFL:PFV:3 play:NMLZ:3PL only
+1	abri	bri	NOUN	N	_	0	root	_	AlignBegin=338230|AlignEnd=338988|GE=close|Gloss=close|nWord=1|RX=[N]|TokenType=Root|Word=abri
+2	=ma	_	PART	PRT	_	1	case	_	AlignBegin=338988|AlignEnd=339746|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	tʃaØi	tʃa	AUX	V:ANY	_	1	cop	_	AlignBegin=339746|AlignEnd=340504|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=ʃi
+4	ʔey	ʔey	X	_	_	6	nsubj:outer	_	AlignBegin=340504|AlignEnd=341262|nWord=4|Word=ʔey
+5	laguna	laguna	X	<NOT_SURE>	_	4	reparandum	_	AlignBegin=341262|AlignEnd=342020|GE=[SPA_lake]|Gloss=SPA_lake|nWord=5|RX=[<NOT_SURE>]|TokenType=Root|Word=laguna
+6	aʃãØwa	ʃã	AUX	V:ANY	_	1	parataxis	_	AlignBegin=342020|AlignEnd=342778|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=aʃãwa
+7	peʃnuʃta	nuʃt	NOUN	V>N	_	6	nsubj:pass	_	AlignBegin=342778|AlignEnd=343536|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=DerAff|Word=peʃnuʃta
+8	=pe	_	PART	PRT	_	7	advmod	_	AlignBegin=343536|AlignEnd=344290|GE=only|Gloss==only|nWord=8|RX=[PRT]|TokenType=Clit|Word=pe
+
+# sent_id = 086_84-84
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 344990, 347760
+# morphemic_text = ã =ma =ha peʃ- nuʃt -a =pe tV Ø- -er -u -wa
+# text = ã =ma =ha peʃnuʃta =pe tVØeruwa
+# text_en = That is it. They say only its playground (is left).
+# text_phrase-gls-de = 086.84_VG
+# text_phrase-gls-es = ese, no ves que es ese valle, sólo (quedó) su juego, dicen
+# text_phrase-gls-it = ˈàmàáʔ ˈpéʃūnūʃtàʔpé tèˈɾũ̄ːwã́ʔ
+# text_phrase-gls-pro = || ˈàmàˈʔá (0.1s) || ˈpéʃūˈnūʃtàʔˈpé, || ((AM; mm.)) || ˈtèɾeˈũ̄ːwã́ʔ. (0.2s) ||
+# text_phrase-gls-wg = DIST.DEM=TOP=FOC_that.is.it. play:NMLZ:3PL only say:HAB?:PFV:3PL>3
+1	ã	ã	PRON	PRO	_	6	discourse	_	AlignBegin=344990|AlignEnd=345221|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=amaʔa
+2	=ma	_	PART	PRT	_	1	case	_	AlignBegin=345221|AlignEnd=345452|GE=[TOP]|Gloss==TOP|nWord=1|RX=[PRT]|TokenType=Clit|Word=amaʔa
+3	=ha	_	PART	PRT	_	1	advmod	_	AlignBegin=345452|AlignEnd=345682|GE=[FOC]|Gloss==FOC|nWord=1|RX=[PRT]|TokenType=Clit|Word=amaʔa
+4	peʃnuʃta	nuʃt	NOUN	V>N	_	6	obj	_	AlignBegin=345682|AlignEnd=346374|GE=[NMLZ]|Gloss=-NMLZ|nWord=2|RX=[V>N]|TokenType=DerAff|Word=peʃnuʃta
+5	=pe	_	PART	PRT	_	4	advmod	_	AlignBegin=346374|AlignEnd=347066|GE=only|Gloss==only|nWord=3|RX=[PRT]|TokenType=Clit|Word=pe
+6	tVØeruwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=347066|AlignEnd=347760|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=tereũwã|wordform=tV-eruwa
+
+# sent_id = 086_85-85
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 348090, 350640
+# morphemic_text = valle =i =ʃona
+# text = valle =i =ʃona
+# text_en = It is a valley, you see.
+# text_phrase-gls-de = 086.85_VG
+# text_phrase-gls-es = ese, no ves que es ese valle, sólo (quedó) su juego, dicen
+# text_phrase-gls-it = ˈβaʝe ˈʃónòʔ
+# text_phrase-gls-pro = || ˈβaʝe ˈʃónòʔ, (0.1s) || ((AM; ɔw.)) || ʔɑ̃hɑ̃. (0.7s) || ((AM; mhm.)) (0.3s) ||
+# text_phrase-gls-wg = SPA_valley COP:PFV:3 =HEM
+1	valle	valle	X	<NOT_SURE>	_	0	root	_	AlignBegin=348090|AlignEnd=348940|GE=[SPA_valley]|Gloss=SPA_valley|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=valle
+2	=i	_	AUX	COP	_	1	cop	_	AlignBegin=348940|AlignEnd=349790|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=2|RX=[COP]|TokenType=Clit|Word=i
+3	=ʃona	_	PART	PRT	_	1	discourse	_	AlignBegin=349790|AlignEnd=350640|GE=[HEM]|Gloss==HEM|nWord=3|RX=[PRT]|TokenType=Clit|Word=ʃono
+
+# sent_id = 086_86-86
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 351160, 353420
+# morphemic_text = ã =yã Ø- tokk -Ø -i ta- õʃk -er -wa
+# text = ã =yã ØtokkØi taõʃkerwa
+# text_en = There, they got lost.
+# text_phrase-gls-de = 086.86_VG
+# text_phrase-gls-es = ahí entraron, se perdieron muertas,
+# text_phrase-gls-it = ã̀ˈɲã́ ˈtóʔkɾì tṍʃkèɾà
+# text_phrase-gls-pro = || [ã̀]ˈɲã́  (0.6s) || ((AM; [##])) || ˈtóʔkì tṍʃkiɾà, (0.1s) ||
+# text_phrase-gls-wg = DIST.DEM=LOC_there enter:PST:3>3 lose:MID:PFV:3PL
+1	ã	ã	PRON	PRO	_	3	obl:mod	_	AlignBegin=351160|AlignEnd=351536|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãɲã
+2	=yã	_	ADP	POST	_	1	case	_	AlignBegin=351536|AlignEnd=351913|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãɲã
+3	ØtokkØi	tokk	AUX	V:ANY	_	0	root	_	AlignBegin=351913|AlignEnd=352666|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=toʔki
+4	taõʃkerwa	õʃk	AUX	V:ANY	_	3	reparandum	_	AlignBegin=352666|AlignEnd=353420|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tõʃkera
+
+# sent_id = 086_87-87
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 353510, 356500
+# morphemic_text = õ -n -a a- mask -er -wa =ras aʃẽ a- iʃk -Ø -i tV Ø- -er -wa =pra
+# text = õna amaskerwa =ras aʃẽ aiʃkØi tVØerwa =pra
+# text_en = Because they killed it dead since, he tells it, they say.
+# text_phrase-gls-de = 086.87_VG
+# text_phrase-gls-es = porque las mataron lo contó, dicen
+# text_phrase-gls-it = ˈõ̀là ˈmàskèɾās ã̀ˈʃẽ́ʔ ˈðéʲʃkíʔ tēˈɾùmpɾà
+# text_phrase-gls-pro = || ˈõ̀là ˈmàskèˈɾās ã̀ˈʃẽ́ʔ (0.4s) || ðéjʃˈkíʔ °ˈtēɾùm[ˈpɾà]° ||
+# text_phrase-gls-wg = sleep:DUR:PTCP kill:PFV:3PL>3 REAS up.to tell:PST:3>3 say:PFV:3PL>3 EMPH
+1	õna	õ	NOUN	V>N	_	2	obl:mod	_	AlignBegin=353510|AlignEnd=353937|GE=[PTCP]|Gloss=PTCP|nWord=1|RX=[V>N]|TokenType=DerAff|Word=õla
+2	amaskerwa	mask	AUX	V:ANY	_	5	advcl	_	AlignBegin=353937|AlignEnd=354364|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=amaskera
+3	=ras	_	SCONJ	PRT	_	2	mark	_	AlignBegin=354364|AlignEnd=354791|GE=[REAS]|Gloss==REAS|nWord=3|RX=[PRT]|TokenType=Clit|Word=ras
+4	aʃẽ	aʃẽ	ADV	ADV	_	2	advmod	_	AlignBegin=354791|AlignEnd=355218|GE=up.to|Gloss=up.to|nWord=4|RX=[ADV]|TokenType=Root|Word=aʃẽ
+5	aiʃkØi	iʃk	AUX	V:ANY	_	6	ccomp	_	AlignBegin=355218|AlignEnd=355645|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=aiʃki
+6	tVØerwa	_	AUX	V:ANY	_	0	root	_	AlignBegin=355645|AlignEnd=356072|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=terũ|wordform=tV-erwa
+7	=pra	_	PART	PRT	_	6	discourse	_	AlignBegin=356072|AlignEnd=356500|GE=[EMPH]|Gloss==EMPH|nWord=7|RX=[PRT]|TokenType=Clit|Word=pra
+
+# sent_id = 086_88-88
+# speaker_id = @AM
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 356210, 358300
+# morphemic_text = ã =yã ta- õʃ -Ø -i ta- õʃ -Ø -i ta- õʃ -Ø -i
+# text = ã =yã taõʃØi taõʃØi taõʃØi
+# text_en = AM: There, it got lost, it got lost, it got lost.
+# text_phrase-gls-de = 086.88_AM
+# text_phrase-gls-es = allí, se perdió, se perdió, se perdió
+# text_phrase-gls-it = ã̀ˈɲã́ ˈtṍʃì (ˈtṍʃì ˈtṍʃì)
+# text_phrase-gls-pro = || [ã̀]ˈɲã́? (0.2s) || ˈ[tṍʃ]ì? || [ˈtṍʃì] ˈtṍ[ʃì]? ||
+# text_phrase-gls-wg = DIST.DEM=LOC_there lose:MID:PST:3 lose:MID:PST:3 lose:MID:PST:3
+1	ã	ã	PRON	PRO	_	3	obl:mod	_	AlignBegin=356210|AlignEnd=356471|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ãɲã
+2	=yã	_	ADP	POST	_	1	case	_	AlignBegin=356471|AlignEnd=356732|GE=[LOC]|Gloss==LOC|nWord=1|RX=[POST]|TokenType=Clit|Word=ãɲã
+3	taõʃØi	õʃ	AUX	V:ANY	_	0	root	_	AlignBegin=356732|AlignEnd=357254|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tõʃi
+4	taõʃØi	õʃ	AUX	V:ANY	_	3	conj	_	AlignBegin=357254|AlignEnd=357776|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tõʃi
+5	taõʃØi	õʃ	AUX	V:ANY	_	3	conj	_	AlignBegin=357776|AlignEnd=358300|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=tõʃi
+
+# sent_id = 086_89-89
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 356880, 358893
+# morphemic_text = ta- õʃk -Ø -i
+# text = taõʃkØi
+# text_en = VG: It got lost.
+# text_phrase-gls-de = 086.89_VG
+# text_phrase-gls-es = se perdió
+# text_phrase-gls-it = ˈtõ̀ʷʃkì
+# text_phrase-gls-pro = || ʔã[hɑ̃]. || ã̀[ˈʃẽ́ʔ]. || [ˈtõ̀]ʷʃkì, || ((AM; mhm.)) (0.9s) ||
+# text_phrase-gls-wg = lose:MID:PST:3
+1	taõʃkØi	õʃk	AUX	V:ANY	_	0	root	_	AlignBegin=356880|AlignEnd=358893|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=tõʃki
+
+# sent_id = 086_90-90
+# speaker_id = @VG
+# sound_url = https://corporan.huma-num.fr/Archives/media/pay/WAV/pay_086_Wisinka.WAV
+# sent_timecode = 359760, 360780
+# morphemic_text = aʃẽ ta- õʃk -Ø -i
+# text = aʃẽ taõʃkØi
+# text_en = It got lost since.
+# text_phrase-gls-de = 086.90_VG
+# text_phrase-gls-es = desde entonces se perdió
+# text_phrase-gls-it = ã̀ˈʃẽ́ʔ ˈtõ̀ʃkì
+# text_phrase-gls-pro = || ã̀ˈʃẽ́ʔ ˈtõ̀ʃkì. ||
+# text_phrase-gls-wg = up.to lose:MID:PST:3
+1	aʃẽ	aʃẽ	ADV	ADV	_	2	advmod:tmod	_	AlignBegin=359760|AlignEnd=360270|GE=up.to|Gloss=up.to|nWord=1|RX=[ADV]|TokenType=Root|Word=aʃẽ
+2	taõʃkØi	õʃk	AUX	V:ANY	_	0	root	_	AlignBegin=360270|AlignEnd=360780|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tõʃki
+

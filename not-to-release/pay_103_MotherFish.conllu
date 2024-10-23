@@ -1,0 +1,857 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 103_01-01
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 1970, 4350
+# morphemic_text = ki =ri =s , ki =ri =s arwã tʃa -i -ri .
+# text = ki =ri =s , ki =ri =s arwã tʃairi .
+# text_en = Once upon a time, there was a man.
+# text_phrase-gls-es = Había una vez un hombre
+# text_phrase-gls-pro = || DL; kɨˈɾísːː (0.6s) || kɨˈɾís ˈárwaˈʔã́ tʃìˈɾí (2.4s) ||
+# text_phrase-gls-it = kìɾís krís árwã́ tʃìɾí
+# text_phrase-gls-wg = before TEMP:INDF before TEMP:INDF man be.there:PST:3
+# text_phrase-gls-de = Madre_peces_001_DL
+1	ki	ki	ADV	_	_	9	advmod	_	AlignBegin=1970|AlignEnd=2268|GE=before|Gloss=before|nWord=1|RX=[ADV]|TokenType=Root|Word=ki
+2	=ri	_	ADP	_	_	1	case	_	AlignBegin=2268|AlignEnd=2417|GE=[TEMP]|Gloss==TEMP|nWord=2|RX=[POST]|TokenType=Clit|Word=ris
+3	=s	_	DET	_	_	1	det	_	AlignBegin=2417|AlignEnd=2566|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=2|RX=[DET]|TokenType=Clit|Word=ris
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=2566|AlignEnd=2864|nWord=3|Word=,
+5	ki	ki	ADV	_	_	1	reparandum	_	AlignBegin=2864|AlignEnd=3162|GE=before|Gloss=before|nWord=4|RX=[ADV]|TokenType=Root|Word=ki
+6	=ri	_	ADP	_	_	5	case	_	AlignBegin=3162|AlignEnd=3311|GE=[TEMP]|Gloss==TEMP|nWord=5|RX=[POST]|TokenType=Clit|Word=ris
+7	=s	_	DET	_	_	5	det	_	AlignBegin=3311|AlignEnd=3460|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=5|RX=[DET]|TokenType=Clit|Word=ris
+8	arwã	arwã	NOUN	_	_	9	nsubj	_	AlignBegin=3460|AlignEnd=3758|GE=man|Gloss=man|nWord=6|RX=[N]|TokenType=Root|Word=arwã
+9	tʃairi	tʃa	AUX	_	_	0	root	_	AlignBegin=3758|AlignEnd=4056|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=tʃiri
+10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=4056|AlignEnd=4350|Gloss=.|nWord=8|Word=.
+
+# sent_id = 103_02-02
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 6760, 11770
+# morphemic_text = toʔ , to arwã =ma , wiʃã kapor -ta -ru =r -Ø -i .
+# text = toʔ , to arwã =ma , wiʃã kaportaru =rØi .
+# text_en = That man was the spearer of fish.
+# text_phrase-gls-es = Ese hombre era clavador de peces
+# text_phrase-gls-pro = || tóʔ (0.5s) || tòːː ˈárhwã́ˈmàːːː (1.5s) || gwìˈʃã̀ kàˈpórtàɾùˈrí (0.6s) ||
+# text_phrase-gls-it = tóʔ tò árwã́mà wìʃã̀ kàpórtàɾùrí
+# text_phrase-gls-wg = DEM.MED DEM.MED man TOP fish spear:AG:HAB COP:PST:3
+# text_phrase-gls-de = Madre_peces_002_DL
+1	toʔ	toʔ	PRON	_	_	4	det	_	AlignBegin=6760|AlignEnd=7261|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=7261|AlignEnd=7762|nWord=2|Word=,
+3	to	to	PRON	_	_	1	reparandum	_	AlignBegin=7762|AlignEnd=8263|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=3|RX=[PRO]|TokenType=Root|Word=to
+4	arwã	arwã	NOUN	_	_	8	nsubj:dislocated	_	AlignBegin=8263|AlignEnd=8764|GE=man|Gloss=man|nWord=4|RX=[N]|TokenType=Root|Word=arwã
+5	=ma	_	ADP	_	_	4	case	_	AlignBegin=8764|AlignEnd=9265|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit|Word=ma
+6	,	_	PUNCT	_	_	4	punct	_	AlignBegin=9265|AlignEnd=9766|nWord=6|Word=,
+7	wiʃã	wiʃã	NOUN	_	_	8	obj	_	AlignBegin=9766|AlignEnd=10267|GE=fish|Gloss=fish|nWord=7|RX=[N]|TokenType=Root|Word=wiʃã
+8	kaportaru	kapor	AUX	_	_	0	root	_	AlignBegin=10267|AlignEnd=10768|GE=[HAB]|Gloss=-HAB|nWord=8|RX=[N:ANY]|TokenType=InflAff|Word=kaportaru
+9	=rØi	_	AUX	_	_	8	aux	_	AlignBegin=10768|AlignEnd=11269|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=ri
+10	.	_	PUNCT	_	_	8	punct	_	AlignBegin=11269|AlignEnd=11770|Gloss=.|nWord=10|Word=.
+
+# sent_id = 103_03-03
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 12370, 20331
+# morphemic_text = wiʃã , wiʃã =pero , nã proh teʔ wa -er -u -ri , teʔ -er -i Ø- ã -er -pi =ro , tʃaʔ =yo .
+# text = wiʃã , wiʃã =pero , nã proh teʔ waeruri , teʔeri Øãerpi =ro , tʃaʔ =yo .
+# text_en = They went and came looking for fish only to eat with sasal.
+# text_phrase-gls-es = Buscaba peces para comer con sasal
+# text_phrase-gls-pro = || ˈgwìtʃã̀ːː (0.8s) || ˈgwìʃã̀ˈpéròːːː (1.3s) || nã̀ˈpróhˈtèʔkwarùˈrīːːː (0.1s) || tɛ̃̀ʔb̚ (0.3s) || ˈʔã̀ ʔɛ̃̀ʔˈpīrōːː (0.3s) || ˈtʃàʔˈjó (0.9s) ||
+# text_phrase-gls-it = wìt͡ʃã̀ː wìʃã̀péròː nã̀próhtèʔwarùrīː tɛ̃̀ʔr (ʔã̀) ɛ̃̀ʔpīrōː tʃàʔyó
+# text_phrase-gls-wg = fish fish only go+look.for+come+collect:HAB:PST:3PL come:PST:3PL eat:FUT:3>3 PURP sasal INS
+# text_phrase-gls-de = Madre_peces_003_DL
+1	wiʃã	wiʃã	NOUN	_	_	7	obj	_	AlignBegin=12370|AlignEnd=12939|GE=fish|Gloss=fish|nWord=1|RX=[N]|TokenType=Root|Word=wiʃã
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=12939|AlignEnd=13508|nWord=2|Word=,
+3	wiʃã	wiʃã	NOUN	_	_	1	reparandum	_	AlignBegin=13508|AlignEnd=14077|GE=fish|Gloss=fish|nWord=3|RX=[N]|TokenType=Root|Word=wiʃã
+4	=pero	_	DET	_	_	3	det	_	AlignBegin=14077|AlignEnd=14646|GE=only|Gloss==only|nWord=4|RX=[PRT]|TokenType=Clit|Word=pero
+5	,	_	PUNCT	_	_	1	punct	_	AlignBegin=14646|AlignEnd=15215|nWord=5|Word=,
+6	nã	nã	VERB	_	_	7	compound:svc	_	AlignBegin=15215|AlignEnd=15296|GE=go|Gloss=go|nWord=6|RX=[VI]|TokenType=Root|Word=nãprohteʔwaruri
+7	proh	proh	VERB	_	_	8	compound:svc	_	AlignBegin=15296|AlignEnd=15377|GE=look.for|Gloss=look.for|nWord=6|RX=[VT]|TokenType=Root|Word=nãprohteʔwaruri
+8	teʔ	teʔ	VERB	_	_	9	compound:svc	_	AlignBegin=15377|AlignEnd=15458|GE=come|Gloss=come|nWord=6|RX=[VI]|TokenType=Root|Word=nãprohteʔwaruri
+9	waeruri	wa	AUX	_	_	0	root	_	AlignBegin=15458|AlignEnd=15784|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=nãprohteʔwaruri
+10	,	_	PUNCT	_	_	9	punct	_	AlignBegin=15784|AlignEnd=16353|nWord=7|Word=,
+11	teʔeri	teʔ	AUX	_	_	9	parataxis	_	AlignBegin=16353|AlignEnd=16922|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=teʔer
+12	Øãerpi	ã	AUX	_	_	9	advcl	_	AlignBegin=16922|AlignEnd=17491|GE=[FUT]|Gloss=-FUT|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=ãrpi
+13	=ro	_	SCONJ	_	_	12	mark	_	AlignBegin=17491|AlignEnd=18060|GE=[PURP]|Gloss==PURP|nWord=10|RX=[PRT]|TokenType=Clit|Word=ro
+14	,	_	PUNCT	_	_	12	punct	_	AlignBegin=18060|AlignEnd=18629|nWord=11|Word=,
+15	tʃaʔ	tʃaʔ	NOUN	_	_	12	obl:arg	_	AlignBegin=18629|AlignEnd=19198|GE=sasal|Gloss=sasal|nWord=12|RX=[N]|TokenType=Root|Word=tʃaʔ
+16	=yo	_	ADP	_	_	15	case	_	AlignBegin=19198|AlignEnd=19767|GE=[INS]|Gloss==INS|nWord=13|RX=[POST]|TokenType=Clit|Word=yo
+17	.	_	PUNCT	_	_	9	punct	_	AlignBegin=19767|AlignEnd=20331|Gloss=.|nWord=14|Word=.
+
+# sent_id = 103_04-04
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 21244, 30846
+# morphemic_text = toʔ =kari =ni , toʔ arwã =ma , ãʔ ãs , ãʔ ãs Ø- sukuh -er -(w)a .
+# text = toʔ =kari =ni , toʔ arwã =ma , ãʔ ãs , ãʔ ãs Øsukuher(w)a .
+# text_en = For that reason, one day, they caught the man.
+# text_phrase-gls-es = Un día agarraron al  hombre
+# text_phrase-gls-pro = || tóʔˈkāríˈníː (1.9s) || tóʔ ˈárhwã́̃́ˈmàːːː (1.8s) || ʔã̀nhã́ʃːːːːːːːːːːː (0.5s) || ʔã̀hã́s sùkùhlēɾàːː (1.6s) ||
+# text_phrase-gls-it = tóʔkāríní tóʔ árwɔ̃́màː ã̀hã́sːːː ã̀ʔã́s sùkùhēɾà
+# text_phrase-gls-wg = DEM.MED ADVS TEMP DEM.MED man TOP day INDF.ART day INDF.ART grab:PFV:3PL>3
+# text_phrase-gls-de = Madre_peces_004_DL
+1	toʔ	toʔ	PRON	_	_	14	obl:mod	_	AlignBegin=21244|AlignEnd=21884|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	=kari	_	PART	_	_	1	case	_	AlignBegin=21884|AlignEnd=22524|GE=[ADVS]|Gloss==ADVS|nWord=2|RX=[PRT]|TokenType=Clit|Word=kari
+3	=ni	_	ADP	_	_	1	case	_	AlignBegin=22524|AlignEnd=23164|GE=[TEMP]|Gloss==TEMP|nWord=3|RX=[POST]|TokenType=Clit|Word=ni
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=23164|AlignEnd=23804|nWord=4|Word=,
+5	toʔ	toʔ	PRON	_	_	6	det	_	AlignBegin=23804|AlignEnd=24444|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=toʔ
+6	arwã	arwã	NOUN	_	_	14	dislocated:obj	_	AlignBegin=24444|AlignEnd=25084|GE=man|Gloss=man|nWord=6|RX=[N]|TokenType=Root|Word=arwã
+7	=ma	_	PART	_	_	6	case	_	AlignBegin=25084|AlignEnd=25724|GE=[TOP]|Gloss==TOP|nWord=7|RX=[PRT]|TokenType=Clit|Word=ma
+8	,	_	PUNCT	_	_	6	punct	_	AlignBegin=25724|AlignEnd=26364|nWord=8|Word=,
+9	ãʔ	ãʔ	NOUN	_	_	12	dep:comp	_	AlignBegin=26364|AlignEnd=27004|GE=day|Gloss=day|nWord=9|RX=[N]|TokenType=Root|Word=ãʔ
+10	ãs	ãs	DET	_	_	9	det	_	AlignBegin=27004|AlignEnd=27644|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=10|RX=[DET]|TokenType=Root|Word=ãs
+11	,	_	PUNCT	_	_	9	punct	_	AlignBegin=27644|AlignEnd=28284|nWord=11|Word=,
+12	ãʔ	ãʔ	NOUN	_	_	14	obl:mod	_	AlignBegin=28284|AlignEnd=28924|GE=day|Gloss=day|nWord=12|RX=[N]|TokenType=Root|Word=ãʔ
+13	ãs	ãs	DET	_	_	12	det	_	AlignBegin=28924|AlignEnd=29564|GE=[INDF].[ART]|Gloss=INDF.ART|nWord=13|RX=[DET]|TokenType=Root|Word=ãs
+14	Øsukuher(w)a	sukuh	AUX	_	_	0	root	_	AlignBegin=29564|AlignEnd=30204|GE=[PFV]|Gloss=-PFV|nWord=14|RX=[V:ANY]|TokenType=InflAff|Word=sukuhlera
+15	.	_	PUNCT	_	_	14	punct	_	AlignBegin=30204|AlignEnd=30846|Gloss=.|nWord=15|Word=.
+
+# sent_id = 103_05-05
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 32441, 37110
+# morphemic_text = arwã as =yo , pok =l -er -ri ta -ha nã -er -i , wiʃã , wiʃã kapor =yã .
+# text = arwã as =yo , pok =lerri taha nãeri , wiʃã , wiʃã kapor =yã .
+# text_en = There were two men with the other man, they went to spear fish.
+# text_phrase-gls-es = Eran dos hombres, se fueron a clavar peces
+# text_phrase-gls-pro = || ˈárwã́ ˈásjóʔo ˈpókːlèˈɾí ˈtàt nẽ̀ˈríːːː || ˈwìtʃà (0.4s) || ˈwìtʃà kàˈpórhjã́ (0.8s) ||
+# text_phrase-gls-it = árwã́ ásyó póːklèɾí tàt nẽ̀ríʔ wìtʃà wìtʃà kàpóryã́
+# text_phrase-gls-wg = man one INS two COP:PST:3PL path:NMLZ go:PST:3PL fish fish spear LOC
+# text_phrase-gls-de = Madre_peces_005_DL
+1	arwã	arwã	NOUN	_	_	5	obl:arg	_	AlignBegin=32441|AlignEnd=32752|GE=man|Gloss=man|nWord=1|RX=[N]|TokenType=Root|Word=arwã
+2	as	as	NUM	_	_	1	nmod	_	AlignBegin=32752|AlignEnd=33063|GE=one|Gloss=one|nWord=2|RX=[N]|TokenType=Root|Word=as
+3	=yo	_	ADP	_	_	1	case	_	AlignBegin=33063|AlignEnd=33374|GE=[INS]|Gloss==INS|nWord=3|RX=[POST]|TokenType=Clit|Word=yo
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=33374|AlignEnd=33685|nWord=4|Word=,
+5	pok	pok	NUM	_	_	0	root	_	AlignBegin=33685|AlignEnd=33996|GE=two|Gloss=two|nWord=5|RX=[N]|TokenType=Root|Word=pok
+6	=lerri	_	AUX	_	_	5	cop	_	AlignBegin=33996|AlignEnd=34307|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=lerri
+7	taha	ta	AUX	_	_	5	parataxis	_	AlignBegin=34307|AlignEnd=34618|GE=[NMLZ]|Gloss=-NMLZ|nWord=7|RX=[V>N]|TokenType=InflAff|Word=tah
+8	nãeri	nã	AUX	_	_	7	cop	_	AlignBegin=34618|AlignEnd=34929|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=nẽri
+9	,	_	PUNCT	_	_	7	punct	_	AlignBegin=34929|AlignEnd=35240|nWord=9|Word=,
+10	wiʃã	wiʃã	NOUN	_	_	13	obj	_	AlignBegin=35240|AlignEnd=35551|GE=fish|Gloss=fish|nWord=10|RX=[N]|TokenType=Root|Word=wiʃã
+11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=35551|AlignEnd=35862|nWord=11|Word=,
+12	wiʃã	wiʃã	NOUN	_	_	10	reparandum	_	AlignBegin=35862|AlignEnd=36173|GE=fish|Gloss=fish|nWord=12|RX=[N]|TokenType=Root|Word=wiʃã
+13	kapor	kapor	VERB	_	_	7	advcl	_	AlignBegin=36173|AlignEnd=36484|GE=spear|Gloss=spear|nWord=13|RX=[VT]|TokenType=Root|Word=kapor
+14	=yã	_	ADP	_	_	13	mark	_	AlignBegin=36484|AlignEnd=36795|GE=[LOC]|Gloss==LOC|nWord=14|RX=[POST]|TokenType=Clit|Word=yã
+15	.	_	PUNCT	_	_	5	punct	_	AlignBegin=36795|AlignEnd=37110|Gloss=.|nWord=15|Word=.
+
+# sent_id = 103_06-06
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 37870, 42313
+# morphemic_text = toʔ =ma , aso wa wa =yã , aso wa =yã nã -er -i .
+# text = toʔ =ma , aso wa wa =yã , aso wa =yã nãeri .
+# text_en = They went to the sheltered place in the river.
+# text_phrase-gls-es = eso Se fueron (?) al río
+# text_phrase-gls-pro = || ˈtòkmàʔaː (1.0s) || àˈsòˈwáʔwáʔˈɲá (0.4s) || àˈsō ˈwáɲá nẽ̀ˈríg̚ (1.3s) ||
+# text_phrase-gls-it = tòʔmà àsòwáʔwáːɲáʔ, àsō wáɲá nẽ̀ríʔ
+# text_phrase-gls-wg = DEM.MED TOP eye+water LOC eye+water LOC go:PST:3PL
+# text_phrase-gls-de = Madre_peces_006_DL
+1	toʔ	toʔ	PRON	_	_	12	nsubj:dislocated	_	AlignBegin=37870|AlignEnd=38314|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	=ma	_	ADP	_	_	1	case	_	AlignBegin=38314|AlignEnd=38758|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=38758|AlignEnd=39202|nWord=3|Word=,
+4	aso	aso	NOUN	_	_	12	obl:mod	_	AlignBegin=39202|AlignEnd=39350|GE=water|Gloss=water|nWord=4|RX=[N]|TokenType=Root|Word=asowawa
+5	wa	wa	NOUN	_	_	4	nmod	_	AlignBegin=39350|AlignEnd=39498|GE=eye|Gloss=eye|nWord=4|RX=[N]|TokenType=Root|Word=asowawa
+6	wa	wa	NOUN	_	_	5	nmod	_	AlignBegin=39498|AlignEnd=39646|GE=eye|Gloss=eye|nWord=4|RX=[N]|TokenType=Root|Word=asowawa
+7	=yã	_	ADP	_	_	4	case	_	AlignBegin=39646|AlignEnd=40090|GE=[LOC]|Gloss==LOC|nWord=5|RX=[POST]|TokenType=Clit|Word=ɲã
+8	,	_	PUNCT	_	_	4	dislocated	_	AlignBegin=40090|AlignEnd=40534|nWord=6|Word=,
+9	aso	aso	NOUN	_	_	4	reparandum	_	AlignBegin=40534|AlignEnd=40756|GE=water|Gloss=water|nWord=7|RX=[N]|TokenType=Root|Word=asowa
+10	wa	wa	NOUN	_	_	9	nmod	_	AlignBegin=40756|AlignEnd=40978|GE=eye|Gloss=eye|nWord=7|RX=[N]|TokenType=Root|Word=asowa
+11	=yã	_	ADP	_	_	9	case	_	AlignBegin=40978|AlignEnd=41422|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=ɲã
+12	nãeri	nã	AUX	_	_	0	root	_	AlignBegin=41422|AlignEnd=41866|GE=[PST]|Gloss=-PST|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=nẽri
+13	.	_	PUNCT	_	_	12	punct	_	AlignBegin=41866|AlignEnd=42313|Gloss=.|nWord=10|Word=.
+
+# sent_id = 103_07-07
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 43601, 51521
+# morphemic_text = toʔ =kari , nẽ -er -Øwa =mã , =pe wiʃã aka as =pe Ø- ʃã -er -i .
+# text = toʔ =kari , nẽerØwa =mã , =pe wiʃã aka as =pe Øʃãeri .
+# text_en = But, going further, they only saw a big fish.
+# text_phrase-gls-es = Por eso cuando van dicen que vieron un pez grande
+# text_phrase-gls-pro = || ˈtòʔkāˈɾīːːː (0.9s) || ˈnẽ̀lèɾmã̀ː (2.9s) || ((clears throat)) (0.2s) || pè ˈwìʃã̀ ʔã̀ˈkã́s (0.3s) p tʃɛ̃̀ˈɾĩ́ʔ (0.8s) ||
+# text_phrase-gls-it = tòʔkāɾī nẽ̀lèɾmã̀ pè wìʃã̀ ã̀kã́sp tʃɛ̃̀ɾĩ́ʔ
+# text_phrase-gls-wg = DEM.MED ADVS go:PFV:3PL when only fish big one only see:PST:3PL>3
+# text_phrase-gls-de = Madre_peces_007_DL
+1	toʔ	toʔ	PRON	_	_	12	obl	_	AlignBegin=43601|AlignEnd=44210|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	=kari	_	PART	_	_	1	case	_	AlignBegin=44210|AlignEnd=44819|GE=[ADVS]|Gloss==ADVS|nWord=2|RX=[PRT]|TokenType=Clit|Word=kari
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=44819|AlignEnd=45428|nWord=3|Word=,
+4	nẽerØwa	nẽ	AUX	_	_	12	advcl	_	AlignBegin=45428|AlignEnd=46037|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=nẽler
+5	=mã	_	SCONJ	_	_	4	mark	_	AlignBegin=46037|AlignEnd=46646|GE=when|Gloss==when|nWord=5|RX=[PRT]|TokenType=Clit|Word=mã
+6	,	_	PUNCT	_	_	4	punct	_	AlignBegin=46646|AlignEnd=47255|nWord=6|Word=,
+7	=pe	_	PART	_	_	8	advmod	_	AlignBegin=47255|AlignEnd=47864|GE=only|Gloss==only|nWord=7|RX=[PRT]|TokenType=Clit|Word=pe
+8	wiʃã	wiʃã	NOUN	_	_	12	obj	_	AlignBegin=47864|AlignEnd=48473|GE=fish|Gloss=fish|nWord=8|RX=[N]|TokenType=Root|Word=wiʃã
+9	aka	aka	NOUN	_	_	8	nmod	_	AlignBegin=48473|AlignEnd=49082|GE=big|Gloss=big|nWord=9|RX=[N]|TokenType=Root|Word=ak
+10	as	as	DET	_	_	8	det	_	AlignBegin=49082|AlignEnd=49691|GE=one|Gloss=INDF.ART|nWord=10|RX=[N]|TokenType=Root|Word=as
+11	=pe	_	PART	_	_	7	reparandum	_	AlignBegin=49691|AlignEnd=50300|GE=only|Gloss==only|nWord=11|RX=[PRT]|TokenType=Clit|Word=pe
+12	Øʃãeri	ʃã	AUX	_	_	0	root	_	AlignBegin=50300|AlignEnd=50909|GE=[PST]|Gloss=-PST|nWord=12|RX=[V:ANY]|TokenType=InflAff|Word=ʃẽri
+13	.	_	PUNCT	_	_	12	punct	_	AlignBegin=50909|AlignEnd=51521|Gloss=.|nWord=13|Word=.
+
+# sent_id = 103_08-08
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 52315, 53785
+# morphemic_text = toʔ =ma a- par =pero Ø- ʃã -er -i =na .
+# text = toʔ =ma apar =pero Øʃãeri =na .
+# text_en = It is said that they only saw the tail.
+# text_phrase-gls-es = Dicen que solo le vieron la cola
+# text_phrase-gls-pro = || tòʔˈmàʔpàrˈpēɾò ʃɛ̃̄ɾìˈnã̄ (2.4s) ||
+# text_phrase-gls-it = tòʔmà àpàrpēɾò tʃɛ̃̄ɾìnã̄
+# text_phrase-gls-wg = DEM.MED TOP tail:3 only see:PST:3PL>3 REP
+# text_phrase-gls-de = Madre_peces_008_DL
+1	toʔ	toʔ	PRON	_	_	3	det	_	AlignBegin=52315|AlignEnd=52525|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	=ma	_	PART	_	_	1	case	_	AlignBegin=52525|AlignEnd=52735|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	apar	par	NOUN	_	_	5	obj	_	AlignBegin=52735|AlignEnd=52945|GE=tail|Gloss=tail|nWord=3|RX=[N]|TokenType=Root|Word=apar
+4	=pero	_	PART	_	_	3	advmod	_	AlignBegin=52945|AlignEnd=53155|GE=only|Gloss==only|nWord=4|RX=[PRT]|TokenType=Clit|Word=pero
+5	Øʃãeri	ʃã	AUX	_	_	0	root	_	AlignBegin=53155|AlignEnd=53365|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=ʃẽri
+6	=na	_	PART	_	_	5	mark	_	AlignBegin=53365|AlignEnd=53575|GE=[REP]|Gloss==REP|nWord=6|RX=[PRT]|TokenType=Clit|Word=na
+7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=53575|AlignEnd=53785|Gloss=.|nWord=7|Word=.
+
+# sent_id = 103_09-09
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 56184, 59853
+# morphemic_text = toʔ arwã =mã Ø- yẽh -Ø -i =na este =ma este =ma tas =ma tas =ya Ø- kapor -pa .
+# text = toʔ arwã =mã ØyẽhØi =na este =ma este =ma tas =ma tas =ya Økaporpa .
+# text_en = That man said, "This one, I will spear this one."
+# text_phrase-gls-es = Dijo el hombre "este yo lo clavaré"
+# text_phrase-gls-pro = || ˈtóʔ ˈárhwɔ̃́ˈmã̄ ɲɛ̃̄hìˈná ˈéstamà ˈéstamà ˈtāsmã̀ ˈtàsjà kàˈpórpá (0.2s) ||
+# text_phrase-gls-it = tóʔ árwɔ̃́mã̄, ɲɛ̃̄hìná éstèmà éstèmà tāsmã̀ tàsyà kàpórpá
+# text_phrase-gls-wg = DEM.MED man TOP say:PST:3>3 REP SPA_this TOP SPA_this TOP PRO1 TOP PRO1 ERG spear:FUT:1
+# text_phrase-gls-de = Madre_peces_009_DL
+1	toʔ	toʔ	PRON	_	_	2	det	_	AlignBegin=56184|AlignEnd=56429|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	arwã	arwã	NOUN	_	_	4	nsubj	_	AlignBegin=56429|AlignEnd=56674|GE=man|Gloss=man|nWord=2|RX=[N]|TokenType=Root|Word=arwã
+3	=mã	_	PART	_	_	2	case	_	AlignBegin=56674|AlignEnd=56919|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit|Word=mã
+4	ØyẽhØi	yẽh	AUX	_	_	0	root	_	AlignBegin=56919|AlignEnd=57164|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽhi
+5	=na	_	PART	_	_	4	mark	_	AlignBegin=57164|AlignEnd=57409|GE=[REP]|Gloss==REP|nWord=5|RX=[PRT]|TokenType=Clit|Word=na
+6	este	este	PRON	_	_	14	obj	_	AlignBegin=57409|AlignEnd=57654|GE=[SPA_this]|Gloss=SPA_this|nWord=6|RX=[PRO]|TokenType=Root|Word=este
+7	=ma	_	ADP	_	_	6	case	_	AlignBegin=57654|AlignEnd=57899|GE=[TOP]|Gloss==TOP|nWord=7|RX=[PRT]|TokenType=Clit|Word=ma
+8	este	este	PRON	_	_	6	reparandum	_	AlignBegin=57899|AlignEnd=58144|GE=[SPA_this]|Gloss=SPA_this|nWord=8|RX=[PRO]|TokenType=Root|Word=este
+9	=ma	_	ADP	_	_	8	case	_	AlignBegin=58144|AlignEnd=58389|GE=[TOP]|Gloss==TOP|nWord=9|RX=[PRT]|TokenType=Clit|Word=ma
+10	tas	tas	PRON	_	_	14	nsubj	_	AlignBegin=58389|AlignEnd=58634|GE=[PRO1]|Gloss=PRO1|nWord=10|RX=[PRO]|TokenType=Root|Word=tas
+11	=ma	_	ADP	_	_	10	case	_	AlignBegin=58634|AlignEnd=58879|GE=[TOP]|Gloss==TOP|nWord=11|RX=[PRT]|TokenType=Clit|Word=ma
+12	tas	tas	PRON	_	_	10	reparandum	_	AlignBegin=58879|AlignEnd=59124|GE=[PRO1]|Gloss=PRO1|nWord=12|RX=[PRO]|TokenType=Root|Word=tas
+13	=ya	_	ADP	_	_	12	case	_	AlignBegin=59124|AlignEnd=59369|GE=[ERG]|Gloss==ERG|nWord=13|RX=[PRT]|TokenType=Clit|Word=ya
+14	Økaporpa	kapor	AUX	_	Person=1	4	ccomp	_	AlignBegin=59369|AlignEnd=59614|GE=[S1SG:FUT]|Gloss=-S1SG:FUT|nWord=14|RX=[V:ANY]|TokenType=InflAff|Word=kaporpa
+15	.	_	PUNCT	_	_	4	punct	_	AlignBegin=59614|AlignEnd=59853|Gloss=.|nWord=15|Word=.
+
+# sent_id = 103_10-10
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 60006, 60558
+# morphemic_text = Ø- yẽh -Ø -i =na .
+# text = ØyẽhØi =na .
+# text_en = It is said that he said.
+# text_phrase-gls-es = Dijo el hombre "este yo lo clavaré"
+# text_phrase-gls-pro = || ˈɲɛ̃̀hìˈná (0.8s) ||
+# text_phrase-gls-it = ɲɛ̃̀hìná
+# text_phrase-gls-wg = say:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_010_DL
+1	ØyẽhØi	yẽh	AUX	_	_	0	root	_	AlignBegin=60006|AlignEnd=60190|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽhi
+2	=na	_	PART	_	_	1	mark	_	AlignBegin=60190|AlignEnd=60374|GE=[REP]|Gloss==REP|nWord=2|RX=[PRT]|TokenType=Clit|Word=na
+3	.	_	PUNCT	_	_	1	punct	_	AlignBegin=60374|AlignEnd=60558|Gloss=.|nWord=3|Word=.
+
+# sent_id = 103_11-11
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 61373, 66932
+# morphemic_text = y toʔ =kari , nã -Ø -i =na , niyopoʔa , wiʃã kapor -ka =yo .
+# text = y toʔ =kari , nãØi =na , niyopoʔa , wiʃã kaporka =yo .
+# text_en = But it is said that he went ###, with the fishing harpoon.
+# text_phrase-gls-es = Tomó su arpón y se fue
+# text_phrase-gls-pro = || ʔiʔi (0.5s) || ˈtóʔkāˈrīː (1.2s) || ˈnẽ̀jnāʔa niˈjopoˈɣa || =wìˈtʃã̀ kāˈpórkàˈjó (0.5s) ||
+# text_phrase-gls-it = tóʔkārīː nẽ̀ynā wìʃã̀ kāpórkàyó
+# text_phrase-gls-tl = CHECK what niˈjopoˈɣa could mean (non transcribed or translated)
+# text_phrase-gls-wg = SPA_and DEM.MED ADVS go:PST:3 REP CHECK? fish spear:NMLZ INS
+# text_phrase-gls-de = Madre_peces_011_DL-Madre_peces_012_DL
+1	y	y	X	_	_	5	obl	_	AlignBegin=61373|AlignEnd=61801|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
+2	toʔ	toʔ	PRON	_	_	5	obl	_	AlignBegin=61801|AlignEnd=62229|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
+3	=kari	_	PART	_	_	2	case	_	AlignBegin=62229|AlignEnd=62657|GE=[ADVS]|Gloss==ADVS|nWord=3|RX=[PRT]|TokenType=Clit|Word=kari
+4	,	_	PUNCT	_	_	2	punct	_	AlignBegin=62657|AlignEnd=63085|nWord=4|Word=,
+5	nãØi	nã	AUX	_	_	0	root	_	AlignBegin=63085|AlignEnd=63513|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=nẽy
+6	=na	_	PART	_	_	5	mark	_	AlignBegin=63513|AlignEnd=63941|GE=[REP]|Gloss==REP|nWord=6|RX=[PRT]|TokenType=Clit|Word=na
+7	,	_	PUNCT	_	_	5	punct	_	AlignBegin=63941|AlignEnd=64369|nWord=7|Word=,
+8	niyopoʔa	niyopoʔa	X	_	_	5	obl	_	AlignBegin=64369|AlignEnd=64797|nWord=8|Word=niyopoʔa
+9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=64797|AlignEnd=65225|nWord=9|Word=,
+10	wiʃã	wiʃã	NOUN	_	_	11	obj	_	AlignBegin=65225|AlignEnd=65653|GE=fish|Gloss=fish|nWord=10|RX=[N]|TokenType=Root|Word=wiʃã
+11	kaporka	kapor	NOUN	_	_	5	obl:arg	_	AlignBegin=65653|AlignEnd=66081|GE=[NMLZ]|Gloss=-NMLZ|nWord=11|RX=[V>N]|TokenType=DerAff|Word=kaporka
+12	=yo	_	ADP	_	_	11	case	_	AlignBegin=66081|AlignEnd=66509|GE=[INS]|Gloss==INS|nWord=12|RX=[POST]|TokenType=Clit|Word=yo
+13	.	_	PUNCT	_	_	5	punct	_	AlignBegin=66509|AlignEnd=66932|Gloss=.|nWord=13|Word=.
+
+# sent_id = 103_12-12
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 67435, 70392
+# morphemic_text = nã -Ø -wa nã -Ø -i , Ø- kapork -Ø -i =na , a- par =yã .
+# text = nãØwa nãØi , ØkaporkØi =na , apar =yã .
+# text_en = It is said that he speared it in the tail.
+# text_phrase-gls-es = Dicen que fue y lo clavó en la cola
+# text_phrase-gls-pro = || ˈnēʔwō ˈnẽ́ːjʔi (0.2s) || kàˈpórhkíˈná (0.3s) || ˈàpàrhˈjã́ (1.3s) ||
+# text_phrase-gls-it = nēō nẽ́ỹ kàpórkíná àpàryã́
+# text_phrase-gls-wg = go:PFV:3 go:PST:3 spear:PST:3>3 REP tail:3 LOC
+# text_phrase-gls-de = Madre_peces_013_DL
+1	nãØwa	nã	AUX	_	_	0	root	_	AlignBegin=67435|AlignEnd=67764|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nẽõ
+2	nãØi	nã	AUX	_	_	1	reparandum	_	AlignBegin=67764|AlignEnd=68093|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽy
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=68093|AlignEnd=68422|nWord=3|Word=,
+4	ØkaporkØi	kapork	AUX	_	_	1	reparandum	_	AlignBegin=68422|AlignEnd=68751|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=kaporki
+5	=na	_	PART	_	_	1	mark	_	AlignBegin=68751|AlignEnd=69080|GE=[REP]|Gloss==REP|nWord=5|RX=[PRT]|TokenType=Clit|Word=na
+6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=69080|AlignEnd=69409|nWord=6|Word=,
+7	apar	par	NOUN	_	_	4	obl:arg	_	AlignBegin=69409|AlignEnd=69738|GE=tail|Gloss=tail|nWord=7|RX=[N]|TokenType=Root|Word=apar
+8	=yã	_	ADP	_	_	7	case	_	AlignBegin=69738|AlignEnd=70067|GE=[LOC]|Gloss==LOC|nWord=8|RX=[POST]|TokenType=Clit|Word=yã
+9	.	_	PUNCT	_	_	1	punct	_	AlignBegin=70067|AlignEnd=70392|Gloss=.|nWord=9|Word=.
+
+# sent_id = 103_13-13
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 71717, 75895
+# morphemic_text = y toʔ a arwã =s =ma , Ø- ʃã -Ø -i akina toʔ arwã , a- r- ka -iʃk -Ø -wa =ro .
+# text = y toʔ a arwã =s =ma , ØʃãØi akina toʔ arwã , arkaiʃkØwa =ro .
+# text_en = The man quickly saw what she wanted to do to that man (his brother).
+# text_phrase-gls-es = El otro hombre vio lo que iba a hacer su hermano
+# text_phrase-gls-pro = || ˈìː ˈtóʔ || ʔā ˈʔárhuˈwã́smà || ˈʃɛ̃́ːjɲàkìˈnā ˈtòː ˈāɾhuwã̄ || ʔàɾˈkìːʃkwàˈɾó (1.9s) ||
+# text_phrase-gls-it = ì tóʔ ā árwã́smà ʃɛ̃́j àkìnā tò āɾʰwã̄ àɾkì ìʃkʷàɾó
+# text_phrase-gls-wg = SPA_and DEM.MED HES man:INDF TOP see:PST:3>3 a.little DEM.MED man make:BEN:DES:PFV:3>3 ABS
+# text_phrase-gls-de = Madre_peces_014_DL
+1	y	y	X	_	_	8	obl	_	AlignBegin=71717|AlignEnd=72015|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
+2	toʔ	toʔ	PRON	_	_	3	det	_	AlignBegin=72015|AlignEnd=72313|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
+3	a	a	INTJ	_	_	8	nsubj	_	AlignBegin=72313|AlignEnd=72611|nWord=3|TokenType=Root|Word=a
+4	arwã	arwã	NOUN	_	_	3	reparandum	_	AlignBegin=72611|AlignEnd=72760|GE=man|Gloss=man|nWord=4|RX=[N]|TokenType=Root|Word=arwãs
+5	=s	_	DET	_	_	4	det	_	AlignBegin=72760|AlignEnd=72909|GE=[INDF].[ART]|Gloss==INDF.ART|nWord=4|RX=[DET]|TokenType=Clit|Word=arwãs
+6	=ma	_	ADP	_	_	3	case	_	AlignBegin=72909|AlignEnd=73207|GE=[TOP]|Gloss==TOP|nWord=5|RX=[PRT]|TokenType=Clit|Word=ma
+7	,	_	PUNCT	_	_	3	punct	_	AlignBegin=73207|AlignEnd=73505|nWord=6|Word=,
+8	ØʃãØi	ʃã	AUX	_	_	0	root	_	AlignBegin=73505|AlignEnd=73803|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=ʃẽy
+9	akina	akina	NOUN	_	_	8	obl:mod	_	AlignBegin=73803|AlignEnd=74101|GE=a.little|Gloss=a.little|nWord=8|RX=[N]|TokenType=Root|Word=akina
+10	toʔ	toʔ	PRON	_	_	11	det	_	AlignBegin=74101|AlignEnd=74399|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=9|RX=[PRO]|TokenType=Root|Word=toʔ
+11	arwã	arwã	NOUN	_	_	13	obj	_	AlignBegin=74399|AlignEnd=74697|GE=man|Gloss=man|nWord=10|RX=[N]|TokenType=Root|Word=arwã
+12	,	_	PUNCT	_	_	11	punct	_	AlignBegin=74697|AlignEnd=74995|nWord=11|Word=,
+13	arkaiʃkØwa	ka	AUX	_	_	8	ccomp	_	AlignBegin=74995|AlignEnd=75293|GE=[PFV]|Gloss=-PFV|nWord=12|RX=[V:ANY]|TokenType=InflAff|Word=arkiiʃkwa
+14	=ro	_	SCONJ	_	_	13	mark	_	AlignBegin=75293|AlignEnd=75591|GE=[ABS]|Gloss==ABS|nWord=13|RX=[PRT]|TokenType=Clit|Word=ro
+15	.	_	PUNCT	_	_	8	punct	_	AlignBegin=75591|AlignEnd=75895|Gloss=.|nWord=14|Word=.
+
+# sent_id = 103_14-14
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 77760, 82576
+# morphemic_text = Ø- ʃã -Ø -wa =mã , ta- õʃ -Ø -wa ke =narina to , toʔ arwã .
+# text = ØʃãØwa =mã , taõʃØwa ke =narina to , toʔ arwã .
+# text_en = When he saw him, that man was already getting lost.
+# text_phrase-gls-es = El hombre esta(ba?) perdiéndose
+# text_phrase-gls-pro = || ˈʃɛ̃́ŋwã̀ˈmã̀ːː (1.1s) || ˈtṍʃːwàˈkēnàɾìˈnā tòːː (0.7s) || ˈtòwāɾˈhɔ̃́ː (1.4s) ||
+# text_phrase-gls-it = ʃɛ̃́wã̀mã̀ tṍʃkʷàkēnàɾìnā (tò) tò āɾʰwɔ̃́
+# text_phrase-gls-wg = see:PFV:3>3 when lose:MID:PFV already =also DEM.MED DEM.MED man
+# text_phrase-gls-de = Madre_peces_015_DL
+1	ØʃãØwa	ʃã	AUX	_	_	4	advcl:tmod	_	AlignBegin=77760|AlignEnd=78198|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=ʃãwa
+2	=mã	_	SCONJ	_	_	1	mark	_	AlignBegin=78198|AlignEnd=78636|GE=when|Gloss==when|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=78636|AlignEnd=79074|nWord=3|Word=,
+4	taõʃØwa	õʃ	AUX	_	_	0	root	_	AlignBegin=79074|AlignEnd=79512|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=tõʃwa
+5	ke	ke	ADV	_	_	4	advmod:tmod	_	AlignBegin=79512|AlignEnd=79950|GE=already|Gloss=already|nWord=5|RX=[ADV]|TokenType=Root|Word=ke
+6	=narina	_	CCONJ	_	_	5	discourse	_	AlignBegin=79950|AlignEnd=80388|GE=also|Gloss==also|nWord=6|RX=[COORDCONN]|TokenType=Clit|Word=narina
+7	to	to	PRON	_	_	10	det	_	AlignBegin=80388|AlignEnd=80826|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=to
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=80826|AlignEnd=81264|nWord=8|Word=,
+9	toʔ	toʔ	PRON	_	_	7	reparandum	_	AlignBegin=81264|AlignEnd=81702|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=9|RX=[PRO]|TokenType=Root|Word=toʔ
+10	arwã	arwã	NOUN	_	_	4	nsubj	_	AlignBegin=81702|AlignEnd=82140|GE=man|Gloss=man|nWord=10|RX=[N]|TokenType=Root|Word=arwã
+11	.	_	PUNCT	_	_	4	punct	_	AlignBegin=82140|AlignEnd=82576|Gloss=.|nWord=11|Word=.
+
+# sent_id = 103_15-15
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 83969, 85926
+# morphemic_text = toʔ wiʃã =ma wiʃã ẽka =tWh =r -Ø -i .
+# text = toʔ wiʃã =ma wiʃã ẽka =tWh =rØi .
+# text_en = That fish was not an ordinary fish.
+# text_phrase-gls-es = Este pez no era un pez común
+# text_phrase-gls-pro = || ˈtò wìˈʃã̀mã̀ ˈwìʃã̄ ˈʔɛ̃́ʔkà ˈtã́hɾĩ́ (0.1s) ||
+# text_phrase-gls-it = tò wìʃã̀mã̀ wìʃã̄ ɛ̃́ʔkà tã́ʰɾĩ́
+# text_phrase-gls-wg = DEM.MED fish TOP fish PRO3 =NEG COP:PST:3
+# text_phrase-gls-de = Madre_peces_016_DL
+1	toʔ	toʔ	PRON	_	_	2	det	_	AlignBegin=83969|AlignEnd=84214|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	wiʃã	wiʃã	NOUN	_	_	4	nsubj	_	AlignBegin=84214|AlignEnd=84459|GE=fish|Gloss=fish|nWord=2|RX=[N]|TokenType=Root|Word=wiʃã
+3	=ma	_	ADP	_	_	2	case	_	AlignBegin=84459|AlignEnd=84704|GE=[TOP]|Gloss==TOP|nWord=3|RX=[PRT]|TokenType=Clit|Word=ma
+4	wiʃã	wiʃã	NOUN	_	_	0	root	_	AlignBegin=84704|AlignEnd=84949|GE=fish|Gloss=fish|nWord=4|RX=[N]|TokenType=Root|Word=wiʃã
+5	ẽka	ẽka	PRON	_	_	4	nmod	_	AlignBegin=84949|AlignEnd=85194|GE=[PRO3]|Gloss=PRO3|nWord=5|RX=[PRO]|TokenType=Root|Word=ẽka
+6	=tWh	_	PART	_	_	4	case	_	AlignBegin=85194|AlignEnd=85439|GE=[NEG]|Gloss==NEG|nWord=6|RX=[PRT]|TokenType=Clit|Word=tãh
+7	=rØi	_	AUX	_	_	4	cop	_	AlignBegin=85439|AlignEnd=85684|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=ri
+8	.	_	PUNCT	_	_	4	punct	_	AlignBegin=85684|AlignEnd=85926|Gloss=.|nWord=8|Word=.
+
+# sent_id = 103_16-16
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 86023, 95404
+# morphemic_text = toʔ =ma wiʃã , wiʃã a- kaki =r -Ø -iʔ , pa- ta- yãh -a =yo =ma , pataa .
+# text = toʔ =ma wiʃã , wiʃã akaki =rØiʔ , patayãha =yo =ma , pataa .
+# text_en = That fish was the Mother of the fish, in our language.
+# text_phrase-gls-es = Era la mamá de los peces
+# text_phrase-gls-pro = || ˈtóʔmà ˈwìtʃã̀ːˈʔa (2.0s) || ˈwìtʃã̀ˈʔa kàˈkàʔkīˈɾíʔ (1.3s) || pàˈtàːɲāhˈjómàːː (1.6s) || pàˈtàːːː (0.4s) ||
+# text_phrase-gls-it = tóʔmà wìtʃã̀ wìtʃã̀ àkàkīɾíʔ pàtàːɲāyómàː pàtàː
+# text_phrase-gls-wg = DEM.MED TOP fish fish mother:3 COP:PST:3 say:NMLZ:INCL INS TOP HES
+# text_phrase-gls-de = Madre_peces_017_DL
+1	toʔ	toʔ	PRON	_	_	3	det	_	AlignBegin=86023|AlignEnd=86693|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	=ma	_	PART	_	_	1	case	_	AlignBegin=86693|AlignEnd=87363|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	wiʃã	wiʃã	NOUN	_	_	6	nsubj	_	AlignBegin=87363|AlignEnd=88033|GE=fish|Gloss=fish|nWord=3|RX=[N]|TokenType=Root|Word=wiʃã
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=88033|AlignEnd=88703|nWord=4|Word=,
+5	wiʃã	wiʃã	NOUN	_	_	6	nmod:poss	_	AlignBegin=88703|AlignEnd=89373|GE=fish|Gloss=fish|nWord=5|RX=[N]|TokenType=Root|Word=wiʃã
+6	akaki	kaki	NOUN	_	_	0	root	_	AlignBegin=89373|AlignEnd=90043|GE=mother|Gloss=mother|nWord=6|RX=[N]|TokenType=Root|Word=akaki
+7	=rØiʔ	_	AUX	_	_	6	cop	_	AlignBegin=90043|AlignEnd=90713|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=riʔ
+8	,	_	PUNCT	_	_	6	punct	_	AlignBegin=90713|AlignEnd=91383|nWord=8|Word=,
+9	patayãha	yãh	NOUN	_	_	6	obl:arg	_	AlignBegin=91383|AlignEnd=92053|GE=[NMLZ]|Gloss=-NMLZ|nWord=9|RX=[V>N]|TokenType=DerAff|Word=pataɲãh
+10	=yo	_	ADP	_	_	9	case	_	AlignBegin=92053|AlignEnd=92723|GE=[INS]|Gloss==INS|nWord=10|RX=[POST]|TokenType=Clit|Word=yo
+11	=ma	_	PART	_	_	9	case	_	AlignBegin=92723|AlignEnd=93393|GE=[TOP]|Gloss==TOP|nWord=11|RX=[PRT]|TokenType=Clit|Word=ma
+12	,	_	PUNCT	_	_	9	punct	_	AlignBegin=93393|AlignEnd=94063|nWord=12|Word=,
+13	pataa	pataa	X	_	_	6	obl	_	AlignBegin=94063|AlignEnd=94733|nWord=13|TokenType=Root|Word=pataa
+14	.	_	PUNCT	_	_	6	punct	_	AlignBegin=94733|AlignEnd=95404|Gloss=.|nWord=14|Word=.
+
+# sent_id = 103_17-17
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 95822, 97177
+# morphemic_text = en español es sirena .
+# text = en español es sirena .
+# text_en = In Spanish, it is a mermaid.
+# text_phrase-gls-es = La sirena en pesh se llama madre de los peces
+# text_phrase-gls-pro = || en español es siɾena (1.8s) ||
+# text_phrase-gls-it = {en español es "siɾena"}
+# text_phrase-gls-wg = SPA_in SPA_Spanish SPA_is mermaid.SPA
+# text_phrase-gls-de = Madre_peces_018_DL
+1	en	en	X	_	_	3	nmod	_	AlignBegin=95822|AlignEnd=96093|GE=[SPA_in]|Gloss=SPA_in|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=en
+2	español	español	X	_	_	1	nmod	_	AlignBegin=96093|AlignEnd=96364|GE=[SPA_Spanish]|Gloss=SPA_Spanish|nWord=2|RX=[<NOT_SURE>]|TokenType=Root|Word=español
+3	es	es	X	_	_	0	root	_	AlignBegin=96364|AlignEnd=96635|GE=[SPA_is]|Gloss=SPA_is|nWord=3|RX=[<NOT_SURE>]|TokenType=Root|Word=es
+4	sirena	sirena	X	_	_	3	nmod	_	AlignBegin=96635|AlignEnd=96906|GE=[SPA_mermaid]|Gloss=SPA_mermaid|nWord=4|RX=[N]|TokenType=Root|Word=sirena
+5	.	_	PUNCT	_	_	3	punct	_	AlignBegin=96906|AlignEnd=97177|Gloss=.|nWord=5|Word=.
+
+# sent_id = 103_18-18
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 98969, 103870
+# morphemic_text = y toʔ =kari =ni , Ø- ʃã -Ø ak -Ø -wa =mã ta- õʃk -Ø -i =n arwã =ma .
+# text = y toʔ =kari =ni , ØʃãØakØwa =mã taõʃkØi =n arwã =ma .
+# text_en = But, when he was watching, it is said that he disappeared, the man.
+# text_phrase-gls-es = Cuando estaba viendo, desapareció el hombre
+# text_phrase-gls-pro = || ˈĩ́ tòʔˈkāɾìˈnìːːː (1.7s) || ˈʃɛ̃́jˈɲākũ̀ˈmã̀ ˈtṍːʃkíˈn āɾhwã̄ˈma (0.1s) ||
+# text_phrase-gls-it = ĩ́ tòʔkāɾìnìː ʃɛ̃́j ākũ̀mã̀ a tṍʃkín āɾʰwã̄m
+# text_phrase-gls-wg = SPA_and DEM.MED ADVS TEMP see+be:PFV:3>3 when lose:MID:PST:3 =REP man TOP
+# text_phrase-gls-de = Madre_peces_019_DL-Madre_peces_020_DL
+1	y	y	X	_	_	8	obl	_	AlignBegin=98969|AlignEnd=99377|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
+2	toʔ	toʔ	PRON	_	_	8	obl	_	AlignBegin=99377|AlignEnd=99785|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
+3	=kari	_	PART	_	_	2	case	_	AlignBegin=99785|AlignEnd=100193|GE=[ADVS]|Gloss==ADVS|nWord=3|RX=[PRT]|TokenType=Clit|Word=kari
+4	=ni	_	ADP	_	_	2	case	_	AlignBegin=100193|AlignEnd=100601|GE=[TEMP]|Gloss==TEMP|nWord=4|RX=[POST]|TokenType=Clit|Word=ni
+5	,	_	PUNCT	_	_	2	punct	_	AlignBegin=100601|AlignEnd=101009|nWord=5|Word=,
+6	ØʃãØakØwa	ʃãak	AUX	_	_	8	advcl:tmod	_	AlignBegin=101009|AlignEnd=101417|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=ʃẽaku
+7	=mã	_	SCONJ	_	_	6	mark	_	AlignBegin=101417|AlignEnd=101825|GE=when|Gloss==when|nWord=7|RX=[PRT]|TokenType=Clit|Word=mã
+8	taõʃkØi	õʃk	AUX	_	_	0	root	_	AlignBegin=101825|AlignEnd=102233|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=tõʃki
+9	=n	_	PART	_	_	8	mark	_	AlignBegin=102233|AlignEnd=102641|GE=[REP]|Gloss==REP|nWord=9|RX=[PRT]|TokenType=Clit|Word=n
+10	arwã	arwã	NOUN	_	_	8	nsubj	_	AlignBegin=102641|AlignEnd=103049|GE=man|Gloss=man|nWord=10|RX=[N]|TokenType=Root|Word=arwã
+11	=ma	_	PART	_	_	10	case	_	AlignBegin=103049|AlignEnd=103457|GE=[TOP]|Gloss==TOP|nWord=11|RX=[PRT]|TokenType=Clit|Word=ma
+12	.	_	PUNCT	_	_	8	punct	_	AlignBegin=103457|AlignEnd=103870|Gloss=.|nWord=12|Word=.
+
+# sent_id = 103_19-19
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 103938, 105349
+# morphemic_text = pi =ken Ø- pak -Ø -i =ken Ø- ʃã -Ø -tW -i =na .
+# text = pi =ken ØpakØi =ken ØʃãØtVi =na .
+# text_en = It is said that he didn’t see where she took him.
+# text_phrase-gls-es = No supo por dónde se fue aquel hombre
+# text_phrase-gls-pro = || ˈpìkẽ́ ˈpāɣɔ̀ˈkẽ́ ʃɛ̃́ˈnĩ́ːnã́ (1.9s) ||
+# text_phrase-gls-it = pìkẽ́ pāɣɔ̀kẽ́ ʃɛ̃́nĩ́nã́
+# text_phrase-gls-wg = place =SIM take:PST:3>3 =LOC see:NEG:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_021_DL
+1	pi	pi	NOUN	_	_	3	obl:mod	_	AlignBegin=103938|AlignEnd=104140|GE=place|Gloss=place|nWord=1|RX=[N]|TokenType=Root|Word=pi
+2	=ken	_	PART	_	_	1	case	_	AlignBegin=104140|AlignEnd=104342|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=kẽ
+3	ØpakØi	pak	AUX	_	_	5	ccomp	_	AlignBegin=104342|AlignEnd=104544|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=paki
+4	=ken	_	SCONJ	_	_	3	mark	_	AlignBegin=104544|AlignEnd=104746|GE=[LOC]|Gloss==LOC|nWord=4|RX=[POST]|TokenType=Clit|Word=kẽ
+5	ØʃãØtVi	ʃã	AUX	_	_	0	root	_	AlignBegin=104746|AlignEnd=104948|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=ʃãni|wordform=ØʃãØtWi
+6	=na	_	PART	_	_	5	mark	_	AlignBegin=104948|AlignEnd=105150|GE=[REP]|Gloss==REP|nWord=6|RX=[PRT]|TokenType=Clit|Word=na
+7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=105150|AlignEnd=105349|Gloss=.|nWord=7|Word=.
+
+# sent_id = 103_20-20
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 107250, 111450
+# morphemic_text = y toʔ arwã =ma teʔk -Ø -i =na , a- kaʔo =ken a- ʔiʃ -Ø -pi =ro a a- kawa .
+# text = y toʔ arwã =ma teʔkØi =na , akaʔo =ken aʔiʃØpi =ro a akawa .
+# text_en = That man came back to his house to tell the spouse (of the other man).
+# text_phrase-gls-es = El otro se regresó a su casa para contar la noticia (a su esposa?)
+# text_phrase-gls-pro = || ˈì tōʔ ˈáɾhwɔ̃́ˈmād̚ (0.3s) || ˈtéʔkíˈnáː || ˈàkòˈkéʔ àjʃˈpíɾɔ́ ˈàːːːːː (0.2s) || ˈàkàˈwá (0.4s) ||
+# text_phrase-gls-it = ì tōʔ áɾʰwɔ̃́mā téʔkíná àkòkéʔ àjʃpíɾɔ́ àː àkàwá
+# text_phrase-gls-wg = SPA_and DEM.MED man TOP come:PST:3 REP house:3 =LOC tell:FUT:3>3 PURP HES spouse:3
+# text_phrase-gls-de = Madre_peces_022_DL
+1	y	y	X	_	_	5	obl	_	AlignBegin=107250|AlignEnd=107550|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
+2	toʔ	toʔ	PRON	_	_	3	det	_	AlignBegin=107550|AlignEnd=107850|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
+3	arwã	arwã	NOUN	_	_	5	nsubj	_	AlignBegin=107850|AlignEnd=108150|GE=man|Gloss=man|nWord=3|RX=[N]|TokenType=Root|Word=arwã
+4	=ma	_	ADP	_	_	3	case	_	AlignBegin=108150|AlignEnd=108450|GE=[TOP]|Gloss==TOP|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+5	teʔkØi	teʔk	AUX	_	_	0	root	_	AlignBegin=108450|AlignEnd=108750|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=teʔki
+6	=na	_	PART	_	_	5	mark	_	AlignBegin=108750|AlignEnd=109050|GE=[REP]|Gloss==REP|nWord=6|RX=[PRT]|TokenType=Clit|Word=na
+7	,	_	PUNCT	_	_	5	punct	_	AlignBegin=109050|AlignEnd=109350|nWord=7|Word=,
+8	akaʔo	kaʔo	NOUN	_	_	5	obl:arg	_	AlignBegin=109350|AlignEnd=109650|GE=house|Gloss=house|nWord=8|RX=[N]|TokenType=Root|Word=ako
+9	=ken	_	ADP	_	_	8	case	_	AlignBegin=109650|AlignEnd=109950|GE=[LOC]|Gloss==LOC|nWord=9|RX=[POST]|TokenType=Clit|Word=ke
+10	aʔiʃØpi	ʔiʃ	AUX	_	_	5	advcl	_	AlignBegin=109950|AlignEnd=110250|GE=[FUT]|Gloss=-FUT|nWord=10|RX=[V:ANY]|TokenType=InflAff|Word=aʔiʃpi
+11	=ro	_	SCONJ	_	_	10	mark	_	AlignBegin=110250|AlignEnd=110550|GE=[PURP]|Gloss==PURP|nWord=11|RX=[PRT]|TokenType=Clit|Word=ro
+12	a	a	X	_	_	10	obj	_	AlignBegin=110550|AlignEnd=110850|nWord=12|TokenType=Root|Word=a
+13	akawa	kawa	NOUN	_	_	12	reparandum	_	AlignBegin=110850|AlignEnd=111150|GE=spouse|Gloss=spouse|nWord=13|RX=[N]|TokenType=Root|Word=akawa
+14	.	_	PUNCT	_	_	5	punct	_	AlignBegin=111150|AlignEnd=111450|Gloss=.|nWord=14|Word=.
+
+# sent_id = 103_21-21
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 111810, 113521
+# morphemic_text = teʔ a- ʔiʃk -Ø -wa =mã , a- ʔiʃk -Ø -i =na .
+# text = teʔ aʔiʃkØwa =mã , aʔiʃkØi =na .
+# text_en = When he arrived to tell her, it is said he told her.
+# text_phrase-gls-es = Dicen que le dijo que venía solo
+# text_phrase-gls-pro = || téˈʔàjʃkũ̀ˈmã̀ː (0.4s) || ʔàˈʔijʃɣìˈnāk̚ (0.8s) ||
+# text_phrase-gls-it = téʔàjʃkũ̀mã̀ː àjʃɣìnā
+# text_phrase-gls-wg = come+tell:PFV:3>3 when tell:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_023_DL
+1	teʔ	teʔ	VERB	_	_	2	compound	_	AlignBegin=111810|AlignEnd=111867|GE=come|Gloss=come|nWord=1|RX=[VI]|TokenType=Root|Word=teʔaʔiʃku
+2	aʔiʃkØwa	ʔiʃk	AUX	_	_	5	advcl:tmod	_	AlignBegin=111867|AlignEnd=112095|GE=[PFV]|Gloss=-PFV|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=teʔaʔiʃku
+3	=mã	_	SCONJ	_	_	2	mark	_	AlignBegin=112095|AlignEnd=112380|GE=when|Gloss==when|nWord=2|RX=[PRT]|TokenType=Clit|Word=mã
+4	,	_	PUNCT	_	_	2	punct	_	AlignBegin=112380|AlignEnd=112665|nWord=3|Word=,
+5	aʔiʃkØi	ʔiʃk	AUX	_	_	0	root	_	AlignBegin=112665|AlignEnd=112950|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=aʔiʃki
+6	=na	_	PART	_	_	5	mark	_	AlignBegin=112950|AlignEnd=113235|GE=[REP]|Gloss==REP|nWord=5|RX=[PRT]|TokenType=Clit|Word=na
+7	.	_	PUNCT	_	_	5	punct	_	AlignBegin=113235|AlignEnd=113521|Gloss=.|nWord=6|Word=.
+
+# sent_id = 103_22-22
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 114350, 117068
+# morphemic_text = tas =ma , as =pe teʔk -a -wa tWk Ø- -Ø -i =na .
+# text = tas =ma , as =pe teʔkawa tVkØØi =na .
+# text_en = "I come alone," it is said he said.
+# text_phrase-gls-pro = || ˈtàsmàː (0.7s) || ˈàspé ˈtéʔkàˈwá tīˈɣíˈná (0.4s) ||
+# text_phrase-gls-it = tàsmàː àspé téʔkàwá |
+# text_phrase-gls-wg = PRO1 TOP one only come:PFV:1 say:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_024_DL
+1	tas	tas	PRON	_	_	4	nsubj:dislocated	_	AlignBegin=114350|AlignEnd=114652|GE=[PRO1]|Gloss=PRO1|nWord=1|RX=[PRO]|TokenType=Root|Word=tas
+2	=ma	_	PART	_	_	1	case	_	AlignBegin=114652|AlignEnd=114954|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=114954|AlignEnd=115256|nWord=3|Word=,
+4	as	as	NUM	_	_	7	ccomp	_	AlignBegin=115256|AlignEnd=115558|GE=one|Gloss=one|nWord=4|RX=[N]|TokenType=Root|Word=as
+5	=pe	_	PART	_	_	4	advmod	_	AlignBegin=115558|AlignEnd=115860|GE=only|Gloss==only|nWord=5|RX=[PRT]|TokenType=Clit|Word=pe
+6	teʔkawa	teʔk	AUX	_	_	4	cop	_	AlignBegin=115860|AlignEnd=116162|GE=[PFV]|Gloss=-PFV|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=teʔkawa
+7	tVkØØi	_	AUX	_	_	0	root	_	AlignBegin=116162|AlignEnd=116464|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=tiki|wordform=tWk-Øi
+8	=na	_	PART	_	_	7	mark	_	AlignBegin=116464|AlignEnd=116766|GE=[REP]|Gloss==REP|nWord=8|RX=[PRT]|TokenType=Clit|Word=na
+9	.	_	PUNCT	_	_	7	punct	_	AlignBegin=116766|AlignEnd=117068|Gloss=.|nWord=9|Word=.
+
+# sent_id = 103_23-23
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 117068, 118196
+# morphemic_text = ĩ =ken , tW Ø- -t -Ø -i .
+# text = ĩ =ken , tVØtØi .
+# text_en = "How?" she said.
+# text_phrase-gls-es = (Y?) le dice "¿cómo?"
+# text_phrase-gls-pro = || =ˈhĩ̄nkē °ˈtɨ̃tɨ̃° ||
+# text_phrase-gls-it = tīɣíná hĩ̄ʰkē
+# text_phrase-gls-wg = DEM.PROX SIM say:IT:PST:3>3
+# text_phrase-gls-de = Madre_peces_025_DL
+1	ĩ	ĩ	PRON	_	_	4	obj	_	AlignBegin=117068|AlignEnd=117294|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
+2	=ken	_	ADP	_	_	1	case	_	AlignBegin=117294|AlignEnd=117520|GE=[SIM]|Gloss==SIM|nWord=2|RX=[PRT]|TokenType=Clit|Word=ken
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=117520|AlignEnd=117746|nWord=3|Word=,
+4	tVØtØi	_	AUX	_	_	0	root	_	AlignBegin=117746|AlignEnd=117972|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=titi|wordform=tW-tØi
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=117972|AlignEnd=118196|Gloss=.|nWord=5|Word=.
+
+# sent_id = 103_24-24
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 118557, 124018
+# morphemic_text = ta- arki =ma , wiʃã aka =ya Ø- pak -Ø -i tWk Ø- -Ø -i =na , wiʃã a- kakiʔ , sirena .
+# text = taarki =ma , wiʃã aka =ya ØpakØi tVkØØi =na , wiʃã akakiʔ , sirena .
+# text_en = "My brother was taken by the Big fish, the Mother of the fish, the mermaid."
+# text_phrase-gls-es = El pez grande se llevó a mi hermano, la mamá de los peces, la sirena (?)
+# text_phrase-gls-pro = || tà àɾkìmàː (0.5s) || wìʃã̀ àkájà pàːkíʔ tīɣìnà || wīʃã̀ àkáʔkíʔ (0.9s) || siɾena (1.0s) ||
+# text_phrase-gls-it = tà àɾkìmàː wìʃã̀ àkájà pàːkíʔ tīɣìnà wīʃã̀ àkáʔkíʔ {siɾena}
+# text_phrase-gls-wg = brother:1 TOP fish big ERG take:PST:3>3 say:PST:3>3 REP fish mother:3 mermaid.SPA
+# text_phrase-gls-de = Madre_peces_026_DL
+1	taarki	arki	NOUN	_	_	7	dislocated:obj	_	AlignBegin=118557|AlignEnd=118921|GE=brother|Gloss=brother|nWord=1|RX=[N]|TokenType=Root|Word=taarki
+2	=ma	_	PART	_	_	1	case	_	AlignBegin=118921|AlignEnd=119285|GE=[TOP]|Gloss==TOP|nWord=2|RX=[PRT]|TokenType=Clit|Word=ma
+3	,	_	PUNCT	_	_	1	punct	_	AlignBegin=119285|AlignEnd=119649|nWord=3|Word=,
+4	wiʃã	wiʃã	NOUN	_	_	7	nsubj	_	AlignBegin=119649|AlignEnd=120013|GE=fish|Gloss=fish|nWord=4|RX=[N]|TokenType=Root|Word=wiʃã
+5	aka	aka	NOUN	_	_	4	nmod	_	AlignBegin=120013|AlignEnd=120377|GE=big|Gloss=big|nWord=5|RX=[N]|TokenType=Root|Word=aka
+6	=ya	_	ADP	_	_	4	case	_	AlignBegin=120377|AlignEnd=120741|GE=[ERG]|Gloss==ERG|nWord=6|RX=[PRT]|TokenType=Clit|Word=ya
+7	ØpakØi	pak	AUX	_	_	8	ccomp	_	AlignBegin=120741|AlignEnd=121105|GE=[PST]|Gloss=-PST|nWord=7|RX=[V:ANY]|TokenType=InflAff|Word=paki
+8	tVkØØi	_	AUX	_	_	0	root	_	AlignBegin=121105|AlignEnd=121469|GE=[PST]|Gloss=-PST|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=tiki|wordform=tWk-Øi
+9	=na	_	PART	_	_	8	mark	_	AlignBegin=121469|AlignEnd=121833|GE=[REP]|Gloss==REP|nWord=9|RX=[PRT]|TokenType=Clit|Word=na
+10	,	_	PUNCT	_	_	8	punct	_	AlignBegin=121833|AlignEnd=122197|nWord=10|Word=,
+11	wiʃã	wiʃã	NOUN	_	_	12	nmod	_	AlignBegin=122197|AlignEnd=122561|GE=fish|Gloss=fish|nWord=11|RX=[N]|TokenType=Root|Word=wiʃã
+12	akakiʔ	kakiʔ	NOUN	_	_	7	parataxis	_	AlignBegin=122561|AlignEnd=122925|GE=mother|Gloss=mother|nWord=12|RX=[N]|TokenType=Root|Word=akakiʔ
+13	,	_	PUNCT	_	_	12	punct	_	AlignBegin=122925|AlignEnd=123289|nWord=13|Word=,
+14	sirena	sirena	NOUN	_	_	12	parataxis	_	AlignBegin=123289|AlignEnd=123653|GE=[SPA_mermaid]|Gloss=SPA_mermaid|nWord=14|RX=[N]|TokenType=Root|Word=sirena
+15	.	_	PUNCT	_	_	14	punct	_	AlignBegin=123653|AlignEnd=124018|Gloss=.|nWord=15|Word=.
+
+# sent_id = 103_25-25
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 124993, 127760
+# morphemic_text = ah tWk Ø- -Ø -i =na , nã Ø- proh -a -pe tWk Ø- -Ø -i =na .
+# text = ah tVkØØi =na , nã Øprohape tVkØØi =na .
+# text_en = It is said that she said, "Ah, I have to go to look for him."
+# text_phrase-gls-es = Dicen que le dijo "lo vamos a buscar"
+# text_phrase-gls-pro = || ʔáːːː tìɣìnəe (0.5s) || nāpɾóhàpɛ̃́ tīɣìnà ||
+# text_phrase-gls-it = áː (tìɣìnà) nāpɾóhàpɛ̃́ tīɣìnà
+# text_phrase-gls-wg = INTERJ say:PST:3>3 REP go+look.for:FUT:1>3 say:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_027_DL
+1	ah	ah	INTJ	_	_	2	obj	_	AlignBegin=124993|AlignEnd=125339|GE=[INTERJ]|Gloss=INTERJ|nWord=1|RX=[INTERJ]|TokenType=Root|Word=aa
+2	tVkØØi	_	AUX	_	_	0	root	_	AlignBegin=125339|AlignEnd=125685|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=tiki|wordform=tWk-Øi
+3	=na	_	PART	_	_	2	mark	_	AlignBegin=125685|AlignEnd=126031|GE=[REP]|Gloss==REP|nWord=3|RX=[PRT]|TokenType=Clit|Word=na
+4	,	_	PUNCT	_	_	2	punct	_	AlignBegin=126031|AlignEnd=126377|nWord=4|Word=,
+5	nã	nã	VERB	_	_	6	compound	_	AlignBegin=126377|AlignEnd=126446|GE=go|Gloss=go|nWord=5|RX=[VI]|TokenType=Root|Word=nãprohape
+6	Øprohape	proh	AUX	_	_	7	ccomp	_	AlignBegin=126446|AlignEnd=126723|GE=[FUT]|Gloss=-FUT|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=nãprohape
+7	tVkØØi	_	AUX	_	_	2	parataxis	_	AlignBegin=126723|AlignEnd=127069|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=tiki|wordform=tWk-Øi
+8	=na	_	PART	_	_	7	mark	_	AlignBegin=127069|AlignEnd=127415|GE=[REP]|Gloss==REP|nWord=7|RX=[PRT]|TokenType=Clit|Word=na
+9	.	_	PUNCT	_	_	2	punct	_	AlignBegin=127415|AlignEnd=127760|Gloss=.|nWord=8|Word=.
+
+# sent_id = 103_26-26
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 127760, 130551
+# morphemic_text = nã Ø- proh -ir -i nã Ø- proh -er -Øwa =mã , ĩ Ø- pãsk -er -tW -i .
+# text = nã Øprohiri nã ØproherØwa =mã , ĩ ØpãskertVi .
+# text_en = When they went to look for him, they didn’t find him.
+# text_phrase-gls-es = Al buscarlo no lo encontraron
+# text_phrase-gls-pro = || nāpɾóhlīɾī nāpɾóhlɛ̃̀ɾmã̀ || ĩ́pã́́skértí (1.0s) ||
+# text_phrase-gls-it = nāpɾóʰlīβī nāpɾóʰlɛ̃̀ɾmã̀ ĩ́pã́́skértí
+# text_phrase-gls-wg = go+look.for:PST:3PL>3 go+look.for:PFV:3PL>3 when DEM.PROX take.out(find):PST:NEG:3PL>3
+# text_phrase-gls-de = Madre_peces_028_DL
+1	nã	nã	VERB	_	_	2	compound	_	AlignBegin=127760|AlignEnd=127840|GE=go|Gloss=go|nWord=1|RX=[VI]|TokenType=Root|Word=nãprohliri
+2	Øprohiri	proh	AUX	_	_	8	advcl:tmod	_	AlignBegin=127840|AlignEnd=128159|GE=[PST]|Gloss=-PST|nWord=1|RX=[V:ANY]|TokenType=InflAff|Word=nãprohliri
+3	nã	nã	VERB	_	_	4	compound	_	AlignBegin=128159|AlignEnd=128239|GE=go|Gloss=go|nWord=2|RX=[VI]|TokenType=Root|Word=nãprohler
+4	ØproherØwa	proh	AUX	_	_	2	reparandum	_	AlignBegin=128239|AlignEnd=128558|GE=[PFV]|Gloss=-PFV|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nãprohler
+5	=mã	_	SCONJ	_	_	4	mark	_	AlignBegin=128558|AlignEnd=128957|GE=when|Gloss==when|nWord=3|RX=[PRT]|TokenType=Clit|Word=mã
+6	,	_	PUNCT	_	_	2	punct	_	AlignBegin=128957|AlignEnd=129356|nWord=4|Word=,
+7	ĩ	ĩ	PRON	_	_	8	obj	_	AlignBegin=129356|AlignEnd=129755|GE=[PROX].[DEM]|Gloss=PROX.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=ĩ
+8	ØpãskertVi	pãsk	AUX	_	_	0	root	_	AlignBegin=129755|AlignEnd=130154|GE=[PST]|Gloss=-PST|nWord=6|RX=[V:ANY]|TokenType=InflAff|Word=pãskerti|wordform=ØpãskertWi
+9	.	_	PUNCT	_	_	8	punct	_	AlignBegin=130154|AlignEnd=130551|Gloss=.|nWord=7|Word=.
+
+# sent_id = 103_27-27
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 131575, 137705
+# morphemic_text = pero , ʃã eɲã Ø- ka -er -Øwa =ma , toʔ arwã =ma , Ø- pak -Ø ak -Ø -i =na toʔ , wiʃã a- kaki =ya .
+# text = pero , ʃã eɲã ØkaerØwa =ma , toʔ arwã =ma , ØpakØ akØi =na toʔ , wiʃã akaki =ya .
+# text_en = But when looking thoroughly, that man, it is said she had already taken him, the Mother of the fish.
+# text_phrase-gls-es = Viendo bien la mamá de los peces se lo llevó, la sirena
+# text_phrase-gls-pro = || pèɾòː (1.3s) || ʃàéŋ kìlèɾmà (0.1s) || tóʔ āɾhwɔ̃̄mà (0.5s) || pàːkwákíná tòː || wìʃã̀ àkákíɲá (2.3s) ||
+# text_phrase-gls-it = pèɾòː ʃàén kìlèɾmà tóʔ āɾʰwɔ̃̄mà pàkʷákíná tò wìʃã̀ àkákíɲá
+# text_phrase-gls-wg = but see(BARE) well make:PFV:3PL>3 =when DEM.MED man TOP take+state:PST:3>3 REP DEM.MED fish mother:3 =ERG
+# text_phrase-gls-de = Madre_peces_029_DL-Madre_peces_030_DL
+1	pero	pero	X	_	_	4	discourse	_	AlignBegin=131575|AlignEnd=131898|GE=[SPA_but]|Gloss=SPA_but|nWord=1|RX=[PRT]|TokenType=Root|Word=pero
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=131898|AlignEnd=132221|nWord=2|Word=,
+3	ʃã	ʃã	VERB	_	_	4	obj:lvc	_	AlignBegin=132221|AlignEnd=132544|GE=see|Gloss=see|nWord=3|RX=[VT]|TokenType=Root|Word=ʃã
+4	eɲã	eɲã	NOUN	_	_	12	advcl:tmod	_	AlignBegin=132544|AlignEnd=132867|GE=well|Gloss=well|nWord=4|RX=[N]|TokenType=Root|Word=eɲ
+5	ØkaerØwa	ka	AUX	_	_	4	cop	_	AlignBegin=132867|AlignEnd=133190|GE=[PFV]|Gloss=-PFV|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=kiler
+6	=ma	_	SCONJ	_	_	4	mark	_	AlignBegin=133190|AlignEnd=133513|GE=when|Gloss==when|nWord=6|RX=[PRT]|TokenType=Clit|Word=ma
+7	,	_	PUNCT	_	_	4	punct	_	AlignBegin=133513|AlignEnd=133836|nWord=7|Word=,
+8	toʔ	toʔ	PRON	_	_	9	det	_	AlignBegin=133836|AlignEnd=134159|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=8|RX=[PRO]|TokenType=Root|Word=toʔ
+9	arwã	arwã	NOUN	_	_	12	dislocated:obj	_	AlignBegin=134159|AlignEnd=134482|GE=man|Gloss=man|nWord=9|RX=[N]|TokenType=Root|Word=arwã
+10	=ma	_	ADP	_	_	9	case	_	AlignBegin=134482|AlignEnd=134805|GE=[TOP]|Gloss==TOP|nWord=10|RX=[PRT]|TokenType=Clit|Word=ma
+11	,	_	PUNCT	_	_	9	punct	_	AlignBegin=134805|AlignEnd=135128|nWord=11|Word=,
+12	ØpakØ	pak	VERB	_	_	0	root	_	AlignBegin=135128|AlignEnd=135290|GE=take|Gloss=take|nWord=12|RX=[VT]|TokenType=Root|Word=pakaki
+13	akØi	ak	AUX	_	_	12	aux	_	AlignBegin=135290|AlignEnd=135451|GE=[PST]|Gloss=-PST|nWord=12|RX=[V:ANY]|TokenType=InflAff|Word=pakaki
+14	=na	_	PART	_	_	12	mark	_	AlignBegin=135451|AlignEnd=135774|GE=[REP]|Gloss==REP|nWord=13|RX=[PRT]|TokenType=Clit|Word=na
+15	toʔ	toʔ	PRON	_	_	18	det	_	AlignBegin=135774|AlignEnd=136097|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=14|RX=[PRO]|TokenType=Root|Word=toʔ
+16	,	_	PUNCT	_	_	15	punct	_	AlignBegin=136097|AlignEnd=136420|nWord=15|Word=,
+17	wiʃã	wiʃã	NOUN	_	_	18	nmod	_	AlignBegin=136420|AlignEnd=136743|GE=fish|Gloss=fish|nWord=16|RX=[N]|TokenType=Root|Word=wiʃã
+18	akaki	kaki	NOUN	_	_	12	nsubj	_	AlignBegin=136743|AlignEnd=137066|GE=mother|Gloss=mother|nWord=17|RX=[N]|TokenType=Root|Word=akaki
+19	=ya	_	ADP	_	_	18	case	_	AlignBegin=137066|AlignEnd=137389|GE=[ERG]|Gloss==ERG|nWord=18|RX=[PRT]|TokenType=Clit|Word=ɲa
+20	.	_	PUNCT	_	_	12	punct	_	AlignBegin=137389|AlignEnd=137705|Gloss=.|nWord=19|Word=.
+
+# sent_id = 103_28-28
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 139993, 143410
+# morphemic_text = toʔ nã -er -i nã -er proh -er -i nunca Ø- pãsk -er -tW -i =na .
+# text = toʔ nãeri nãer proheri nunca ØpãskertVi =na .
+# text_en = They went to look for him, they never found him, it is said.
+# text_phrase-gls-es = Lo buscaron nunca lo encontraron
+# text_phrase-gls-pro = || tóʔ || nēːːːːh || nēpɾóhr (0.1s) || nːːúŋkà páskéɾtīːnā (0.6s) ||
+# text_phrase-gls-it = tóʔ nēː nēpɾóhr núŋkà páskéɾtīːnā
+# text_phrase-gls-wg = DEM.MED go:PST:3PL go+look.for:PST:3PL never.SPA take.out(find):PST:NEG:3PL>3 REP
+# text_phrase-gls-de = Madre_peces_031_DL
+1	toʔ	toʔ	PRON	_	_	4	obj	_	AlignBegin=139993|AlignEnd=140481|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	nãeri	nã	AUX	_	_	6	conj	_	AlignBegin=140481|AlignEnd=140969|GE=[PST]|Gloss=-PST|nWord=2|RX=[V:ANY]|TokenType=InflAff|Word=nẽr
+3	nãer	nã	VERB	_	_	4	compound:svc	_	AlignBegin=140969|AlignEnd=141165|GE=go|Gloss=go|nWord=3|RX=[VI]|TokenType=Root|Word=nẽrproher
+4	proheri	proh	AUX	_	_	2	reparandum	_	AlignBegin=141165|AlignEnd=141457|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽrproher
+5	nunca	nunca	X	_	_	6	obl:mod	_	AlignBegin=141457|AlignEnd=141945|GE=[SPA_never]|Gloss=SPA_never|nWord=4|RX=[ADV]|TokenType=Root|Word=nuŋka
+6	ØpãskertVi	pãsk	AUX	_	_	0	root	_	AlignBegin=141945|AlignEnd=142433|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=pãskerti|wordform=ØpãskertWi
+7	=na	_	PART	_	_	6	mark	_	AlignBegin=142433|AlignEnd=142921|GE=[REP]|Gloss==REP|nWord=6|RX=[PRT]|TokenType=Clit|Word=na
+8	.	_	PUNCT	_	_	6	punct	_	AlignBegin=142921|AlignEnd=143410|Gloss=.|nWord=7|Word=.
+
+# sent_id = 103_29-29_split1
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 144005, 154975
+# morphemic_text = y toʔ =kari , Ø- yẽh -Ø -i =na arwã =ya , toʔ =ma , tas =ma ta- ka- tʃa -Ø -tW -i ,
+# text = y toʔ =kari , ØyẽhØi =na arwã =ya , toʔ =ma , tas =ma takatʃaØtVi ,
+# text_en = But, it is said that the man said, "I do not have--"
+# text_phrase-gls-es = El compañero dijo "yo no lo tengo"
+# text_phrase-gls-pro = || ì tóʔkárì (1.6s) || ɲɛ̃̄hĩ̀nà áɾhwɔ̃́ɲá (1.0s) || tòʔmà (0.1s) || tāsmàː (0.7s) || tàkàtʃuwíː (1.7s) ||
+# text_phrase-gls-it = ì tóʔkárì ɲɛ̃̄hĩ̀nà áɾʰwɔ̃́ɲá tòʔmà tāsmàː tàkàt͡ʃʷí
+# text_phrase-gls-wg = SPA_and DEM.MED ADVS say:PST:3>3 REP man =ERG DEM.MED TOP PRO1 TOP be.there:APPL:NEG:PST:3>1
+# text_phrase-gls-de = Madre_peces_032_DL
+1	y	y	X	_	_	5	discourse	_	AlignBegin=144005|AlignEnd=144504|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
+2	toʔ	toʔ	PRON	_	_	5	discourse	_	AlignBegin=144504|AlignEnd=145003|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
+3	=kari	_	PART	_	_	2	case	_	AlignBegin=145003|AlignEnd=145502|GE=[ADVS]|Gloss==ADVS|nWord=3|RX=[PRT]|TokenType=Clit|Word=kari
+4	,	_	PUNCT	_	_	2	punct	_	AlignBegin=145502|AlignEnd=146001|nWord=4|Word=,
+5	ØyẽhØi	yẽh	AUX	_	_	0	root	_	AlignBegin=146001|AlignEnd=146500|GE=[PST]|Gloss=-PST|nWord=5|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽhi
+6	=na	_	PART	_	_	5	mark	_	AlignBegin=146500|AlignEnd=146999|GE=[REP]|Gloss==REP|nWord=6|RX=[PRT]|TokenType=Clit|Word=na
+7	arwã	arwã	NOUN	_	_	5	nsubj	_	AlignBegin=146999|AlignEnd=147498|GE=man|Gloss=man|nWord=7|RX=[N]|TokenType=Root|Word=arwã
+8	=ya	_	ADP	_	_	7	case	_	AlignBegin=147498|AlignEnd=147997|GE=[ERG]|Gloss==ERG|nWord=8|RX=[PRT]|TokenType=Clit|Word=ɲa
+9	,	_	PUNCT	_	_	7	punct	_	AlignBegin=147997|AlignEnd=148496|nWord=9|Word=,
+10	toʔ	toʔ	PRON	_	_	15	nsubj	_	AlignBegin=148496|AlignEnd=148995|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=10|RX=[PRO]|TokenType=Root|Word=toʔ
+11	=ma	_	PART	_	_	10	case	_	AlignBegin=148995|AlignEnd=149494|GE=[TOP]|Gloss==TOP|nWord=11|RX=[PRT]|TokenType=Clit|Word=ma
+12	,	_	PUNCT	_	_	10	punct	_	AlignBegin=149494|AlignEnd=149993|nWord=12|Word=,
+13	tas	tas	PRON	_	_	15	dep:comp	_	AlignBegin=149993|AlignEnd=150492|GE=[PRO1]|Gloss=PRO1|nWord=13|RX=[PRO]|TokenType=Root|Word=tas
+14	=ma	_	PART	_	_	13	case	_	AlignBegin=150492|AlignEnd=150991|GE=[TOP]|Gloss==TOP|nWord=14|RX=[PRT]|TokenType=Clit|Word=ma
+15	takatʃaØtVi	tʃa	AUX	_	_	5	ccomp	_	AlignBegin=150991|AlignEnd=151490|GE=[PST]|Gloss=-PST|nWord=15|RX=[V:ANY]|TokenType=InflAff|Word=takatʃtwi|wordform=takatʃaØtWi
+16	,	_	PUNCT	_	_	15	punct	_	AlignBegin=151490|AlignEnd=151989|nWord=16|Word=,
+
+# sent_id = 103_29-29_split2
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 144005, 154975
+# morphemic_text = tas =ma akatĩʔ -a -tW -wa Ø- yẽh -Ø -i =na .
+# text = tas =ma akatĩʔatVwa ØyẽhØi =na .
+# text_en = "I am not afraid," it is said that he said.
+# text_phrase-gls-es = El compañero dijo "yo no lo tengo"
+# text_phrase-gls-pro = || tàsmà || àkātĩ́ʔtã̄wã̄ àɲɛ̃̀hĩ̀mà ||
+# text_phrase-gls-it = tàsmà àkātĩ́ʔtã̄wã̄ àɲɛ̃̀hĩ̀mà
+# text_phrase-gls-wg = PRO1 TOP be.afraid:NEG:PFV:1 say:PST:3>3 REP
+# text_phrase-gls-de = Madre_peces_033_DL
+1	tas	tas	PRON	_	_	3	nsubj	_	AlignBegin=151989|AlignEnd=152488|GE=[PRO1]|Gloss=PRO1|nWord=17|RX=[PRO]|TokenType=Root|Word=tas
+2	=ma	_	PART	_	_	1	case	_	AlignBegin=152488|AlignEnd=152987|GE=[TOP]|Gloss==TOP|nWord=18|RX=[PRT]|TokenType=Clit|Word=ma
+3	akatĩʔatVwa	akatĩʔ	AUX	_	_	4	ccomp	_	AlignBegin=152987|AlignEnd=153486|GE=[PFV]|Gloss=-PFV|nWord=19|RX=[V:ANY]|TokenType=InflAff|Word=akatĩʔatawa|wordform=akatĩʔatWwa
+4	ØyẽhØi	yẽh	AUX	_	_	0	root	_	AlignBegin=153486|AlignEnd=153985|GE=[PST]|Gloss=-PST|nWord=20|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽhi
+5	=na	_	PART	_	_	4	mark	_	AlignBegin=153985|AlignEnd=154484|GE=[REP]|Gloss==REP|nWord=21|RX=[PRT]|TokenType=Clit|Word=na
+6	.	_	PUNCT	_	_	4	punct	_	AlignBegin=154484|AlignEnd=154975|Gloss=.|nWord=22|Word=.
+
+# sent_id = 103_30-30
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 155024, 164668
+# morphemic_text = toʔ =riʃ , Ø- pak -Ø -i =na , toʔ , Ø- yẽh -er -wa =ma , ã arwã Ø- ka -Ø -i =na , sirena =ya .
+# text = toʔ =riʃ , ØpakØi =na , toʔ , Øyẽherwa =ma , ã arwã ØkaØi =na , sirena =ya .
+# text_en = It is said that this is the reason why she took him, what they said, um, the mermaid is said to have done to the man.
+# text_phrase-gls-es = La sirena se lo llevó
+# text_phrase-gls-pro = || túɾíʃ (1.4s) || pàːkìná (0.7s) || tòː ɲéhléɾúmà (1.6s) || àːːː (0.9s) || àː áɾhwɔ̃́ kìːná || sìɾénàɲā (0.7s) ||
+# text_phrase-gls-it = túɾíʃ pàːkìná tòː ɲéʰléɾúmà àː áɾʰwɔ̃́ kìːná sìɾénànā
+# text_phrase-gls-wg = DEM.MED =REAS take:PST:3>3 REP DEM.MED say:PFV:3PL>3 NOM DEM.DIST man make:PST:3>3 REP mermaid.SPA =ERG
+# text_phrase-gls-de = Madre_peces_034_DL-Madre_peces_035_DL
+1	toʔ	toʔ	PRON	_	_	4	obl:mod	_	AlignBegin=155024|AlignEnd=155532|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	=riʃ	_	PART	_	_	1	case	_	AlignBegin=155532|AlignEnd=156040|GE=[REAS]|Gloss==REAS|nWord=2|RX=[PRT]|TokenType=Clit|Word=riʃ
+3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=156040|AlignEnd=156548|nWord=3|Word=,
+4	ØpakØi	pak	AUX	_	_	0	root	_	AlignBegin=156548|AlignEnd=157056|GE=[PST]|Gloss=-PST|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=paki
+5	=na	_	PART	_	_	4	mark	_	AlignBegin=157056|AlignEnd=157564|GE=[REP]|Gloss==REP|nWord=5|RX=[PRT]|TokenType=Clit|Word=na
+6	,	_	PUNCT	_	_	4	punct	_	AlignBegin=157564|AlignEnd=158072|nWord=6|Word=,
+7	toʔ	toʔ	PRON	_	_	14	obj	_	AlignBegin=158072|AlignEnd=158580|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=7|RX=[PRO]|TokenType=Root|Word=toʔ
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=158580|AlignEnd=159088|nWord=8|Word=,
+9	Øyẽherwa	yẽh	AUX	_	_	7	acl:relcl	_	AlignBegin=159088|AlignEnd=159596|GE=[PFV]|Gloss=-PFV|nWord=9|RX=[V:ANY]|TokenType=InflAff|Word=ɲẽheru
+10	=ma	_	SCONJ	_	_	9	mark	_	AlignBegin=159596|AlignEnd=160104|GE=[NOM]|Gloss==NOM|nWord=10|RX=[PRT]|TokenType=Clit|Word=ma
+11	,	_	PUNCT	_	_	9	punct	_	AlignBegin=160104|AlignEnd=160612|nWord=11|Word=,
+12	ã	ã	PRON	_	_	13	det	_	AlignBegin=160612|AlignEnd=161120|GE=[DIST].[DEM]|Gloss=DIST.DEM|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
+13	arwã	arwã	NOUN	_	_	14	obl:arg	_	AlignBegin=161120|AlignEnd=161628|GE=man|Gloss=man|nWord=13|RX=[N]|TokenType=Root|Word=arwã
+14	ØkaØi	ka	AUX	_	_	2	ccomp	_	AlignBegin=161628|AlignEnd=162136|GE=[PST]|Gloss=-PST|nWord=14|RX=[V:ANY]|TokenType=InflAff|Word=ki
+15	=na	_	PART	_	_	14	mark	_	AlignBegin=162136|AlignEnd=162644|GE=[REP]|Gloss==REP|nWord=15|RX=[PRT]|TokenType=Clit|Word=na
+16	,	_	PUNCT	_	_	14	punct	_	AlignBegin=162644|AlignEnd=163152|nWord=16|Word=,
+17	sirena	sirena	NOUN	_	_	14	nsubj	_	AlignBegin=163152|AlignEnd=163660|GE=[SPA_mermaid]|Gloss=SPA_mermaid|nWord=17|RX=[N]|TokenType=Root|Word=sirena
+18	=ya	_	ADP	_	_	17	case	_	AlignBegin=163660|AlignEnd=164168|GE=[ERG]|Gloss==ERG|nWord=18|RX=[PRT]|TokenType=Clit|Word=ɲa
+19	.	_	PUNCT	_	_	17	punct	_	AlignBegin=164168|AlignEnd=164668|Gloss=.|nWord=19|Word=.
+
+# sent_id = 103_31-31
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 165319, 166785
+# morphemic_text = aso wa =yã tʃa -Ø -wa =na =hi .
+# text = aso wa =yã tʃaØwa =na =hi .
+# text_en = It is said that she lives in the sheltered place in the river.
+# text_phrase-gls-es = Vive en el río (?)
+# text_phrase-gls-pro = || àsòwájá tʃùná hi (0.7s) ||
+# text_phrase-gls-it = àsòwájá t͡ʃùná
+# text_phrase-gls-wg = eye+water LOC be.there:PFV:3 REP COP:PFV:3
+# text_phrase-gls-de = Madre_peces_036_DL
+1	aso	aso	NOUN	_	_	0	root	_	AlignBegin=165319|AlignEnd=165441|GE=water|Gloss=water|nWord=1|RX=[N]|TokenType=Root|Word=asowa
+2	wa	wa	NOUN	_	_	1	compound	_	AlignBegin=165441|AlignEnd=165563|GE=eye|Gloss=eye|nWord=1|RX=[N]|TokenType=Root|Word=asowa
+3	=yã	_	ADP	_	_	1	case	_	AlignBegin=165563|AlignEnd=165807|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
+4	tʃaØwa	tʃa	AUX	_	_	1	cop	_	AlignBegin=165807|AlignEnd=166051|GE=[PFV]|Gloss=-PFV|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
+5	=na	_	PART	_	_	1	mark	_	AlignBegin=166051|AlignEnd=166295|GE=[REP]|Gloss==REP|nWord=4|RX=[PRT]|TokenType=Clit|Word=na
+6	=hi	_	AUX	_	_	1	cop	_	AlignBegin=166295|AlignEnd=166539|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=5|RX=[COP]|TokenType=Clit|Word=hi
+7	.	_	PUNCT	_	_	1	punct	_	AlignBegin=166539|AlignEnd=166785|Gloss=.|nWord=6|Word=.
+
+# sent_id = 103_32-32
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 167502, 168920
+# morphemic_text = toʔ =yã nã -Ø -i .
+# text = toʔ =yã nãØi .
+# text_en = There, he went.
+# text_phrase-gls-es = ---
+# text_phrase-gls-pro = || tòʔjāː || néʔi (1.8s) ||
+# text_phrase-gls-it = tòʔjāː néj
+# text_phrase-gls-wg = DEM.MED LOC go:PST:3
+# text_phrase-gls-de = Madre_peces_037_DL
+1	toʔ	toʔ	PRON	_	_	3	obl:arg	_	AlignBegin=167502|AlignEnd=167856|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
+2	=yã	_	ADP	_	_	1	case	_	AlignBegin=167856|AlignEnd=168210|GE=[LOC]|Gloss==LOC|nWord=2|RX=[POST]|TokenType=Clit|Word=yã
+3	nãØi	nã	AUX	_	_	0	root	_	AlignBegin=168210|AlignEnd=168564|GE=[PST]|Gloss=-PST|nWord=3|RX=[V:ANY]|TokenType=InflAff|Word=nẽy
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=168564|AlignEnd=168920|Gloss=.|nWord=4|Word=.
+
+# sent_id = 103_33-33
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 170711, 177411
+# morphemic_text = ke yar -n =ĩ =ma toʔ arwã =ma tʃa -Ø -wa =na tewataʔ toʔ a- kawa =na .
+# text = ke yarn =ĩ =ma toʔ arwã =ma tʃaØwa =na tewataʔ toʔ akawa =na .
+# text_en = Already, what is true, it is said the man is alive, still, it is said her spouse.
+# text_phrase-gls-es = Hasta la vez vive este  hombre
+# text_phrase-gls-pro = || kèːː (0.6s) || jāɾhnĩ́màː (0.9s) || tòʔ āɾhwɔ̃̄mā tʃùná (0.1s) || téwátáʔ (1.2s) || ˈtōʔ aˈkàwáˈná (3.3s) ||
+# text_phrase-gls-it = (kèː) jāɾʰnĩ́màː tòʔ āɾʰwɔ̃̄mā t͡ʃùná téwátáʔ tōʔ akaàwáná
+# text_phrase-gls-wg = already true:IT COP:PFV:3 NOM DEM.MED man TOP be.there:PFV:3 REP still DEM.MED spouse:3 REP
+# text_phrase-gls-de = Madre_peces_038_DL-Madre_peces_039_DL
+1	ke	ke	ADV	_	_	2	discourse	_	AlignBegin=170711|AlignEnd=171190|GE=already|Gloss=already|nWord=1|RX=[ADV]|TokenType=Root|Word=ke
+2	yarn	yar	AUX	_	_	0	root	_	AlignBegin=171190|AlignEnd=171669|GE=[IT]|Gloss=-IT|nWord=2|RX=[N>???]|TokenType=InflAff|Word=yarn
+3	=ĩ	_	AUX	_	_	2	aux	_	AlignBegin=171669|AlignEnd=172148|GE=[COP:S3SG:PFV]|Gloss==COP:S3SG:PFV|nWord=3|RX=[COP]|TokenType=Clit|Word=ĩ
+4	=ma	_	SCONJ	_	_	2	mark	_	AlignBegin=172148|AlignEnd=172627|GE=[NOM]|Gloss==NOM|nWord=4|RX=[PRT]|TokenType=Clit|Word=ma
+5	toʔ	toʔ	PRON	_	_	6	det	_	AlignBegin=172627|AlignEnd=173106|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=toʔ
+6	arwã	arwã	NOUN	_	_	8	nsubj	_	AlignBegin=173106|AlignEnd=173585|GE=man|Gloss=man|nWord=6|RX=[N]|TokenType=Root|Word=arwã
+7	=ma	_	PART	_	_	6	case	_	AlignBegin=173585|AlignEnd=174064|GE=[TOP]|Gloss==TOP|nWord=7|RX=[PRT]|TokenType=Clit|Word=ma
+8	tʃaØwa	tʃa	AUX	_	_	2	csubj	_	AlignBegin=174064|AlignEnd=174543|GE=[PFV]|Gloss=-PFV|nWord=8|RX=[V:ANY]|TokenType=InflAff|Word=tʃu
+9	=na	_	PART	_	_	2	mark	_	AlignBegin=174543|AlignEnd=175022|GE=[REP]|Gloss==REP|nWord=9|RX=[PRT]|TokenType=Clit|Word=na
+10	tewataʔ	tewataʔ	ADV	_	_	8	advmod:tmod	_	AlignBegin=175022|AlignEnd=175501|GE=still|Gloss=still|nWord=10|RX=[ADV]|TokenType=Root|Word=tewataʔ
+11	toʔ	toʔ	PRON	_	_	12	det	_	AlignBegin=175501|AlignEnd=175980|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=11|RX=[PRO]|TokenType=Root|Word=toʔ
+12	akawa	kawa	NOUN	_	_	13	orphan	_	AlignBegin=175980|AlignEnd=176459|GE=spouse|Gloss=spouse|nWord=12|RX=[N]|TokenType=Root|Word=akawa
+13	=na	_	PART	_	_	2	parataxis	_	AlignBegin=176459|AlignEnd=176938|GE=[REP]|Gloss==REP|nWord=13|RX=[PRT]|TokenType=Clit|Word=na
+14	.	_	PUNCT	_	_	13	punct	_	AlignBegin=176938|AlignEnd=177411|Gloss=.|nWord=14|Word=.
+
+# sent_id = 103_34-34
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 178923, 183351
+# morphemic_text = y toʔ =yã teʔ na boh -n -Ø -wa toʔ , cuento =ma .
+# text = y toʔ =yã teʔ na bohnØwa toʔ , cuento =ma .
+# text_en = Here that story has ended.
+# text_phrase-gls-es = ---
+# text_phrase-gls-pro = || ʔiːː || nːːː || tóʔjá téːː || nábóná tòː (0.5s) || kwéntoma (2.1s) ||
+# text_phrase-gls-it = tóʔjá téː nábóná tò kʷént
+# text_phrase-gls-wg = SPA_and DEM.MED LOC come+go+leave:DUR:PFV:3 DEM.MED story.SPA TOP
+# text_phrase-gls-de = Madre_peces_040_DL
+1	y	y	X	_	_	6	discourse	_	AlignBegin=178923|AlignEnd=179415|GE=[SPA_and]|Gloss=SPA_and|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=i
+2	toʔ	toʔ	PRON	_	_	6	obl:mod	_	AlignBegin=179415|AlignEnd=179907|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=2|RX=[PRO]|TokenType=Root|Word=toʔ
+3	=yã	_	ADP	_	_	2	case	_	AlignBegin=179907|AlignEnd=180399|GE=[LOC]|Gloss==LOC|nWord=3|RX=[POST]|TokenType=Clit|Word=yã
+4	teʔ	teʔ	VERB	_	_	6	compound:svc	_	AlignBegin=180399|AlignEnd=180481|GE=come|Gloss=come|nWord=4|RX=[VI]|TokenType=Root|Word=teʔnabohna
+5	na	na	VERB	_	_	4	reparandum	_	AlignBegin=180481|AlignEnd=180563|GE=go|Gloss=go|nWord=4|RX=[VI]|TokenType=Root|Word=teʔnabohna
+6	bohnØwa	boh	AUX	_	_	0	root	_	AlignBegin=180563|AlignEnd=180891|GE=[PFV]|Gloss=-PFV|nWord=4|RX=[V:ANY]|TokenType=InflAff|Word=teʔnabohna
+7	toʔ	toʔ	PRON	_	_	6	nsubj	_	AlignBegin=180891|AlignEnd=181383|GE=[MED].[DEM]|Gloss=MED.DEM|nWord=5|RX=[PRO]|TokenType=Root|Word=toʔ
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=181383|AlignEnd=181875|nWord=6|Word=,
+9	cuento	cuento	NOUN	_	_	6	nsubj:outer	_	AlignBegin=181875|AlignEnd=182367|GE=[SPA_story]|Gloss=SPA_story|nWord=7|RX=[N]|TokenType=Root|Word=kwento
+10	=ma	_	PART	_	_	9	case	_	AlignBegin=182367|AlignEnd=182859|GE=[TOP]|Gloss==TOP|nWord=8|RX=[PRT]|TokenType=Clit|Word=ma
+11	.	_	PUNCT	_	_	6	punct	_	AlignBegin=182859|AlignEnd=183351|Gloss=.|nWord=9|Word=.
+
+# sent_id = 103_35-35
+# speaker_id = @DL
+# sound_url = https://corporan.huma-num.fr/Archives/media/103/WAV/103_TheMotherOfTheFish.WAV
+# sent_timecode = 185460, 186233
+# morphemic_text = hasta ahí no más .
+# text = hasta ahí no más .
+# text_en = This is all.
+# text_phrase-gls-pro = || ʔastajimomah ||
+# text_phrase-gls-wg = SPA_up.to SPA_there HES SPA_more
+# text_phrase-gls-de = Madre_peces_041_DL
+1	hasta	hasta	X	_	_	0	root	_	AlignBegin=185460|AlignEnd=185615|GE=[SPA_up].[to]|Gloss=SPA_up.to|nWord=1|RX=[<NOT_SURE>]|TokenType=Root|Word=hasta
+2	ahí	ahí	X	_	_	1	nmod	_	AlignBegin=185615|AlignEnd=185770|nWord=2|TokenType=Root|Word=ahí
+3	no	no	X	_	_	4	nmod	_	AlignBegin=185770|AlignEnd=185925|nWord=3|TokenType=Root|Word=no
+4	más	más	X	_	_	2	nmod	_	AlignBegin=185925|AlignEnd=186080|GE=[SPA_more]|Gloss=SPA_more|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=más
+5	.	_	PUNCT	_	_	1	punct	_	AlignBegin=186080|AlignEnd=186233|Gloss=.|nWord=5|Word=.
+

@@ -664,7 +664,7 @@
 # text_phrase-gls-wg = DEM.MED go:PST:3PL go+look.for:PST:3PL never.SPA take.out(find):PST:NEG:3PL>3 REP
 # text_phrase-gls-de = Madre_peces_031_DL
 1	toʔ	toʔ	PRON	_	_	4	obj	_	AlignBegin=139993|AlignEnd=140481|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=toʔ|nWord=1|RX=[PRO]|TokenType=Root|Word=toʔ
-2	nãeri	nã	VERB	_	_	6	dep	_	AlignBegin=140481|AlignEnd=140969|Gloss=go|MGloss=go -S3PL -PST|MSeg=nã-er-i|nWord=2|RX=[VI]|TokenType=Root|Word=nẽr|wordform=nã-er-i
+2	nãeri	nã	VERB	_	_	6	dep:conj	_	AlignBegin=140481|AlignEnd=140969|Gloss=go|MGloss=go -S3PL -PST|MSeg=nã-er-i|nWord=2|RX=[VI]|TokenType=Root|Word=nẽr|wordform=nã-er-i
 3	nãer	nã	VERB	_	_	4	compound:svc	_	AlignBegin=140969|AlignEnd=141165|Gloss=go|MGloss=go -S3PL|MSeg=nã-er|nWord=3|RX=[VI]|TokenType=Root|Word=nẽrproher|wordform=nã-er
 4	proheri	proh	VERB	_	_	2	reparandum	_	AlignBegin=141165|AlignEnd=141457|Gloss=look.for|MGloss=look.for -S3PL -PST|MSeg=proh-er-i|nWord=3|RX=[VT]|TokenType=Root|Word=nẽrproher|wordform=proh-er-i
 5	nunca	nunca	X	_	_	6	obl:mod	_	AlignBegin=141457|AlignEnd=141945|Gloss=SPA_never|MGloss=SPA_never|MSeg=nunca|nWord=4|RX=[ADV]|TokenType=Root|Word=nuŋka

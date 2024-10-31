@@ -1482,10 +1482,10 @@
 1	ĩka	ĩka	CCONJ	COORDCONN	_	9	discourse	_	AlignBegin=376800|AlignEnd=377160|Gloss=and|MGloss=and|MSeg=ĩka|nWord=1|RX=[COORDCONN]|TokenType=Root|Word=ĩka
 2	tʃena	tʃena	NOUN	N	_	9	nsubj	_	AlignBegin=377160|AlignEnd=377520|Gloss=sick|MGloss=sick|MSeg=tʃena|nWord=2|RX=[N]|TokenType=Root|Word=tʃenã
 3	as	as	DET	DET	_	2	det	_	AlignBegin=377520|AlignEnd=377880|Gloss=INDF.ART|MGloss=INDF.ART|MSeg=as|nWord=3|RX=[DET]|TokenType=Root|Word=as
-4	patasã	_	NOUN	N	Clusivity=In	9	cop	_	AlignBegin=378240|AlignEnd=378600|Gloss=head|MGloss=INCL- POSS1- head|MSeg=pa-ta-sã|nWord=5|RX=[N]|TokenType=Root|Word=patasã|wordform=pa-ta-sã
-5	pataya	ya	NOUN	N	Clusivity=In	9	reparandum	_	AlignBegin=378960|AlignEnd=379320|Gloss=belly|MGloss=INCL- POSS1- belly|MSeg=pa-ta-ya|nWord=7|RX=[N]|TokenType=Root|Word=pataya|wordform=pa-ta-ya
-6	sa	sa	ADP	POST	_	9	case	_	AlignBegin=379320|AlignEnd=379680|Gloss=in|MGloss=in|MSeg=sa|nWord=8|RX=[POST]|TokenType=Root|Word=sa
-7	=yã	=yã	ADP	POST	_	9	case	_	AlignBegin=379680|AlignEnd=380040|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=9|RX=[POST]|TokenType=Clit|Word=yã
+4	patasã	sã	NOUN	N	Clusivity=In	9	obl	_	AlignBegin=378240|AlignEnd=378600|Gloss=head|MGloss=INCL- POSS1- head|MSeg=pa-ta-sã|nWord=5|RX=[N]|TokenType=Root|Word=patasã|wordform=pa-ta-sã
+5	pataya	ya	NOUN	N	Clusivity=In	4	reparandum	_	AlignBegin=378960|AlignEnd=379320|Gloss=belly|MGloss=INCL- POSS1- belly|MSeg=pa-ta-ya|nWord=7|RX=[N]|TokenType=Root|Word=pataya|wordform=pa-ta-ya
+6	sa	sa	ADP	POST	_	4	case	_	AlignBegin=379320|AlignEnd=379680|Gloss=in|MGloss=in|MSeg=sa|nWord=8|RX=[POST]|TokenType=Root|Word=sa
+7	=yã	=yã	ADP	POST	_	4	case	_	AlignBegin=379680|AlignEnd=380040|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=9|RX=[POST]|TokenType=Clit|Word=yã
 8	tʃaui	_	AUX	V:ANY	_	9	cop	_	AlignBegin=380040|AlignEnd=380400|Gloss=be.there|MGloss=be.there -S3SG -HAB -PST|MSeg=tʃa-Ø-u-i|nWord=10|RX=[VI]|TokenType=Root|Word=tʃũ|wordform=tʃa-Ø-u-i
 9	=kan	=kan	PART	SUBORDCONN	_	0	root	_	AlignBegin=380400|AlignEnd=380760|Gloss==DBT|MGloss==DBT|MSeg==kan|nWord=11|RX=[SUBORDCONN]|TokenType=Clit|Word=kã
 10	=yã	=yã	ADP	POST	_	9	mark	_	AlignBegin=380760|AlignEnd=381126|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=12|RX=[POST]|TokenType=Clit|Word=ɲã

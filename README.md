@@ -4,7 +4,7 @@ A Universal Dependencies corpus for Pesh (aka Paya), a member of the Chibchan la
 
 # Introduction
 
-The treebank is an automatic conversion of the SUD_Pesh-ChibErgIS, which is an automatic conversion of the [mSUD_Pesh-ChibErgIS](https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS) which was extracted from Claudine Chamoreaus and Natalia Cáceres interlinearized corpus in Flex format, itself an extension of an oral corpus documented by Claudine Chamoreau (https://www.elararchive.org/dk0392).
+The treebank is an automatic conversion of the SUD_Pesh-ChibErgIS, which is an automatic conversion of the [mSUD_Pesh-ChibErgIS](https://github.com/surfacesyntacticud/mSUD_Pesh-ChibErgIS) which was extracted from Claudine Chamoreau and Natalia Cáceres interlinearized corpus in Flex format, itself an extension of an oral corpus documented by Claudine Chamoreau (https://www.elararchive.org/dk0392).
 
 # Acknowledgments
 

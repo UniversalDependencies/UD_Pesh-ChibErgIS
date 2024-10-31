@@ -53,8 +53,8 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors: Cáceres, Natalia
+Contributors: Cáceres Arandia, Natalia; Chamoreau, Claudine; Kahane, Sylvain; Guillaume, Bruno
 Contributing: elsewhere
-Contact: nataliacaceres@gmail.com
+Contact: natalia.caceres.arandia@cnrs.fr
 ===============================================================================
 </pre>

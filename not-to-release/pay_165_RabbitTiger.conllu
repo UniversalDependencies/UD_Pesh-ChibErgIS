@@ -221,7 +221,7 @@
 8	=ma	=ma	PART	_	_	7	case	_	AlignBegin=38166|AlignEnd=38373|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=7|RX=[PRT]|TokenType=Clit|Word=ma
 9	ke	ke	ADV	_	_	10	advmod	_	AlignBegin=38373|AlignEnd=38580|Gloss=already|MGloss=already|MSeg=ke|nWord=8|RX=[ADV]|TokenType=Root|Word=ke
 10	aka	aka	NOUN	_	_	13	advcl	_	AlignBegin=38580|AlignEnd=38787|Gloss=big|MGloss=big|MSeg=aka|nWord=9|RX=[N]|TokenType=Root|Word=aka
-11	=ri	=r	AUX	_	_	10	cop	_	AlignBegin=38787|AlignEnd=38994|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=10|RX=[COP]|TokenType=Root|Word=re|wordform==r-Ø-i
+11	=ri	r	AUX	_	_	10	cop	_	AlignBegin=38787|AlignEnd=38994|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=10|RX=[COP]|TokenType=Root|Word=re|wordform==r-Ø-i
 12	=ras	=ras	SCONJ	_	_	10	mark	_	AlignBegin=38994|AlignEnd=39201|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=11|RX=[PRT]|TokenType=Clit|Word=ras
 13	teʔkuh	teʔk	VERB	_	_	5	parataxis	_	AlignBegin=39201|AlignEnd=39408|Gloss=come|MGloss=come -S2 -PROX.FUT|MSeg=teʔk-u-h|nWord=12|RX=[VI]|TokenType=Root|Word=teʔkuh|wordform=teʔk-u-h
 14	tarwarkuh	wark	VERB	_	Voice=Appl	13	advcl	_	AlignBegin=39408|AlignEnd=39615|Gloss=help|MGloss=O1- APPL.P- help -S2 -PROX.FUT|MSeg=ta-r-wark-u-h|nWord=13|RX=[VT]|TokenType=Root|Word=tarwarkuh|wordform=ta-r-wark-u-h
@@ -452,7 +452,7 @@
 2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=66512|AlignEnd=66658|MSeg=,|nWord=2|Word=,
 3	ã	ã	PRON	_	_	0	root	_	AlignBegin=66658|AlignEnd=66804|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=3|RX=[PRO]|TokenType=Root|Word=ã
 4	=kan	=kan	PART	_	_	3	case	_	AlignBegin=66804|AlignEnd=66950|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=4|RX=[PRT]|TokenType=Clit|Word=kan
-5	=i	=r	AUX	_	_	3	cop	_	AlignBegin=66950|AlignEnd=67096|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=5|RX=[COP]|TokenType=Clit|Word=i
+5	=i	r	AUX	_	_	3	cop	_	AlignBegin=66950|AlignEnd=67096|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=5|RX=[COP]|TokenType=Clit|Word=i
 6	=sri	=sri	PART	_	_	3	discourse	_	AlignBegin=67096|AlignEnd=67242|Gloss==UNCRT|MGloss==UNCRT|MSeg==sri|nWord=6|RX=[PRT]|TokenType=Clit|Word=sri
 7	pahte	pahte	X	_	_	6	dep	_	AlignBegin=67242|AlignEnd=67388|MSeg=pahte|nWord=7|Word=pahte
 8	.	_	PUNCT	_	_	3	punct	_	AlignBegin=67388|AlignEnd=67537|Gloss=.|MGloss=.|MSeg=.|nWord=8|Word=.
@@ -570,7 +570,7 @@
 7	peʃ	peʃ	NOUN	_	_	22	nsubj	_	AlignBegin=77993|AlignEnd=78315|Gloss=people|MGloss=people|MSeg=peʃ|nWord=7|RX=[N]|TokenType=Root|Word=peʃ
 8	ʃuwa	ʃuwa	NOUN	_	_	7	nmod	_	AlignBegin=78315|AlignEnd=78637|Gloss=old.man|MGloss=old.man|MSeg=ʃuwa|nWord=8|RX=[N]|TokenType=Root|Word=wa
 9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=78637|AlignEnd=78959|MSeg=,|nWord=9|Word=,
-10	ãma	ãma	PART	_	_	12	discourse	_	AlignBegin=78959|AlignEnd=79281|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=10|RX=[PRT]|TokenType=Root|Word=ãma
+10	ãma	ãma	PART	_	_	13	discourse	_	AlignBegin=78959|AlignEnd=79281|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=10|RX=[PRT]|TokenType=Root|Word=ãma
 11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=79281|AlignEnd=79603|MSeg=,|nWord=11|Word=,
 12	ã	ã	PRON	_	_	13	det	_	AlignBegin=79603|AlignEnd=79925|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=12|RX=[PRO]|TokenType=Root|Word=ã
 13	peʃ	peʃ	NOUN	_	_	7	reparandum	_	AlignBegin=79925|AlignEnd=80247|Gloss=people|MGloss=people|MSeg=peʃ|nWord=13|RX=[N]|TokenType=Root|Word=peʃ
@@ -619,7 +619,7 @@
 3	nẽʔ	nẽʔ	VERB	_	_	4	compound:svc	_	AlignBegin=89981|AlignEnd=90039|Gloss=go|MGloss=go|MSeg=nẽʔ|nWord=3|RX=[VI]|TokenType=Root|Word=nẽʔboni
 4	boni	bo	VERB	_	_	0	root	_	AlignBegin=90039|AlignEnd=90272|Gloss=leave|MGloss=leave -DUR -S3SG -PST|MSeg=bo-n-Ø-i|nWord=3|RX=[VI]|TokenType=Root|Word=nẽʔboni|wordform=bo-n-Ø-i
 5	to	to	PRON	_	_	7	det	_	AlignBegin=90272|AlignEnd=90563|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=4|RX=[PRO]|TokenType=Root|Word=to
-6	ah	ah	INTJ	_	_	5	discourse	_	AlignBegin=90563|AlignEnd=90854|Gloss=INTERJ|MGloss=INTERJ|MSeg=ah|nWord=5|RX=[INTERJ]|TokenType=Root|Word=aa
+6	ah	ah	INTJ	_	_	7	discourse	_	AlignBegin=90563|AlignEnd=90854|Gloss=INTERJ|MGloss=INTERJ|MSeg=ah|nWord=5|RX=[INTERJ]|TokenType=Root|Word=aa
 7	nĩhã	nĩhã	PART	_	_	4	obl:arg	_	AlignBegin=90854|AlignEnd=91145|Gloss=HES|MGloss=HES|MSeg=nĩhã|nWord=6|RX=[PRT]|TokenType=Root|Word=nĩhã
 8	=kan	=kan	ADP	_	_	7	case	_	AlignBegin=91145|AlignEnd=91436|Gloss==LOC|MGloss==LOC|MSeg==kan|nWord=7|RX=[POST]|TokenType=Clit|Word=kan
 9	.	_	PUNCT	_	_	4	punct	_	AlignBegin=91436|AlignEnd=91730|Gloss=.|MGloss=.|MSeg=.|nWord=8|Word=.
@@ -683,7 +683,7 @@
 # text_phrase-gls-de = 165.27_FH
 1	ĩ	ĩ	PRON	_	_	3	obl:mod	_	AlignBegin=95878|AlignEnd=96010|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=1|RX=[PRO]|TokenType=Root|Word=ĩ
 2	=kan	=kan	PART	_	_	1	case	_	AlignBegin=96010|AlignEnd=96142|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit|Word=kan
-3	=ri	=r	AUX	_	_	0	root	_	AlignBegin=96142|AlignEnd=96274|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=3|RX=[COP]|TokenType=Root|Word=ri|wordform==r-Ø-i
+3	=ri	r	AUX	_	_	0	root	_	AlignBegin=96142|AlignEnd=96274|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=3|RX=[COP]|TokenType=Root|Word=ri|wordform==r-Ø-i
 4	=sa	=sa	PART	_	_	1	advmod	_	AlignBegin=96274|AlignEnd=96406|Gloss==C.Q|MGloss==C.Q|MSeg==sa|nWord=4|RX=[PRT]|TokenType=Clit|Word=sa
 5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=96406|AlignEnd=96538|Gloss=.|MGloss=.|MSeg=.|nWord=5|Word=.
 
@@ -720,7 +720,7 @@
 18	ã	ã	PRON	_	_	19	det	_	AlignBegin=102105|AlignEnd=102411|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=18|RX=[PRO]|TokenType=Root|Word=ã
 19	nĩhã	nĩhã	PART	_	_	27	reparandum	_	AlignBegin=102411|AlignEnd=102717|Gloss=HES|MGloss=HES|MSeg=nĩhã|nWord=19|RX=[PRT]|TokenType=Root|Word=nĩhã
 20	=ɲãh	=ɲãh	DET	_	_	19	det	_	AlignBegin=102717|AlignEnd=103023|Gloss==INDF|MGloss==INDF|MSeg==ɲãh|nWord=20|RX=[PRT]|TokenType=Clit|Word=ɲãh
-21	,	_	PUNCT	_	_	20	punct	_	AlignBegin=103023|AlignEnd=103329|MSeg=,|nWord=21|Word=,
+21	,	_	PUNCT	_	_	19	punct	_	AlignBegin=103023|AlignEnd=103329|MSeg=,|nWord=21|Word=,
 22	ʔãʔãʔã	ʔãʔãʔã	X	_	_	23	discourse	_	AlignBegin=103329|AlignEnd=103635|MSeg=ʔãʔãʔã|nWord=22|Word=ʔãʔãʔã
 23	nẽʔã	nẽʔã	PART	_	_	27	reparandum	_	AlignBegin=103635|AlignEnd=103941|Gloss=HES|MGloss=HES|MSeg=nẽʔã|nWord=23|RX=[PRT]|TokenType=Root|Word=nẽʔã
 24	ʔãʔãʔã	ʔãʔãʔã	X	_	_	23	discourse	_	AlignBegin=103941|AlignEnd=104247|MSeg=ʔãʔãʔã|nWord=24|Word=ʔãʔãʔã
@@ -813,7 +813,7 @@
 6	ã	ã	PRON	_	_	11	nmod	_	AlignBegin=113597|AlignEnd=113922|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=6|RX=[PRO]|TokenType=Root|Word=ã
 7	=yã	=yã	ADP	_	_	6	case	_	AlignBegin=113922|AlignEnd=114247|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=7|RX=[POST]|TokenType=Clit|Word=ɲã
 8	=pe	=pe	PART	_	_	6	advmod	_	AlignBegin=114247|AlignEnd=114572|Gloss==only|MGloss==only|MSeg==pe|nWord=8|RX=[PRT]|TokenType=Clit|Word=pe
-9	peʃwakwa	peʃwakwa	NOUN	_	_	12	xcomp	_	AlignBegin=114572|AlignEnd=114897|Gloss=animal|MGloss=animal|MSeg=peʃwakwa|nWord=9|RX=[N]|TokenType=Root|Word=peʃwakwa
+9	peʃwakwa	peʃwakwa	NOUN	_	_	11	xcomp	_	AlignBegin=114572|AlignEnd=114897|Gloss=animal|MGloss=animal|MSeg=peʃwakwa|nWord=9|RX=[N]|TokenType=Root|Word=peʃwakwa
 10	=s	=s	DET	_	_	9	det	_	AlignBegin=114897|AlignEnd=115222|Gloss==INDF.ART|MGloss==INDF.ART|MSeg==s|nWord=10|RX=[DET]|TokenType=Clit|Word=s
 11	ã	ã	PRON	_	_	0	root	_	AlignBegin=115222|AlignEnd=115384|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=11|RX=[PRO]|TokenType=Root|Word=ãk
 12	=kan	=kan	PART	_	_	11	case	_	AlignBegin=115384|AlignEnd=115547|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=11|RX=[PRT]|TokenType=Clit|Word=ãk
@@ -897,7 +897,7 @@
 3	tokk	tokk	VERB	_	_	4	compound:svc	_	AlignBegin=122798|AlignEnd=122896|Gloss=drink|MGloss=O3SG- drink|MSeg=Ø-tokk|nWord=3|RX=[VT]|TokenType=Root|Word=tokkakuh|wordform=Ø-tokk
 4	akuh	ak	AUX	_	_	0	root	_	AlignBegin=122896|AlignEnd=123042|Gloss=be.in.state|MGloss=be.in.state -S2 -PROX.FUT|MSeg=ak-u-h|nWord=3|RX=[VI]|TokenType=Root|Word=tokkakuh|wordform=ak-u-h
 5	tapu	tapu	NOUN	_	_	4	parataxis	_	AlignBegin=123042|AlignEnd=123286|Gloss=strong|MGloss=strong|MSeg=tapu|nWord=4|RX=[<NOT_SURE>]|TokenType=Root|Word=tapu
-6	=ruh	=r	AUX	_	_	5	cop	_	AlignBegin=123286|AlignEnd=123530|Gloss==COP|MGloss==COP -S2 -PROX.FUT|MSeg==r-u-h|nWord=5|RX=[COP]|TokenType=Root|Word=ro|wordform==r-u-h
+6	=ruh	r	AUX	_	_	5	cop	_	AlignBegin=123286|AlignEnd=123530|Gloss==COP|MGloss==COP -S2 -PROX.FUT|MSeg==r-u-h|nWord=5|RX=[COP]|TokenType=Root|Word=ro|wordform==r-u-h
 7	nãa	nã	VERB	_	_	8	compound:svc	_	AlignBegin=123530|AlignEnd=123628|Gloss=go|MGloss=go -S1SG|MSeg=nã-a|nWord=6|RX=[VI]|TokenType=Root|Word=nããpeʔpa|wordform=nã-a
 8	peʔpa	peʔ	VERB	_	Person=1	5	parataxis	_	AlignBegin=123628|AlignEnd=123774|Gloss=bring|MGloss=O3SG- bring -S1SG:FUT|MSeg=Ø-peʔ-pa|nWord=6|RX=[VT]|TokenType=Root|Word=nããpeʔpa|wordform=Ø-peʔ-pa
 9	=hãʔ	=hãʔ	PART	_	_	8	advmod	_	AlignBegin=123774|AlignEnd=124018|Gloss==FOC|MGloss==FOC|MSeg==hãʔ|nWord=7|RX=[PRT]|TokenType=Clit|Word=hãʔ
@@ -1056,7 +1056,7 @@
 4	,	_	PUNCT	_	_	2	punct	_	AlignBegin=138568|AlignEnd=138778|MSeg=,|nWord=4|Word=,
 5	warku	warku	NOUN	_	_	6	obj	_	AlignBegin=138778|AlignEnd=138848|Gloss=bad|MGloss=bad|MSeg=warku|nWord=5|RX=[N]|TokenType=Root|Word=warkuiʃta
 6	iʃta	iʃ	NOUN	_	_	1	reparandum	_	AlignBegin=138848|AlignEnd=138988|Gloss=-AG.NMLZ|MGloss=make -AG.NMLZ|MSeg=iʃ-ta|nWord=5|RX=[VT]|TokenType=Root|Word=warkuiʃta|wordform=iʃ-ta
-7	=rya	=r	AUX	_	Person=2	6	cop	_	AlignBegin=138988|AlignEnd=139198|Gloss==COP|MGloss==COP -S2:PFV|MSeg==r-ya|nWord=6|RX=[COP]|TokenType=Root|Word=rya|wordform==r-ya
+7	=rya	r	AUX	_	Person=2	6	cop	_	AlignBegin=138988|AlignEnd=139198|Gloss==COP|MGloss==COP -S2:PFV|MSeg==r-ya|nWord=6|RX=[COP]|TokenType=Root|Word=rya|wordform==r-ya
 8	.	_	PUNCT	_	_	1	punct	_	AlignBegin=139198|AlignEnd=139406|Gloss=.|MGloss=.|MSeg=.|nWord=7|Word=.
 
 # sent_id = 165_44-44
@@ -1094,12 +1094,12 @@
 # text_phrase-gls-tl = Toma       estate,          tomando   estate,        tomando  estate,          le dijo
 # text_phrase-gls-wg = drink+be:IMP:2>3 only drink+be:IMP:2>3 only say:PST:3>3 HES
 # text_phrase-gls-de = 165.45_FH
-1	tokku	tokk	VERB	_	_	2	aux	_	AlignBegin=141958|AlignEnd=142093|Gloss=drink|MGloss=O3SG- drink -S2|MSeg=Ø-tokk-u|nWord=1|RX=[VT]|TokenType=Root|Word=tokkuakuh|wordform=Ø-tokk-u
-2	akuh	ak	VERB	_	_	7	ccomp	_	AlignBegin=142093|AlignEnd=142230|Gloss=be.in.state|MGloss=be.in.state -S2 -PROX.FUT|MSeg=ak-u-h|nWord=1|RX=[VI]|TokenType=Root|Word=tokkuakuh|wordform=ak-u-h
-3	=pe	=pe	PART	_	_	2	advmod	_	AlignBegin=142230|AlignEnd=142502|Gloss==only|MGloss==only|MSeg==pe|nWord=2|RX=[PRT]|TokenType=Clit|Word=pe
-4	tokku	tokk	VERB	_	_	5	aux	_	AlignBegin=142502|AlignEnd=142637|Gloss=drink|MGloss=O3SG- drink -S2|MSeg=Ø-tokk-u|nWord=3|RX=[VT]|TokenType=Root|Word=tokkuakuh|wordform=Ø-tokk-u
-5	akuh	ak	VERB	_	_	2	reparandum	_	AlignBegin=142637|AlignEnd=142774|Gloss=be.in.state|MGloss=be.in.state -S2 -PROX.FUT|MSeg=ak-u-h|nWord=3|RX=[VI]|TokenType=Root|Word=tokkuakuh|wordform=ak-u-h
-6	=pe	=pe	PART	_	_	5	advmod	_	AlignBegin=142774|AlignEnd=143046|Gloss==only|MGloss==only|MSeg==pe|nWord=4|RX=[PRT]|TokenType=Clit|Word=pe
+1	tokku	tokk	VERB	_	_	7	ccomp	_	AlignBegin=141958|AlignEnd=142093|Gloss=drink|MGloss=O3SG- drink -S2|MSeg=Ø-tokk-u|nWord=1|RX=[VT]|TokenType=Root|Word=tokkuakuh|wordform=Ø-tokk-u
+2	akuh	ak	AUX	_	_	1	aux	_	AlignBegin=142093|AlignEnd=142230|Gloss=be.in.state|MGloss=be.in.state -S2 -PROX.FUT|MSeg=ak-u-h|nWord=1|RX=[VI]|TokenType=Root|Word=tokkuakuh|wordform=ak-u-h
+3	=pe	=pe	PART	_	_	1	advmod	_	AlignBegin=142230|AlignEnd=142502|Gloss==only|MGloss==only|MSeg==pe|nWord=2|RX=[PRT]|TokenType=Clit|Word=pe
+4	tokku	tokk	VERB	_	_	1	reparandum	_	AlignBegin=142502|AlignEnd=142637|Gloss=drink|MGloss=O3SG- drink -S2|MSeg=Ø-tokk-u|nWord=3|RX=[VT]|TokenType=Root|Word=tokkuakuh|wordform=Ø-tokk-u
+5	akuh	ak	AUX	_	_	4	aux	_	AlignBegin=142637|AlignEnd=142774|Gloss=be.in.state|MGloss=be.in.state -S2 -PROX.FUT|MSeg=ak-u-h|nWord=3|RX=[VI]|TokenType=Root|Word=tokkuakuh|wordform=ak-u-h
+6	=pe	=pe	PART	_	_	4	advmod	_	AlignBegin=142774|AlignEnd=143046|Gloss==only|MGloss==only|MSeg==pe|nWord=4|RX=[PRT]|TokenType=Clit|Word=pe
 7	tVkii	tV	VERB	_	_	0	root	_	AlignBegin=143046|AlignEnd=143318|Gloss=say|MGloss=say O3SG- -S3SG -PST|MSeg=tVk-Ø-i-i|nWord=5|RX=[VT]|TokenType=Root|Word=tikii|wordform=tWkØ--i-i
 8	hwe	hwe	X	_	_	7	discourse	_	AlignBegin=143318|AlignEnd=143590|MSeg=hwe|nWord=6|Word=hwe
 9	.	_	PUNCT	_	_	7	punct	_	AlignBegin=143590|AlignEnd=143862|Gloss=.|MGloss=.|MSeg=.|nWord=7|Word=.
@@ -1659,6 +1659,6 @@
 # text_phrase-gls-wg = well COP:PFV:3
 # text_phrase-gls-de = 165.69_AM
 1	ẽɲẽ	ẽɲẽ	NOUN	_	_	0	root	_	AlignBegin=208310|AlignEnd=208505|Gloss=well|MGloss=well|MSeg=ẽɲẽ|nWord=1|RX=[N]|TokenType=Root|Word=ẽɲẽ
-2	=i	=r	AUX	_	_	1	cop	_	AlignBegin=208505|AlignEnd=208700|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=2|RX=[COP]|TokenType=Clit|Word=i
+2	=i	r	AUX	_	_	1	cop	_	AlignBegin=208505|AlignEnd=208700|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=2|RX=[COP]|TokenType=Clit|Word=i
 3	.	_	PUNCT	_	_	1	punct	_	AlignBegin=208700|AlignEnd=208896|Gloss=.|MGloss=.|MSeg=.|nWord=3|Word=.
 

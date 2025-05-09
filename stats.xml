@@ -5,90 +5,92 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>307</sentences><tokens>2508</tokens><words>2508</words><fused>0</fused></total>
+    <total><sentences>524</sentences><tokens>4275</tokens><words>4275</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>307</sentences><tokens>2508</tokens><words>2508</words><fused>0</fused></test>
+    <test><sentences>524</sentences><tokens>4275</tokens><words>4275</words><fused>0</fused></test>
   </size>
-  <lemmas unique="451" /><!-- ã, =ma, =yã, ĩ, =kan, tV, =yo, r, tʃa, ka, nã, tas, toʔ, =mã, =ras -->
-  <forms unique="769" /><!-- ,, ã, ., =ma, =yã, ĩ, =kan, =yo, toʔ, =mã, =ras, tas, ke, =na, =pe -->
+  <lemmas unique="600" /><!-- ã, ĩ, =ma, =yã, tʃa, =kan, ka, tV, nã, ke, tas, to, =yo, r, teʔ -->
+  <forms unique="1144" /><!-- ,, ., ã, =ma, =yã, ĩ, =kan, =ras, =yo, ke, =ri, to, toʔ, =hã, as -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
-    <tag name="ADP">174</tag><!-- =yã, =yo, =ma, =ra, =kan, =ya, =ken, =ri, =mã, =ni -->
-    <tag name="ADV">99</tag><!-- ke, ates, awa, wa, =rina, awah, tõʃ, kluk, aʃẽ, aʃẽn -->
-    <tag name="AUX">75</tag><!-- r, tʃa, _, ak -->
+    <tag name="ADP">262</tag><!-- _, =yã, =yo, =ma, =ra, =kan, =ya, =ken, =ri, =mã -->
+    <tag name="ADV">141</tag><!-- ke, wa, ates, awa, awãhã, ki, =rina, awah, tõʃ, kluk -->
+    <tag name="AUX">119</tag><!-- _, r, tʃa, ak, ka -->
     <tag name="CCONJ">12</tag><!-- =arin, =rina, ĩka, =narina, =ri, akreke -->
-    <tag name="DET">39</tag><!-- =s, =ɲa, as, ãs, =na, =nã, =pero, =ɲã, =ɲãh -->
-    <tag name="INTJ">53</tag><!-- ah, ʔãã, uhu, mm, a, ama, ea, mhm, ãm, ãmã -->
-    <tag name="NOUN">398</tag><!-- ĩsi, arwã, ye, wiʃã, peʃ, aso, yar, yãh, aka, kaki -->
-    <tag name="NUM">20</tag><!-- as, pok, =s, kah, mãyh, mãyhi, ukkwa -->
-    <tag name="PART">317</tag><!-- =ma, =kan, =na, =pe, =hã, ãma, =ras, =sa, =mã, nĩhã -->
-    <tag name="PRON">290</tag><!-- ã, ĩ, tas, toʔ, eka, pa, to, =wa, este, ta -->
-    <tag name="PROPN">2</tag><!-- Claudia, San.Esteban -->
-    <tag name="PUNCT">257</tag><!-- _, ,, ., ? -->
-    <tag name="SCONJ">81</tag><!-- =ma, =mã, =ras, =yã, =kan, =ken, =ra, =ro, =yo, =reke -->
-    <tag name="VERB">566</tag><!-- tV, ka, nã, nẽ, teʃk, tokk, ã, teʔk, sukuh, tʃa -->
-    <tag name="X">125</tag><!-- y, laguna, ###, en, pero, tigre, joder, martes, pesh, que -->
+    <tag name="DET">51</tag><!-- =s, as, =ɲa, _, ãs, =na, =nã, =pero, =ɲã, =ɲãh -->
+    <tag name="INTJ">73</tag><!-- ah, ʔãã, a, uhu, mm, mhm, ũhũʔ, ama, ea, ãm -->
+    <tag name="NOUN">631</tag><!-- ye, ĩsi, arwã, pak, peʃ, yãh, kaki, wiʃã, arki, aso -->
+    <tag name="NUM">39</tag><!-- as, pok, kah, mãyh, =s, mãyhi, ukka, ukkwa, ukwa -->
+    <tag name="PART">557</tag><!-- _, =ma, =kan, =na, =pe, =hã, ãma, ĩka, =ras, =sa -->
+    <tag name="PRON">446</tag><!-- ã, ĩ, tas, to, toʔ, pa, eka, ta, =wa, _ -->
+    <tag name="PROPN">4</tag><!-- Claudia, Héctor, San.Esteban, Tomé -->
+    <tag name="PUNCT">686</tag><!-- _, ,, ., ? -->
+    <tag name="SCONJ">118</tag><!-- _, =ma, =mã, =ras, =yã, =kan, =ken, =ra, =ro, =yo -->
+    <tag name="VERB">956</tag><!-- ka, tV, nã, tʃa, teʔ, nẽ, tVØ-, teʃk, iʃk, tVta- -->
+    <tag name="X">180</tag><!-- y, laguna, prestar, ###, _, en, pero, tigre, a, joder -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="16">
-    <feat name="AdvType" value="Ideoph" upos="ADV">10</feat><!-- tõʃ, kluk, roh, teʔne, tukuluk -->
+    <feat name="AdvType" value="Ideoph" upos="ADV">11</feat><!-- tõʃ, kluk, roh, teʔne, tukuluk, tʃas -->
     <feat name="Animacy" value="Hum" upos="NOUN">1</feat><!-- taarwã -->
-    <feat name="Case" value="Abs" upos="ADP,SCONJ">11</feat><!-- =ra, =ro -->
-    <feat name="Case" value="Erg" upos="ADP">6</feat><!-- =ya -->
+    <feat name="Case" value="Abs" upos="ADP,SCONJ">27</feat><!-- =ra, =ro -->
+    <feat name="Case" value="Erg" upos="ADP">13</feat><!-- =ya, =yã -->
     <feat name="Case" value="Nom" upos="ADP">1</feat><!-- =ma -->
-    <feat name="Clusivity" value="Ex" upos="AUX,NOUN,PART,PRON,VERB">62</feat><!-- ũtas, tiʃbarwa, artʃuiʃbartVi, tʃabaruri, =barwa, atʃahbari, kapaʃbarwa, ũtaoryah, ũtayãha, =bari -->
-    <feat name="Clusivity" value="In" upos="NOUN,VERB">31</feat><!-- patatiʃta, ãparh, amaskapiwa, amasparwa, akaspasparh, akatipari, amaspari, iʃparwa, kapari, kaparwa -->
-    <feat name="Person" value="1" upos="AUX,VERB">21</feat><!-- piãpa, artʃuiʃpa, kaporpa, =bartVwa, akonapa, kapai, kawiʃpa, kawiʃpai, paspa, peʔpa -->
-    <feat name="Person" value="2" upos="AUX,VERB">3</feat><!-- =rya, kaya, takaya -->
+    <feat name="Clusivity" value="Ex" upos="AUX,NOUN,PART,PRON,VERB">113</feat><!-- ũtas, tiʃbarwa, artʃuiʃbartVi, teʔbarwa, tʃabaruri, atʃahbari, teʔbariwã, =barwa, kapaʃbarwa, pipabertVpi -->
+    <feat name="Clusivity" value="In" upos="NOUN,PRON,VERB">63</feat><!-- patatiʃta, patakata, ãparh, amaskapiwa, amasparwa, nãparh, patakãã, pataoryah, pataʃaa, ʃapari -->
+    <feat name="Person" value="1" upos="AUX,VERB">30</feat><!-- piãpa, artʃuiʃpa, kaporpa, teʔpa, tʃãpa, yãhpa, =bartVwa, akonapa, iʃpa, kapai -->
+    <feat name="Person" value="2" upos="AUX,VERB">10</feat><!-- =rya, nẽya, kaya, takaya, tʃãya -->
     <feat name="Person" value="3" upos="VERB">1</feat><!-- kawiʃkawa -->
     <feat name="PronType" value="Int" upos="ADP,PART">2</feat><!-- =kanka, =kanki -->
     <feat name="VerbForm" value="Inf" upos="VERB">1</feat><!-- artʃuiʃ -->
-    <feat name="Voice" value="Appl" upos="AUX,VERB">59</feat><!-- artʃuiʃkari, artʃuiʃatVri, artʃuiʃbartVi, tarwarkuh, akasteʃkawa, akastok, arkapriʃi, artapuki, artʃuiʃpa, akaporki -->
-    <feat name="Voice" value="Cau" upos="VERB">4</feat><!-- ũkawa, ũwarahparh, ũweerwa -->
-    <feat name="Voice" value="Mid" upos="VERB">42</feat><!-- taõʃi, atʃi, taiʃkari, taõʃ, taõʃkerwa, taõʃki, apastVpi, apiʃki, atuhwa, atuhweʃkwa -->
+    <feat name="Voice" value="Appl" upos="AUX,VERB">87</feat><!-- artʃuiʃkari, artʃuiʃatVri, artʃuiʃbartVi, tarwarkuh, akasteʃkawa, akastok, arilerwa, arka, arkapriʃi, artapuki -->
+    <feat name="Voice" value="Cau" upos="VERB">6</feat><!-- ũkawa, kũteʃki, kũteʃkiwã, ũwarahparh, ũweerwa -->
+    <feat name="Voice" value="Mid" upos="VERB">66</feat><!-- taõʃi, atʃi, taiʃkari, taõʃ, taõʃkerwa, taõʃki, taiʃkwa, taroʔki, tawarki, taõʃwa -->
     <feat name="Voice" value="Rcp" upos="VERB">5</feat><!-- apuru, tVkaeri, tVkairi -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="38">
-    <dep name="acl">3</dep>
+  <deps unique="40">
+    <dep name="acl">4</dep>
     <dep name="acl:relcl">6</dep>
-    <dep name="advcl">60</dep>
-    <dep name="advmod">137</dep>
-    <dep name="advmod:lmod">4</dep>
+    <dep name="advcl">76</dep>
+    <dep name="advmod">219</dep>
     <dep name="appos">5</dep>
-    <dep name="aux">15</dep>
-    <dep name="case">284</dep>
-    <dep name="cc">14</dep>
-    <dep name="ccomp">51</dep>
-    <dep name="compound">41</dep>
-    <dep name="compound:lvc">4</dep>
-    <dep name="compound:svc">47</dep>
-    <dep name="conj">73</dep>
-    <dep name="cop">40</dep>
-    <dep name="csubj">2</dep>
-    <dep name="dep">64</dep>
+    <dep name="aux">25</dep>
+    <dep name="case">476</dep>
+    <dep name="cc">17</dep>
+    <dep name="ccomp">56</dep>
+    <dep name="compound">62</dep>
+    <dep name="compound:lvc">13</dep>
+    <dep name="compound:svc">80</dep>
+    <dep name="conj">91</dep>
+    <dep name="cop">71</dep>
+    <dep name="csubj">3</dep>
+    <dep name="dep">119</dep>
     <dep name="dep:conj">3</dep>
-    <dep name="det">82</dep>
-    <dep name="discourse">147</dep>
-    <dep name="dislocated">46</dep>
-    <dep name="mark">100</dep>
-    <dep name="nmod">113</dep>
-    <dep name="nsubj">100</dep>
-    <dep name="nsubj:outer">2</dep>
+    <dep name="det">112</dep>
+    <dep name="discourse">238</dep>
+    <dep name="dislocated">62</dep>
+    <dep name="flat:name">1</dep>
+    <dep name="mark">152</dep>
+    <dep name="nmod">163</dep>
+    <dep name="nsubj">162</dep>
+    <dep name="nsubj:outer">3</dep>
     <dep name="nsubj:pass">2</dep>
     <dep name="nummod">2</dep>
-    <dep name="obj">108</dep>
-    <dep name="obl">15</dep>
-    <dep name="obl:arg">54</dep>
-    <dep name="obl:mod">129</dep>
+    <dep name="obj">156</dep>
+    <dep name="obl">39</dep>
+    <dep name="obl:arg">57</dep>
+    <dep name="obl:lmod">89</dep>
+    <dep name="obl:mod">98</dep>
+    <dep name="obl:tmod">117</dep>
     <dep name="orphan">3</dep>
-    <dep name="parataxis">57</dep>
-    <dep name="punct">257</dep>
-    <dep name="reparandum">99</dep>
-    <dep name="root">307</dep>
-    <dep name="vocative">4</dep>
-    <dep name="xcomp">28</dep>
+    <dep name="parataxis">88</dep>
+    <dep name="punct">686</dep>
+    <dep name="reparandum">145</dep>
+    <dep name="root">524</dep>
+    <dep name="vocative">6</dep>
+    <dep name="xcomp">44</dep>
   </deps>
 </treebank>

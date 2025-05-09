@@ -1,0 +1,1146 @@
+# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
+# sent_id = 100_01-01
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 4905, 12320
+# morphemic_text = ke ke =ri =ma , ĩ kuk , ĩ kuk -a =yã =hi , ĩ pak tia tV ka- -par -ri .
+# text = ke ke =ri =ma , ĩ kuk , ĩ kuka =yã =hi , ĩ pak tia tVkaparri .
+# text_en = In the past, this... land... it is in this land, we called it "The lake".
+# text_phrase-gls-es = En tiempos pasados, esta tierra, esta tierra que es la laguna le decimos
+# text_phrase-gls-pro = || kèˈkéɾímà (1.4s) || ĩ̀ːːː (0.1s) || kúɡ (1.8s) || ĩ̀ˈkuk aˀjã́ˈhĩ̀ː (0.4s) || ĩ̀ páqtjáˀ tã̄kāˈpɾēʰ (1.7s) ||
+# text_phrase-gls-it = kèkéɾímà ĩ̀ː kúɡ ĩ̀kuk (aˀ)jã́hĩ̀ ĩ̀ páqtjáˀ tã̄kāpɾēʰ
+# text_phrase-gls-wg = before:REDUP? TEMP TOP_TV DEM.PROX earth DEM.PROX earth:NPOS LOC COP:PFV:3 DEM.PROX lake+liquid say:PST:INCL>3PL
+# text_phrase-gls-de = Laguna_001_NG
+1	ke	ke	ADV	_	_	2	advmod	_	AlignBegin=4905|AlignEnd=5137|Gloss=before|MGloss=before|MSeg=ke|nWord=1|RX=[ADV]|TokenType=Root
+2	ke	ke	ADV	_	_	7	obl:tmod	_	AlignBegin=5137|AlignEnd=5368|Gloss=before|MGloss=before|MSeg=ke|nWord=1|RX=[ADV]|TokenType=Root
+3	=ri	_	ADP	_	_	2	case	_	AlignBegin=5368|AlignEnd=5831|Gloss==TEMP|MGloss==TEMP|MSeg==ri|nWord=2|RX=[POST]|TokenType=Clit
+4	=ma	_	PART	_	_	2	case	_	AlignBegin=5831|AlignEnd=6294|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=3|RX=[PRT]|TokenType=Clit
+5	,	_	PUNCT	_	_	2	punct	_	AlignBegin=6294|AlignEnd=6757|MSeg=,|nWord=4
+6	ĩ	ĩ	PRON	_	_	7	det	_	AlignBegin=6757|AlignEnd=7220|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=5|RX=[PRO]|TokenType=Root
+7	kuk	kuk	NOUN	_	_	0	root	_	AlignBegin=7220|AlignEnd=7683|Gloss=earth|MGloss=earth|MSeg=kuk|nWord=6|RX=[N]|TokenType=Root
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=7683|AlignEnd=8146|MSeg=,|nWord=7
+9	ĩ	ĩ	PRON	_	_	10	det	_	AlignBegin=8146|AlignEnd=8609|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=8|RX=[PRO]|TokenType=Root
+10	kuka	kuk	NOUN	_	_	7	reparandum	_	AlignBegin=8609|AlignEnd=9072|Gloss=earth|MGloss=earth -NMLZ|MSeg=kuk-a|nWord=9|RX=[N]|TokenType=Root|wordform=kuk-a
+11	=yã	_	ADP	_	_	7	case	_	AlignBegin=9072|AlignEnd=9535|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=10|RX=[POST]|TokenType=Clit
+12	=hi	_	AUX	_	_	7	cop	_	AlignBegin=9535|AlignEnd=9998|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=11|RX=[COP]|TokenType=Clit
+13	,	_	PUNCT	_	_	7	punct	_	AlignBegin=9998|AlignEnd=10461|MSeg=,|nWord=12
+14	ĩ	ĩ	PRON	_	_	15	det	_	AlignBegin=10461|AlignEnd=10924|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=13|RX=[PRO]|TokenType=Root
+15	pak	pak	NOUN	_	_	17	obj	_	AlignBegin=10924|AlignEnd=11156|Gloss=lake|MGloss=lake|MSeg=pak|nWord=14|RX=[N]|TokenType=Root
+16	tia	tia	NOUN	_	_	15	nmod	_	AlignBegin=11156|AlignEnd=11387|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=14|RX=[N]|TokenType=Root
+17	tVkaparri	tVka-	VERB	_	Clusivity=In	7	dep	_	AlignBegin=11387|AlignEnd=11850|Gloss=say|MGloss=say O3PL- -S1PL.INCL -PST|MSeg=tV-ka-par-ri|nWord=15|RX=[VT]|TokenType=Root|wordform=tVka--par-ri
+18	.	_	PUNCT	_	_	7	punct	_	AlignBegin=11850|AlignEnd=12320|Gloss=.|MGloss=.|MSeg=.|nWord=16|TokenType=Root
+
+# sent_id = 100_02-02
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 14045, 25570
+# morphemic_text = e ã =ken =r -Ø -i , ke ke =ri , pa- ta- ka -tah ke , ah a- pin =ma , ĩka pak tia =r -Ø -i =ras , ã =ken =r -Ø -i ĩka , peʃ akwa yãh -a =ma , laguna =hi .
+# text = e ã =ken =ri , ke ke =ri , patakatah ke , ah apin =ma , ĩka pak tia =ri =ras , ã =ken =ri ĩka , peʃ akwa yãha =ma , laguna =hi .
+# text_en = That is why, in the past... (to) our ancestors (makers) already, um, its name, and because it was a lake, ‎‎because of that too, in Spanish, it is "Laguna".
+# text_phrase-gls-es = Por eso antiguamente, porque (para) nuestros ancestros (hacedores) ya su nombre era La Laguna. Y también en español, es La laguna,
+# text_phrase-gls-pro = || ɛ̃̀ã̀kəɾĩ́ĩ̀m (0.7s) || ˈkèkéˈɾíˀ (0.7s) || pàtàː qátàx kèː (0.7s) || àː (0.3s) || àpĩ̀ːmà (1.1s) || ĩ̄kə̀ ˈpáqtjā ɾīˈɾās (0.2s)  ‎|| ã̄ kɛ̃́ɾĩ́kà (0.2s) || pìʃākȭɲã̀mã̀h (0.1s) || lagunahĩ̄ˀ (0.8s) ||
+# text_phrase-gls-it = (ɛ̃̀)ã̀kɾĩ́ĩ̀m kèkéɾíˀ pàtàː qátàx kèː àː àpĩ̀ːmà ĩ̄kə̀ páqtjā ɾīɾās ã̄ kɛ̃́ɾĩ́(kà) pìʃākȭjã̀mã̀ʰ {laguna}hĩ̄ˀ
+# text_phrase-gls-wg = HES DEM.DIST =SIM COP:PST:3 before:REDUP? TEMP make:AG:INCL already INTERJ name:3 TOP_x and lake+liquid COP:PST:3 REAS DEM.DIST =SIM COP:PST:3 and people other say:NMLZ TOP_lgge SPA_lake COP:PFV:3
+# text_phrase-gls-de = Laguna_002_NG
+1	e	e	X	_	_	33	discourse	_	AlignBegin=14045|AlignEnd=14394|MSeg=e|nWord=1
+2	ã	ã	PRON	_	_	1	reparandum	_	AlignBegin=14394|AlignEnd=14743|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=2|RX=[PRO]|TokenType=Root
+3	=ken	_	PART	_	_	1	case	_	AlignBegin=14743|AlignEnd=15092|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=3|RX=[PRT]|TokenType=Clit
+4	=ri	_	AUX	_	_	1	cop	_	AlignBegin=15092|AlignEnd=15441|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=4|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+5	,	_	PUNCT	_	_	1	punct	_	AlignBegin=15441|AlignEnd=15790|MSeg=,|nWord=5
+6	ke	ke	ADV	_	_	7	advmod	_	AlignBegin=15790|AlignEnd=15964|Gloss=before|MGloss=before|MSeg=ke|nWord=6|RX=[ADV]|TokenType=Root
+7	ke	ke	ADV	_	_	33	obl:tmod	_	AlignBegin=15964|AlignEnd=16139|Gloss=before|MGloss=before|MSeg=ke|nWord=6|RX=[ADV]|TokenType=Root
+8	=ri	_	ADP	_	_	7	case	_	AlignBegin=16139|AlignEnd=16488|Gloss==TEMP|MGloss==TEMP|MSeg==ri|nWord=7|RX=[POST]|TokenType=Clit
+9	,	_	PUNCT	_	_	7	punct	_	AlignBegin=16488|AlignEnd=16837|MSeg=,|nWord=8
+10	patakatah	ka	NOUN	_	Clusivity=In	7	nsubj	_	AlignBegin=16837|AlignEnd=17186|Gloss=-AG.NMLZ|MGloss=INCL- POSS1- make -AG.NMLZ|MSeg=pa-ta-ka-tah|nWord=9|RX=[VT]|Scrap=Yes|TokenType=Root|wordform=pa-ta-ka-tah
+11	ke	ke	ADV	_	_	10	advmod	_	AlignBegin=17186|AlignEnd=17535|Gloss=already|MGloss=already|MSeg=ke|nWord=10|RX=[ADV]|TokenType=Root
+12	,	_	PUNCT	_	_	11	punct	_	AlignBegin=17535|AlignEnd=17884|MSeg=,|nWord=11
+13	ah	ah	INTJ	_	_	33	dislocated	_	AlignBegin=17884|AlignEnd=18233|Gloss=INTERJ|MGloss=INTERJ|MSeg=ah|nWord=12|RX=[INTERJ]|TokenType=Root
+14	apin	pin	NOUN	_	_	13	reparandum	_	AlignBegin=18233|AlignEnd=18582|Gloss=name|MGloss=POSS3SG- name|MSeg=a-pin|nWord=13|RX=[N]|TokenType=Root|wordform=a-pin
+15	=ma	_	PART	_	_	14	case	_	AlignBegin=18582|AlignEnd=18931|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=14|RX=[PRT]|TokenType=Clit
+16	,	_	PUNCT	_	_	13	punct	_	AlignBegin=18931|AlignEnd=19280|MSeg=,|nWord=15
+17	ĩka	ĩka	PART	_	_	18	discourse	_	AlignBegin=19280|AlignEnd=19629|Gloss=and|MGloss=and|MSeg=ĩka|nWord=16|RX=[COORDCONN]|TokenType=Root
+18	pak	pak	NOUN	_	_	33	advcl	_	AlignBegin=19629|AlignEnd=19803|Gloss=lake|MGloss=lake|MSeg=pak|nWord=17|RX=[N]|TokenType=Root
+19	tia	tia	NOUN	_	_	18	nmod	_	AlignBegin=19803|AlignEnd=19978|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=17|RX=[N]|TokenType=Root
+20	=ri	_	AUX	_	_	18	cop	_	AlignBegin=19978|AlignEnd=20327|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=18|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+21	=ras	_	SCONJ	_	_	18	mark	_	AlignBegin=20327|AlignEnd=20676|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=19|RX=[PRT]|TokenType=Clit
+22	,	_	PUNCT	_	_	18	punct	_	AlignBegin=20676|AlignEnd=21025|MSeg=,|nWord=20
+23	ã	ã	PRON	_	_	33	discourse	_	AlignBegin=21025|AlignEnd=21374|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=21|RX=[PRO]|TokenType=Root
+24	=ken	_	PART	_	_	23	case	_	AlignBegin=21374|AlignEnd=21723|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=22|RX=[PRT]|TokenType=Clit
+25	=ri	_	AUX	_	_	23	cop	_	AlignBegin=21723|AlignEnd=22072|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=23|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+26	ĩka	ĩka	PART	_	_	23	discourse	_	AlignBegin=22072|AlignEnd=22421|Gloss=and|MGloss=and|MSeg=ĩka|nWord=24|RX=[COORDCONN]|TokenType=Root
+27	,	_	PUNCT	_	_	26	punct	_	AlignBegin=22421|AlignEnd=22770|MSeg=,|nWord=25
+28	peʃ	peʃ	NOUN	_	_	30	nmod	_	AlignBegin=22770|AlignEnd=23119|Gloss=people|MGloss=people|MSeg=peʃ|nWord=26|RX=[N]|TokenType=Root
+29	akwa	akwa	NOUN	_	_	28	nmod	_	AlignBegin=23119|AlignEnd=23468|Gloss=other|MGloss=other|MSeg=akwa|nWord=27|RX=[N]|TokenType=Root
+30	yãha	yãh	NOUN	_	_	33	obl:mod	_	AlignBegin=23468|AlignEnd=23817|Gloss=-NMLZ|MGloss=say -NMLZ|MSeg=yãh-a|nWord=28|RX=[VT]|TokenType=Root|wordform=yãh-a
+31	=ma	_	PART	_	_	30	case	_	AlignBegin=23817|AlignEnd=24166|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=29|RX=[PRT]|TokenType=Clit
+32	,	_	PUNCT	_	_	30	punct	_	AlignBegin=24166|AlignEnd=24515|MSeg=,|nWord=30
+33	laguna	laguna	X	_	_	0	root	_	AlignBegin=24515|AlignEnd=24864|Gloss=SPA_lake|MGloss=SPA_lake|MSeg=laguna|nWord=31|RX=[<NOT_SURE>]|TokenType=Root
+34	=hi	_	AUX	_	_	33	cop	_	AlignBegin=24864|AlignEnd=25213|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=32|RX=[COP]|TokenType=Clit
+35	.	_	PUNCT	_	_	33	punct	_	AlignBegin=25213|AlignEnd=25570|Gloss=.|MGloss=.|MSeg=.|nWord=33|TokenType=Root
+
+# sent_id = 100_03-03
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 26400, 27090
+# morphemic_text = ta laguna =hi .
+# text = ta laguna =hi .
+# text_en = That is "La Laguna".
+# text_phrase-gls-es = esa es La laguna.
+# text_phrase-gls-pro = || tà lagunahĩ̄ˀ (0.9s) ||
+# text_phrase-gls-it = tà {laguna}hĩ̄ˀ
+# text_phrase-gls-wg = DIST.DEM SPA_lake COP:PFV:3
+# text_phrase-gls-de = Laguna_003_NG
+1	ta	ta	PRON	_	_	2	det	_	AlignBegin=26400|AlignEnd=26572|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ta|nWord=1|RX=[PRO]|TokenType=Root
+2	laguna	laguna	X	_	_	0	root	_	AlignBegin=26572|AlignEnd=26744|Gloss=SPA_lake|MGloss=SPA_lake|MSeg=laguna|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
+3	=hi	_	AUX	_	_	2	cop	_	AlignBegin=26744|AlignEnd=26916|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=3|RX=[COP]|TokenType=Clit
+4	.	_	PUNCT	_	_	2	punct	_	AlignBegin=26916|AlignEnd=27090|Gloss=.|MGloss=.|MSeg=.|nWord=4|TokenType=Root
+
+# sent_id = 100_04-04
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 27980, 31720
+# morphemic_text = ã =ken =r -Ø -i ã =ken ta- wark -Ø -i , pa- ta- ka -ta =ken tiʔ tuk -er -i =ras ka .
+# text = ã =ken =ri ã =ken tawarki , patakata =ken tiʔ tukeri =ras ka .
+# text_en = That is why it stayed like that, like our ancestors, because they put it then.
+# text_phrase-gls-es = Ese también así se quedó Nuestros ancestros (hacedores) por eso como venían poniéndolo
+# text_phrase-gls-pro = || ã̀kɛ̄ɾī àŋkēn tə̀βʷàɾʰ̀kíˀ (0.6s) || pàtàˀ qāt ã̀kẽ́n tíˀ/ (0.1s) || tùkɾī ɾāskaˀ (0.6s) ||
+# text_phrase-gls-it = ã̀kɛ̄ɾī(ɾ) àŋkēn tə̀βʷàɾʰ̀kíˀ pàtàˀ qāt ã̀kẽ́n tíˀtùkɾī ɾāskāˀ
+# text_phrase-gls-wg = DEM.DIST =SIM COP:PST:3 DEM.DIST SIM remain:MID:PST:3 make:AG:INCL SIM HES put:PST:3PL REAS then
+# text_phrase-gls-de = Laguna_004_NG
+1	ã	ã	PRON	_	_	6	discourse	_	AlignBegin=27980|AlignEnd=28247|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=ken	_	PART	_	_	1	case	_	AlignBegin=28247|AlignEnd=28514|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=2|RX=[PRT]|TokenType=Clit
+3	=ri	_	AUX	_	_	1	cop	_	AlignBegin=28514|AlignEnd=28781|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=3|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+4	ã	ã	PRON	_	_	6	obl:mod	_	AlignBegin=28781|AlignEnd=29048|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=4|RX=[PRO]|TokenType=Root
+5	=ken	_	PART	_	_	4	case	_	AlignBegin=29048|AlignEnd=29315|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=5|RX=[PRT]|TokenType=Clit
+6	tawarki	wark	VERB	_	Voice=Mid	0	root	_	AlignBegin=29315|AlignEnd=29582|Gloss=remain|MGloss=MID- remain -S3SG -PST|MSeg=ta-wark-Ø-i|nWord=6|RX=[VT]|TokenType=Root|wordform=ta-wark-Ø-i
+7	,	_	PUNCT	_	_	6	punct	_	AlignBegin=29582|AlignEnd=29849|MSeg=,|nWord=7
+8	patakata	ka	NOUN	_	Clusivity=In	11	obl	_	AlignBegin=29849|AlignEnd=30116|Gloss=-AG.NMLZ|MGloss=INCL- POSS1- make -AG.NMLZ|MSeg=pa-ta-ka-ta|nWord=8|RX=[VT]|TokenType=Root|wordform=pa-ta-ka-ta
+9	=ken	_	PART	_	_	8	case	_	AlignBegin=30116|AlignEnd=30383|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=9|RX=[PRT]|TokenType=Clit
+10	tiʔ	tiʔ	X	_	_	8	nmod	_	AlignBegin=30383|AlignEnd=30650|MSeg=tiʔ|nWord=10
+11	tukeri	tuk	VERB	_	_	6	advcl	_	AlignBegin=30650|AlignEnd=30917|Gloss=put|MGloss=put -S3PL -PST|MSeg=tuk-er-i|nWord=11|RX=[VT]|TokenType=Root|wordform=tuk-er-i
+12	=ras	_	SCONJ	_	_	11	mark	_	AlignBegin=30917|AlignEnd=31184|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=12|RX=[PRT]|TokenType=Clit
+13	ka	ka	PART	_	_	11	discourse	_	AlignBegin=31184|AlignEnd=31451|Gloss=then|MGloss=then|MSeg=ka|nWord=13|RX=[<NOT_SURE>]|TokenType=Root
+14	.	_	PUNCT	_	_	6	punct	_	AlignBegin=31451|AlignEnd=31720|Gloss=.|MGloss=.|MSeg=.|nWord=14|TokenType=Root
+
+# sent_id = 100_05-05
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 32355, 33255
+# morphemic_text = ã =r -Ø -i ĩkata =ma .
+# text = ã =ri ĩkata =ma .
+# text_en = That’s what it is now.
+# text_phrase-gls-es = Eso ahora
+# text_phrase-gls-pro = || àɾ ĩ̀ŋɡə̀tàmàʰ (1.0s) ||
+# text_phrase-gls-it = àɾ ĩ̀ŋɡə̀tàmàʰ
+# text_phrase-gls-wg = DEM.DIST COP:PST:3 now TOP_CX
+# text_phrase-gls-de = Laguna_004b_NG
+1	ã	ã	PRON	_	_	0	root	_	AlignBegin=32355|AlignEnd=32535|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=ri	_	AUX	_	_	1	cop	_	AlignBegin=32535|AlignEnd=32715|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=2|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+3	ĩkata	ĩkata	NOUN	_	_	1	obl:tmod	_	AlignBegin=32715|AlignEnd=32895|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=3|RX=[N]|TokenType=Root
+4	=ma	_	PART	_	_	3	case	_	AlignBegin=32895|AlignEnd=33075|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit
+5	.	_	PUNCT	_	_	1	punct	_	AlignBegin=33075|AlignEnd=33255|Gloss=.|MGloss=.|MSeg=.|nWord=5|TokenType=Root
+
+# sent_id = 100_06-06
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 34300, 40610
+# morphemic_text = to ĩ pataa , pa- ta- kãã re , pa- ta- kãã , a- ye =ĩ , tʃa -bar -wa =yã =hi .
+# text = to ĩ pataa , patakãã re , patakãã , aye =ĩ , tʃabarwa =yã =hi .
+# text_en = That, this, our... our village, our village is small, it is where we live.
+# text_phrase-gls-es = esto nuestro, nuestro pueblo pequeño en donde vivimos
+# text_phrase-gls-pro = || tòẽ̀ʲ pàtàːʰ (0.2s) <(H)> (0.2s) || pə̄tàɣ kã̄ːːɾéˀ (0.1s) || pə̃̄tə̃̄kã̄t̚ (0.8s) || àʝéĩ́ːːː (0.1s) || ʃàbàɾjã̄ hĩ́ (0.9s) ||
+# text_phrase-gls-it = tòẽ̀ʲ pàtàːʰ pə̄tàɣ kã̄ː(ɾéˀ pə̃̄tə̃̄kə̃̄nθ) àʝéĩ́ ĩ̀ʃàbàɾjã̄ hĩ́
+# text_phrase-gls-wg = DEM.MED DEM.PROX HES village:1 HES village:1 small:3 COP:PFV:3 be.there:PFV:EXCL.PL LOC COP:PFV:3
+# text_phrase-gls-de = Laguna_005_NG
+1	to	to	PRON	_	_	3	discourse	_	AlignBegin=34300|AlignEnd=34694|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=1|RX=[PRO]|TokenType=Root
+2	ĩ	ĩ	PRON	_	_	3	det	_	AlignBegin=34694|AlignEnd=35088|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=2|RX=[PRO]|TokenType=Root
+3	pataa	pataa	X	_	_	10	nsubj	_	AlignBegin=35088|AlignEnd=35482|MSeg=pataa|nWord=3
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=35482|AlignEnd=35876|MSeg=,|nWord=4
+5	patakãã	kãã	NOUN	_	Clusivity=In	3	reparandum	_	AlignBegin=35876|AlignEnd=36270|Gloss=village|MGloss=INCL- POSS1- village|MSeg=pa-ta-kãã|nWord=5|RX=[N]|TokenType=Root|wordform=pa-ta-kãã
+6	re	re	X	_	_	5	nmod	_	AlignBegin=36270|AlignEnd=36664|MSeg=re|nWord=6
+7	,	_	PUNCT	_	_	6	punct	_	AlignBegin=36664|AlignEnd=37058|MSeg=,|nWord=7
+8	patakãã	kãã	NOUN	_	Clusivity=In	3	reparandum	_	AlignBegin=37058|AlignEnd=37452|Gloss=village|MGloss=INCL- POSS1- village|MSeg=pa-ta-kãã|nWord=8|RX=[N]|TokenType=Root|wordform=pa-ta-kãã
+9	,	_	PUNCT	_	_	3	punct	_	AlignBegin=37452|AlignEnd=37846|MSeg=,|nWord=9
+10	aye	ye	NOUN	_	_	0	root	_	AlignBegin=37846|AlignEnd=38240|Gloss=small|MGloss=POSS3SG- small|MSeg=a-ye|nWord=10|RX=[N]|TokenType=Root|wordform=a-ye
+11	=ĩ	_	AUX	_	_	10	cop	_	AlignBegin=38240|AlignEnd=38634|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==ĩ|nWord=11|RX=[COP]|TokenType=Clit
+12	,	_	PUNCT	_	_	10	punct	_	AlignBegin=38634|AlignEnd=39028|MSeg=,|nWord=12
+13	tʃabarwa	tʃa	VERB	_	Clusivity=Ex	10	conj	_	AlignBegin=39028|AlignEnd=39422|Gloss=be.there|MGloss=be.there -S1PL.EXCL -PFV|MSeg=tʃa-bar-wa|nWord=13|RX=[VI]|TokenType=Root|wordform=tʃa-bar-wa
+14	=yã	_	SCONJ	_	_	13	mark	_	AlignBegin=39422|AlignEnd=39816|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=14|RX=[POST]|TokenType=Clit
+15	=hi	_	AUX	_	_	13	cop	_	AlignBegin=39816|AlignEnd=40210|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=15|RX=[COP]|TokenType=Clit
+16	.	_	PUNCT	_	_	10	punct	_	AlignBegin=40210|AlignEnd=40610|Gloss=.|MGloss=.|MSeg=.|nWord=16|TokenType=Root
+
+# sent_id = 100_07-07
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 41493, 47250
+# morphemic_text = a , waika , anũwa , waika ta- peh -par -i , ʃã =ʔã ta- peh -bar -i .
+# text = a , waika , anũwa , waika tapehpari , ʃã =ʔã tapehbari .
+# text_en = Um, we were the new... the latest... the new generation, we were family.
+# text_phrase-gls-es = La nueva generación que estamos viendo
+# text_phrase-gls-pro = || àːːʰ (0.3s) || wàíˀkàˀ (1.2s) || ə̀nȭɣʷāt̚ (0.6s) || wājkāt tàpèːpɾĩ̀ʰ (0.1s) || ʃã́ã̀ʰ tàpèbɾĩ̀ʰ (0.5s) ||
+# text_phrase-gls-it = àːʰ wàíˀkàˀ ə̀nȭɣʷā(ɡ) wājkā(t) tàpèːpɾĩ̀ʰ ʃã́ã̀ʰ tàpèbɾĩ̀ʰ
+# text_phrase-gls-wg = HES new last new hang:MID:PST:INCL family =FOC hang:MID:PST:EXCL
+# text_phrase-gls-de = Laguna_006_NG
+1	a	a	INTJ	_	_	8	discourse	_	AlignBegin=41493|AlignEnd=41936|MSeg=a|nWord=1
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=41936|AlignEnd=42379|MSeg=,|nWord=2
+3	waika	waika	NOUN	_	_	8	xcomp	_	AlignBegin=42379|AlignEnd=42822|Gloss=new|MGloss=new|MSeg=waika|nWord=3|RX=[N]|TokenType=Root
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=42822|AlignEnd=43265|MSeg=,|nWord=4
+5	anũwa	anũwa	NOUN	_	_	3	reparandum	_	AlignBegin=43265|AlignEnd=43708|Gloss=last|MGloss=last|MSeg=anũwa|nWord=5|RX=[N]|TokenType=Root
+6	,	_	PUNCT	_	_	3	punct	_	AlignBegin=43708|AlignEnd=44151|MSeg=,|nWord=6
+7	waika	waika	NOUN	_	_	3	reparandum	_	AlignBegin=44151|AlignEnd=44594|Gloss=new|MGloss=new|MSeg=waika|nWord=7|RX=[N]|TokenType=Root
+8	tapehpari	peh	VERB	_	Clusivity=In|Voice=Mid	0	root	_	AlignBegin=44594|AlignEnd=45037|Gloss=hang|MGloss=MID- hang -S1PL.INCL -PST|MSeg=ta-peh-par-i|nWord=8|RX=[V]|TokenType=Root|wordform=ta-peh-par-i
+9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=45037|AlignEnd=45480|MSeg=,|nWord=9
+10	ʃã	ʃã	NOUN	_	_	12	xcomp	_	AlignBegin=45480|AlignEnd=45923|Gloss=family|MGloss=family|MSeg=ʃã|nWord=10|RX=[N]|TokenType=Root
+11	=ʔã	_	PART	_	_	10	advmod	_	AlignBegin=45923|AlignEnd=46366|Gloss==FOC|MGloss==FOC|MSeg==ʔã|nWord=11|RX=[PRT]|TokenType=Clit
+12	tapehbari	peh	VERB	_	Clusivity=Ex|Voice=Mid	8	conj	_	AlignBegin=46366|AlignEnd=46809|Gloss=hang|MGloss=MID- hang -S1PL.EXCL -PST|MSeg=ta-peh-bar-i|nWord=12|RX=[V]|TokenType=Root|wordform=ta-peh-bar-i
+13	.	_	PUNCT	_	_	8	punct	_	AlignBegin=46809|AlignEnd=47250|Gloss=.|MGloss=.|MSeg=.|nWord=13|TokenType=Root
+
+# sent_id = 100_08-08
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 47775, 51565
+# morphemic_text = ã =re =r -Ø -i , ama , a- pin =ma ĩ =ken ta- wark -Ø -i =ma =ken Ø- yãh -bar -(w)a , ĩ a- pin =ma .
+# text = ã =re =ri , ama , apin =ma ĩ =ken tawarki =ma =ken yãhbar(w)a , ĩ apin =ma .
+# text_en = Since then, um, we call it like the name like those who remain, this name.
+# text_phrase-gls-es = que era todavía su nombre, así, se quedó. así le llamamos de su nombre
+# text_phrase-gls-pro = || ã̀ɾēɾĩ́ˀ || ã̀βã̀ː (0.1s) || pĩ̄mà ĩ̄nkén tə̄βə̄ɾkìmɔ̃̀kɛ̃́ ɲã̀mbɾáˀ (0.3s) || nàˀpĩ̀màˀ (1.0s) ||
+# text_phrase-gls-it = ã̀ɾēɾĩ́ˀ (ã̀β)ã̀ːpĩ̄mà ĩ̄kén tə̄βə̄ɾkìmɔ̃̀ ɔ̃̀kɛ̃́ jã̀mbɾáˀ (n)àpĩ̀màˀ
+# text_phrase-gls-wg = DEM.DIST =TEMP COP:PST:3 HES name:3 TOP_CS DEM.PROX SIM remain:MID:PST:3 TOP_obl SIM say:PFV:EXCL>3 DEM.PROX name:3 TOP_VO
+# text_phrase-gls-de = Laguna_007_NG
+1	ã	ã	PRON	_	_	14	obl:tmod	_	AlignBegin=47775|AlignEnd=47974|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=re	_	ADP	_	_	1	case	_	AlignBegin=47974|AlignEnd=48173|Gloss==TEMP|MGloss==TEMP|MSeg==re|nWord=2|RX=[POST]|TokenType=Clit
+3	=ri	_	AUX	_	_	1	cop	_	AlignBegin=48173|AlignEnd=48372|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=3|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=48372|AlignEnd=48571|MSeg=,|nWord=4
+5	ama	ama	PART	_	_	1	discourse	_	AlignBegin=48571|AlignEnd=48770|Gloss=HES|MGloss=HES|MSeg=ama|nWord=5|RX=[PRT]|TokenType=Root
+6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=48770|AlignEnd=48969|MSeg=,|nWord=6
+7	apin	pin	NOUN	_	_	9	nmod	_	AlignBegin=48969|AlignEnd=49168|Gloss=name|MGloss=POSS3SG- name|MSeg=a-pin|nWord=7|RX=[N]|TokenType=Root|wordform=a-pin
+8	=ma	_	PART	_	_	7	case	_	AlignBegin=49168|AlignEnd=49367|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=8|RX=[PRT]|TokenType=Clit
+9	ĩ	ĩ	PRON	_	_	14	obl:mod	_	AlignBegin=49367|AlignEnd=49566|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=9|RX=[PRO]|TokenType=Root
+10	=ken	_	PART	_	_	9	case	_	AlignBegin=49566|AlignEnd=49765|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=10|RX=[PRT]|TokenType=Clit
+11	tawarki	wark	VERB	_	Voice=Mid	14	advcl	_	AlignBegin=49765|AlignEnd=49964|Gloss=remain|MGloss=MID- remain -S3SG -PST|MSeg=ta-wark-Ø-i|nWord=11|RX=[VT]|TokenType=Root|wordform=ta-wark-Ø-i
+12	=ma	_	PART	_	_	11	mark	_	AlignBegin=49964|AlignEnd=50163|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=12|RX=[PRT]|TokenType=Clit
+13	=ken	_	PART	_	_	11	mark	_	AlignBegin=50163|AlignEnd=50362|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=13|RX=[PRT]|TokenType=Clit
+14	yãhbar(w)a	yãh	VERB	_	Clusivity=Ex	0	root	_	AlignBegin=50362|AlignEnd=50561|Gloss=say|MGloss=O3SG- say -S1PL.EXCL -PFV|MSeg=Ø-yãh-bar-(w)a|nWord=14|RX=[VT]|TokenType=Root|wordform=Ø-yãh-bar-(w)a
+15	,	_	PUNCT	_	_	14	punct	_	AlignBegin=50561|AlignEnd=50760|MSeg=,|nWord=15
+16	ĩ	ĩ	PRON	_	_	17	det	_	AlignBegin=50760|AlignEnd=50959|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=16|RX=[PRO]|TokenType=Root
+17	apin	pin	NOUN	_	_	14	dislocated	_	AlignBegin=50959|AlignEnd=51158|Gloss=name|MGloss=POSS3SG- name|MSeg=a-pin|nWord=17|RX=[N]|TokenType=Root|wordform=a-pin
+18	=ma	_	PART	_	_	17	case	_	AlignBegin=51158|AlignEnd=51357|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=18|RX=[PRT]|TokenType=Clit
+19	.	_	PUNCT	_	_	14	punct	_	AlignBegin=51357|AlignEnd=51565|Gloss=.|MGloss=.|MSeg=.|nWord=19|TokenType=Root
+
+# sent_id = 100_09-09
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 52535, 53165
+# morphemic_text = ta- r- ta- õʃ -Ø -tV -wa .
+# text = tartaõʃtVwa .
+# text_en = I don't forget it.
+# text_phrase-gls-es = No se me olvida
+# text_phrase-gls-pro = || tāhtȭʃtʷə̄ (0.6s) ||
+# text_phrase-gls-it = tāhtȭʃtʷə̄ˀ
+# text_phrase-gls-wg = lose(forget):APPL:MID:NEG:PFV:3>1
+# text_phrase-gls-de = Laguna_008_NG
+1	tartaõʃtVwa	õʃ	VERB	_	Voice=Mid	0	root	_	AlignBegin=52535|AlignEnd=52850|Gloss=lose|MGloss=O1- APPL.P- MID- lose -S3SG -NEG -PFV|MSeg=ta-r-ta-õʃ-Ø-tV-wa|nWord=1|RX=[VT]|TokenType=Root|wordform=ta-r-ta-õʃ-Ø-tV-wa
+2	.	_	PUNCT	_	_	1	punct	_	AlignBegin=52850|AlignEnd=53165|Gloss=.|MGloss=.|MSeg=.|nWord=2|TokenType=Root
+
+# sent_id = 100_10-10
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 53770, 59200
+# morphemic_text = ãkaʃkwa , ta katam , pa- ta- ka -ta Ø- yẽh -er -ru -ri , ĩ pak tia =yã =hi =ma .
+# text = ãkaʃkwa , ta katam , patakata yẽherruri , ĩ pak tia =yã =hi =ma .
+# text_en = So, um, our ancestors named the lake that is here.
+# text_phrase-gls-es = entonces nuestros ancestros le llamaban Esta laguna, allí,
+# text_phrase-gls-pro = || ã̀kāʃkʷə́ʰ (1.0s) || tàːˀ kátàmˀ-- || pt àˀqátā ɲɛ̃̀hlèɾùɾĩ̄ĩ̀ː (0.1s) || ĩ̀ːː (0.1s) || páqtjājã̄hĩ̄m (0.2s) ||
+# text_phrase-gls-it = ã̀kāʃkʷə́ʰ (tàːˀ kátàmˀ) pə̀t àˀqátā jɛ̃̀hlèɾùɾĩ̄ĩ̀ː ‎‎ĩ̀ː páqtjājã̄hĩ̄m
+# text_phrase-gls-wg = then DIST.DEM_indefinite HES make:AG:INCL say:HAB:PST:3PL>3 DEM.PROX lake+liquid LOC COP:PFV:3 =TOP_C
+# text_phrase-gls-de = Laguna_008b_NG
+1	ãkaʃkwa	ãkaʃkwa	PART	_	_	7	discourse	_	AlignBegin=53770|AlignEnd=54158|Gloss=then|MGloss=then|MSeg=ãkaʃkwa|nWord=1|RX=[PRT]|TokenType=Root
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=54158|AlignEnd=54546|MSeg=,|nWord=2
+3	ta	ta	PRON	_	_	4	det	_	AlignBegin=54546|AlignEnd=54934|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ta|nWord=3|RX=[PRO]|TokenType=Root
+4	katam	katam	X	_	_	7	nsubj	_	AlignBegin=54934|AlignEnd=55322|MSeg=katam|nWord=4
+5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=55322|AlignEnd=55710|MSeg=,|nWord=5
+6	patakata	ka	NOUN	_	Clusivity=In	4	reparandum	_	AlignBegin=55710|AlignEnd=56098|Gloss=-AG.NMLZ|MGloss=INCL- POSS1- make -AG.NMLZ|MSeg=pa-ta-ka-ta|nWord=6|RX=[VT]|TokenType=Root|wordform=pa-ta-ka-ta
+7	yẽherruri	yẽh	VERB	_	_	0	root	_	AlignBegin=56098|AlignEnd=56486|Gloss=say|MGloss=O3SG- say -S3PL -HAB -PST|MSeg=Ø-yẽh-er-ru-ri|nWord=7|RX=[VT]|TokenType=Root|wordform=Ø-yẽh-er-ru-ri
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=56486|AlignEnd=56874|MSeg=,|nWord=8
+9	ĩ	ĩ	PRON	_	_	10	det	_	AlignBegin=56874|AlignEnd=57262|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=9|RX=[PRO]|TokenType=Root
+10	pak	pak	NOUN	_	_	7	ccomp	_	AlignBegin=57262|AlignEnd=57456|Gloss=lake|MGloss=lake|MSeg=pak|nWord=10|RX=[N]|TokenType=Root
+11	tia	tia	NOUN	_	_	10	nmod	_	AlignBegin=57456|AlignEnd=57650|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=10|RX=[N]|TokenType=Root
+12	=yã	_	ADP	_	_	10	case	_	AlignBegin=57650|AlignEnd=58038|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=11|RX=[POST]|TokenType=Clit
+13	=hi	_	AUX	_	_	10	cop	_	AlignBegin=58038|AlignEnd=58426|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=12|RX=[COP]|TokenType=Clit
+14	=ma	_	PART	_	_	10	mark	_	AlignBegin=58426|AlignEnd=58814|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=13|RX=[PRT]|TokenType=Clit
+15	.	_	PUNCT	_	_	7	punct	_	AlignBegin=58814|AlignEnd=59200|Gloss=.|MGloss=.|MSeg=.|nWord=14|TokenType=Root
+
+# sent_id = 100_11-11
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 59410, 61860
+# morphemic_text = ki =ri =ma peʃwakwa a- wahara Ø- tokk -er -(w)a .
+# text = ki =ri =ma peʃwakwa awahara tokker(w)a .
+# text_en = The wild animals used to drink it before.
+# text_phrase-gls-es = antes los animales salvajes tomaban
+# text_phrase-gls-pro = || kīɾìmà pèʃʷàkʷàˀ || àwàháɾà tókːeɾà (0.1s) <H> ||
+# text_phrase-gls-it = kīɾìmà pèʃʷàkʷàˀ ̤(à)wàháɾà tókɾàʰ
+# text_phrase-gls-wg = before TEMP TOP_TV animal wild:3 drink:PFV:3PL>3
+# text_phrase-gls-de = Laguna_009_NG
+1	ki	ki	ADV	_	_	6	obl:tmod	_	AlignBegin=59410|AlignEnd=59760|Gloss=before|MGloss=before|MSeg=ki|nWord=1|RX=[ADV]|TokenType=Root
+2	=ri	_	ADP	_	_	1	case	_	AlignBegin=59760|AlignEnd=60110|Gloss==TEMP|MGloss==TEMP|MSeg==ri|nWord=2|RX=[POST]|TokenType=Clit
+3	=ma	_	PART	_	_	1	case	_	AlignBegin=60110|AlignEnd=60460|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=3|RX=[PRT]|TokenType=Clit
+4	peʃwakwa	peʃwakwa	NOUN	_	_	6	nsubj	_	AlignBegin=60460|AlignEnd=60810|Gloss=animal|MGloss=animal|MSeg=peʃwakwa|nWord=4|RX=[N]|TokenType=Root
+5	awahara	wahara	NOUN	_	_	4	nmod	_	AlignBegin=60810|AlignEnd=61160|Gloss=wild|MGloss=POSS3SG- wild|MSeg=a-wahara|nWord=5|RX=[N]|TokenType=Root|wordform=a-wahara
+6	tokker(w)a	tokk	VERB	_	_	0	root	_	AlignBegin=61160|AlignEnd=61510|Gloss=drink|MGloss=O3SG- drink -S3PL -PFV|MSeg=Ø-tokk-er-(w)a|nWord=6|RX=[VT]|TokenType=Root|wordform=Ø-tokk-er-(w)a
+7	.	_	PUNCT	_	_	6	punct	_	AlignBegin=61510|AlignEnd=61860|Gloss=.|MGloss=.|MSeg=.|nWord=7|TokenType=Root
+
+# sent_id = 100_12-12
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 61980, 69640
+# morphemic_text = ĩ =yã pẽx pehwa Ø- ã -er -(w)a ʃa -i -ru -ri , a , to =ken , aro a- wawa , to sĩ a- wawa .
+# text = ĩ =yã pẽx pehwa ãer(w)a ʃairuri , a , to =ken , aro awawa , to sĩ awawa .
+# text_en = Here they used to eat fruit, um, like that, the fruit of the Montezuma pine, the fruit of the Montezuma pine, because it was there.
+# text_phrase-gls-es = Aquí, comían frutas Vivian porque como estaban las frutas del ocote, las frutas del encino
+# text_phrase-gls-pro = || ɲã́ pẽ́ˀ pɛ̃́ŋɡʷã̀ ɛ̃́ɾə̀ ʃìɾùɾīˀ (0.9s) || ã̀ːː (0.2s) || tȭˀkɛ̃̄ã̄ˀ (0.8s) || ˈàròˈwàwàˈwá (0.2s) || tóˀ sĩ́ àwàβāʰ (0.6s) ||
+# text_phrase-gls-it = ɲã́ (pẽ́ˀ) pɛ̃́ŋɡʷã̀ ɛ̃́ɾə̀ ʃìɾùɾīˀ ã̀ːʰ tȭkɛ̃̄ã̄ˀ àrò àwàwá tóˀ sĩ́ àwàβāʰ ʃùɾìɾáskàˀ
+# text_phrase-gls-wg = DEM.PROX:LOC_here HES fruit eat:PFV:3PL>3 be.there(AUX):HAB:PST:3 HES MED.DEM SIM ocote.pine small:3 DEM.MED oak.sp small:3
+# text_phrase-gls-de = Laguna_010_NG
+1	ĩ	ĩ	PRON	_	_	5	obl:lmod	_	AlignBegin=61980|AlignEnd=62193|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=1|RX=[PRO]|TokenType=Root
+2	=yã	_	ADP	_	_	1	case	_	AlignBegin=62193|AlignEnd=62406|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=1|RX=[POST]|TokenType=Clit
+3	pẽx	pẽx	X	_	_	5	obj	_	AlignBegin=62406|AlignEnd=62832|MSeg=pẽx|nWord=2
+4	pehwa	pehwa	NOUN	_	_	3	reparandum	_	AlignBegin=62832|AlignEnd=63258|Gloss=fruit|MGloss=fruit|MSeg=pehwa|nWord=3|RX=[N]|TokenType=Root
+5	ãer(w)a	ã	VERB	_	_	0	root	_	AlignBegin=63258|AlignEnd=63684|Gloss=eat|MGloss=O3SG- eat -S3PL -PFV|MSeg=Ø-ã-er-(w)a|nWord=4|RX=[VT]|TokenType=Root|wordform=Ø-ã-er-(w)a
+6	ʃairuri	tʃa	AUX	_	_	5	aux	_	AlignBegin=63684|AlignEnd=64110|Gloss=be.there|MGloss=be.there -S3SG -HAB -PST|MSeg=ʃa-i-ru-ri|nWord=5|RX=[VI]|TokenType=Root|wordform=ʃa-i-ru-ri
+7	,	_	PUNCT	_	_	5	punct	_	AlignBegin=64110|AlignEnd=64536|MSeg=,|nWord=6
+8	a	a	INTJ	_	_	5	discourse	_	AlignBegin=64536|AlignEnd=64962|MSeg=a|nWord=7
+9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=64962|AlignEnd=65388|MSeg=,|nWord=8
+10	to	to	PRON	_	_	5	obl:mod	_	AlignBegin=65388|AlignEnd=65814|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=9|RX=[PRO]|TokenType=Root
+11	=ken	_	PART	_	_	10	case	_	AlignBegin=65814|AlignEnd=66240|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=10|RX=[PRT]|TokenType=Clit
+12	,	_	PUNCT	_	_	10	punct	_	AlignBegin=66240|AlignEnd=66666|MSeg=,|nWord=11
+13	aro	aro	NOUN	_	_	14	nmod	_	AlignBegin=66666|AlignEnd=67092|Gloss=ocote.pine|MGloss=ocote.pine|MSeg=aro|nWord=12|RX=[N]|TokenType=Root
+14	awawa	wawa	NOUN	_	_	5	obl	_	AlignBegin=67092|AlignEnd=67518|Gloss=small|MGloss=POSS3SG- small|MSeg=a-wawa|nWord=13|RX=[N]|TokenType=Root|wordform=a-wawa
+15	,	_	PUNCT	_	_	14	punct	_	AlignBegin=67518|AlignEnd=67944|MSeg=,|nWord=14
+16	to	to	PRON	_	_	17	det	_	AlignBegin=67944|AlignEnd=68370|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=15|RX=[PRO]|TokenType=Root
+17	sĩ	sĩ	NOUN	_	_	18	nmod	_	AlignBegin=68370|AlignEnd=68796|Gloss=oak.sp|MGloss=oak.sp|MSeg=sĩ|nWord=16|RX=[N]|TokenType=Root
+18	awawa	wawa	NOUN	_	_	14	parataxis	_	AlignBegin=68796|AlignEnd=69222|Gloss=small|MGloss=POSS3SG- small|MSeg=a-wawa|nWord=17|RX=[N]|TokenType=Root|wordform=a-wawa
+19	.	_	PUNCT	_	_	5	punct	_	AlignBegin=69222|AlignEnd=69640|Gloss=.|MGloss=.|MSeg=.|nWord=18|TokenType=Root
+
+# sent_id = 100_13-13
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 70270, 80275
+# morphemic_text = ʃa -Ø -u -ri =ras =kan , ã =yã , peʃwakwa teʔk -er -u -ri to , peʃwako =ma to =yã tʃahu tVk Ø- -er -i , to wareka tVk Ø- -er -wa , to itʃa awah .
+# text = ʃauri =ras =kan , ã =yã , peʃwakwa teʔkeruri to , peʃwako =ma to =yã tʃahu tVkeri , to wareka tVkerwa , to itʃa awah .
+# text_en = Because it was there, the animals went there, hm, the animal they called tapir, the one they call peccary, also the deer.
+# text_phrase-gls-es = Aquí, venían animales los animales, el tapir le dicen Le decían el quequeo/pecari, el venado también
+# text_phrase-gls-pro = || ʃùɾìɾáskàŋ (0.2s) || ã̀ã̄djābˀ (0.2s) || pèʃʷàkʷà téˀkèɾùɾíˀ tōˀ (1.2s) || pèʃʷàkòmà tʷānjā  t͡ʃàhú tíkèlèɾẽ̀ːʰ (0.2s) || tũ̀ wàɾékə́ˀ (0.1s) || tíkēlùβʷə̄ʰ (0.4s) || tōˀ ìʃt͡ʃàwāʰ (0.9s) ||
+# text_phrase-gls-it = ã̀ã̄(ɾjābˀ) pèʃʷàkʷà téˀkèɾùɾíˀ (tōˀ) pèʃʷàkòmà tʷ t͡ʃàhú tíkèlèɾẽ̀ːʰ (tũ̀) wàɾékə́ˀ tíkēlùβʷə̄ʰ tōˀ ìʃt͡ʃàwāʰ
+# text_phrase-gls-wg = be.there:HAB:PST:3 REAS SIM DEM.DIST LOC animal come:HAB:PST:3PL DEM.MED animal TOP_OaV DEM.MED =ERG tapir say:PST:3PL>3 DEM.MED collared.peccary say:PFV:3PL>3 DEM.MED deer also
+# text_phrase-gls-de = Laguna_011-12_NG
+1	ʃauri	tʃa	VERB	_	_	9	advcl	_	AlignBegin=70270|AlignEnd=70655|Gloss=be.there|MGloss=be.there -S3SG -HAB -PST|MSeg=ʃa-Ø-u-ri|nWord=1|RX=[VI]|TokenType=Root|wordform=ʃa-Ø-u-ri
+2	=ras	_	SCONJ	_	_	1	mark	_	AlignBegin=70655|AlignEnd=71040|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=2|RX=[PRT]|TokenType=Clit
+3	=kan	_	PART	_	_	1	mark	_	AlignBegin=71040|AlignEnd=71425|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=3|RX=[PRT]|TokenType=Clit
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=71425|AlignEnd=71810|MSeg=,|nWord=4
+5	ã	ã	PRON	_	_	1	obl:lmod	_	AlignBegin=71810|AlignEnd=72195|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=5|RX=[PRO]|TokenType=Root
+6	=yã	_	ADP	_	_	5	case	_	AlignBegin=72195|AlignEnd=72580|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=6|RX=[POST]|TokenType=Clit
+7	,	_	PUNCT	_	_	5	punct	_	AlignBegin=72580|AlignEnd=72965|MSeg=,|nWord=7
+8	peʃwakwa	peʃwakwa	NOUN	_	_	9	nsubj	_	AlignBegin=72965|AlignEnd=73350|Gloss=animal|MGloss=animal|MSeg=peʃwakwa|nWord=8|RX=[N]|TokenType=Root
+9	teʔkeruri	teʔk	VERB	_	_	0	root	_	AlignBegin=73350|AlignEnd=73735|Gloss=come|MGloss=come -S3PL -HAB -PST|MSeg=teʔk-er-u-ri|nWord=9|RX=[VI]|TokenType=Root|wordform=teʔk-er-u-ri
+10	to	to	PART	_	_	9	discourse	_	AlignBegin=73735|AlignEnd=74120|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=10|RX=[PRO]|TokenType=Root
+11	,	_	PUNCT	_	_	10	punct	_	AlignBegin=74120|AlignEnd=74505|MSeg=,|nWord=11
+12	peʃwako	peʃwako	NOUN	_	_	17	nsubj:outer	_	AlignBegin=74505|AlignEnd=74890|Gloss=animal|MGloss=animal|MSeg=peʃwako|nWord=12|RX=[N]|TokenType=Root
+13	=ma	_	PART	_	_	12	case	_	AlignBegin=74890|AlignEnd=75275|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=13|RX=[PRT]|TokenType=Clit
+14	to	to	PRON	_	_	17	nsubj	_	AlignBegin=75275|AlignEnd=75660|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=14|RX=[PRO]|TokenType=Root
+15	=yã	_	ADP	_	Case=Erg	14	case	_	AlignBegin=75660|AlignEnd=76045|Gloss==ERG|MGloss==ERG|MSeg==yã|nWord=15|RX=[PRT]|TokenType=Clit
+16	tʃahu	tʃahu	NOUN	_	_	17	xcomp	_	AlignBegin=76045|AlignEnd=76430|Gloss=tapir|MGloss=tapir|MSeg=tʃahu|nWord=16|RX=[N]|TokenType=Root
+17	tVkeri	tVØ-	VERB	_	_	9	dep	_	AlignBegin=76430|AlignEnd=76815|Gloss=say|MGloss=say O3SG- -S3PL -PST|MSeg=tVk-Ø-er-i|nWord=17|RX=[VT]|TokenType=Root|wordform=tVkØ--er-i
+18	,	_	PUNCT	_	_	17	punct	_	AlignBegin=76815|AlignEnd=77200|MSeg=,|nWord=18
+19	to	to	PRON	_	_	21	obj	_	AlignBegin=77200|AlignEnd=77585|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=19|RX=[PRO]|TokenType=Root
+20	wareka	wareka	NOUN	_	_	21	xcomp	_	AlignBegin=77585|AlignEnd=77970|Gloss=collared.peccary|MGloss=collared.peccary|MSeg=wareka|nWord=20|RX=[N]|TokenType=Root
+21	tVkerwa	tVØ-	VERB	_	_	17	conj	_	AlignBegin=77970|AlignEnd=78355|Gloss=say|MGloss=say O3SG- -S3PL -PFV|MSeg=tVk-Ø-er-wa|nWord=21|RX=[VT]|TokenType=Root|wordform=tVkØ--er-wa
+22	,	_	PUNCT	_	_	21	punct	_	AlignBegin=78355|AlignEnd=78740|MSeg=,|nWord=22
+23	to	to	PRON	_	_	24	det	_	AlignBegin=78740|AlignEnd=79125|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=23|RX=[PRO]|TokenType=Root
+24	itʃa	itʃa	NOUN	_	_	17	conj	_	AlignBegin=79125|AlignEnd=79510|Gloss=deer|MGloss=deer|MSeg=itʃa|nWord=24|RX=[N]|TokenType=Root
+25	awah	awah	PART	_	_	24	advmod	_	AlignBegin=79510|AlignEnd=79895|Gloss=also|MGloss=also|MSeg=awah|nWord=25|RX=[ADV]|TokenType=Root
+26	.	_	PUNCT	_	_	9	punct	_	AlignBegin=79895|AlignEnd=80275|Gloss=.|MGloss=.|MSeg=.|nWord=26|TokenType=Root
+
+# sent_id = 100_14-14
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 81195, 83970
+# morphemic_text = ĩ =ɲãh Ø- peʃk -er -u -ri ki =ri =ma , ãma , ã =ri =ma .
+# text = ĩ =ɲãh peʃkeruri ki =ri =ma , ãma , ã =ri =ma .
+# text_en = They took off things before, at that time.
+# text_phrase-gls-es = Solo aquí vivían antes, en ese tiempo muchos
+# text_phrase-gls-pro = || ɲã́hpéːʃkiɾùɾì kíɾīmàˀ (0.2s) || mˀàmàāɾīmà (0.9s) ||
+# text_phrase-gls-it = ɲã́hpé ʃkʲɾùɾì kíɾīmàˀ (mˀ)àmà āɾīmà ʃẽ́ˀ
+# text_phrase-gls-wg = PROX.DEM:INDF_things take.off:HAB:PST:3PL>3 before TEMP TOP_VT HES day TEMP TOP_reform
+# text_phrase-gls-de = Laguna_013_NG
+1	ĩ	ĩ	PRON	_	_	3	obj	_	AlignBegin=81195|AlignEnd=81311|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=1|RX=[PRO]|TokenType=Root
+2	=ɲãh	_	DET	_	_	1	compound	_	AlignBegin=81311|AlignEnd=81426|Gloss==INDF|MGloss==INDF|MSeg==ɲãh|nWord=1|RX=[PRT]|TokenType=Clit
+3	peʃkeruri	peʃk	VERB	_	_	0	root	_	AlignBegin=81426|AlignEnd=81657|Gloss=take.off|MGloss=O3SG- take.off -S3PL -HAB -PST|MSeg=Ø-peʃk-er-u-ri|nWord=2|RX=[V]|TokenType=Root|wordform=Ø-peʃk-er-u-ri
+4	ki	ki	ADV	_	_	3	obl:tmod	_	AlignBegin=81657|AlignEnd=81888|Gloss=before|MGloss=before|MSeg=ki|nWord=3|RX=[ADV]|TokenType=Root
+5	=ri	_	ADP	_	_	4	case	_	AlignBegin=81888|AlignEnd=82119|Gloss==TEMP|MGloss==TEMP|MSeg==ri|nWord=4|RX=[POST]|TokenType=Clit
+6	=ma	_	PART	_	_	4	case	_	AlignBegin=82119|AlignEnd=82350|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=5|RX=[PRT]|TokenType=Clit
+7	,	_	PUNCT	_	_	4	punct	_	AlignBegin=82350|AlignEnd=82581|MSeg=,|nWord=6
+8	ãma	ãma	PART	_	_	4	discourse	_	AlignBegin=82581|AlignEnd=82812|Gloss=HES|MGloss=HES|MSeg=ãma|nWord=7|RX=[PRT]|TokenType=Root
+9	,	_	PUNCT	_	_	8	punct	_	AlignBegin=82812|AlignEnd=83043|MSeg=,|nWord=8
+10	ã	ã	NOUN	_	_	4	obl	_	AlignBegin=83043|AlignEnd=83274|Gloss=day|MGloss=day|MSeg=ã|nWord=9|RX=[N]|TokenType=Root
+11	=ri	_	ADP	_	_	10	case	_	AlignBegin=83274|AlignEnd=83505|Gloss==TEMP|MGloss==TEMP|MSeg==ri|nWord=10|RX=[POST]|TokenType=Clit
+12	=ma	_	PART	_	_	10	case	_	AlignBegin=83505|AlignEnd=83736|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=11|RX=[PRT]|TokenType=Clit
+13	.	_	PUNCT	_	_	3	punct	_	AlignBegin=83736|AlignEnd=83970|Gloss=.|MGloss=.|MSeg=.|nWord=12|TokenType=Root
+
+# sent_id = 100_15-15
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 84890, 90425
+# morphemic_text = ʃẽ , ʃẽ ʃert ʃa -par -tV -u -ri =ras , as pok ʃa -par -i =ras pa- ta- ka -ta =hã ã =ken =ro .
+# text = ʃẽ , ʃẽ ʃert ʃapartVuri =ras , as pok ʃapari =ras patakata =hã ã =ken =ro .
+# text_en = Because we were not many, a few of us lived here, our ancestors, like that.
+# text_phrase-gls-es = porque muchos no vivíamos porque algunos estaban los ancestros (hacedores), por eso
+# text_phrase-gls-pro = || ʃẽ́ˀ (0.5s) || ʃẽ́ ʃéɾt̚-- (0.2s) || ʃápáɾtʷɾìɾə̄sːː (0.1s) || āspōɡ ʃə̄pɾìɾə̄ pàtàˀ qātàhã̀ ã̀keɾõˀ (0.4s) ||
+# text_phrase-gls-it = ʃẽ́ (ʃéɾt) ʃápáɾtʷɾìɾə̄s āspōɡ ʃə̄pɾìɾə̄ pàtàˀ qātà(hã̀) ã̀keɾõˀ
+# text_phrase-gls-wg = a.lot a.lot HES be.there(exist):NEG:HAB:PST:INCL REAS one two be.there(exist):PST:INCL REAS make:AG:INCL FOC DEM.DIST =SIM PURP
+# text_phrase-gls-de = Laguna_014_NG
+1	ʃẽ	ʃẽ	NOUN	_	_	3	nmod	_	AlignBegin=84890|AlignEnd=85216|Gloss=a.lot|MGloss=a.lot|MSeg=ʃẽ|nWord=1|RX=[<NOT_SURE>]|TokenType=Root
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=85216|AlignEnd=85542|MSeg=,|nWord=2
+3	ʃẽ	ʃẽ	NOUN	_	_	4	reparandum	_	AlignBegin=85542|AlignEnd=85868|Gloss=a.lot|MGloss=a.lot|MSeg=ʃẽ|nWord=3|RX=[<NOT_SURE>]|TokenType=Root
+4	ʃert	ʃert	X	_	_	5	xcomp	_	AlignBegin=85868|AlignEnd=86194|MSeg=ʃert|nWord=4
+5	ʃapartVuri	tʃa	VERB	_	Clusivity=In	0	root	_	AlignBegin=86194|AlignEnd=86520|Gloss=be.there|MGloss=be.there -S1PL.INCL -NEG -HAB -PST|MSeg=ʃa-par-tV-u-ri|nWord=5|RX=[VI]|TokenType=Root|wordform=ʃa-par-tV-u-ri
+6	=ras	_	SCONJ	_	_	5	mark	_	AlignBegin=86520|AlignEnd=86846|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=6|RX=[PRT]|TokenType=Clit
+7	,	_	PUNCT	_	_	5	punct	_	AlignBegin=86846|AlignEnd=87172|MSeg=,|nWord=7
+8	as	as	NUM	_	_	10	nsubj	_	AlignBegin=87172|AlignEnd=87498|Gloss=one|MGloss=one|MSeg=as|nWord=8|RX=[N]|TokenType=Root
+9	pok	pok	NUM	_	_	8	compound	_	AlignBegin=87498|AlignEnd=87824|Gloss=two|MGloss=two|MSeg=pok|nWord=9|RX=[N]|TokenType=Root
+10	ʃapari	tʃa	VERB	_	Clusivity=In	5	advcl	_	AlignBegin=87824|AlignEnd=88150|Gloss=be.there|MGloss=be.there -S1PL.INCL -PST|MSeg=ʃa-par-i|nWord=10|RX=[VI]|TokenType=Root|wordform=ʃa-par-i
+11	=ras	_	SCONJ	_	_	10	mark	_	AlignBegin=88150|AlignEnd=88476|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=11|RX=[PRT]|TokenType=Clit
+12	patakata	ka	NOUN	_	Clusivity=In	10	obl	_	AlignBegin=88476|AlignEnd=88802|Gloss=-AG.NMLZ|MGloss=INCL- POSS1- make -AG.NMLZ|MSeg=pa-ta-ka-ta|nWord=12|RX=[VT]|TokenType=Root|wordform=pa-ta-ka-ta
+13	=hã	_	PART	_	_	12	advmod	_	AlignBegin=88802|AlignEnd=89128|Gloss==FOC|MGloss==FOC|MSeg==hã|nWord=13|RX=[PRT]|TokenType=Clit
+14	ã	ã	PRON	_	_	10	discourse	_	AlignBegin=89128|AlignEnd=89454|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=14|RX=[PRO]|TokenType=Root
+15	=ken	_	PART	_	_	14	case	_	AlignBegin=89454|AlignEnd=89780|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=15|RX=[PRT]|TokenType=Clit
+16	=ro	_	PART	_	_	14	case	_	AlignBegin=89780|AlignEnd=90106|Gloss==PURP|MGloss==PURP|MSeg==ro|nWord=16|RX=[PRT]|TokenType=Clit
+17	.	_	PUNCT	_	_	5	punct	_	AlignBegin=90106|AlignEnd=90425|Gloss=.|MGloss=.|MSeg=.|nWord=17|TokenType=Root
+
+# sent_id = 100_16-16
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 90845, 93900
+# morphemic_text = peʃwakwa must -ir -u -ri ĩ =yã =ma , pataq , pa- ta- bri =yã =hã .
+# text = peʃwakwa mustiruri ĩ =yã =ma , pataq , patabri =yã =hã .
+# text_en = There were a lot of animals here, on our lake side.
+# text_phrase-gls-es = Los animales llenaban aquí, en nuestra orilla.
+# text_phrase-gls-pro = || pèʃʷàkʷà mústìɾùɾī jã̀hmàˀ (0.3s) || pə̀tə̀q̚ (0.1s) || pta bɾĩ́jã́hã́ (0.9s) ||
+# text_phrase-gls-it = pèʃʷàkʷà mústìɾùɾī jã̀hmàˀ (pə̀tə̀q) pta bɾĩ́jã́hã́
+# text_phrase-gls-wg = animal fill.up:HAB:PST:3PL DEM.PROX:LOC_here TOP_VL HES edge:INCL LOC FOC
+# text_phrase-gls-de = Laguna_015_NG
+1	peʃwakwa	peʃwakwa	NOUN	_	_	2	nsubj	_	AlignBegin=90845|AlignEnd=91123|Gloss=animal|MGloss=animal|MSeg=peʃwakwa|nWord=1|RX=[N]|TokenType=Root
+2	mustiruri	must	VERB	_	_	0	root	_	AlignBegin=91123|AlignEnd=91401|Gloss=fill.up|MGloss=fill.up -S3PL -HAB -PST|MSeg=must-ir-u-ri|nWord=2|RX=[V]|TokenType=Root|wordform=must-ir-u-ri
+3	ĩ	ĩ	PRON	_	_	2	obl:lmod	_	AlignBegin=91401|AlignEnd=91540|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=3|RX=[PRO]|TokenType=Root
+4	=yã	_	ADP	_	_	3	case	_	AlignBegin=91540|AlignEnd=91679|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=3|RX=[POST]|TokenType=Clit
+5	=ma	_	PART	_	_	3	case	_	AlignBegin=91679|AlignEnd=91957|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit
+6	,	_	PUNCT	_	_	3	punct	_	AlignBegin=91957|AlignEnd=92235|MSeg=,|nWord=5
+7	pataq	pataq	X	_	_	2	obl:lmod	_	AlignBegin=92235|AlignEnd=92513|MSeg=pataq|nWord=6
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=92513|AlignEnd=92791|MSeg=,|nWord=7
+9	patabri	bri	NOUN	_	Clusivity=In	7	reparandum	_	AlignBegin=92791|AlignEnd=93069|Gloss=edge|MGloss=INCL- POSS1- edge|MSeg=pa-ta-bri|nWord=8|RX=[N]|TokenType=Root|wordform=pa-ta-bri
+10	=yã	_	ADP	_	_	7	case	_	AlignBegin=93069|AlignEnd=93347|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=9|RX=[POST]|TokenType=Clit
+11	=hã	_	PART	_	_	7	advmod	_	AlignBegin=93347|AlignEnd=93625|Gloss==FOC|MGloss==FOC|MSeg==hã|nWord=10|RX=[PRT]|TokenType=Clit
+12	.	_	PUNCT	_	_	2	punct	_	AlignBegin=93625|AlignEnd=93900|Gloss=.|MGloss=.|MSeg=.|nWord=11|TokenType=Root
+
+# sent_id = 100_17-17
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 94800, 99100
+# morphemic_text = ã =ken =ro , ĩkata =ma , peʃwakwa =ma ʃẽ ʃa -er -tV -wa ke .
+# text = ã =ken =ro , ĩkata =ma , peʃwakwa =ma ʃẽ ʃaertVwa ke .
+# text_en = As such, now, there are not that many animals anymore.
+# text_phrase-gls-es = Por eso, ahora, ya no hay muchos animales
+# text_phrase-gls-pro = || ã̀keɾóːʰ (0.8s) || ĩ̀ŋkə̀tātã́màʰ (0.4s) || peʃwakʷma ʃẽ́ˀ ʃēɾtʷɔ̃̄ kèʰ (0.8s) ||
+# text_phrase-gls-it = ã̀káɾóːʰ ĩ̀ŋkə̀tātã́màʰ peʃʷakʷma ʃẽ́ˀ ʃēɾtʷɔ̃̄ kèʰ
+# text_phrase-gls-wg = DEM.DIST =SIM PURP now TOP_TC animal TOP_SC a.lot be.there(exist):NEG:PFV:3PL already
+# text_phrase-gls-de = Laguna_016_NG
+1	ã	ã	PRON	_	_	11	discourse	_	AlignBegin=94800|AlignEnd=95131|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=ken	_	PART	_	_	1	case	_	AlignBegin=95131|AlignEnd=95462|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=2|RX=[PRT]|TokenType=Clit
+3	=ro	_	PART	_	_	1	case	_	AlignBegin=95462|AlignEnd=95793|Gloss==PURP|MGloss==PURP|MSeg==ro|nWord=3|RX=[PRT]|TokenType=Clit
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=95793|AlignEnd=96124|MSeg=,|nWord=4
+5	ĩkata	ĩkata	NOUN	_	_	11	obl:tmod	_	AlignBegin=96124|AlignEnd=96455|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=5|RX=[N]|TokenType=Root
+6	=ma	_	PART	_	_	5	case	_	AlignBegin=96455|AlignEnd=96786|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit
+7	,	_	PUNCT	_	_	5	punct	_	AlignBegin=96786|AlignEnd=97117|MSeg=,|nWord=7
+8	peʃwakwa	peʃwakwa	NOUN	_	_	11	nsubj	_	AlignBegin=97117|AlignEnd=97448|Gloss=animal|MGloss=animal|MSeg=peʃwakwa|nWord=8|RX=[N]|TokenType=Root
+9	=ma	_	PART	_	_	8	case	_	AlignBegin=97448|AlignEnd=97779|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=9|RX=[PRT]|TokenType=Clit
+10	ʃẽ	ʃẽ	NOUN	_	_	11	xcomp	_	AlignBegin=97779|AlignEnd=98110|Gloss=a.lot|MGloss=a.lot|MSeg=ʃẽ|nWord=10|RX=[<NOT_SURE>]|TokenType=Root
+11	ʃaertVwa	tʃa	VERB	_	_	0	root	_	AlignBegin=98110|AlignEnd=98441|Gloss=be.there|MGloss=be.there -S3PL -NEG -PFV|MSeg=ʃa-er-tV-wa|nWord=11|RX=[VI]|TokenType=Root|wordform=ʃa-er-tV-wa
+12	ke	ke	ADV	_	_	11	advmod	_	AlignBegin=98441|AlignEnd=98772|Gloss=already|MGloss=already|MSeg=ke|nWord=12|RX=[ADV]|TokenType=Root
+13	.	_	PUNCT	_	_	11	punct	_	AlignBegin=98772|AlignEnd=99100|Gloss=.|MGloss=.|MSeg=.|nWord=13|TokenType=Root
+
+# sent_id = 100_18-18
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 99920, 101120
+# morphemic_text = kãrah =pe =pa ʃa -ir -wa ke .
+# text = kãrah =pe =pa ʃairwa ke .
+# text_en = They only live far away anymore..
+# text_phrase-gls-es = viven solamente lejos ya entonces y ese
+# text_phrase-gls-pro = || kã̀ɾàh pé páʃēɾā kéˀ (1.3s) || ã̀ɣāʃʷ ĩ́kā tōː (1.2s) ||
+# text_phrase-gls-it = kã̀ɾàh (pé) páʃēɾā kéˀ ã̀ɣāʃʷ ĩ́kā tōː
+# text_phrase-gls-wg = afar only only be.there:PFV:3PL already
+# text_phrase-gls-de = Laguna_017_NG
+1	kãrah	kãrah	NOUN	_	_	4	obl:lmod	_	AlignBegin=99920|AlignEnd=100120|Gloss=afar|MGloss=afar|MSeg=kãrah|nWord=1|RX=[N]|TokenType=Root
+2	=pe	_	PART	_	_	1	advmod	_	AlignBegin=100120|AlignEnd=100320|Gloss==only|MGloss==only|MSeg==pe|nWord=2|RX=[PRT]|TokenType=Clit
+3	=pa	_	PART	_	_	2	advmod	_	AlignBegin=100320|AlignEnd=100520|Gloss==only|MGloss==only|MSeg==pa|nWord=3|RX=[PRT]|TokenType=Clit
+4	ʃairwa	tʃa	VERB	_	_	0	root	_	AlignBegin=100520|AlignEnd=100720|Gloss=be.there|MGloss=be.there -S3PL -PFV|MSeg=ʃa-ir-wa|nWord=4|RX=[VI]|TokenType=Root|wordform=ʃa-ir-wa
+5	ke	ke	ADV	_	_	4	advmod	_	AlignBegin=100720|AlignEnd=100920|Gloss=already|MGloss=already|MSeg=ke|nWord=5|RX=[ADV]|TokenType=Root
+6	.	_	PUNCT	_	_	4	punct	_	AlignBegin=100920|AlignEnd=101120|Gloss=.|MGloss=.|MSeg=.|nWord=6|TokenType=Root
+
+# sent_id = 100_19-19
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 102460, 111020
+# morphemic_text = akaʃkwa ĩka to , ĩkata =ma to ĩ pak tia tVk Ø- -par -wa =yã =ma , anũwa , ʃa -par -i ĩ pak tia =yã =hi .
+# text = akaʃkwa ĩka to , ĩkata =ma to ĩ pak tia tVkparwa =yã =ma , anũwa , ʃapari ĩ pak tia =yã =hi .
+# text_en = Then and, um, now, um, where we call it La Laguna, it is in this lake where we live, the last ones.
+# text_phrase-gls-es = Ahora, este en la Laguna que decimos vivimos los últimos
+# text_phrase-gls-pro = || ĩ̀kə̀tã́màː tò ĩ̀ː pāqtjə́ tákàpàɾjɛ̃̄mɛ̀ʰ (1.0s) || ã̀núɣʷád̚ (0.2s) || ʃāpəɾĩ̄ʰ (0.4s) || ĩ̀ː (0.1s) || páɣtjāj̃áhĩ́ʰ (0.7s) ||
+# text_phrase-gls-it = ĩ̀kə̀tã́màː tò ĩ̀ː pāqtjə́ tákàpàɾjɛ̃̄mɛ̀ʰ ã̀núɣʷá(d) ʃāpɾĩ̄ʰ ĩ̀ː
+# text_phrase-gls-wg = then and DEM.MED_HES now TOP_TV DEM.MED_HES DEM.PROX lake+liquid say:PFV:INCL>3 LOC TOP_LC last be.there:PST:INCL DEM.PROX lake+liquid LOC COP:PFV:3
+# text_phrase-gls-de = Laguna_018_NG
+1	akaʃkwa	akaʃkwa	PART	_	_	17	discourse	_	AlignBegin=102460|AlignEnd=102868|Gloss=then|MGloss=then|MSeg=akaʃkwa|nWord=1|RX=[PRT]|TokenType=Root
+2	ĩka	ĩka	PART	_	_	1	advmod	_	AlignBegin=102868|AlignEnd=103276|Gloss=and|MGloss=and|MSeg=ĩka|nWord=2|RX=[COORDCONN]|TokenType=Root
+3	to	to	PRON	_	_	2	discourse	_	AlignBegin=103276|AlignEnd=103684|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=3|RX=[PRO]|TokenType=Root
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=103684|AlignEnd=104092|MSeg=,|nWord=4
+5	ĩkata	ĩkata	NOUN	_	_	17	obl:tmod	_	AlignBegin=104092|AlignEnd=104500|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=5|RX=[N]|TokenType=Root
+6	=ma	_	PART	_	_	5	case	_	AlignBegin=104500|AlignEnd=104908|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit
+7	to	to	PRON	_	_	5	discourse	_	AlignBegin=104908|AlignEnd=105316|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=7|RX=[PRO]|TokenType=Root
+8	ĩ	ĩ	PRON	_	_	9	det	_	AlignBegin=105316|AlignEnd=105724|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=8|RX=[PRO]|TokenType=Root
+9	pak	pak	NOUN	_	_	11	xcomp	_	AlignBegin=105724|AlignEnd=105928|Gloss=lake|MGloss=lake|MSeg=pak|nWord=9|RX=[N]|TokenType=Root
+10	tia	tia	NOUN	_	_	9	nmod	_	AlignBegin=105928|AlignEnd=106132|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=9|RX=[N]|TokenType=Root
+11	tVkparwa	tVØ-	VERB	_	Clusivity=In	17	obl:lmod	_	AlignBegin=106132|AlignEnd=106540|Gloss=say|MGloss=say O3SG- -S1PL.INCL -PFV|MSeg=tVk-Ø-par-wa|nWord=10|RX=[VT]|TokenType=Root|wordform=tVkØ--par-wa
+12	=yã	_	SCONJ	_	_	11	mark	_	AlignBegin=106540|AlignEnd=106948|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=11|RX=[POST]|TokenType=Clit
+13	=ma	_	PART	_	_	11	mark	_	AlignBegin=106948|AlignEnd=107356|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=12|RX=[PRT]|TokenType=Clit
+14	,	_	PUNCT	_	_	11	punct	_	AlignBegin=107356|AlignEnd=107764|MSeg=,|nWord=13
+15	anũwa	anũwa	NOUN	_	_	17	nsubj	_	AlignBegin=107764|AlignEnd=108172|Gloss=last|MGloss=last|MSeg=anũwa|nWord=14|RX=[N]|TokenType=Root
+16	,	_	PUNCT	_	_	15	punct	_	AlignBegin=108172|AlignEnd=108580|MSeg=,|nWord=15
+17	ʃapari	tʃa	VERB	_	Clusivity=In	19	dep	_	AlignBegin=108580|AlignEnd=108988|Gloss=be.there|MGloss=be.there -S1PL.INCL -PST|MSeg=ʃa-par-i|nWord=16|RX=[VI]|TokenType=Root|wordform=ʃa-par-i
+18	ĩ	ĩ	PRON	_	_	19	det	_	AlignBegin=108988|AlignEnd=109396|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=17|RX=[PRO]|TokenType=Root
+19	pak	pak	NOUN	_	_	0	root	_	AlignBegin=109396|AlignEnd=109600|Gloss=lake|MGloss=lake|MSeg=pak|nWord=18|RX=[N]|TokenType=Root
+20	tia	tia	NOUN	_	_	19	nmod	_	AlignBegin=109600|AlignEnd=109804|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=18|RX=[N]|TokenType=Root
+21	=yã	_	ADP	_	_	19	case	_	AlignBegin=109804|AlignEnd=110212|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=19|RX=[POST]|TokenType=Clit
+22	=hi	_	AUX	_	_	19	cop	_	AlignBegin=110212|AlignEnd=110620|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=20|RX=[COP]|TokenType=Clit
+23	.	_	PUNCT	_	_	19	punct	_	AlignBegin=110620|AlignEnd=111020|Gloss=.|MGloss=.|MSeg=.|nWord=21|TokenType=Root
+
+# sent_id = 100_20-20
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 111680, 113060
+# morphemic_text = ʃã -ta -peh -bar -wa ĩkata =ma to .
+# text = ʃãtapehbarwa ĩkata =ma to .
+# text_en = We still live there now, hm.
+# text_phrase-gls-es = Es en la Laguna, aún todavía vivimos ahora, en la Laguna
+# text_phrase-gls-pro = || ʃátə́pébɾ ĩ̀ŋkə̀tāmā tōˀ (1.5s) || ĩ̀tòːĩ̀ː páɣtjājã́màˀ (1.4s) ||
+# text_phrase-gls-it = páɣtjāj̃áhĩ́ʰ ʃátə́pébɾ ĩ̀ŋkə̀tāmā (tōˀ ĩ̀)tòːĩ̀ː páɣtjājã́màˀ
+# text_phrase-gls-wg = be.there:DUR:still:PFV:EXCL>3 now TOP_CT DEM.MED_HES
+# text_phrase-gls-de = Laguna_019_NG
+1	ʃãtapehbarwa	tʃa	VERB	_	Clusivity=Ex	0	root	_	AlignBegin=111680|AlignEnd=111956|Gloss=be.there|MGloss=be.there -DUR still -S1PL.EXCL -PFV|MSeg=ʃã-ta-peh-bar-wa|nWord=1|RX=[VI]|TokenType=Root|wordform=ʃã-ta-peh-bar-wa
+2	ĩkata	ĩkata	NOUN	_	_	1	obl:tmod	_	AlignBegin=111956|AlignEnd=112232|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=2|RX=[N]|TokenType=Root
+3	=ma	_	PART	_	_	2	case	_	AlignBegin=112232|AlignEnd=112508|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=3|RX=[PRT]|TokenType=Clit
+4	to	to	PRON	_	_	1	discourse	_	AlignBegin=112508|AlignEnd=112784|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=4|RX=[PRO]|TokenType=Root
+5	.	_	PUNCT	_	_	1	punct	_	AlignBegin=112784|AlignEnd=113060|Gloss=.|MGloss=.|MSeg=.|nWord=5|TokenType=Root
+
+# sent_id = 100_21-21
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 114575, 119585
+# morphemic_text = ĩ to ĩ pak tia =yã =ma , to =ken pa- ta- ʃa -a pa- ta- ʃa -a teʃk -er -wa .
+# text = ĩ to ĩ pak tia =yã =ma , to =ken pataʃaa pataʃaa teʃkerwa .
+# text_en = The, um, in the lake, our vill- our village, our family keeps going.
+# text_phrase-gls-es = Así en nuestra comunidad andan
+# text_phrase-gls-pro = || tòkɛ̄ pə̄tə̄ ʃɛ̃́ː pə̀tə̀ ʃã̀nàʰ téʃkɾàʰ (1.4s) || pə̀tə̀ ʃɛ̃̄ɾə̀ː tuˀ (0.3s) ||
+# text_phrase-gls-it = tòkɛ̄ (pə̄tə̄ ʃɛ̃́ː) pə̀tə̀ ʃã̀nàʰ téʃkɾàʰ
+# text_phrase-gls-wg = DEM.PROX DEM.MED_HES DEM.PROX lake+liquid LOC TOP_LV DEM.MED =SIM be.there:NMLZ:INCL be.there:NMLZ:INCL get.away:PFV:3PL
+# text_phrase-gls-de = Laguna_020_NG
+1	ĩ	ĩ	PRON	_	_	4	det	_	AlignBegin=114575|AlignEnd=114960|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=1|RX=[PRO]|TokenType=Root
+2	to	to	PRON	_	_	4	discourse	_	AlignBegin=114960|AlignEnd=115345|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=2|RX=[PRO]|TokenType=Root
+3	ĩ	ĩ	PRON	_	_	4	reparandum	_	AlignBegin=115345|AlignEnd=115730|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=3|RX=[PRO]|TokenType=Root
+4	pak	pak	NOUN	_	_	13	obl:lmod	_	AlignBegin=115730|AlignEnd=115922|Gloss=lake|MGloss=lake|MSeg=pak|nWord=4|RX=[N]|TokenType=Root
+5	tia	tia	NOUN	_	_	4	nmod	_	AlignBegin=115922|AlignEnd=116115|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=4|RX=[N]|TokenType=Root
+6	=yã	_	ADP	_	_	4	case	_	AlignBegin=116115|AlignEnd=116500|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=5|RX=[POST]|TokenType=Clit
+7	=ma	_	PART	_	_	4	case	_	AlignBegin=116500|AlignEnd=116885|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit
+8	,	_	PUNCT	_	_	4	punct	_	AlignBegin=116885|AlignEnd=117270|MSeg=,|nWord=7
+9	to	to	PRON	_	_	13	obl:lmod	_	AlignBegin=117270|AlignEnd=117655|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=8|RX=[PRO]|TokenType=Root
+10	=ken	_	PART	_	_	9	case	_	AlignBegin=117655|AlignEnd=118040|Gloss==SIM|MGloss==SIM|MSeg==ken|nWord=9|RX=[PRT]|TokenType=Clit
+11	pataʃaa	tʃa	NOUN	_	Clusivity=In	13	nsubj	_	AlignBegin=118040|AlignEnd=118425|Gloss=-NMLZ|MGloss=INCL- POSS1- be.there -NMLZ|MSeg=pa-ta-ʃa-a|nWord=10|RX=[VI]|TokenType=Root|wordform=pa-ta-ʃa-a
+12	pataʃaa	tʃa	NOUN	_	Clusivity=In	11	reparandum	_	AlignBegin=118425|AlignEnd=118810|Gloss=-NMLZ|MGloss=INCL- POSS1- be.there -NMLZ|MSeg=pa-ta-ʃa-a|nWord=11|RX=[VI]|TokenType=Root|wordform=pa-ta-ʃa-a
+13	teʃkerwa	teʃk	VERB	_	_	0	root	_	AlignBegin=118810|AlignEnd=119195|Gloss=get.away|MGloss=get.away -S3PL -PFV|MSeg=teʃk-er-wa|nWord=12|RX=[VI]|TokenType=Root|wordform=teʃk-er-wa
+14	.	_	PUNCT	_	_	13	punct	_	AlignBegin=119195|AlignEnd=119585|Gloss=.|MGloss=.|MSeg=.|nWord=13|TokenType=Root
+
+# sent_id = 100_22-22
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 120960, 123635
+# morphemic_text = a kuk akwa tekx tʃax , tex , tids , pa- ta- ʃã -er -wa tuʔ .
+# text = a kuk akwa tekx tʃax , tex , tids , pataʃãerwa tuʔ .
+# text_en = Um, other places, c-, a-, c-, they visit us, hm.
+# text_phrase-gls-es = de otros lugares vinieron nos ven
+# text_phrase-gls-pro = || àʰkùkʷākʷāʰtékʰʲ t͡ʃàʰ || tē-- || tíd͡ʒ-- || pə̀tə̀ ʃɛ̃̄ɾə̀ː tuˀ (0.3s) ||
+# text_phrase-gls-it = (àʰ)kùkʷākʷāʰtékʰʲ pə̀tə̀ ʃɛ̃̄ɾə̀ː ‎
+# text_phrase-gls-wg = HES earth other HES HES HES HES see:PFV:3PL>INCL HES
+# text_phrase-gls-de = Laguna_020b_NG
+1	a	a	INTJ	_	_	2	discourse	_	AlignBegin=120960|AlignEnd=121166|MSeg=a|nWord=1
+2	kuk	kuk	NOUN	_	_	11	obl:mod	_	AlignBegin=121166|AlignEnd=121372|Gloss=earth|MGloss=earth|MSeg=kuk|nWord=2|RX=[N]|TokenType=Root
+3	akwa	akwa	NOUN	_	_	2	nmod	_	AlignBegin=121372|AlignEnd=121578|Gloss=other|MGloss=other|MSeg=akwa|nWord=3|RX=[N]|TokenType=Root
+4	tekx	tekx	X	_	_	0	root	_	AlignBegin=121578|AlignEnd=121784|MSeg=tekx|nWord=4
+5	tʃax	tʃax	X	_	_	4	nmod	_	AlignBegin=121784|AlignEnd=121990|MSeg=tʃax|nWord=5
+6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=121990|AlignEnd=122196|MSeg=,|nWord=6
+7	tex	tex	X	_	_	4	reparandum	_	AlignBegin=122196|AlignEnd=122402|MSeg=tex|nWord=7
+8	,	_	PUNCT	_	_	4	punct	_	AlignBegin=122402|AlignEnd=122608|MSeg=,|nWord=8
+9	tids	tids	X	_	_	4	reparandum	_	AlignBegin=122608|AlignEnd=122814|MSeg=tids|nWord=9
+10	,	_	PUNCT	_	_	4	punct	_	AlignBegin=122814|AlignEnd=123020|MSeg=,|nWord=10
+11	pataʃãerwa	ʃã	VERB	_	Clusivity=In	4	reparandum	_	AlignBegin=123020|AlignEnd=123226|Gloss=see|MGloss=INCL- O1- see -S3PL -PFV|MSeg=pa-ta-ʃã-er-wa|nWord=11|RX=[VT]|TokenType=Root|wordform=pa-ta-ʃã-er-wa
+12	tuʔ	tuʔ	PART	_	_	11	discourse	_	AlignBegin=123226|AlignEnd=123432|MSeg=tuʔ|nWord=12
+13	.	_	PUNCT	_	_	4	punct	_	AlignBegin=123432|AlignEnd=123635|Gloss=.|MGloss=.|MSeg=.|nWord=13|TokenType=Root
+
+# sent_id = 100_23-23
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 123940, 126060
+# morphemic_text = orma awah , Ø- atʃah -bar -i , krih pok .
+# text = orma awah , atʃahbari , krih pok .
+# text_en = The fish too, we put it in, twice.
+# text_phrase-gls-es = Esos peces también echamos en dos ocasiones
+# text_phrase-gls-pro = || ōɾmàβʷāʰ (0.3s) || àʃàhbɾíˀ (0.1s) || kɾìh póɡ̚ (0.9s) ||
+# text_phrase-gls-it = tòˀ ōɾmàβʷāʰ àʃàhbɾíˀ kɾìh póɡ
+# text_phrase-gls-wg = fish also put.in:PST:EXCL>3 everything two
+# text_phrase-gls-de = Laguna_021_NG
+1	orma	orma	NOUN	_	_	4	obj	_	AlignBegin=123940|AlignEnd=124205|Gloss=fish|MGloss=fish|MSeg=orma|nWord=1|RX=[N]|TokenType=Root
+2	awah	awah	PART	_	_	1	advmod	_	AlignBegin=124205|AlignEnd=124470|Gloss=also|MGloss=also|MSeg=awah|nWord=2|RX=[ADV]|TokenType=Root
+3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=124470|AlignEnd=124735|MSeg=,|nWord=3
+4	atʃahbari	atʃah	VERB	_	Clusivity=Ex	0	root	_	AlignBegin=124735|AlignEnd=125000|Gloss=put.in|MGloss=O3SG- put.in -S1PL.EXCL -PST|MSeg=Ø-atʃah-bar-i|nWord=4|RX=[VT]|TokenType=Root|wordform=Ø-atʃah-bar-i
+5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=125000|AlignEnd=125265|MSeg=,|nWord=5
+6	krih	krih	NOUN	_	_	4	obl:mod	_	AlignBegin=125265|AlignEnd=125530|Gloss=everything|MGloss=everything|MSeg=krih|nWord=6|RX=[N]|TokenType=Root
+7	pok	pok	NUM	_	_	6	compound	_	AlignBegin=125530|AlignEnd=125795|Gloss=two|MGloss=two|MSeg=pok|nWord=7|RX=[N]|TokenType=Root
+8	.	_	PUNCT	_	_	4	punct	_	AlignBegin=125795|AlignEnd=126060|Gloss=.|MGloss=.|MSeg=.|nWord=8|TokenType=Root
+
+# sent_id = 100_24-24
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 126945, 129105
+# morphemic_text = krih pok Ø- atʃah -bar -wa , ka- kas- pas -bar -i .
+# text = krih pok atʃahbarwa , kakaspasbari .
+# text_en = Putting it in twice, we took it out.
+# text_phrase-gls-es = Por dos ocasiones echamos Los sacamos
+# text_phrase-gls-pro = || kɾìh póɡ āʃábɾāˀ (0.3s) || nqàˀqāspàsbɾīˀ (0.3s) ||
+# text_phrase-gls-it = kɾìh póɡ āʃábɾāˀ qāspàsbɾīˀ
+# text_phrase-gls-wg = everything two put.in:PFV:EXCL>3 take.out:APPL:PST:EXCL>3PL
+# text_phrase-gls-de = Laguna_021b_NG
+1	krih	krih	NOUN	_	_	3	obl:mod	_	AlignBegin=126945|AlignEnd=127305|Gloss=everything|MGloss=everything|MSeg=krih|nWord=1|RX=[N]|TokenType=Root
+2	pok	pok	NUM	_	_	1	compound	_	AlignBegin=127305|AlignEnd=127665|Gloss=two|MGloss=two|MSeg=pok|nWord=2|RX=[N]|TokenType=Root
+3	atʃahbarwa	atʃah	VERB	_	Clusivity=Ex	5	advcl	_	AlignBegin=127665|AlignEnd=128025|Gloss=put.in|MGloss=O3SG- put.in -S1PL.EXCL -PFV|MSeg=Ø-atʃah-bar-wa|nWord=3|RX=[VT]|TokenType=Root|wordform=Ø-atʃah-bar-wa
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=128025|AlignEnd=128385|MSeg=,|nWord=4
+5	kakaspasbari	pas	VERB	_	Clusivity=Ex|Voice=Appl	0	root	_	AlignBegin=128385|AlignEnd=128745|Gloss=take.out|MGloss=O3PL- APPL.R- take.out -S1PL.EXCL -PST|MSeg=ka-kas-pas-bar-i|nWord=5|RX=[VT]|TokenType=Root|wordform=ka-kas-pas-bar-i
+6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=128745|AlignEnd=129105|Gloss=.|MGloss=.|MSeg=.|nWord=6|TokenType=Root
+
+# sent_id = 100_25-25
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 129365, 135490
+# morphemic_text = ka- kas- pas -bar -wa , apahni =ma , sira Ø- ka -er -wa .
+# text = kakaspasbarwa , apahni =ma , sira kaerwa .
+# text_en = Taking it out in the morning, they prepared food.
+# text_phrase-gls-es = Los sacamos en la mañana hicieron comida
+# text_phrase-gls-pro = || ɡã̄qə̀spã̄bɾə̃̀ː (1.5s) || àpànīmà (1.6s) || sīɾà kíɾàˀ s-- (0.1s) ||
+# text_phrase-gls-it = ɡã̄qə̀spã̄bɾə̃̀ː àpàhnīmà sīɾà kíɾàˀ s
+# text_phrase-gls-wg = take.out:APPL:PFV:EXCL>3PL morning TOP_VT food make:PFV:3PL>3
+# text_phrase-gls-de = Laguna_022_NG
+1	kakaspasbarwa	pas	VERB	_	Clusivity=Ex|Voice=Appl	7	advcl	_	AlignBegin=129365|AlignEnd=130131|Gloss=take.out|MGloss=O3PL- APPL.R- take.out -S1PL.EXCL -PFV|MSeg=ka-kas-pas-bar-wa|nWord=1|RX=[VT]|TokenType=Root|wordform=ka-kas-pas-bar-wa
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=130131|AlignEnd=130897|MSeg=,|nWord=2
+3	apahni	apahni	NOUN	_	_	1	obl:tmod	_	AlignBegin=130897|AlignEnd=131663|Gloss=morning|MGloss=morning|MSeg=apahni|nWord=3|RX=[N]|TokenType=Root
+4	=ma	_	PART	_	_	3	case	_	AlignBegin=131663|AlignEnd=132429|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit
+5	,	_	PUNCT	_	_	3	punct	_	AlignBegin=132429|AlignEnd=133195|MSeg=,|nWord=5
+6	sira	sira	NOUN	_	_	7	obj	_	AlignBegin=133195|AlignEnd=133961|Gloss=food|MGloss=food|MSeg=sira|nWord=6|RX=[N]|TokenType=Root
+7	kaerwa	ka	VERB	_	_	0	root	_	AlignBegin=133961|AlignEnd=134727|Gloss=make|MGloss=O3SG- make -S3PL -PFV|MSeg=Ø-ka-er-wa|nWord=7|RX=[VT]|TokenType=Root|wordform=Ø-ka-er-wa
+8	.	_	PUNCT	_	_	7	punct	_	AlignBegin=134727|AlignEnd=135490|Gloss=.|MGloss=.|MSeg=.|nWord=8|TokenType=Root
+
+# sent_id = 100_26-26
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 135555, 138368
+# morphemic_text = ka- ã -bar -u -ri =pe apahni =ma pa- ta , pa- ta- oryah Ø- ka -Ø -wa =ras .
+# text = kaãbaruri =pe apahni =ma pata , pataoryah kawa =ras .
+# text_en = We only ate it in the morning, because we practice our... our culture.
+# text_phrase-gls-es = los comimos Por eso, lo que decimos nuestra cultura ahora
+# text_phrase-gls-pro = || kã́ˀã́ˀbɾɨ̀ɾɨ́ pə̀nʲàhpə̀ɾním pə̀tə̀ (0.1s) || pə̀tà wòɾjà kə́ɾāsː (0.5s) ||
+# text_phrase-gls-it = kã́ˀã́ˀbɾɨ̀ɾɨ́ (pə̀)nʲàhpə̀ɾním (pə̀tə̀) pə̀tà òɾjàh(kə́ɾās)
+# text_phrase-gls-wg = eat:HAB:PST:EXCL>3PL only morning TOP_VT INCL culture:INCL make:PFV:3>3 REAS
+# text_phrase-gls-de = Laguna_023_NG
+1	kaãbaruri	ã	VERB	_	Clusivity=Ex	0	root	_	AlignBegin=135555|AlignEnd=135836|Gloss=eat|MGloss=O3PL- eat -S1PL.EXCL -HAB -PST|MSeg=ka-ã-bar-u-ri|nWord=1|RX=[VT]|TokenType=Root|wordform=ka-ã-bar-u-ri
+2	=pe	_	PART	_	_	1	advmod	_	AlignBegin=135836|AlignEnd=136117|Gloss==only|MGloss==only|MSeg==pe|nWord=2|RX=[PRT]|TokenType=Clit
+3	apahni	apahni	NOUN	_	_	1	obl:tmod	_	AlignBegin=136117|AlignEnd=136398|Gloss=morning|MGloss=morning|MSeg=apahni|nWord=3|RX=[N]|TokenType=Root
+4	=ma	_	PART	_	_	3	case	_	AlignBegin=136398|AlignEnd=136679|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit
+5	pata	ta	PRON	_	Clusivity=In	8	obj	_	AlignBegin=136679|AlignEnd=136960|Gloss=POSS1|MGloss=INCL- POSS1|MSeg=pa-ta|nWord=5|RX=[PRO]|TokenType=Root|wordform=pa-ta
+6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=136960|AlignEnd=137241|MSeg=,|nWord=6
+7	pataoryah	oryah	NOUN	_	Clusivity=In	5	reparandum	_	AlignBegin=137241|AlignEnd=137522|Gloss=culture|MGloss=INCL- POSS1- culture|MSeg=pa-ta-oryah|nWord=7|RX=[N]|TokenType=Root|wordform=pa-ta-oryah
+8	kawa	ka	VERB	_	_	1	advcl	_	AlignBegin=137522|AlignEnd=137803|Gloss=make|MGloss=O3SG- make -S3SG -PFV|MSeg=Ø-ka-Ø-wa|nWord=8|RX=[VT]|TokenType=Root|wordform=Ø-ka-Ø-wa
+9	=ras	_	SCONJ	_	_	8	mark	_	AlignBegin=137803|AlignEnd=138084|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=9|RX=[PRT]|TokenType=Clit
+10	.	_	PUNCT	_	_	1	punct	_	AlignBegin=138084|AlignEnd=138368|Gloss=.|MGloss=.|MSeg=.|nWord=10|TokenType=Root
+
+# sent_id = 100_27-27
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 138880, 144160
+# morphemic_text = ã =kan =ra ĩkata =ma ĩka to , ĩka , ĩka to pak tia =ma a- ra -n -Ø -wa =ras .
+# text = ã =kan =ra ĩkata =ma ĩka to , ĩka , ĩka to pak tia =ma aranwa =ras .
+# text_en = That is why now, um, um, [because] the lake gets dry.
+# text_phrase-gls-es = y ese Y como esa laguna se seca
+# text_phrase-gls-pro = || àkāɾ ĩ̄ŋkə̄tām ĩ́kə̀ tòˀ (1.6s) || ĩ̀kə̀ˀ-- || ĩ̀kə̀ tòː pɔ́qtjə̀m ə̃̀ːɾã́nə̃̄ɾã́s (0.2s) ||
+# text_phrase-gls-it = àkāɾ ĩ̄ŋkə̄tām ĩ́kə̀ tòˀ (ĩ̀kə̀ˀ) ĩ̀kə̀ tòː pɔ́qtjə̀m ə̃̀ːɾã́nə̃̄ɾã́s
+# text_phrase-gls-wg = DEM.DIST =SIM =PURP now =TOP_TV and DEM.MED_HES and and DEM.MED lake+liquid =TOP_SV dry:REFL:DUR:PFV:3 REAS
+# text_phrase-gls-de = Laguna_024_NG
+1	ã	ã	PRON	_	_	16	discourse	_	AlignBegin=138880|AlignEnd=139191|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan	_	PART	_	_	1	case	_	AlignBegin=139191|AlignEnd=139502|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
+3	=ra	_	PART	_	_	1	case	_	AlignBegin=139502|AlignEnd=139813|Gloss==PURP|MGloss==PURP|MSeg==ra|nWord=3|RX=[PRT]|TokenType=Clit
+4	ĩkata	ĩkata	NOUN	_	_	16	obl:tmod	_	AlignBegin=139813|AlignEnd=140124|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=4|RX=[N]|TokenType=Root
+5	=ma	_	PART	_	_	4	case	_	AlignBegin=140124|AlignEnd=140435|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=5|RX=[PRT]|TokenType=Clit
+6	ĩka	ĩka	PART	_	_	13	discourse	_	AlignBegin=140435|AlignEnd=140746|Gloss=and|MGloss=and|MSeg=ĩka|nWord=6|RX=[COORDCONN]|TokenType=Root
+7	to	to	PRON	_	_	6	discourse	_	AlignBegin=140746|AlignEnd=141057|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=7|RX=[PRO]|TokenType=Root
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=141057|AlignEnd=141368|MSeg=,|nWord=8
+9	ĩka	ĩka	PART	_	_	6	reparandum	_	AlignBegin=141368|AlignEnd=141679|Gloss=and|MGloss=and|MSeg=ĩka|nWord=9|RX=[COORDCONN]|TokenType=Root
+10	,	_	PUNCT	_	_	6	punct	_	AlignBegin=141679|AlignEnd=141990|MSeg=,|nWord=10
+11	ĩka	ĩka	PART	_	_	6	reparandum	_	AlignBegin=141990|AlignEnd=142301|Gloss=and|MGloss=and|MSeg=ĩka|nWord=11|RX=[COORDCONN]|TokenType=Root
+12	to	to	PRON	_	_	13	det	_	AlignBegin=142301|AlignEnd=142612|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=12|RX=[PRO]|TokenType=Root
+13	pak	pak	NOUN	_	_	16	nsubj	_	AlignBegin=142612|AlignEnd=142768|Gloss=lake|MGloss=lake|MSeg=pak|nWord=13|RX=[N]|TokenType=Root
+14	tia	tia	NOUN	_	_	13	nmod	_	AlignBegin=142768|AlignEnd=142923|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=13|RX=[N]|TokenType=Root
+15	=ma	_	PART	_	_	13	case	_	AlignBegin=142923|AlignEnd=143234|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=14|RX=[PRT]|TokenType=Clit
+16	aranwa	ra	VERB	_	Voice=Mid	0	root	_	AlignBegin=143234|AlignEnd=143545|Gloss=dry|MGloss=REFL- dry -DUR -S3SG -PFV|MSeg=a-ra-n-Ø-wa|nWord=15|RX=[VT]|TokenType=Root|wordform=a-ra-n-Ø-wa
+17	=ras	_	SCONJ	_	_	16	mark	_	AlignBegin=143545|AlignEnd=143856|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=16|RX=[PRT]|TokenType=Clit
+18	.	_	PUNCT	_	_	16	punct	_	AlignBegin=143856|AlignEnd=144160|Gloss=.|MGloss=.|MSeg=.|nWord=17|TokenType=Root
+
+# sent_id = 100_28-28
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 144395, 147570
+# morphemic_text = ã =kan =ra ĩkita pyem ũ- ta- ka- ʃa -i -tV -wa , a- ra -ʃe -Ø -wa =ras .
+# text = ã =kan =ra ĩkita pyem ũtakaʃaitVwa , araʃewa =ras .
+# text_en = That is why we don’t have it now, because everything gets dry.
+# text_phrase-gls-es = Por eso ahora no tenemos
+# text_phrase-gls-pro = || ã̀kĩ́ɾĩ́k ĩ̄ŋkītá pjémʲ ỹ́ntāqàʃítʷə́d̚-- ||=màɾáʃéwɾās (0.6s) ||
+# text_phrase-gls-it = ã̀kʲɾĩ́k ĩ̄ŋkītá (pjémʲ) ỹ́ntāqàʃítʷə́ˀ (m)àɾáʃéwɾās
+# text_phrase-gls-wg = DEM.DIST =SIM =PURP now HES be.there(have):APPL:NEG:PFV:3>EXCL dry:REFL:TOT:PFV:3 REAS
+# text_phrase-gls-de = Laguna_024b_NG
+1	ã	ã	PRON	_	_	6	discourse	_	AlignBegin=144395|AlignEnd=144713|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan	_	PART	_	_	1	case	_	AlignBegin=144713|AlignEnd=145031|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
+3	=ra	_	PART	_	_	1	case	_	AlignBegin=145031|AlignEnd=145349|Gloss==PURP|MGloss==PURP|MSeg==ra|nWord=3|RX=[PRT]|TokenType=Clit
+4	ĩkita	ĩkita	NOUN	_	_	6	obl:tmod	_	AlignBegin=145349|AlignEnd=145667|Gloss=now|MGloss=now|MSeg=ĩkita|nWord=4|RX=[N]|TokenType=Root
+5	pyem	pyem	X	_	_	4	dep	_	AlignBegin=145667|AlignEnd=145985|MSeg=pyem|nWord=5
+6	ũtakaʃaitVwa	tʃa	VERB	_	Clusivity=Ex|Voice=Appl	0	root	_	AlignBegin=145985|AlignEnd=146303|Gloss=be.there|MGloss=EXCL- O1- APPL.R- be.there -S3SG -NEG -PFV|MSeg=ũ-ta-ka-ʃa-i-tV-wa|nWord=6|RX=[VI]|TokenType=Root|wordform=ũ-ta-ka-ʃa-i-tV-wa
+7	,	_	PUNCT	_	_	6	punct	_	AlignBegin=146303|AlignEnd=146621|MSeg=,|nWord=7
+8	araʃewa	ra	VERB	_	Voice=Mid	6	advcl	_	AlignBegin=146621|AlignEnd=146939|Gloss=dry|MGloss=REFL- dry -TOT -S3SG -PFV|MSeg=a-ra-ʃe-Ø-wa|nWord=8|RX=[VT]|TokenType=Root|wordform=a-ra-ʃe-Ø-wa
+9	=ras	_	SCONJ	_	_	8	mark	_	AlignBegin=146939|AlignEnd=147257|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=9|RX=[PRT]|TokenType=Clit
+10	.	_	PUNCT	_	_	6	punct	_	AlignBegin=147257|AlignEnd=147570|Gloss=.|MGloss=.|MSeg=.|nWord=10|TokenType=Root
+
+# sent_id = 100_29-29
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 148215, 153620
+# morphemic_text = ĩkita =ma ika to , a , ao -wa tis -a , ao -wa , ta ʃẽ pa- ta- ka- ʃa -i -tV -wa =ras .
+# text = ĩkita =ma ika to , a , aowa tisa , aowa , ta ʃẽ patakaʃaitVwa =ras .
+# text_en = Because everything gets dry, now and, money, a bit of money, we don't have much money. / Now, um, money, a bit of money, [because] we don't have much money,
+# text_phrase-gls-es = como todo se seca Como ahora no tenemos mucho dinero
+# text_phrase-gls-pro = || kə̀tã̄m ə̃̄ʲkà tōˀ (1.0s) || àːː || ōːβātīsāˀ-- || ōːβāˀ-- (0.1s) || tə̀ ʃẽ́ˀ pə̀tə̀kàʃìttùɾə̄sːː ||
+# text_phrase-gls-it = kə̀tã̄m ə̃̄ʲkà tōˀ àː (ōːβātīsāˀ) ōːβā (tə̀) ʃẽ́ˀ pə̀tə̀kàʃìttùɾə̄sː
+# text_phrase-gls-wg = now =TOP and DEM.MED HES money:NMLZ a.little:NMLZ money:NMLZ DIST.DEM_indefinite a.lot be.there(have):APPL:NEG:PFV:3>INCL REAS
+# text_phrase-gls-de = Laguna_025_NG
+1	ĩkita	ĩkita	NOUN	_	_	15	obl:tmod	_	AlignBegin=148215|AlignEnd=148533|Gloss=now|MGloss=now|MSeg=ĩkita|nWord=1|RX=[N]|TokenType=Root
+2	=ma	_	PART	_	_	1	case	_	AlignBegin=148533|AlignEnd=148851|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit
+3	ika	ika	PART	_	_	1	discourse	_	AlignBegin=148851|AlignEnd=149169|Gloss=and|MGloss=and|MSeg=ika|nWord=3|RX=[COORDCONN]|TokenType=Root
+4	to	to	PRON	_	_	3	discourse	_	AlignBegin=149169|AlignEnd=149487|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=4|RX=[PRO]|TokenType=Root
+5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=149487|AlignEnd=149805|MSeg=,|nWord=5
+6	a	a	INTJ	_	_	1	discourse	_	AlignBegin=149805|AlignEnd=150123|MSeg=a|nWord=6
+7	,	_	PUNCT	_	_	6	punct	_	AlignBegin=150123|AlignEnd=150441|MSeg=,|nWord=7
+8	aowa	ao	NOUN	_	_	15	obl	_	AlignBegin=150441|AlignEnd=150759|Gloss=money|MGloss=money -NMLZ|MSeg=ao-wa|nWord=8|RX=[N]|TokenType=Root|wordform=ao-wa
+9	tisa	tis	NOUN	_	_	8	nmod	_	AlignBegin=150759|AlignEnd=151077|Gloss=a.little|MGloss=a.little -NMLZ|MSeg=tis-a|nWord=9|RX=[<NOT_SURE>]|TokenType=Root|wordform=tis-a
+10	,	_	PUNCT	_	_	9	punct	_	AlignBegin=151077|AlignEnd=151395|MSeg=,|nWord=10
+11	aowa	ao	NOUN	_	_	8	reparandum	_	AlignBegin=151395|AlignEnd=151713|Gloss=money|MGloss=money -NMLZ|MSeg=ao-wa|nWord=11|RX=[N]|TokenType=Root|wordform=ao-wa
+12	,	_	PUNCT	_	_	8	punct	_	AlignBegin=151713|AlignEnd=152031|MSeg=,|nWord=12
+13	ta	ta	PRON	_	_	14	dep	_	AlignBegin=152031|AlignEnd=152349|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ta|nWord=13|RX=[PRO]|TokenType=Root
+14	ʃẽ	ʃẽ	NOUN	_	_	15	nsubj	_	AlignBegin=152349|AlignEnd=152667|Gloss=a.lot|MGloss=a.lot|MSeg=ʃẽ|nWord=14|RX=[<NOT_SURE>]|TokenType=Root
+15	patakaʃaitVwa	tʃa	VERB	_	Clusivity=In|Voice=Appl	0	root	_	AlignBegin=152667|AlignEnd=152985|Gloss=be.there|MGloss=INCL- O1- APPL.R- be.there -S3SG -NEG -PFV|MSeg=pa-ta-ka-ʃa-i-tV-wa|nWord=15|RX=[VI]|TokenType=Root|wordform=pa-ta-ka-ʃa-i-tV-wa
+16	=ras	_	SCONJ	_	_	15	mark	_	AlignBegin=152985|AlignEnd=153303|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=16|RX=[PRT]|TokenType=Clit
+17	.	_	PUNCT	_	_	15	punct	_	AlignBegin=153303|AlignEnd=153620|Gloss=.|MGloss=.|MSeg=.|nWord=17|TokenType=Root
+
+# sent_id = 100_30-30
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 153625, 160600
+# morphemic_text = ã =kan =ras , Ø- kuh -bar -wa ʃã -bar -tV -wa to , to orma =hĩ , a , ao =ri ʃẽ ʃa -i -tV -wa =ras .
+# text = ã =kan =ras , kuhbarwa ʃãbartVwa to , to orma =hĩ , a , ao =ri ʃẽ ʃaitVwa =ras .
+# text_en = That is why we are not buying, hm, the fish, because there is not much money
+# text_phrase-gls-es = Por eso no estamos comprando (compramos) estos peces porque ya no hay mucho dinero
+# text_phrase-gls-pro = || ã̀kə́ɾə́ʷɡ̚ (0.3s) || kúhbɾàʰ\ (0.1s) || ʃã́mbáɾtuə̃́ŋ tóˀ-- (0.9s) || tóʔōrmã̀ĩ̄ (0.9s) || <%àːː%> (0.5s) || áóɾí ʃẽ́ ʃītúɾə́s (0.7s) ||
+# text_phrase-gls-it = ã̀kə́ɾə́ɡ kúhbɾàʰ ʃã́hbáɾtuə̃́ŋ (tóˀ) tóˀ ōrmã̀ĩ̄ʰ àːʰ áóɾí ʃẽ́ ʃītúɾə́s
+# text_phrase-gls-wg = DEM.DIST =SIM REAS buy:PFV:EXCL>3 be.there(AUX):NEG:PFV:EXCL>3 DEM.MED DEM.MED fish =FOC HES money MDT a.lot be.there:NEG:PFV:3 REAS
+# text_phrase-gls-de = Laguna_026-027_NG
+1	ã	ã	PRON	_	_	5	obl:mod	_	AlignBegin=153625|AlignEnd=153974|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan	_	PART	_	_	1	case	_	AlignBegin=153974|AlignEnd=154323|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
+3	=ras	_	PART	_	_	1	case	_	AlignBegin=154323|AlignEnd=154672|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=3|RX=[PRT]|TokenType=Clit
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=154672|AlignEnd=155021|MSeg=,|nWord=4
+5	kuhbarwa	kuh	VERB	_	Clusivity=Ex	0	root	_	AlignBegin=155021|AlignEnd=155370|Gloss=buy|MGloss=O3SG- buy -S1PL.EXCL -PFV|MSeg=Ø-kuh-bar-wa|nWord=5|RX=[VT]|TokenType=Root|wordform=Ø-kuh-bar-wa
+6	ʃãbartVwa	tʃa	AUX	_	Clusivity=Ex	5	aux	_	AlignBegin=155370|AlignEnd=155719|Gloss=be.there|MGloss=be.there -S1PL.EXCL -NEG -PFV|MSeg=ʃã-bar-tV-wa|nWord=6|RX=[VI]|TokenType=Root|wordform=ʃã-bar-tV-wa
+7	to	to	PART	_	_	5	discourse	_	AlignBegin=155719|AlignEnd=156068|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=7|RX=[PRO]|TokenType=Root
+8	,	_	PUNCT	_	_	7	punct	_	AlignBegin=156068|AlignEnd=156417|MSeg=,|nWord=8
+9	to	to	PRON	_	_	10	det	_	AlignBegin=156417|AlignEnd=156766|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=9|RX=[PRO]|TokenType=Root
+10	orma	orma	NOUN	_	_	5	obj	_	AlignBegin=156766|AlignEnd=157115|Gloss=fish|MGloss=fish|MSeg=orma|nWord=10|RX=[N]|TokenType=Root
+11	=hĩ	_	PART	_	_	10	advmod	_	AlignBegin=157115|AlignEnd=157464|Gloss==FOC|MGloss==FOC|MSeg==hĩ|nWord=11|RX=[PRT]|TokenType=Clit
+12	,	_	PUNCT	_	_	11	punct	_	AlignBegin=157464|AlignEnd=157813|MSeg=,|nWord=12
+13	a	a	INTJ	_	_	5	discourse	_	AlignBegin=157813|AlignEnd=158162|MSeg=a|nWord=13
+14	,	_	PUNCT	_	_	13	punct	_	AlignBegin=158162|AlignEnd=158511|MSeg=,|nWord=14
+15	ao	ao	NOUN	_	_	18	obl	_	AlignBegin=158511|AlignEnd=158860|Gloss=money|MGloss=money|MSeg=ao|nWord=15|RX=[N]|TokenType=Root
+16	=ri	_	ADP	_	_	15	case	_	AlignBegin=158860|AlignEnd=159209|Gloss==MDT|MGloss==MDT|MSeg==ri|nWord=16|RX=[POST]|TokenType=Clit
+17	ʃẽ	ʃẽ	NOUN	_	_	18	nsubj	_	AlignBegin=159209|AlignEnd=159558|Gloss=a.lot|MGloss=a.lot|MSeg=ʃẽ|nWord=17|RX=[<NOT_SURE>]|TokenType=Root
+18	ʃaitVwa	tʃa	VERB	_	_	5	advcl	_	AlignBegin=159558|AlignEnd=159907|Gloss=be.there|MGloss=be.there -S3SG -NEG -PFV|MSeg=ʃa-i-tV-wa|nWord=18|RX=[VI]|TokenType=Root|wordform=ʃa-i-tV-wa
+19	=ras	_	SCONJ	_	_	18	mark	_	AlignBegin=159907|AlignEnd=160256|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=19|RX=[PRT]|TokenType=Clit
+20	.	_	PUNCT	_	_	5	punct	_	AlignBegin=160256|AlignEnd=160600|Gloss=.|MGloss=.|MSeg=.|nWord=20|TokenType=Root
+
+# sent_id = 100_31-31
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 161340, 171124
+# morphemic_text = ãkaʃkwa , ĩkata =ma ke , Ø- ʃã -par -i =ma , to ap a- pẽh , a- pẽh ye -ka =pero ʃã ta- peh -per -i ĩ =yã wa to .
+# text = ãkaʃkwa , ĩkata =ma ke , ʃãpari =ma , to ap apẽh , apẽh yeka =pero ʃã tapehperi ĩ =yã wa to .
+# text_en = Thus, already now, if we saw, hm, trees, we only saw small trees here too, hm.
+# text_phrase-gls-es = Entonces ahora,  Si vemos solamente estos pequeños árboles vemos todavía
+# text_phrase-gls-pro = || ə̃̀káʃkʷẽ́ːẽ̀ (1.0s) || ìŋkə̀tàmə̀ kèː (1.7s) || ʃã̀mã̀nĩ́βã̀d̚ (0.9s) ((noisy larynx during this pause)) || tòːàp̚-- (0.1s) || àpɛ̃̀ʰ (0.5s) || àpɛ̃̀ʲʰ ʝéʔkāʔpēɾōˀ (0.1s) || ʃã́ã̄ tə̀pèpɾĩ̄ jã̄wad̚ tò ||
+# text_phrase-gls-it = ə̃̀káʃkʷẽ́ẽ̀ ìŋkə̀tàmə̀ kèː ʃã̀mã̀nĩ́βã̀(dˀ) tò(àd àpɛ̃̀ʲʰ) àpɛ̃̀ʲʰ ʝéˀkāˀpēɾōˀ ʃã́ã̄ tə̀pèʰpɾĩ̄ (jã̄hȭd)
+# text_phrase-gls-wg = then now TOP_TV already see:PST:INCL>3 =if DEM.MED HES wood:3 wood:3 small:NMLZ  see+hang(AUX):MID:PST:INCL DEM.PROX:LOC_here also DEM.MED_HES
+# text_phrase-gls-de = Laguna_028_NG
+1	ãkaʃkwa	ãkaʃkwa	PART	_	_	7	discourse	_	AlignBegin=161340|AlignEnd=161806|Gloss=then|MGloss=then|MSeg=ãkaʃkwa|nWord=1|RX=[PRT]|TokenType=Root
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=161806|AlignEnd=162272|MSeg=,|nWord=2
+3	ĩkata	ĩkata	NOUN	_	_	7	obl:tmod	_	AlignBegin=162272|AlignEnd=162738|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=3|RX=[N]|TokenType=Root
+4	=ma	_	PART	_	_	3	case	_	AlignBegin=162738|AlignEnd=163204|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=4|RX=[PRT]|TokenType=Clit
+5	ke	ke	ADV	_	_	3	advmod	_	AlignBegin=163204|AlignEnd=163670|Gloss=already|MGloss=already|MSeg=ke|nWord=5|RX=[ADV]|TokenType=Root
+6	,	_	PUNCT	_	_	5	punct	_	AlignBegin=163670|AlignEnd=164136|MSeg=,|nWord=6
+7	ʃãpari	ʃã	VERB	_	Clusivity=In	17	advcl	_	AlignBegin=164136|AlignEnd=164602|Gloss=see|MGloss=O3SG- see -S1PL.INCL -PST|MSeg=Ø-ʃã-par-i|nWord=7|RX=[VT]|TokenType=Root|wordform=Ø-ʃã-par-i
+8	=ma	_	SCONJ	_	_	7	mark	_	AlignBegin=164602|AlignEnd=165068|Gloss==if|MGloss==if|MSeg==ma|nWord=8|RX=[PRT]|TokenType=Clit
+9	,	_	PUNCT	_	_	7	punct	_	AlignBegin=165068|AlignEnd=165534|MSeg=,|nWord=9
+10	to	to	PRON	_	_	12	det	_	AlignBegin=165534|AlignEnd=166000|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=10|RX=[PRO]|TokenType=Root
+11	ap	ap	X	_	_	17	obj	_	AlignBegin=166000|AlignEnd=166466|MSeg=ap|nWord=11
+12	apẽh	pẽh	NOUN	_	_	11	reparandum	_	AlignBegin=166466|AlignEnd=166932|Gloss=wood|MGloss=POSS3SG- wood|MSeg=a-pẽh|nWord=12|RX=[N]|TokenType=Root|wordform=a-pẽh
+13	,	_	PUNCT	_	_	11	punct	_	AlignBegin=166932|AlignEnd=167398|MSeg=,|nWord=13
+14	apẽh	pẽh	NOUN	_	_	11	reparandum	_	AlignBegin=167398|AlignEnd=167864|Gloss=wood|MGloss=POSS3SG- wood|MSeg=a-pẽh|nWord=14|RX=[N]|TokenType=Root|wordform=a-pẽh
+15	yeka	ye	NOUN	_	_	14	nmod	_	AlignBegin=167864|AlignEnd=168330|Gloss=small|MGloss=small -NMLZ|MSeg=ye-ka|nWord=15|RX=[N]|TokenType=Root|wordform=ye-ka
+16	=pero	_	PART	_	_	14	advmod	_	AlignBegin=168330|AlignEnd=168796|Gloss==only|MGloss==only|MSeg==pero|nWord=16|RX=[PRT]|TokenType=Clit
+17	ʃã	ʃã	VERB	_	_	18	compound:svc	_	AlignBegin=168796|AlignEnd=168889|Gloss=see|MGloss=see|MSeg=ʃã|nWord=17|RX=[VT]|TokenType=Root
+18	tapehperi	peh	VERB	_	Clusivity=In|Voice=Mid	0	root	_	AlignBegin=168889|AlignEnd=169262|Gloss=hang|MGloss=MID- hang -S1PL.INCL -PST|MSeg=ta-peh-per-i|nWord=17|RX=[V]|TokenType=Root|wordform=ta-peh-per-i
+19	ĩ	ĩ	PRON	_	_	17	obl:lmod	_	AlignBegin=169262|AlignEnd=169495|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=18|RX=[PRO]|TokenType=Root
+20	=yã	_	ADP	_	_	19	case	_	AlignBegin=169495|AlignEnd=169728|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=18|RX=[POST]|TokenType=Clit
+21	wa	wa	ADV	_	_	19	advmod	_	AlignBegin=169728|AlignEnd=170194|Gloss=also|MGloss=also|MSeg=wa|nWord=19|RX=[ADV]|TokenType=Root
+22	to	to	PRON	_	_	17	discourse	_	AlignBegin=170194|AlignEnd=170660|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=20|RX=[PRO]|TokenType=Root
+23	.	_	PUNCT	_	_	22	punct	_	AlignBegin=170660|AlignEnd=171124|Gloss=.|MGloss=.|MSeg=.|nWord=21|TokenType=Root
+
+# sent_id = 100_32-32
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 171124, 172215
+# morphemic_text = aro ye -ka Ø- ʃã -par -i .
+# text = aro yeka ʃãpari .
+# text_en = We saw the small Montezuma pine.
+# text_phrase-gls-es = vemos el ocote pequeño
+# text_phrase-gls-pro = || àrò jékāˀ ʃã̀mɾĩ̄ˀ (0.3s) ||
+# text_phrase-gls-it = tò àrò jékāˀ ʃã̀mɾĩ̄
+# text_phrase-gls-wg = ocote.pine small:NMLZ see:PST:INCL>3
+# text_phrase-gls-de = Laguna_029_NG
+1	aro	aro	NOUN	_	_	3	obj	_	AlignBegin=171124|AlignEnd=171397|Gloss=ocote.pine|MGloss=ocote.pine|MSeg=aro|nWord=1|RX=[N]|TokenType=Root
+2	yeka	ye	NOUN	_	_	1	nmod	_	AlignBegin=171397|AlignEnd=171670|Gloss=small|MGloss=small -NMLZ|MSeg=ye-ka|nWord=2|RX=[N]|TokenType=Root|wordform=ye-ka
+3	ʃãpari	ʃã	VERB	_	Clusivity=In	0	root	_	AlignBegin=171670|AlignEnd=171943|Gloss=see|MGloss=O3SG- see -S1PL.INCL -PST|MSeg=Ø-ʃã-par-i|nWord=3|RX=[VT]|TokenType=Root|wordform=Ø-ʃã-par-i
+4	.	_	PUNCT	_	_	3	punct	_	AlignBegin=171943|AlignEnd=172215|Gloss=.|MGloss=.|MSeg=.|nWord=4|TokenType=Root
+
+# sent_id = 100_33-33
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 172560, 174475
+# morphemic_text = ki =ri =ma , aro -tak -ru =r -Ø -i ĩ =yã =mã .
+# text = ki =ri =ma , arotakru =ri ĩ =yã =mã .
+# text_en = Before, here it was a field of Montezuma pine.
+# text_phrase-gls-es = Antes era ocotal aqui
+# text_phrase-gls-pro = | kíɾímàːʰ || àːrə̄tə̄pə̄q rùɾì jã̀hmã̀ˀ (1.0s) ||
+# text_phrase-gls-it = kíɾímàːʰ àɾʷə̄t(ə̄p)ə̄q ɾùɾì jã̀hmã̀ˀ
+# text_phrase-gls-wg = before TEMP TOP_TC ocote.pine:NMLZ.field:HAB COP:PST:3 DEM.PROX:LOC_here TOP_CL
+# text_phrase-gls-de = Laguna_029b_NG
+1	ki	ki	ADV	_	_	6	obl:tmod	_	AlignBegin=172560|AlignEnd=172773|Gloss=before|MGloss=before|MSeg=ki|nWord=1|RX=[ADV]|TokenType=Root
+2	=ri	_	ADP	_	_	1	case	_	AlignBegin=172773|AlignEnd=172986|Gloss==TEMP|MGloss==TEMP|MSeg==ri|nWord=2|RX=[POST]|TokenType=Clit
+3	=ma	_	PART	_	_	1	case	_	AlignBegin=172986|AlignEnd=173199|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=3|RX=[PRT]|TokenType=Clit
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=173199|AlignEnd=173412|MSeg=,|nWord=4
+5	arotakru	aro	NOUN	_	_	6	nsubj	_	AlignBegin=173412|AlignEnd=173625|Gloss=ocote.pine|MGloss=ocote.pine NMLZ.field -HAB|MSeg=aro-tak-ru|nWord=5|RX=[N]|TokenType=Root|wordform=aro-tak-ru
+6	=ri	_	AUX	_	_	0	root	_	AlignBegin=173625|AlignEnd=173838|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=6|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+7	ĩ	ĩ	PRON	_	_	6	obl:lmod	_	AlignBegin=173838|AlignEnd=173944|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=7|RX=[PRO]|TokenType=Root
+8	=yã	_	ADP	_	_	7	case	_	AlignBegin=173944|AlignEnd=174051|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=7|RX=[POST]|TokenType=Clit
+9	=mã	_	PART	_	_	7	case	_	AlignBegin=174051|AlignEnd=174264|Gloss==TOP|MGloss==TOP|MSeg==mã|nWord=8|RX=[PRT]|TokenType=Clit
+10	.	_	PUNCT	_	_	6	punct	_	AlignBegin=174264|AlignEnd=174475|Gloss=.|MGloss=.|MSeg=.|nWord=9|TokenType=Root
+
+# sent_id = 100_34-34
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 175520, 185280
+# morphemic_text = ĩkita =ma akareke , wayka =pero ta- war nã -Ø -wa to , aro awah , akes to , ĩkita , teʔ Ø- tas -ʃẽ -er -Øwa =ras .
+# text = ĩkita =ma akareke , wayka =pero tawar nãwa to , aro awah , akes to , ĩkita , teʔ tasʃẽerwa =ras .
+# text_en = But now, the only remaining (trees) are new, because now they come cut it all, also the Monctezuma pine, thus, hm.
+# text_phrase-gls-es = Pero ahora, solamente nuevos se van quedando esos  ‎‎Porque hasta ahora, el ocote también lo vienen a cortar todo
+# text_phrase-gls-pro = || ˈĩ̀ŋkə̀ˈtàm àkə́ˈɾékéˀ'/ || ˈwajkáˀpéˈɾé táˈwárnẽ̄βẽ̄ ˈtōˀ (1.0s) || ˈàròˈwã̀ʰ (1.3s) || àˈkæs ˈtōˀ (1.0s) || ˈĩ̀ŋkə̀ˈtáːˀ (0.5s) || ˈtéptə̄ˈʃə̃̀lèˈɾə̃̄sβsːː (1.1s) ||
+# text_phrase-gls-it = ĩ̀ŋkə̀tàm àkə́ɾékéˀ wéjkáˀpéɾé táβáɾnẽ̄βẽ̄ tōˀ àròwã̀ʰ àkàs tōˀ ĩ̀ŋkə̀táːˀ tébtə̄ʃə̃̀lèɾə̃̄s(βs)
+# text_phrase-gls-wg = now =TOP but new only remain+go(AUX):MID:PFV:3 DEM.MED ocote.pine also thus DEM.MED_HES now come+cut:TOT:PFV:3PL>3 REAS
+# text_phrase-gls-de = Laguna_030_NG
+1	ĩkita	ĩkita	NOUN	_	_	7	obl:tmod	_	AlignBegin=175520|AlignEnd=176008|Gloss=now|MGloss=now|MSeg=ĩkita|nWord=1|RX=[N]|TokenType=Root
+2	=ma	_	PART	_	_	1	case	_	AlignBegin=176008|AlignEnd=176496|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=2|RX=[PRT]|TokenType=Clit
+3	akareke	akareke	PART	_	_	7	discourse	_	AlignBegin=176496|AlignEnd=176984|Gloss=but|MGloss=but|MSeg=akareke|nWord=3|RX=[<NOT_SURE>]|TokenType=Root
+4	,	_	PUNCT	_	_	3	punct	_	AlignBegin=176984|AlignEnd=177472|MSeg=,|nWord=4
+5	wayka	wayka	NOUN	_	_	7	nsubj	_	AlignBegin=177472|AlignEnd=177960|Gloss=new|MGloss=new|MSeg=wayka|nWord=5|RX=[N]|TokenType=Root
+6	=pero	_	PART	_	_	5	advmod	_	AlignBegin=177960|AlignEnd=178448|Gloss==only|MGloss==only|MSeg==pero|nWord=6|RX=[PRT]|TokenType=Clit
+7	tawar	war	VERB	_	Voice=Mid	8	compound:svc	_	AlignBegin=178448|AlignEnd=178644|Gloss=remain|MGloss=MID- remain|MSeg=ta-war|nWord=7|RX=[VT]|TokenType=Root|wordform=ta-war
+8	nãwa	nã	VERB	_	_	0	root	_	AlignBegin=178644|AlignEnd=178936|Gloss=go|MGloss=go -S3SG -PFV|MSeg=nã-Ø-wa|nWord=7|RX=[VI]|TokenType=Root|wordform=nã-Ø-wa
+9	to	to	PRON	_	_	7	discourse	_	AlignBegin=178936|AlignEnd=179424|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=8|RX=[PRO]|TokenType=Root
+10	,	_	PUNCT	_	_	9	punct	_	AlignBegin=179424|AlignEnd=179912|MSeg=,|nWord=9
+11	aro	aro	NOUN	_	_	20	dislocated	_	AlignBegin=179912|AlignEnd=180400|Gloss=ocote.pine|MGloss=ocote.pine|MSeg=aro|nWord=10|RX=[N]|TokenType=Root
+12	awah	awah	PART	_	_	11	advmod	_	AlignBegin=180400|AlignEnd=180888|Gloss=also|MGloss=also|MSeg=awah|nWord=11|RX=[ADV]|TokenType=Root
+13	,	_	PUNCT	_	_	12	punct	_	AlignBegin=180888|AlignEnd=181376|MSeg=,|nWord=12
+14	akes	akes	PART	_	_	19	discourse	_	AlignBegin=181376|AlignEnd=181864|Gloss=thus|MGloss=thus|MSeg=akes|nWord=13|RX=[<NOT_SURE>]|TokenType=Root
+15	to	to	PRON	_	_	14	discourse	_	AlignBegin=181864|AlignEnd=182352|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=14|RX=[PRO]|TokenType=Root
+16	,	_	PUNCT	_	_	15	punct	_	AlignBegin=182352|AlignEnd=182840|MSeg=,|nWord=15
+17	ĩkita	ĩkita	NOUN	_	_	19	obl:tmod	_	AlignBegin=182840|AlignEnd=183328|Gloss=now|MGloss=now|MSeg=ĩkita|nWord=16|RX=[N]|TokenType=Root
+18	,	_	PUNCT	_	_	17	punct	_	AlignBegin=183328|AlignEnd=183816|MSeg=,|nWord=17
+19	teʔ	teʔ	VERB	_	_	20	compound	_	AlignBegin=183816|AlignEnd=183897|Gloss=come|MGloss=come|MSeg=teʔ|nWord=18|RX=[VI]|TokenType=Root
+20	tasʃẽerwa	tas	VERB	_	_	8	advcl	_	AlignBegin=183897|AlignEnd=184304|Gloss=cut|MGloss=O3SG- cut -TOT -S3PL -PFV|MSeg=Ø-tas-ʃẽ-er-Øwa|nWord=18|RX=[VT]|TokenType=Root|wordform=Ø-tas-ʃẽ-er-Øwa
+21	=ras	_	SCONJ	_	_	20	mark	_	AlignBegin=184304|AlignEnd=184792|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=19|RX=[PRT]|TokenType=Clit
+22	.	_	PUNCT	_	_	20	punct	_	AlignBegin=184792|AlignEnd=185280|Gloss=.|MGloss=.|MSeg=.|nWord=20|TokenType=Root
+
+# sent_id = 100_35-35
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 186340, 189000
+# morphemic_text = Ø- kapar -bar -(w)a ĩ =kan to , pa- ta- ʃã -ha teʃk -er -i ĩkata Ø- yãh -a -wa .
+# text = kaparbar(w)a ĩ =kan to , pataʃãha teʃkeri ĩkata yãhawa .
+# text_en = We are grateful, hm, our families go around here, I say.
+# text_phrase-gls-es = lo vamos a hacer, asi eso Por eso nuestras familias andan
+# text_phrase-gls-pro = || ˈkàpàɾˈbrã́ŋkə̄ tōˀ (0.3s) || ˈpə̀tə̀ ˈʃã̀ɣã̀ ˈtìʃˈɣɾĩ̄ŋɡə̀ˈtã́ɲə̃́ˈhə̃́ˀ (1.3s) ||
+# text_phrase-gls-it = kàpàɾbrã́(ŋkə̄ tōˀ) pə̀tə̀ ʃã̀ɣã̀ tìʃɣɾĩ̄(ŋɡə̀tã́)jə̃́hə̃́ˀ
+# text_phrase-gls-wg = thank:PFV:EXCL>3 DEM.PROX SIM DEM.MED family:NMLZ:INCL get.away:PST:3PL now say:PFV:1>3
+# text_phrase-gls-de = Laguna_031_NG
+1	kaparbar(w)a	kapar	VERB	_	Clusivity=Ex	9	dep	_	AlignBegin=186340|AlignEnd=186606|Gloss=thank|MGloss=O3SG- thank -S1PL.EXCL -PFV|MSeg=Ø-kapar-bar-(w)a|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-kapar-bar-(w)a
+2	ĩ	ĩ	PRON	_	_	1	discourse	_	AlignBegin=186606|AlignEnd=186872|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=2|RX=[PRO]|TokenType=Root
+3	=kan	_	PART	_	_	2	case	_	AlignBegin=186872|AlignEnd=187138|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=3|RX=[PRT]|TokenType=Clit
+4	to	to	PRON	_	_	2	nmod	_	AlignBegin=187138|AlignEnd=187404|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=4|RX=[PRO]|TokenType=Root
+5	,	_	PUNCT	_	_	4	punct	_	AlignBegin=187404|AlignEnd=187670|MSeg=,|nWord=5
+6	pataʃãha	ʃã	NOUN	_	Clusivity=In	7	nsubj	_	AlignBegin=187670|AlignEnd=187936|Gloss=family|MGloss=INCL- O1- family -NMLZ|MSeg=pa-ta-ʃã-ha|nWord=6|RX=[N]|TokenType=Root|wordform=pa-ta-ʃã-ha
+7	teʃkeri	teʃk	VERB	_	_	1	dep	_	AlignBegin=187936|AlignEnd=188202|Gloss=get.away|MGloss=get.away -S3PL -PST|MSeg=teʃk-er-i|nWord=7|RX=[VI]|TokenType=Root|wordform=teʃk-er-i
+8	ĩkata	ĩkata	NOUN	_	_	7	obl:tmod	_	AlignBegin=188202|AlignEnd=188468|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=8|RX=[N]|TokenType=Root
+9	yãhawa	yãh	VERB	_	_	0	root	_	AlignBegin=188468|AlignEnd=188734|Gloss=say|MGloss=O3SG- say -S1SG -PFV|MSeg=Ø-yãh-a-wa|nWord=9|RX=[VT]|TokenType=Root|wordform=Ø-yãh-a-wa
+10	.	_	PUNCT	_	_	9	punct	_	AlignBegin=188734|AlignEnd=189000|Gloss=.|MGloss=.|MSeg=.|nWord=10|TokenType=Root
+
+# sent_id = 100_36-36
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 190320, 192120
+# morphemic_text = eei , ĩ =yã ĩ =r -Ø -i ĩ =kan =na to .
+# text = eei , ĩ =yã ĩ =ri ĩ =kan =na to .
+# text_en = There it was like that it is said, that’s right.
+# text_phrase-gls-es = aquí,
+# text_phrase-gls-pro = || ẽːːĩ̀ (0.2s) ||ˈiɲe ĩ̄ˈɾĩ̄ː ˈʔĩnkāˈnā ˈtōˀ (0.3s) ||
+# text_phrase-gls-it = (ĩ̀ʰ) ĩ̄ːɾĩ̄kānā tōˀ
+# text_phrase-gls-wg = HES DEM.PROX LOC DEM.PROX COP:PST:3 DEM.PROX SIM REP DEM.MED_HES
+# text_phrase-gls-de = Laguna_032_NG
+1	eei	eei	X	_	_	6	obl:lmod	_	AlignBegin=190320|AlignEnd=190484|MSeg=eei|nWord=1
+2	,	_	PUNCT	_	_	1	punct	_	AlignBegin=190484|AlignEnd=190648|MSeg=,|nWord=2
+3	ĩ	ĩ	PRON	_	_	1	reparandum	_	AlignBegin=190648|AlignEnd=190812|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=3|RX=[PRO]|TokenType=Root
+4	=yã	_	ADP	_	_	3	case	_	AlignBegin=190812|AlignEnd=190976|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=4|RX=[POST]|TokenType=Clit
+5	ĩ	ĩ	PRON	_	_	6	nsubj	_	AlignBegin=190976|AlignEnd=191140|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=5|RX=[PRO]|TokenType=Root
+6	=ri	_	AUX	_	_	0	root	_	AlignBegin=191140|AlignEnd=191304|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=6|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+7	ĩ	ĩ	PRON	_	_	6	obl:mod	_	AlignBegin=191304|AlignEnd=191468|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=7|RX=[PRO]|TokenType=Root
+8	=kan	_	PART	_	_	7	case	_	AlignBegin=191468|AlignEnd=191632|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=8|RX=[PRT]|TokenType=Clit
+9	=na	_	PART	_	_	6	discourse	_	AlignBegin=191632|AlignEnd=191796|Gloss==REP|MGloss==REP|MSeg==na|nWord=9|RX=[PRT]|TokenType=Clit
+10	to	to	PRON	_	_	9	discourse	_	AlignBegin=191796|AlignEnd=191960|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=10|RX=[PRO]|TokenType=Root
+11	.	_	PUNCT	_	_	6	punct	_	AlignBegin=191960|AlignEnd=192120|Gloss=.|MGloss=.|MSeg=.|nWord=11|TokenType=Root
+
+# sent_id = 100_37-37
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 192380, 194840
+# morphemic_text = ĩ =kan =ra , a- pin =kan =na ĩ pak tia =hi .
+# text = ĩ =kan =ra , apin =kan =na ĩ pak tia =hi .
+# text_en = That is why the lake is (called like) the name.
+# text_phrase-gls-es = asi la Laguna
+# text_phrase-gls-pro = || ˈĩ́ŋkə́ˈɾə́b̚ (0.4s) || ˈàpĩ̀ˈjĩː kã́ˈnã́ ˈĩ̀ː ˈpáqtjāˈˀĩ́ʰ (0.8s) ||
+# text_phrase-gls-it = ĩ́ŋkə́ɾə́(b àpĩ̀ː kã́nã́) ĩ̀ páqtjāˀĩ́ʰ
+# text_phrase-gls-wg = DEM.PROX =SIM PURP name:3 SIM REP DEM.PROX lake+liquid COP:PFV:3
+# text_phrase-gls-de = Laguna_032b_NG
+1	ĩ	ĩ	PRON	_	_	9	discourse	_	AlignBegin=192380|AlignEnd=192604|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan	_	PART	_	_	1	case	_	AlignBegin=192604|AlignEnd=192828|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
+3	=ra	_	PART	_	_	1	case	_	AlignBegin=192828|AlignEnd=193052|Gloss==PURP|MGloss==PURP|MSeg==ra|nWord=3|RX=[PRT]|TokenType=Clit
+4	,	_	PUNCT	_	_	1	punct	_	AlignBegin=193052|AlignEnd=193276|MSeg=,|nWord=4
+5	apin	pin	NOUN	_	_	9	obl:mod	_	AlignBegin=193276|AlignEnd=193500|Gloss=name|MGloss=POSS3SG- name|MSeg=a-pin|nWord=5|RX=[N]|TokenType=Root|wordform=a-pin
+6	=kan	_	PART	_	_	5	case	_	AlignBegin=193500|AlignEnd=193724|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=6|RX=[PRT]|TokenType=Clit
+7	=na	_	PART	_	_	5	discourse	_	AlignBegin=193724|AlignEnd=193948|Gloss==REP|MGloss==REP|MSeg==na|nWord=7|RX=[PRT]|TokenType=Clit
+8	ĩ	ĩ	PRON	_	_	9	det	_	AlignBegin=193948|AlignEnd=194172|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=8|RX=[PRO]|TokenType=Root
+9	pak	pak	NOUN	_	_	0	root	_	AlignBegin=194172|AlignEnd=194284|Gloss=lake|MGloss=lake|MSeg=pak|nWord=9|RX=[N]|TokenType=Root
+10	tia	tia	NOUN	_	_	9	nmod	_	AlignBegin=194284|AlignEnd=194396|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=9|RX=[N]|TokenType=Root
+11	=hi	_	AUX	_	_	9	cop	_	AlignBegin=194396|AlignEnd=194620|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==hi|nWord=10|RX=[COP]|TokenType=Clit
+12	.	_	PUNCT	_	_	9	punct	_	AlignBegin=194620|AlignEnd=194840|Gloss=.|MGloss=.|MSeg=.|nWord=11|TokenType=Root
+
+# sent_id = 100_38-38
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 195680, 197075
+# morphemic_text = ã =kan =ra ĩkata Ø- ʃã -er -wa we -t -er -wa .
+# text = ã =kan =ra ĩkata ʃãerwa weterwa .
+# text_en = That is why they go around visiting.
+# text_phrase-gls-es = pero por ahora eso andan viendo
+# text_phrase-gls-pro = || ˈàkəˈɾĩ̀ŋkə̀ˈtá ˈʃɛ̃́ɾà ˈwétɾáˀ (0.4s) ||
+# text_phrase-gls-it = àkɾĩ̀ŋkə̀tá ʃɛ̃́ɾà wétɾáˀ
+# text_phrase-gls-wg = DEM.DIST=SIM =PURP now see:PFV:3PL>3 wander:DUR:PFV:3PL
+# text_phrase-gls-de = Laguna_033_NG
+1	ã	ã	PRON	_	_	5	discourse	_	AlignBegin=195680|AlignEnd=195796|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan	_	PART	_	_	1	case	_	AlignBegin=195796|AlignEnd=195912|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=1|RX=[PRT]|TokenType=Clit
+3	=ra	_	PART	_	_	1	case	_	AlignBegin=195912|AlignEnd=196144|Gloss==PURP|MGloss==PURP|MSeg==ra|nWord=2|RX=[PRT]|TokenType=Clit
+4	ĩkata	ĩkata	NOUN	_	_	5	obl:tmod	_	AlignBegin=196144|AlignEnd=196376|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=3|RX=[N]|TokenType=Root
+5	ʃãerwa	ʃã	VERB	_	_	6	advcl	_	AlignBegin=196376|AlignEnd=196608|Gloss=see|MGloss=O3SG- see -S3PL -PFV|MSeg=Ø-ʃã-er-wa|nWord=4|RX=[VT]|TokenType=Root|wordform=Ø-ʃã-er-wa
+6	weterwa	we	VERB	_	_	0	root	_	AlignBegin=196608|AlignEnd=196840|Gloss=wander|MGloss=wander -DUR -S3PL -PFV|MSeg=we-t-er-wa|nWord=5|RX=[VI]|TokenType=Root|wordform=we-t-er-wa
+7	.	_	PUNCT	_	_	6	punct	_	AlignBegin=196840|AlignEnd=197075|Gloss=.|MGloss=.|MSeg=.|nWord=6|TokenType=Root
+
+# sent_id = 100_39-39
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 197460, 200720
+# morphemic_text = Ø- kapar -bar -Øwa ũ- tas =ma , ĩkata =pe teʃk -er -tV -wa =ras .
+# text = kaparbarwa ũtas =ma , ĩkata =pe teʃkertVwa =ras .
+# text_en = We are grateful because they do not go around only now.
+# text_phrase-gls-es = agradecemos nosotros En este momento esos no andan uno solo no andan
+# text_phrase-gls-pro = || kə̀ˈpàɾbàˈɾə̃̄ tàʰˈmàˀ (0.8s) || ˈĩŋɡə̀ˈtàpé ˈtéʃkéɾtúˈɾə́s (0.5s) ||
+# text_phrase-gls-it = kə̀pàɾbàɾə̃̄ tàʰmàˀ ŋɡə̀tàpé téʃkéɾtúɾə́s
+# text_phrase-gls-wg = thank:PFV:EXCL>3 EXCL TOP_VA now only get.away:NEG:PFV:3PL REAS
+# text_phrase-gls-de = Laguna_034_NG
+1	kaparbarwa	kapar	VERB	_	Clusivity=Ex	0	root	_	AlignBegin=197460|AlignEnd=197822|Gloss=thank|MGloss=O3SG- thank -S1PL.EXCL -PFV|MSeg=Ø-kapar-bar-Øwa|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-kapar-bar-Øwa
+2	ũtas	tas	PRON	_	Clusivity=Ex	1	nsubj	_	AlignBegin=197822|AlignEnd=198184|Gloss=PRO1|MGloss=EXCL- PRO1|MSeg=ũ-tas|nWord=2|RX=[PRO]|TokenType=Root|wordform=ũ-tas
+3	=ma	_	PART	_	_	2	case	_	AlignBegin=198184|AlignEnd=198546|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=3|RX=[PRT]|TokenType=Clit
+4	,	_	PUNCT	_	_	2	punct	_	AlignBegin=198546|AlignEnd=198908|MSeg=,|nWord=4
+5	ĩkata	ĩkata	NOUN	_	_	7	obl:tmod	_	AlignBegin=198908|AlignEnd=199270|Gloss=now|MGloss=now|MSeg=ĩkata|nWord=5|RX=[N]|TokenType=Root
+6	=pe	_	PART	_	_	5	advmod	_	AlignBegin=199270|AlignEnd=199632|Gloss==only|MGloss==only|MSeg==pe|nWord=6|RX=[PRT]|TokenType=Clit
+7	teʃkertVwa	teʃk	VERB	_	_	1	advcl	_	AlignBegin=199632|AlignEnd=199994|Gloss=get.away|MGloss=get.away -S3PL -NEG -PFV|MSeg=teʃk-er-tV-wa|nWord=7|RX=[VI]|TokenType=Root|wordform=teʃk-er-tV-wa
+8	=ras	_	SCONJ	_	_	7	mark	_	AlignBegin=199994|AlignEnd=200356|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=8|RX=[PRT]|TokenType=Clit
+9	.	_	PUNCT	_	_	1	punct	_	AlignBegin=200356|AlignEnd=200720|Gloss=.|MGloss=.|MSeg=.|nWord=9|TokenType=Root
+
+# sent_id = 100_40-40
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 201230, 205380
+# morphemic_text = to as , to =pe =ma teʃk -er -tV -wa =ras , akwa akwa teʔk -er -wa =ras , a- r- il -er -wa yãh -a =ma .
+# text = to as , to =pe =ma teʃkertVwa =ras , akwa akwa teʔkerwa =ras , arilerwa yãha =ma .
+# text_en = Because they do not go around by themselves only, because they come from other places, they know the language.
+# text_phrase-gls-es = como han venido de otro lugar Con lo que ya saben  aquí
+# text_phrase-gls-pro = || ˈtòwàsː (0.1s) || ˈtúˀpémə̄ ˈtéʃkétúˈwə́s || =ˈākʷáˈkʷə̄ ˈtéˀkērwə̃̀sˈrə̀s\ || āˈɾílèɾˈɣʷò ˈjã́hmã̀ˀ (0.8s) ||
+# text_phrase-gls-it = tò as̀ túˀpémə̄ téʃkétúə́s ākʷákʷə̄ téˀkēɾwə̃̀sɾə̀s āɾílèɾɣò jã́hmã̀ˀ
+# text_phrase-gls-wg = DEM.MED one DEM.MED only TOP_SV get.away:NEG:PFV:3PL REAS other other come:PFV:3PL REAS know:APPL:PFV:3PL>3 say:NMLZ TOP_lgge
+# text_phrase-gls-de = Laguna_035_NG
+1	to	to	PRON	_	_	7	obl	_	AlignBegin=201230|AlignEnd=201461|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=1|RX=[PRO]|TokenType=Root
+2	as	as	NUM	_	_	1	dep	_	AlignBegin=201461|AlignEnd=201692|Gloss=one|MGloss=one|MSeg=as|nWord=2|RX=[N]|TokenType=Root
+3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=201692|AlignEnd=201923|MSeg=,|nWord=3
+4	to	to	PRON	_	_	7	nsubj	_	AlignBegin=201923|AlignEnd=202154|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=4|RX=[PRO]|TokenType=Root
+5	=pe	_	PART	_	_	4	advmod	_	AlignBegin=202154|AlignEnd=202385|Gloss==only|MGloss==only|MSeg==pe|nWord=5|RX=[PRT]|TokenType=Clit
+6	=ma	_	PART	_	_	4	case	_	AlignBegin=202385|AlignEnd=202616|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit
+7	teʃkertVwa	teʃk	VERB	_	_	15	advcl	_	AlignBegin=202616|AlignEnd=202847|Gloss=get.away|MGloss=get.away -S3PL -NEG -PFV|MSeg=teʃk-er-tV-wa|nWord=7|RX=[VI]|TokenType=Root|wordform=teʃk-er-tV-wa
+8	=ras	_	SCONJ	_	_	7	mark	_	AlignBegin=202847|AlignEnd=203078|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=8|RX=[PRT]|TokenType=Clit
+9	,	_	PUNCT	_	_	7	punct	_	AlignBegin=203078|AlignEnd=203309|MSeg=,|nWord=9
+10	akwa	akwa	NOUN	_	_	12	obl:mod	_	AlignBegin=203309|AlignEnd=203540|Gloss=other|MGloss=other|MSeg=akwa|nWord=10|RX=[N]|TokenType=Root
+11	akwa	akwa	NOUN	_	_	10	nmod	_	AlignBegin=203540|AlignEnd=203771|Gloss=other|MGloss=other|MSeg=akwa|nWord=11|RX=[N]|TokenType=Root
+12	teʔkerwa	teʔk	VERB	_	_	15	advcl	_	AlignBegin=203771|AlignEnd=204002|Gloss=come|MGloss=come -S3PL -PFV|MSeg=teʔk-er-wa|nWord=12|RX=[VI]|TokenType=Root|wordform=teʔk-er-wa
+13	=ras	_	SCONJ	_	_	12	mark	_	AlignBegin=204002|AlignEnd=204233|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=13|RX=[PRT]|TokenType=Clit
+14	,	_	PUNCT	_	_	12	punct	_	AlignBegin=204233|AlignEnd=204464|MSeg=,|nWord=14
+15	arilerwa	il	VERB	_	Voice=Appl	0	root	_	AlignBegin=204464|AlignEnd=204695|Gloss=know|MGloss=O3SG- APPL.P- know -S3PL -PFV|MSeg=a-r-il-er-wa|nWord=15|RX=[VI]|TokenType=Root|wordform=a-r-il-er-wa
+16	yãha	yãh	NOUN	_	_	15	obj	_	AlignBegin=204695|AlignEnd=204926|Gloss=-NMLZ|MGloss=say -NMLZ|MSeg=yãh-a|nWord=16|RX=[VT]|TokenType=Root|wordform=yãh-a
+17	=ma	_	PART	_	_	16	case	_	AlignBegin=204926|AlignEnd=205157|Gloss==TOP|MGloss==TOP|MSeg==ma|nWord=17|RX=[PRT]|TokenType=Clit
+18	.	_	PUNCT	_	_	15	punct	_	AlignBegin=205157|AlignEnd=205380|Gloss=.|MGloss=.|MSeg=.|nWord=18|TokenType=Root
+
+# sent_id = 100_41-41
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 206163, 207273
+# morphemic_text = kuk akwa ʃa -ir teʔk -er -i .
+# text = kuk akwa ʃair teʔkeri .
+# text_en = They come from other places.
+# text_phrase-gls-es = de otros lugares viven y vienen
+# text_phrase-gls-pro = || kùˈkàkʷə̀ ʃíˈtéˀkʲɾìʰ (0.7s) ||
+# text_phrase-gls-it = kùkàkʷə̀ ʃítéˀkʲɾìʰ
+# text_phrase-gls-wg = earth other be.there+come:PST:3PL
+# text_phrase-gls-de = Laguna_036_NG
+1	kuk	kuk	NOUN	_	_	3	xcomp	_	AlignBegin=206163|AlignEnd=206441|Gloss=earth|MGloss=earth|MSeg=kuk|nWord=1|RX=[N]|TokenType=Root
+2	akwa	akwa	NOUN	_	_	1	nmod	_	AlignBegin=206441|AlignEnd=206719|Gloss=other|MGloss=other|MSeg=akwa|nWord=2|RX=[N]|TokenType=Root
+3	ʃair	tʃa	VERB	_	_	4	compound:svc	_	AlignBegin=206719|AlignEnd=206831|Gloss=be.there|MGloss=be.there -S3PL|MSeg=ʃa-ir|nWord=3|RX=[VI]|TokenType=Root|wordform=ʃa-ir
+4	teʔkeri	teʔk	VERB	_	_	0	root	_	AlignBegin=206831|AlignEnd=206997|Gloss=come|MGloss=come -S3PL -PST|MSeg=teʔk-er-i|nWord=3|RX=[VI]|TokenType=Root|wordform=teʔk-er-i
+5	.	_	PUNCT	_	_	4	punct	_	AlignBegin=206997|AlignEnd=207273|Gloss=.|MGloss=.|MSeg=.|nWord=4|TokenType=Root
+
+# sent_id = 100_42-43
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 207965, 216125
+# morphemic_text = teʔ ka- tʃuiʃ -bar -wa , Ø- ʃã -n -er -pi =ra Ø- yẽh -er -wa =ma ĩ =kan to pa- ta- oryah =r -Ø -i =ras , a- pĩn ye ke ta- wark -er -wa =ras , pak tia , ã kãna =i ika .
+# text = teʔ katʃuiʃbarwa , ʃãnerpi =ra yẽherwa =ma ĩ =kan to pataoryah =ri =ras , apĩn ye ke tawarkerwa =ras , pak tia , ã kãna =i ika .
+# text_en = We come to teach them, so that they see what they say. And. that's right, because our custom was like this, because the short name remained already "The Lake", it is the village.
+# text_phrase-gls-es = Venimos a enseñarles para que miren lo que dicen porque así es nuestra cultura porque se quedó su nombre pequeño de antes La laguna ‎‎es el pueblo y
+# text_phrase-gls-pro = || ˈtéˀˈkāʃujʃˈbɾàˀ (0.1s) || =ˈʃɛ̃̀lèɾˈmĩ́ˈljẽ́lèɾˈmàˀ (0.6s) || || ˈĩ̀kà ˈtõ̀ pàˈtàwreˈàɾìˈɾə̄sː/ || ʔàˈpĩ̀ɲẽ̀ʲˈkẽ́ʲtə̄ˈwə̄ɾkéˈɾə́s\ || ˈpɔ̄qtiˈjāˀ (0.9s) || ã̀ˈkénàˈíˀ ˈʔĩ̄kà (1.5s) ||
+# text_phrase-gls-it = téˀkāʃỹ̄ʃbɾàˀ ʃɛ̃̀lèɾmĩ́ɾ jẽ́lèɾmàˀ ĩ̀kà tõ̀ pàtà òɾjàɾìɾə̄s àpĩ̀jẽ̀ʲkẽ́ʲtə̄wə̄ɾkéɾə́s pɔ̄qtjāˀ ã̀kénàíˀ ĩ̄kà
+# text_phrase-gls-wg = come+learn:PFV:EXCL>3PL see:DUR:FUT:3PL>3 =PURP say:PFV:3PL>3 NOM DEM.PROX =SIM MED.DEM culture:INCL COP:PST:3 REAS name:3 small already remain:MID:PFV:3PL REAS lake+liquid DEM.DIST village COP:PFV:3 and
+# text_phrase-gls-de = Laguna_037_NG Laguna_038_NG
+1	teʔ	teʔ	VERB	_	_	2	compound	_	AlignBegin=207965|AlignEnd=208038|Gloss=come|MGloss=come|MSeg=teʔ|nWord=1|RX=[VI]|TokenType=Root
+2	katʃuiʃbarwa	tʃuiʃ	VERB	_	Clusivity=Ex	0	root	_	AlignBegin=208038|AlignEnd=208331|Gloss=learn|MGloss=O3PL- learn -S1PL.EXCL -PFV|MSeg=ka-tʃuiʃ-bar-wa|nWord=1|RX=[V]|TokenType=Root|wordform=ka-tʃuiʃ-bar-wa
+3	,	_	PUNCT	_	_	2	punct	_	AlignBegin=208331|AlignEnd=208697|MSeg=,|nWord=2
+4	ʃãnerpi	ʃã	VERB	_	_	2	advcl	_	AlignBegin=208697|AlignEnd=209063|Gloss=see|MGloss=O3SG- see -DUR -S3PL -FUT|MSeg=Ø-ʃã-n-er-pi|nWord=3|RX=[VT]|TokenType=Root|wordform=Ø-ʃã-n-er-pi
+5	=ra	_	PART	_	_	4	mark	_	AlignBegin=209063|AlignEnd=209429|Gloss==PURP|MGloss==PURP|MSeg==ra|nWord=4|RX=[PRT]|TokenType=Clit
+6	yẽherwa	yẽh	VERB	_	_	4	ccomp	_	AlignBegin=209429|AlignEnd=209795|Gloss=say|MGloss=O3SG- say -S3PL -PFV|MSeg=Ø-yẽh-er-wa|nWord=5|RX=[VT]|TokenType=Root|wordform=Ø-yẽh-er-wa
+7	=ma	_	SCONJ	_	_	6	mark	_	AlignBegin=209795|AlignEnd=210160|Gloss==NOM|MGloss==NOM|MSeg==ma|nWord=6|RX=[PRT]|TokenType=Clit
+8	ĩ	ĩ	PRON	_	_	11	discourse	_	AlignBegin=210760|AlignEnd=211028|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=7|RX=[PRO]|TokenType=Root
+9	=kan	_	PART	_	_	8	case	_	AlignBegin=211028|AlignEnd=211296|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=8|RX=[PRT]|TokenType=Clit
+10	to	to	PART	_	_	8	advmod	_	AlignBegin=211296|AlignEnd=211564|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=9|RX=[PRO]|TokenType=Root
+11	pataoryah	oryah	NOUN	_	Clusivity=In	6	advcl	_	AlignBegin=211564|AlignEnd=211832|Gloss=culture|MGloss=INCL- POSS1- culture|MSeg=pa-ta-oryah|nWord=10|RX=[N]|TokenType=Root|wordform=pa-ta-oryah
+12	=ri	_	AUX	_	_	11	cop	_	AlignBegin=211832|AlignEnd=212100|Gloss==COP|MGloss==COP -S3SG -PST|MSeg==r-Ø-i|nWord=11|RX=[COP]|TokenType=Root|wordform==r-Ø-i
+13	=ras	_	SCONJ	_	_	11	mark	_	AlignBegin=212100|AlignEnd=212368|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=12|RX=[PRT]|TokenType=Clit
+14	,	_	PUNCT	_	_	11	punct	_	AlignBegin=212368|AlignEnd=212636|MSeg=,|nWord=13
+15	apĩn	pĩn	NOUN	_	_	18	nsubj	_	AlignBegin=212636|AlignEnd=212904|Gloss=name|MGloss=POSS3SG- name|MSeg=a-pĩn|nWord=14|RX=[N]|TokenType=Root|wordform=a-pĩn
+16	ye	ye	NOUN	_	_	15	nmod	_	AlignBegin=212904|AlignEnd=213172|Gloss=small|MGloss=small|MSeg=ye|nWord=15|RX=[N]|TokenType=Root
+17	ke	ke	ADV	_	_	16	advmod	_	AlignBegin=213172|AlignEnd=213440|Gloss=already|MGloss=already|MSeg=ke|nWord=16|RX=[ADV]|TokenType=Root
+18	tawarkerwa	wark	VERB	_	Voice=Mid	11	parataxis	_	AlignBegin=213440|AlignEnd=213708|Gloss=remain|MGloss=MID- remain -S3PL -PFV|MSeg=ta-wark-er-wa|nWord=17|RX=[VT]|TokenType=Root|wordform=ta-wark-er-wa
+19	=ras	_	SCONJ	_	_	18	mark	_	AlignBegin=213708|AlignEnd=213976|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=18|RX=[PRT]|TokenType=Clit
+20	,	_	PUNCT	_	_	18	punct	_	AlignBegin=213976|AlignEnd=214244|MSeg=,|nWord=19
+21	pak	pak	NOUN	_	_	18	xcomp	_	AlignBegin=214244|AlignEnd=214378|Gloss=lake|MGloss=lake|MSeg=pak|nWord=20|RX=[N]|TokenType=Root
+22	tia	tia	NOUN	_	_	21	nmod	_	AlignBegin=214378|AlignEnd=214512|Gloss=liquid|MGloss=liquid|MSeg=tia|nWord=20|RX=[N]|TokenType=Root
+23	,	_	PUNCT	_	_	22	punct	_	AlignBegin=214512|AlignEnd=214780|MSeg=,|nWord=21
+24	ã	ã	PRON	_	_	25	det	_	AlignBegin=214780|AlignEnd=215048|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=22|RX=[PRO]|TokenType=Root
+25	kãna	kãna	NOUN	_	_	18	dep	_	AlignBegin=215048|AlignEnd=215316|Gloss=village|MGloss=village|MSeg=kãna|nWord=23|RX=[N]|TokenType=Root
+26	=i	_	AUX	_	_	25	cop	_	AlignBegin=215316|AlignEnd=215584|Gloss==COP:S3SG:PFV|MGloss==COP:S3SG:PFV|MSeg==i|nWord=24|RX=[COP]|TokenType=Clit
+27	ika	ika	PART	_	_	25	discourse	_	AlignBegin=215584|AlignEnd=215852|Gloss=and|MGloss=and|MSeg=ika|nWord=25|RX=[COORDCONN]|TokenType=Root
+28	.	_	PUNCT	_	_	2	punct	_	AlignBegin=215852|AlignEnd=216125|Gloss=.|MGloss=.|MSeg=.|nWord=26|TokenType=Root
+
+# sent_id = 100_44-44
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 217655, 218625
+# morphemic_text = to =pero =hĩ Ø- yãh -a -wa Ø- yãh -Ø -wa .
+# text = to =pero =hĩ yãhawa yãhwa .
+# text_en = It only says that.
+# text_phrase-gls-es = Solo eso digo
+# text_phrase-gls-pro = || ˈtóˀpéˈɾĩ́ jã̀hˈwã́ˀ (0.4s) ||
+# text_phrase-gls-it = tóˀpéɾĩ́ jã̀hɔ̃̀wã́ˀ
+# text_phrase-gls-wg = DEM.MED =only =FOC say:PFV:1>3 say:PFV:3>3
+# text_phrase-gls-de = Laguna_039_NG
+1	to	to	PRON	_	_	5	obj	_	AlignBegin=217655|AlignEnd=217817|Gloss=MED.DEM|MGloss=MED.DEM|MSeg=to|nWord=1|RX=[PRO]|TokenType=Root
+2	=pero	_	PART	_	_	1	advmod	_	AlignBegin=217817|AlignEnd=217979|Gloss==only|MGloss==only|MSeg==pero|nWord=2|RX=[PRT]|TokenType=Clit
+3	=hĩ	_	PART	_	_	1	advmod	_	AlignBegin=217979|AlignEnd=218141|Gloss==FOC|MGloss==FOC|MSeg==hĩ|nWord=3|RX=[PRT]|TokenType=Clit
+4	yãhawa	yãh	VERB	_	_	5	dep	_	AlignBegin=218141|AlignEnd=218303|Gloss=say|MGloss=O3SG- say -S1SG -PFV|MSeg=Ø-yãh-a-wa|nWord=4|RX=[VT]|TokenType=Root|wordform=Ø-yãh-a-wa
+5	yãhwa	yãh	VERB	_	_	0	root	_	AlignBegin=218303|AlignEnd=218465|Gloss=say|MGloss=O3SG- say -S3SG -PFV|MSeg=Ø-yãh-Ø-wa|nWord=5|RX=[VT]|TokenType=Root|wordform=Ø-yãh-Ø-wa
+6	.	_	PUNCT	_	_	5	punct	_	AlignBegin=218465|AlignEnd=218625|Gloss=.|MGloss=.|MSeg=.|nWord=6|TokenType=Root
+
+# sent_id = 100_45-45
+# speaker_id = @NG
+# sound_url = https://corporan.huma-num.fr/Archives/media/100/WAV/100_FromFlex2025.WAV
+# sent_timecode = 219010, 219830
+# morphemic_text = Ø- kapark -a -wa .
+# text = kaparkawa .
+# text_en = I am grateful.
+# text_phrase-gls-es = agradezco
+# text_phrase-gls-pro = || kàˈpàɾʰkə̀ˈwāˀ ||
+# text_phrase-gls-it = kàpàɾʰkə̀wāˀ
+# text_phrase-gls-wg = thank:PFV:1>3
+# text_phrase-gls-de = Laguna_039b_NG
+1	kaparkawa	kapark	VERB	_	_	0	root	_	AlignBegin=219010|AlignEnd=219420|Gloss=thank|MGloss=O3SG- thank -S1SG -PFV|MSeg=Ø-kapark-a-wa|nWord=1|RX=[VT]|TokenType=Root|wordform=Ø-kapark-a-wa
+2	.	_	PUNCT	_	_	1	punct	_	AlignBegin=219420|AlignEnd=219830|Gloss=.|MGloss=.|MSeg=.|nWord=2|TokenType=Root
+

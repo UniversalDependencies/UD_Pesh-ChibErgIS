@@ -47,6 +47,7 @@ This treebank was produced as part of the ChibErgIS and Autogramm ANR projects. 
 Data available since: UD v2.15
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: spoken
 Lemmas: manual native
 UPOS: manual native

@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Pesh-ChibErgIS:
-commit eabafa4973fe3495bba34a296590e3e207723299
-Merge: 9c74999 3ca35e8
+commit ee87473b6133eb3572fc38e6959d56f305a0ebb0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:27:38 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'pay_chibergis'
 Language code (from CoNLL-U file name) = 'pay'
@@ -25,21 +25,23 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang pay --max-err=10 UD_Pesh-ChibErgIS/pay_chibergis-ud-test.conllu
-[Line 60 Sent 008_003-004]: [L3 Warning pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 120 Sent 008_007-007]: [L3 Warning pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 182 Sent 008_010-010]: [L3 Warning pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 200 Sent 008_011-011]: [L3 Warning pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 219 Sent 008_012-012]: [L3 Warning pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 262 Sent 008_014-014]: [L3 Warning pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 278 Sent 008_015-015]: [L3 Warning pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 303 Sent 008_016-016]: [L3 Warning pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 320 Sent 008_017-017]: [L3 Warning pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 324 Sent 008_017-017]: [L3 Warning pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 5129 Sent 086_68-68]: [L3 Syntax too-many-objects] Multiple direct objects [1, 4] ('aso', 'laguna') under the predicate 'patokʃeerwa'.
-Syntax errors: 1
-Warnings: 499
-*** FAILED *** with 1 errors
+[Line 60 Sent 008_003-004]: [L3 WARNING pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 120 Sent 008_007-007]: [L3 WARNING pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 182 Sent 008_010-010]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 200 Sent 008_011-011]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 219 Sent 008_012-012]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 262 Sent 008_014-014]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 278 Sent 008_015-015]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 303 Sent 008_016-016]: [L3 WARNING pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 320 Sent 008_017-017]: [L3 WARNING pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 324 Sent 008_017-017]: [L3 WARNING pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 4045 Sent 086_07-07]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'toʔ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 4384 Sent 086_26-26]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'apiʃtera') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 5129 Sent 086_68-68]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 4] ('aso', 'laguna') under the predicate 'patokʃeerwa'.
+Warnings: 497
+SYNTAX errors: 3
+*** FAILED *** with 3 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333

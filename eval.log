@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Pesh-ChibErgIS:
-commit ee87473b6133eb3572fc38e6959d56f305a0ebb0
+commit 2ff7372235b0e493a70ee27837156a0c55600d8f
+Merge: 1108fe9 8c05183
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 20:27:38 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'pay_chibergis'
 Language code (from CoNLL-U file name) = 'pay'
 Found the following data files: pay_chibergis-ud-test.conllu
-Size: counted 4275 of 4275 words (nodes).
-Size: min(0, log((N/1000)**2)) = 2.90556820477745.
+Size: counted 4331 of 4331 words (nodes).
+Size: min(0, log((N/1000)**2)) = 2.93159692446498.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -19,38 +19,33 @@ Split: Did not find at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 416 out of 4275 total words have one or more features.
+Features: 470 out of 4331 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang pay --max-err=10 UD_Pesh-ChibErgIS/pay_chibergis-ud-test.conllu
-[Line 60 Sent 008_003-004]: [L3 WARNING pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 120 Sent 008_007-007]: [L3 WARNING pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 182 Sent 008_010-010]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 200 Sent 008_011-011]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 219 Sent 008_012-012]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 262 Sent 008_014-014]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 278 Sent 008_015-015]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 303 Sent 008_016-016]: [L3 WARNING pron-det-without-prontype] The word 'tas' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 320 Sent 008_017-017]: [L3 WARNING pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 324 Sent 008_017-017]: [L3 WARNING pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 15 Sent 005_24-24]: [L3 WARNING pron-det-without-prontype] The word 'tokkeri' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 17 Sent 005_24-24]: [L3 WARNING pron-det-without-prontype] The word 'tokkeri' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 20 Sent 005_24-24]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 22 Sent 005_24-24]: [L3 WARNING pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 35 Sent 005_35-35]: [L3 WARNING pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 44 Sent 005_35-35]: [L3 WARNING pron-det-without-prontype] The word 'ĩ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 46 Sent 005_35-35]: [L3 WARNING pron-det-without-prontype] The word 'awa' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 47 Sent 005_35-35]: [L3 WARNING pron-det-without-prontype] The word '=s' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 49 Sent 005_35-35]: [L3 WARNING pron-det-without-prontype] The word 'berskawa' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 50 Sent 005_35-35]: [L3 WARNING pron-det-without-prontype] The word 'ã' is tagged 'PRON' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
-[Line 4045 Sent 086_07-07]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'toʔ') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 4384 Sent 086_26-26]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'apiʃtera') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 5129 Sent 086_68-68]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 4] ('aso', 'laguna') under the predicate 'patokʃeerwa'.
-Warnings: 497
-SYNTAX errors: 3
-*** FAILED *** with 3 errors
-Exit code: 1
-Validity: 0.01
+Warnings: 519
+*** PASSED ***
+Validity: 1
 (weight=0.111111111111111) * (score{features}=0.3) = 0.0333333333333333
 (weight=0.111111111111111) * (score{genres}=0.0555555555555556) = 0.00617283950617284
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
-(weight=0.37037037037037) * (score{size}=0.210312039688064) = 0.0778933480326162
+(weight=0.37037037037037) * (score{size}=0.212196061243281) = 0.0785911337938077
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
 (weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
 (weight=0.111111111111111) * (score{udeprels}=0.810810810810811) = 0.0900900900900901
-(TOTAL score=0.307380678500339) * (availability=1) * (validity=0.01) = 0.00307380678500339
-STARS = 0
-UD_Pesh-ChibErgIS	0.00307380678500339	0
+(TOTAL score=0.30807846426153) * (availability=1) * (validity=1) = 0.30807846426153
+STARS = 1.5
+UD_Pesh-ChibErgIS	0.30807846426153	1.5

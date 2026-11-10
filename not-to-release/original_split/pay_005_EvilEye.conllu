@@ -1,0 +1,111 @@
+# sent_id = 005_24-24
+# speaker_id = @JH
+# sound_url = https://corporan.huma-num.fr/Archives/media/0005/WAV/0005_arboratorgrew.WAV
+# sent_timecode = 114510, 119000
+# morphemic_text = peʃ akwa -ler =kan Ø- tokk -er -i wula Ø- tokk -er -i =kan =hãʔ ã =yã ĩ =kan
+# text = peʃ akwa =ler =kan tokkeri wula tokkeri =kan =hãʔ ã =yã ĩ =kan
+# text_en = Like other people drink, like the foreigners drink over there.
+# text_phrase-gls-es = como las otras personas toman, los ladinas como toman allí
+# text_phrase-gls-it = pèʃ ákʷɔ̀lèɾkã́ tɔ̀qkɾì ùlà tɔ̀qɾkã́njə̃̀ (àk)ã́njã̀ (ˀã́) ĩ̀kàː
+# text_phrase-gls-de = Curar.vista_023_JH
+1	peʃ	peʃ	NOUN	_	_	5	acl	_	AlignBegin=114510|AlignEnd=114884|Gloss=people|MGloss=people|MSeg=peʃ|nWord=1|RX=[N]|TokenType=Root
+2	akwa	akwa	NOUN	_	_	1	nmod	_	AlignBegin=114884|AlignEnd=115071|Gloss=other|MGloss=other|MSeg=akwa|nWord=2|RX=[N]|TokenType=Root
+3	=ler	_	AUX	_	_	1	cop	_	AlignBegin=115071|AlignEnd=115258|Gloss==COP:S3PL:PFV|MGloss==COP:S3PL:PFV|MSeg==ler|nWord=2|RX=[N:ANY]|TokenType=Root
+4	=kan	_	SCONJ	_	_	1	mark	_	AlignBegin=115258|AlignEnd=115632|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=3|RX=[PRT]|TokenType=Clit
+5	tokkeri	tokk	PRON	_	_	0	root	_	AlignBegin=115632|AlignEnd=116006|Gloss=O3SG-|MGloss=O3SG- drink -S3PL -PST|MSeg=Ø-tokk-er-i|nWord=4|RX=[VT:ANY]|TokenType=Root|wordform=Ø-tokk-er-i
+6	wula	wula	NOUN	_	_	7	nsubj	_	AlignBegin=116006|AlignEnd=116380|Gloss=foreign|MGloss=foreign|MSeg=wula|nWord=5|RX=[N]|TokenType=Root
+7	tokkeri	tokk	PRON	_	_	5	nmod	_	AlignBegin=116380|AlignEnd=116754|Gloss=O3SG-|MGloss=O3SG- drink -S3PL -PST|MSeg=Ø-tokk-er-i|nWord=6|RX=[VT:ANY]|TokenType=Root|wordform=Ø-tokk-er-i
+8	=kan	_	PART	_	_	7	case	_	AlignBegin=116754|AlignEnd=117128|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=7|RX=[PRT]|TokenType=Clit
+9	=hãʔ	_	PART	_	_	7	advmod	_	AlignBegin=117128|AlignEnd=117502|Gloss==FOC|MGloss==FOC|MSeg==hãʔ|nWord=8|RX=[PRT]|TokenType=Clit
+10	ã	ã	PRON	_	_	7	nmod	_	AlignBegin=117502|AlignEnd=117876|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=9|RX=[PRO]|TokenType=Root
+11	=yã	_	ADP	_	_	10	case	_	AlignBegin=117876|AlignEnd=118250|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=10|RX=[POST]|TokenType=Clit
+12	ĩ	ĩ	PRON	_	_	7	nmod	_	AlignBegin=118250|AlignEnd=118624|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=11|RX=[PRO]|TokenType=Root
+13	=kan	_	PART	_	_	12	case	_	AlignBegin=118624|AlignEnd=119000|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=12|RX=[PRT]|TokenType=Clit
+
+# sent_id = 005_35-35
+# speaker_id = @JH
+# sound_url = https://corporan.huma-num.fr/Archives/media/0005/WAV/0005_arboratorgrew.WAV
+# sent_timecode = 161700, 165780
+# morphemic_text = ĩ =kan kata =ri a pok =l -er -wa =ras as ĩ =kan a- wa =s =yo Ø- bersk -a -wa ã =kan Ø- ka -a -wa
+# text = ĩ =kan kata =ri a pok =lerwa =ras as ĩ =kan awa =s =yo berskawa ã =kan kaawa
+# text_en = Because today there are two, one like that, with his eye I rub him, like that I do it.
+# text_phrase-gls-es = Porque así hoy son dos, una así, con la (otra) mano lo sobo, lo hago
+# text_phrase-gls-it = ŋkà kàtáɾí (a) póɡ lèrās àsĩ̀kã̀ àwāsjō(b) bésk ã̀kã́mkã̀
+# text_phrase-gls-de = Curar.vista_034_JH
+1	ĩ	ĩ	PRON	_	_	6	discourse	_	AlignBegin=161700|AlignEnd=161927|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=1|RX=[PRO]|TokenType=Root
+2	=kan	_	PART	_	_	1	case	_	AlignBegin=161927|AlignEnd=162154|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=2|RX=[PRT]|TokenType=Clit
+3	kata	kata	NOUN	_	_	6	obl:tmod	_	AlignBegin=162154|AlignEnd=162381|Gloss=today|MGloss=today|MSeg=kata|nWord=3|RX=[<NOT_SURE>]|TokenType=Root
+4	=ri	_	ADP	_	_	3	case	_	AlignBegin=162381|AlignEnd=162608|Gloss==TEMP|MGloss==TEMP|MSeg==ri|nWord=4|RX=[POST]|TokenType=Clit
+5	a	a	INTJ	_	_	6	discourse	_	AlignBegin=162608|AlignEnd=162835|MSeg=a|nWord=5
+6	pok	pok	NUM	_	_	15	acl	_	AlignBegin=162835|AlignEnd=163062|Gloss=two|MGloss=two|MSeg=pok|nWord=6|RX=[N]|TokenType=Root
+7	=lerwa	_	AUX	_	_	6	cop	_	AlignBegin=163062|AlignEnd=163289|Gloss==COP|MGloss==COP -S3PL -PFV|MSeg==l-er-wa|nWord=7|RX=[COP]|TokenType=Root|wordform==l-er-wa
+8	=ras	_	SCONJ	_	_	6	mark	_	AlignBegin=163289|AlignEnd=163516|Gloss==REAS|MGloss==REAS|MSeg==ras|nWord=8|RX=[PRT]|TokenType=Clit
+9	as	as	NUM	_	_	15	obj	_	AlignBegin=163516|AlignEnd=163743|Gloss=one|MGloss=one|MSeg=as|nWord=9|RX=[N]|TokenType=Root
+10	ĩ	ĩ	PRON	_	_	15	nmod	_	AlignBegin=163743|AlignEnd=163970|Gloss=PROX.DEM|MGloss=PROX.DEM|MSeg=ĩ|nWord=10|RX=[PRO]|TokenType=Root
+11	=kan	_	PART	_	_	10	case	_	AlignBegin=163970|AlignEnd=164197|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=11|RX=[PRT]|TokenType=Clit
+12	awa	wa	PRON	_	_	15	obl:arg	_	AlignBegin=164197|AlignEnd=164424|Gloss=POSS3SG-|MGloss=POSS3SG- eye|MSeg=a-wa|nWord=12|RX=[N:ANY]|TokenType=Root|wordform=a-wa
+13	=s	_	DET	_	_	12	det	_	AlignBegin=164424|AlignEnd=164651|Gloss==INDF.ART|MGloss==INDF.ART|MSeg==s|nWord=13|RX=[DET]|TokenType=Clit
+14	=yo	_	ADP	_	_	12	case	_	AlignBegin=164651|AlignEnd=164878|Gloss==INS|MGloss==INS|MSeg==yo|nWord=14|RX=[POST]|TokenType=Clit
+15	berskawa	bersk	PRON	_	_	0	root	_	AlignBegin=164878|AlignEnd=165105|Gloss=O3SG-|MGloss=O3SG- rub -S1SG -PFV|MSeg=Ø-bersk-a-wa|nWord=15|RX=[VT:ANY]|TokenType=Root|wordform=Ø-bersk-a-wa
+16	ã	ã	PRON	_	_	18	nmod	_	AlignBegin=165105|AlignEnd=165332|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=16|RX=[PRO]|TokenType=Root
+17	=kan	_	PART	_	_	16	case	_	AlignBegin=165332|AlignEnd=165559|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=17|RX=[PRT]|TokenType=Clit
+18	kaawa	ka	PRON	_	_	15	parataxis	_	AlignBegin=165559|AlignEnd=165780|Gloss=O3SG-|MGloss=O3SG- make -S1SG -PFV|MSeg=Ø-ka-a-wa|nWord=18|RX=[VT:ANY]|TokenType=Root|wordform=Ø-ka-a-wa
+
+# sent_id = 005_38-38
+# speaker_id = @JH
+# sound_url = https://corporan.huma-num.fr/Archives/media/0005/WAV/0005_arboratorgrew.WAV
+# sent_timecode = 173710, 178730
+# morphemic_text = a- sã yeta Ø- pak -a pah -pa =hãʔ ã pono pok =yo ã =kan ka- ka -a -wa
+# text = asã yeta paka pahpa =hãʔ ã pono pok =yo ã =kan kakaawa
+# text_en = I take him and I go up to the head, I make that with the egg.
+# text_phrase-gls-es = Lo llevo y subo hasta la cabeza con el huevo, los hago.
+# text_phrase-gls-it = àsã̀jéʲ pákà pápã̀ ã̀ːpʷnɔ̃ pòɡɡjòˀ ã̀kã̀n kàkàːwàˀ
+# text_phrase-gls-de = Curar.vista_037_JH
+1	asã	sã	PRON	_	_	3	obl:lmod	_	AlignBegin=173710|AlignEnd=174166|Gloss=POSS3SG-|MGloss=POSS3SG- head|MSeg=a-sã|nWord=1|RX=[N:ANY]|TokenType=Root|wordform=a-sã
+2	yeta	yeta	ADP	_	_	1	case	_	AlignBegin=174166|AlignEnd=174622|Gloss=until.now|MGloss=until.now|MSeg=yeta|nWord=2|RX=[<NOT_SURE>]|TokenType=Root
+3	paka	pak	PRON	_	_	4	compound:svc	_	AlignBegin=174622|AlignEnd=174895|Gloss=O3SG-|MGloss=O3SG- take -S1SG|MSeg=Ø-pak-a|nWord=3|RX=[VT:ANY]|TokenType=Root|wordform=Ø-pak-a
+4	pahpa	pah	VERB	_	Person=1	0	root	_	AlignBegin=174895|AlignEnd=175078|Gloss=move|MGloss=move -S1SG:FUT|MSeg=pah-pa|nWord=3|RX=[VT]|TokenType=Root|wordform=pah-pa
+5	=hãʔ	_	PART	_	_	4	advmod	_	AlignBegin=175078|AlignEnd=175534|Gloss==FOC|MGloss==FOC|MSeg==hãʔ|nWord=4|RX=[PRT]|TokenType=Clit
+6	ã	ã	PRON	_	ExtPos=DET	7	det	_	AlignBegin=175534|AlignEnd=175990|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=5|RX=[PRO]|TokenType=Root
+7	pono	pono	NOUN	_	_	12	obl:arg	_	AlignBegin=175990|AlignEnd=176446|Gloss=egg|MGloss=egg|MSeg=pono|nWord=6|RX=[N]|TokenType=Root
+8	pok	pok	NUM	_	_	7	nmod	_	AlignBegin=176446|AlignEnd=176902|Gloss=two|MGloss=two|MSeg=pok|nWord=7|RX=[N]|TokenType=Root
+9	=yo	_	ADP	_	_	7	case	_	AlignBegin=176902|AlignEnd=177358|Gloss==INS|MGloss==INS|MSeg==yo|nWord=8|RX=[POST]|TokenType=Clit
+10	ã	ã	PRON	_	_	12	nmod	_	AlignBegin=177358|AlignEnd=177814|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=9|RX=[PRO]|TokenType=Root
+11	=kan	_	PART	_	_	10	case	_	AlignBegin=177814|AlignEnd=178270|Gloss==SIM|MGloss==SIM|MSeg==kan|nWord=10|RX=[PRT]|TokenType=Clit
+12	kakaawa	ka	PRON	_	_	4	parataxis	_	AlignBegin=178270|AlignEnd=178730|Gloss=O3PL-|MGloss=O3PL- make -S1SG -PFV|MSeg=ka-ka-a-wa|nWord=11|RX=[V:ANY]|TokenType=Root|wordform=ka-ka-a-wa
+
+# sent_id = 005_54-54
+# speaker_id = @JH
+# sound_url = https://corporan.huma-num.fr/Archives/media/0005/WAV/0005_arboratorgrew.WAV
+# sent_timecode = 255050, 263160
+# morphemic_text = aka ye =s ã =yo a- warahk -a -wa a- warahk -a -wa ã =yã Ø- atʃah -a -wa waroh =ri
+# text = aka ye =s ã =yo awarahkawa awarahkawa ã =yã atʃahawa waroh =ri
+# text_en = A small plate, with that I empty it, I empty it there, I sprinkle it with guaro.
+# text_phrase-gls-es = el plato pequeño, con eso lo vacío, lo vacío allí lo echo con el guaro,
+# text_phrase-gls-it = àkàjés àjóˀ àwáɾʰkàwàˀ àɣʷárʰkàʰ ã̀ɲã́ at͡ʃàhàwāˀ àwáɾòʰɾì
+# text_phrase-gls-de = Curar.vista_053_JH
+1	aka	aka	NOUN	_	_	4	parataxis	_	AlignBegin=255050|AlignEnd=255726|Gloss=plate|MGloss=plate|MSeg=aka|nWord=1|RX=[N]|TokenType=Root
+2	ye	ye	NOUN	_	_	1	nmod	_	AlignBegin=255726|AlignEnd=256402|Gloss=small|MGloss=small|MSeg=ye|nWord=2|RX=[N]|TokenType=Root
+3	=s	_	DET	_	_	1	det	_	AlignBegin=256402|AlignEnd=257078|Gloss==INDF.ART|MGloss==INDF.ART|MSeg==s|nWord=3|RX=[DET]|TokenType=Clit
+4	ã	ã	PRON	_	_	6	obl:arg	_	AlignBegin=257078|AlignEnd=257754|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=4|RX=[PRO]|TokenType=Root
+5	=yo	_	ADP	_	_	4	case	_	AlignBegin=257754|AlignEnd=258430|Gloss==INS|MGloss==INS|MSeg==yo|nWord=5|RX=[POST]|TokenType=Clit
+6	awarahkawa	warahk	PRON	_	_	0	root	_	AlignBegin=258430|AlignEnd=259106|Gloss=O3SG-|MGloss=O3SG- empty -S1SG -PFV|MSeg=a-warahk-a-wa|nWord=6|RX=[VT:ANY]|TokenType=Root|wordform=a-warahk-a-wa
+7	awarahkawa	warahk	PRON	_	_	6	parataxis	_	AlignBegin=259106|AlignEnd=259782|Gloss=O3SG-|MGloss=O3SG- empty -S1SG -PFV|MSeg=a-warahk-a-wa|nWord=7|RX=[VT:ANY]|TokenType=Root|wordform=a-warahk-a-wa
+8	ã	ã	PRON	_	_	7	obl:lmod	_	AlignBegin=259782|AlignEnd=260458|Gloss=DIST.DEM|MGloss=DIST.DEM|MSeg=ã|nWord=8|RX=[PRO]|TokenType=Root
+9	=yã	_	ADP	_	_	8	case	_	AlignBegin=260458|AlignEnd=261134|Gloss==LOC|MGloss==LOC|MSeg==yã|nWord=9|RX=[POST]|TokenType=Clit
+10	atʃahawa	atʃah	PRON	_	_	7	parataxis	_	AlignBegin=261134|AlignEnd=261810|Gloss=O3SG-|MGloss=O3SG- sprinkle -S1SG -PFV|MSeg=Ø-atʃah-a-wa|nWord=10|RX=[VT:ANY]|TokenType=Root|wordform=Ø-atʃah-a-wa
+11	waroh	waroh	NOUN	_	_	10	obl:arg	_	AlignBegin=261810|AlignEnd=262486|Gloss=guaro|MGloss=guaro|MSeg=waroh|nWord=11|RX=[N]|TokenType=Root
+12	=ri	_	ADP	_	_	11	case	_	AlignBegin=262486|AlignEnd=263160|Gloss==MDT|MGloss==MDT|MSeg==ri|nWord=12|RX=[POST]|TokenType=Clit
+
+# sent_id = 005_90-90
+# speaker_id = @AM
+# sound_url = https://corporan.huma-num.fr/Archives/media/0005/WAV/0005_arboratorgrew.WAV
+# sent_timecode = 420260, 420900
+# morphemic_text = mhm
+# text = mhm
+# text_en = AM: Mhm.
+# text_phrase-gls-es = fill
+# text_phrase-gls-it = mhm
+# text_phrase-gls-de = Curar.vista_089_AM
+1	mhm	mhm	INTJ	_	_	0	root	_	AlignBegin=420260|AlignEnd=420900|Gloss=INTERJ|MGloss=INTERJ|MSeg=mhm|nWord=1|RX=[INTERJ]|TokenType=Root
+
